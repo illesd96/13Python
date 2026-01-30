@@ -1,0 +1,178 @@
+<SEC-DOCUMENT>0001172661-25-000213.txt : 20250116
+<SEC-HEADER>0001172661-25-000213.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116131257
+ACCESSION NUMBER:		0001172661-25-000213
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STONERIDGE INC
+		CENTRAL INDEX KEY:			0001043337
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				341598949
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-53021
+		FILM NUMBER:		25535095
+
+	BUSINESS ADDRESS:	
+		STREET 1:		39675 MACKENZIE DRIVE
+		STREET 2:		SUITE 400
+		CITY:			NOVI
+		STATE:			MI
+		ZIP:			48377
+		BUSINESS PHONE:		2484899300
+
+	MAIL ADDRESS:	
+		STREET 1:		39675 MACKENZIE DRIVE
+		STREET 2:		SUITE 400
+		CITY:			NOVI
+		STATE:			MI
+		ZIP:			48377
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRONTIER CAPITAL MANAGEMENT CO LLC
+		CENTRAL INDEX KEY:			0001216488
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				043492668
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		99 SUMMER STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001172661-23-000968</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FRONTIER CAPITAL MANAGEMENT CO LLC -->
+          <cik>0001216488</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Shares, without par value</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>09/30/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001043337</issuerCik>
+        <issuerName>STONERIDGE, INC</issuerName>
+        <issuerCusip>86183P102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>39675 MacKenzie Drive</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>Novi</com:city>
+          <com:stateOrCountry>MI</com:stateOrCountry>
+          <com:zipCode>48377</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>FRONTIER CAPITAL MANAGEMENT CO.,LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1125985.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1604508.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1604508.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.79</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>STONERIDGE, INC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>39675 MacKenzie Drive, Suite 400, Novi, Michigan 48377</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>FRONTIER CAPITAL MANAGEMENT CO., LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>99 Summer Street
+Boston, MA 02110</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1604508</amountBeneficiallyOwned>
+        <classPercent>5.79</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1125985</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1604508</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>FRONTIER CAPITAL MANAGEMENT CO.,LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Robert E. Phay</signature>
+        <title>Robert E. Phay, Chief Compliance Officer &amp; General Counsel</title>
+        <date>01/16/2024</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

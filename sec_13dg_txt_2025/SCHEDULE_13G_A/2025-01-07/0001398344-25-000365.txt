@@ -1,0 +1,371 @@
+<SEC-DOCUMENT>0001398344-25-000365.txt : 20250107
+<SEC-HEADER>0001398344-25-000365.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107160503
+ACCESSION NUMBER:		0001398344-25-000365
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Endava plc
+		CENTRAL INDEX KEY:			0001656081
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90871
+		FILM NUMBER:		25514877
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 OLD BROAD STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC2N 1AR
+		BUSINESS PHONE:		44 20 7367 1000
+
+	MAIL ADDRESS:	
+		STREET 1:		125 OLD BROAD STREET
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC2N 1AR
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Endava Ltd
+		DATE OF NAME CHANGE:	20151019
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KAYNE ANDERSON RUDNICK INVESTMENT MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001021223
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				954575414
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 AVENUE OF THE STARS, SUITE 1110
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		3105562721
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 AVENUE OF THE STARS, SUITE 1110
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAYNE ANDERSON INVESTMENT MANAGEMENT LLC
+		DATE OF NAME CHANGE:	19990326
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAIM TRADITIONAL L L C
+		DATE OF NAME CHANGE:	19980223
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001398344-24-002822</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: KAYNE ANDERSON RUDNICK INVESTMENT MANAGEMENT LLC -->
+          <cik>0001021223</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>American Depositary Shares Representing Ordinary Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001656081</issuerCik>
+        <issuerName>ENDAVA PLC</issuerName>
+        <issuerCusip>29260V105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>120 Old Broad Street</com:street1>
+          <com:city>London</com:city>
+          <com:stateOrCountry>X0</com:stateOrCountry>
+          <com:zipCode>EC2N 1AR</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Kayne Anderson Rudnick Investment Management, LLC</reportingPersonName>
+      <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>934282.00</soleVotingPower>
+        <sharedVotingPower>3529223.00</sharedVotingPower>
+        <soleDispositivePower>1002166.00</soleDispositivePower>
+        <sharedDispositivePower>3529223.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4532090.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>10.19</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Virtus Investment Advisers, LLC</reportingPersonName>
+      <citizenshipOrOrganization>MA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3529223.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3529223.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3529223.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.93</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <comments>FOOTNOTES - The amounts reported on this page are also included in the amounts reported by Kayne Anderson Rudnick Investment Management, LLC on this Schedule 13G.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2883192.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2883192.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2883192.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.48</classPercent>
+      <typeOfReportingPerson>IV</typeOfReportingPerson>
+      <comments>FOOTNOTES - The amounts reported on this page are also included in the amounts reported by Virtus Investment Advisers, LLC on this Schedule 13G.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>ENDAVA PLC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>120 Old Broad Street, London, EC2N 1AR, United Kingdom</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>(1) Kayne Anderson Rudnick Investment Management, LLC
+(2) Virtus Investment Advisers, LLC
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>(1) Kayne Anderson Rudnick Investment Management, LLC: 2000 Avenue of the Stars, Suite 1110, Los Angeles, CA 90067
+(2) Virtus Investment Advisers, LLC: One Financial Plaza, Hartford, CT 06103
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 101 Munson Street, Greenfield, MA 01301</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>(1) Kayne Anderson Rudnick Investment Management, LLC: A California Limited Liability Company
+(2) Virtus Investment Advisers, LLC: Massachusetts
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IV</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>(1) Kayne Anderson Rudnick Investment Management, LLC: 4,532,090
+(2) Virtus Investment Advisers, LLC: 3,529,223
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 2,883,192</amountBeneficiallyOwned>
+        <classPercent>(1) Kayne Anderson Rudnick Investment Management, LLC: 10.19%
+(2) Virtus Investment Advisers, LLC: 7.93%
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 6.48%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>(1) Kayne Anderson Rudnick Investment Management, LLC: 934,282
+(2) Virtus Investment Advisers, LLC: 0
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>(1) Kayne Anderson Rudnick Investment Management, LLC: 3,529,223
+(2) Virtus Investment Advisers, LLC: 3,529,223
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 2,883,192</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>(1) Kayne Anderson Rudnick Investment Management, LLC: 1,002,166
+(2) Virtus Investment Advisers, LLC: 0
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>(1) Kayne Anderson Rudnick Investment Management, LLC: 3,529,223
+(2) Virtus Investment Advisers, LLC: 3,529,223
+(3) Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund: 2,883,192</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>With respect to securities owned by a registered investment company included in this filing, only the custodian for such investment company, has the right to receive dividends paid with respect to, and proceeds from the sale of, such securities. No other person is known to have such right, except that the shareholders of such investment company participate proportionately in any dividends and distributions so paid.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>N/A</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>N/A</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>N</notApplicableFlag>
+        <groupDissolutionNotice>N/A</groupDissolutionNotice>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Kayne Anderson Rudnick Investment Management, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michael Shoemaker</signature>
+        <title>Michael Shoemaker, Chief Compliance Officer</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Virtus Investment Advisers, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Chetram Persaud</signature>
+        <title>Chetram Persaud, Chief Compliance Officer</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Virtus Equity Trust on behalf of Virtus KAR Small Cap Growth Fund</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Daphne Chisolm</signature>
+        <title>Daphne Chisolm, Vice President, Counsel and Assistant Secretary</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>fp0091638-2_ex991.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">AGREEMENT</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">JOINT FILING OF SCHEDULE 13G</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Kayne Anderson Rudnick Investment Management, LLC (an investment adviser
+registered under the Investment Advisers Act of 1940), and Virtus Investment Advisers, LLC (an investment adviser registered under the
+Investment Advisers Act of 1940) and Virtus Equity Trust (on behalf of Virtus KAR Small-Cap Growth Fund), a Delaware statutory trust,
+hereby agree to file jointly the statement on Schedule 13G to which this Agreement is attached, and any amendments thereto which may be
+deemed necessary, pursuant to Regulation 13D-G under the Securities Exchange Act of 1934.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">It is understood and agreed that each of the parties hereto is responsible
+for the timely filing of such statement and any amendments thereto, and for the completeness and accuracy of the information concerning
+such party contained therein, but such party is not responsible for the completeness or accuracy of information concerning the other party
+unless such party knows or has reason to believe that such information is inaccurate.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">It is understood and agreed that a copy of this Agreement shall be attached
+as an exhibit to the statement on Schedule 13G, and any amendments thereto, filed on behalf of each of the parties hereto.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Dated: January 7, 2025</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">KAYNE ANDERSON RUDNICK INVESTMENT MANAGEMENT, LLC</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 5%">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By:</P></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt; width: 95%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">/s/ Michael Shoemaker </FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Michael Shoemaker </FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Chief Compliance Officer </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">VIRTUS INVESTMENT ADVISERS, LLC</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 11pt; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">By: </FONT></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt; width: 95%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">/s/ Chetram Persaud</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Chetram Persaud</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Chief Compliance Officer</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">VIRTUS EQUITY TRUST, on behalf of </FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">VIRTUS KAR SMALL-CAP GROWTH FUND </FONT></P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 11pt; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">By: </FONT></TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt; width: 95%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">/s/ Daphne Chisolm</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Daphne Chisolm</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; font-size: 11pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 11pt">Vice President, Counsel and Assistant Secretary</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

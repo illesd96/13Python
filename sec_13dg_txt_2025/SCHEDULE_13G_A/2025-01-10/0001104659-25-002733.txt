@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001104659-25-002733.txt : 20250110
+<SEC-HEADER>0001104659-25-002733.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110214659
+ACCESSION NUMBER:		0001104659-25-002733
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CareDx, Inc.
+		CENTRAL INDEX KEY:			0001217234
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MEDICAL LABORATORIES [8071]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				943316839
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88252
+		FILM NUMBER:		25524554
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8000 MARINA BLVD
+		STREET 2:		4TH FLOOR
+		CITY:			BRISBANE
+		STATE:			CA
+		ZIP:			94005
+		BUSINESS PHONE:		415-287-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		8000 MARINA BLVD
+		STREET 2:		4TH FLOOR
+		CITY:			BRISBANE
+		STATE:			CA
+		ZIP:			94005
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XDx, Inc.
+		DATE OF NAME CHANGE:	20071010
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXPRESSION DIAGNOSTICS INC
+		DATE OF NAME CHANGE:	20030203
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARK Investment Management LLC
+		CENTRAL INDEX KEY:			0001697748
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				464309299
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CENTRAL AVENUE
+		CITY:			ST. PETERSBURG
+		STATE:			FL
+		ZIP:			33701
+		BUSINESS PHONE:		212-426-7040
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CENTRAL AVENUE
+		CITY:			ST. PETERSBURG
+		STATE:			FL
+		ZIP:			33701
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001104659-21-019854</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: ARK Investment Management LLC -->
+          <cik>0001697748</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>09/30/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001217234</issuerCik>
+        <issuerName>CareDx, Inc.</issuerName>
+        <issuerCusip>14167L103</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>8000 Marina Blvd, 4th Floor</com:street1>
+          <com:city>Brisbane</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94005</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>ARK Investment Management LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2988597.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2988597.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2988597.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.67</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>CareDx, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>8000 Marina Blvd, 4th Floor, Brisbane, CA, 94005</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>ARK Investment Management LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>200 Central Avenue, St. Petersburg, FL 33701</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>2,988,597</amountBeneficiallyOwned>
+        <classPercent>5.67</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>2,988,597</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>2,988,597</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>To the knowledge of the Reporting Person, no other person has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, a number of the shares which represents more than five percent of the number of shares outstanding class of the shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>ARK Investment Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Kellen Carter</signature>
+        <title>Kellen Carter, Chief Compliance Officer</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

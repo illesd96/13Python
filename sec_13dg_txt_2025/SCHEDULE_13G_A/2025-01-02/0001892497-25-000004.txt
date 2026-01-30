@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001892497-25-000004.txt : 20250102
+<SEC-HEADER>0001892497-25-000004.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102165016
+ACCESSION NUMBER:		0001892497-25-000004
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			New Mountain Guardian III BDC, L.L.C.
+		CENTRAL INDEX KEY:			0001781870
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91125
+		FILM NUMBER:		25502686
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-720-0300
+
+	MAIL ADDRESS:	
+		STREET 1:		1633 BROADWAY
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Western Conference of Teamsters Pension Trust Fund
+		CENTRAL INDEX KEY:			0001892497
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				916145047
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2323 EASTLAKE AVENUE E
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+		BUSINESS PHONE:		206-726-3273
+
+	MAIL ADDRESS:	
+		STREET 1:		2323 EASTLAKE AVENUE E
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001892497-23-000001</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001892497</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Units of Limited Liability Company Interests</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/17/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001781870</issuerCik>
+        <issuerName>New Mountain Guardian III BDC, L.L.C.</issuerName>
+        <issuerCusip>000000000</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1633 BROADWAY</com:street1>
+          <com:street2>1633 BROADWAY</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10019</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Western Conference of Teamsters Pension Trust Fund</reportingPersonName>
+      <citizenshipOrOrganization>WA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>EP</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>New Mountain Guardian III BDC, L.L.C.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1633 BROADWAY, 1633 BROADWAY, NEW YORK, NEW YORK, 10019.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Western Conference of Teamsters Pension Trust Fund</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>2323 Eastlake Avenue East, Seattle, WA 98102</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>State of Washington</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>EP</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>0</amountBeneficiallyOwned>
+        <classPercent>0.0%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Western Conference of Teamsters Pension Trust Fund</reportingPersonName>
+      <signatureDetails>
+        <signature>Chuck Mack</signature>
+        <title>Co-Chairman/Secretary, Board of Trustees</title>
+        <date>12/30/2024</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

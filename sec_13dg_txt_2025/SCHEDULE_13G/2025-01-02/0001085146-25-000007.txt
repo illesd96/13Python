@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001085146-25-000007.txt : 20250102
+<SEC-HEADER>0001085146-25-000007.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102142630
+ACCESSION NUMBER:		0001085146-25-000007
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BM Technologies, Inc.
+		CENTRAL INDEX KEY:			0001725872
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				823410369
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90613
+		FILM NUMBER:		25501535
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD
+		STREET 2:		SUITE 650
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		(877) 327-9515
+
+	MAIL ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD
+		STREET 2:		SUITE 650
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Megalith Financial Acquisition Corp
+		DATE OF NAME CHANGE:	20171220
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSS LLC/IL
+		CENTRAL INDEX KEY:			0001103646
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				364236880
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 NORTH WACKER DRIVE
+		STREET 2:		SUITE 3075
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3125428515
+
+	MAIL ADDRESS:	
+		STREET 1:		1 NORTH WACKER DRIVE
+		STREET 2:		SUITE 3075
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: CSS LLC/IL -->
+          <cik>0001103646</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/24/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001725872</issuerCik>
+        <issuerName>BM TECHNOLOGIES INC</issuerName>
+        <issuerCusip>05591L107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>201 King of Prussia Road</com:street1>
+          <com:street2>Suite 650</com:street2>
+          <com:city>Wayne</com:city>
+          <com:stateOrCountry>PA</com:stateOrCountry>
+          <com:zipCode>19087</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>CSS LLC/IL</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1014636.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1014636.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1014636.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.74</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>BM TECHNOLOGIES INC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>201 King of Prussia Road Suite 650 Wayne, PENNSYLVANIA 19087</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>CSS, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1 North Wacker Drive
+Suite 3075
+Chicago, IL 60606</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>IL - ILLINOIS, USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1014636</amountBeneficiallyOwned>
+        <classPercent>7.74</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1014636</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1014636</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>The Reporting person's beneficial ownership consist of 1,014,636 warrants exercisable for 1,014,636 shares. The following calculation is based upon 12,088,000 Shares outstanding as reported on Form 8K with the Securities and Exchange Commission on October 25,02024</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>CSS LLC/IL</reportingPersonName>
+      <signatureDetails>
+        <signature>Mitchell R. Bialek</signature>
+        <title>CCO</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

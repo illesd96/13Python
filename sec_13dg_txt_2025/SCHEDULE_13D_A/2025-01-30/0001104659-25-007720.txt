@@ -1,0 +1,879 @@
+<SEC-DOCUMENT>0001104659-25-007720.txt : 20250130
+<SEC-HEADER>0001104659-25-007720.hdr.sgml : 20250130
+<ACCEPTANCE-DATETIME>20250130213617
+ACCESSION NUMBER:		0001104659-25-007720
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250130
+DATE AS OF CHANGE:		20250130
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cellectis S.A.
+		CENTRAL INDEX KEY:			0001627281
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			I0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89356
+		FILM NUMBER:		25575611
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8 RUE DE LA CROIX JARRY
+		CITY:			PARIS, LLE-DE-FRANCE
+		STATE:			I0
+		ZIP:			75013
+		BUSINESS PHONE:		33181691600
+
+	MAIL ADDRESS:	
+		STREET 1:		8 RUE DE LA CROIX JARRY
+		CITY:			PARIS, LLE-DE-FRANCE
+		STATE:			I0
+		ZIP:			75013
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bpifrance Participations SA
+		CENTRAL INDEX KEY:			0001581835
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			I0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		27-31 AVENUE DU GENERAL LECLERC
+		CITY:			MAISONS ALFORT, CEDEX
+		STATE:			I0
+		ZIP:			94710
+		BUSINESS PHONE:		33153898789
+
+	MAIL ADDRESS:	
+		STREET 1:		27-31 AVENUE DU GENERAL LECLERC
+		CITY:			MAISONS ALFORT, CEDEX
+		STATE:			I0
+		ZIP:			94710
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-20-090155</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Bpifrance Participations SA -->
+          <cik>0001581835</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Ordinary Shares, nominal value EUR0.05 per share</securitiesClassTitle>
+      <dateOfEvent>01/30/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001627281</issuerCIK>
+        <issuerCUSIP>15117K103</issuerCUSIP>
+        <issuerName>Cellectis S.A.</issuerName>
+        <address>
+          <com:street1>8, rue de la Croix Jarry</com:street1>
+          <com:city>Paris</com:city>
+          <com:stateOrCountry>I0</com:stateOrCountry>
+          <com:zipCode>75013</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Sophie Paquin</personName>
+          <personPhoneNum>33 6 37 85 94 06</personPhoneNum>
+          <personAddress>
+            <com:street1>6-8, boulevard Haussmann</com:street1>
+            <com:city>Paris</com:city>
+            <com:stateOrCountry>I0</com:stateOrCountry>
+            <com:zipCode>75009</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>With copy to: John C. Partigan</personName>
+          <personPhoneNum>(202) 585-8000</personPhoneNum>
+          <personAddress>
+            <com:street1>Nixon Peabody LLP</com:street1>
+            <com:street2>799 9th Street NW, Suite 500</com:street2>
+            <com:city>Washington</com:city>
+            <com:stateOrCountry>DC</com:stateOrCountry>
+            <com:zipCode>20001</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Lloyd H. Spencer</personName>
+          <personPhoneNum>(202) 585-8000</personPhoneNum>
+          <personAddress>
+            <com:street1>Nixon Peabody LLP</com:street1>
+            <com:street2>799 9th Street NW, Suite 500</com:street2>
+            <com:city>Washington</com:city>
+            <com:stateOrCountry>DC</com:stateOrCountry>
+            <com:zipCode>20001</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001581835</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Bpifrance Participations S.A.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>I0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9252747.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5873247.00</sharedDispositivePower>
+        <aggregateAmountOwned>9252747.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>11.8</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Note in relation to Items 8, 10, 11 and 13: The Reporting Person beneficially owns 5,873,247 Ordinary Shares and has 9,252,747 voting rights related to such shares. The aggregate amount beneficially owned and percent of class reported above are based on the Reporting Person's voting rights and the 78,660,539 voting rights outstanding as of January 20, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Caisse des Depots</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>I0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>10292653.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6913153.00</sharedDispositivePower>
+        <aggregateAmountOwned>10292653.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.1</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Note in relation to Items 8, 10, 11 and 13: The Reporting Person beneficially owns 6,913,153 Ordinary Shares and has 10,292,653 voting rights related to such shares. The aggregate amount beneficially owned and percent of class reported above are based on the Reporting Person's voting rights and the 78,660,539 voting rights outstanding as of January 20, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>CDC Croissance S.A.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>I0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1039906.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1039906.00</sharedDispositivePower>
+        <aggregateAmountOwned>1039906.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Note in relation to Items 8, 10, 11 and 13: The Reporting Person beneficially owns 1,039,906 Ordinary Shares and has 1,039,906 voting rights related to such shares. The aggregate amount beneficially owned and percent of class reported above are based on the Reporting Person's voting rights and the 78,660,539 voting rights outstanding as of January 20, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>EPIC Bpifrance</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>I0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9252747.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5873247.00</sharedDispositivePower>
+        <aggregateAmountOwned>9252747.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>11.8</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Note in relation to Items 8, 10, 11 and 13: The Reporting Person beneficially owns 5,873,247 Ordinary Shares and has 9,252,747 voting rights related to such shares. The aggregate amount beneficially owned and percent of class reported above are based on the Reporting Person's voting rights and the 78,660,539 voting rights outstanding as of January 20, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Bpifrance S.A.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>I0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9252747.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5873247.00</sharedDispositivePower>
+        <aggregateAmountOwned>9252747.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>11.8</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Note in relation to Items 8, 10, 11 and 13: The Reporting Person beneficially owns 5,873,247 Ordinary Shares and has 9,252,747 voting rights related to such shares. The aggregate amount beneficially owned and percent of class reported above are based on the Reporting Person's voting rights and the 78,660,539 voting rights outstanding as of January 20, 2025.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Ordinary Shares, nominal value EUR0.05 per share</securityTitle>
+        <issuerName>Cellectis S.A.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>8, rue de la Croix Jarry</com:street1>
+          <com:city>Paris</com:city>
+          <com:stateOrCountry>I0</com:stateOrCountry>
+          <com:zipCode>75013</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Introductory Statement:
+
+This Amendment No. 5 ("Amendment") is being filed by Caisse des Depots, a French special public entity (etablissement special) ("CDC"), CDC Croissance S.A., a societe anonyme incorporated under the laws of the Republic of France, Bpifrance Participations S.A., a societe anonyme incorporated under the laws of the Republic of France ("Bpifrance Participations"), Bpifrance S.A., a societe anonyme incorporated under the laws of the Republic of France ("Bpifrance"), and EPIC Bpifrance, a French public institution of industrial and commercial nature ("EPIC" ) (collectively, the "Reporting Persons") pursuant to Section 13(d)(3) of the Securities Exchange Act of 1934, as amended (the "Exchange Act").
+
+This Amendment relates to the ordinary shares, nominal value EUR0.05 per share (the "Ordinary Shares"), of Cellectis S.A. (the "Issuer"). This Amendment amends and supplements the Schedule 13D relating to Ordinary Shares of the Issuer filed with the Securities and Exchange Commission (the "SEC") on August 4, 2020, as amended by: (i) Amendment No. 1 to Schedule 13D filed with the SEC on February 12, 2021; (ii) Amendment No. 2 to Schedule 13D filed with the SEC on February 14, 2023; (iii) Amendment No. 3 to Schedule 13D filed with the SEC on November 13, 2023; and (iv) Amendment No. 4 to Schedule 13D filed with the SEC on May 21, 2024 (collectively, as amended, the "Schedule 13D").</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>Item 2 is hereby amended and supplemented as follows:
+
+This Statement is being filed by the following beneficial owners of Ordinary Shares:
+
+1. Bpifrance Participations S.A., a societe anonyme incorporated under the laws of the Republic of France
+
+2. EPIC Bpifrance, a French public institution of industrial and commercial nature
+
+3. Bpifrance S.A., a societe anonyme incorporated under the laws of the Republic of France
+
+4. Caisse des depots et consignations, a French special public entity (etablissement special)
+
+5. CDC Croissance S.A., a societe anonyme incorporated under the laws of the Republic of France</filingPersonName>
+        <principalBusinessAddress>The principal address for CDC Croissance is 209, rue de l'Universite 75007 Paris. CDC Croissance, a 100% subsidiary of CDC, is a management company which manages a range of equity funds for the CDC Group clients. Specializing in small and mid-cap listed companies, the management company is accredited by the French Autorite des marches financiers. CDC Croissance is the management company of the equity funds CDC TECH CROISSANCE.</principalBusinessAddress>
+        <principalJob>Information concerning the executive officers and directors of Bpifrance Participations, CDC Croissance S.A., CDC, EPIC and Bpifrance required to be disclosed in response to Item 2 and General Instruction C to Schedule 13D is provided in Exhibit 99.2 to this Amendment and incorporated herein by reference.</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons, nor, to the best of their knowledge, any of the persons referred to in Exhibit 99.2 has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations and similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons, nor, to the best of their knowledge, any of the persons referred to in Exhibit 99.2 has, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree, or final order enjoining future violations of, or prohibiting or mandating activities subject to, Federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+      </item2>
+      <item4>
+        <transactionPurpose>Item 4 of the Schedule 13D is hereby amended and supplemented as follows:
+
+All of the Ordinary Shares that are held of record by the Reporting Persons as reported herein were acquired for investment purposes. The Reporting Persons retain the right to change their investment intent, from time to time to acquire additional Ordinary Shares or other securities of the Issuer, or to sell or otherwise dispose of all or part of the Ordinary Shares or other securities of the Issuer, if any, beneficially owned by them, in any manner permitted by law. The Reporting Persons may engage from time to time in ordinary course transactions with financial institutions with respect to the securities described herein.
+
+Except as set forth above, none of the Reporting Persons currently has any plans or proposals which would be related to or would result in any of the matters described in Items 4(a)-(j) of the Instructions to Schedule 13D. However, as part of the ongoing evaluation of investment and investment alternatives, the Reporting Persons may consider such matters and, subject to applicable law, may formulate a plan with respect to such matters, and, from time to time, may hold discussions with or make formal proposals to management or the board of directors of the Issuer or other third parties regarding such matters.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) of the Schedule 13D is hereby amended and supplemented as follows:
+
+As of the date hereof, (i) Bpifrance Participations holds directly 5,873,247 Ordinary Shares, which represents approximately 8.1% of the Issuer's outstanding Ordinary Shares, and 9,252,747 voting rights, which represents approximately 11.8% of outstanding voting rights, and (ii) CDC Croissance S.A., a wholly-owned subsidiary of CDC, holds, through CDC TECH CROISSANCE, 1,039,906 Ordinary Shares, which represents approximately 1.4% of the Issuer's outstanding Ordinary Shares, and 1,039,906 voting rights, which represents approximately 1.3% of outstanding voting rights.
+
+As of the date hereof, none of Bpifrance, EPIC or CDC holds any Ordinary Shares directly. Bpifrance may be deemed to be the beneficial owner of 5,873,247 Ordinary Shares and 9,252,747 voting rights, indirectly through its 99.99% ownership of Bpifrance Participations. EPIC may be deemed to be the beneficial owners of 5,873,247 Ordinary Shares and 9,252,747 voting rights, indirectly through its joint ownership and control of Bpifrance. CDC may be deemed to be the beneficial owner of (x) 5,873,247 Ordinary Shares and 9,252,747 voting rights, indirectly through its joint ownership and control of Bpifrance and (y) 1,039,906 Ordinary Shares and 1,039,906 voting rights, indirectly through its ownership of CDC Croissance.
+
+This Amendment is being filed to reflect the difference in the Reporting Persons' percentage ownership of the Issuer's Ordinary Shares and voting rights under U.S. and French law, as described below, and is not due to any transactions in the Ordinary Shares by the Reporting Persons.
+
+The percentage of Ordinary Shares and voting rights beneficially owned by each Reporting Person is based on 72,093,873 outstanding Ordinary Shares and 78,660,539 outstanding voting rights of the Issuer, as of January 20, 2025, as published by the Issuer on January 8, 2025.  The amount of outstanding Ordinary Shares and voting rights disclosed in the prior sentence is calculated under U.S. law, which requires treasury shares to be excluded from the calculation of outstanding shares.  Under French law, treasury shares are required to be included in the calculation of outstanding shares. Using the French law requirements, the Issuer had 100,093,873 outstanding Ordinary Shares and 88,660,539 outstanding voting rights, and (i) Bpifrance Participations' Ordinary Share holdings represent approximately 5.9% of the Issuer's outstanding Ordinary Shares, and its voting rights represent approximately 10.4% of outstanding voting rights, and (ii) CDC Croissance's Ordinary Share holdings represent approximately 1.0% of the Issuer's outstanding Ordinary Shares, and its voting rights represent approximately 1.2% of outstanding voting rights.</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) of the Schedule 13D is hereby amended and supplemented as follows:
+
+See the information contained on the cover pages of this Amendment, which is incorporated herein by reference.</numberOfShares>
+        <transactionDesc>Item 5(c) of the Schedule 13D is hereby amended and supplemented as follows:
+
+There have been no reportable transactions with respect to the Ordinary Shares of the Issuer within the last 60 days by the Reporting Persons, or, to the best of their knowledge, any of the persons referred to in Exhibit 99.2.</transactionDesc>
+      </item5>
+      <item7>
+        <filedExhibits>EX 99.1 - Joint Filing Agreement, dated as of February 12, 2021, by and among the Reporting Persons (incorporate by reference to Exhibit 99.1 to Amendment No. 1 to Schedule 13D filed on February 12, 2021)
+
+EX 99.2  - Information with respect to the Directors and Executive Officers of the Reporting Persons</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Bpifrance Participations S.A.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Sophie Paquin</signature>
+          <title>Director of Legal Affairs</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Caisse des Depots</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Laurence Giraudon</signature>
+          <title>Chief Operating Officer, Finance and Operations Department, Asset Management Division</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CDC Croissance S.A.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Aude de Lardemelle</signature>
+          <title>Executive Director</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>EPIC Bpifrance</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Sophie Paquin</signature>
+          <title>Director of Legal Affairs</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Bpifrance S.A.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Boubakar Dione</signature>
+          <title>Group Director of Legal Affairs</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>2
+<FILENAME>tm254869d1_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0; text-align: right"><B>Exhibit 99.2</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"><B>Information with respect to the Directors and Executive Officers of the Reporting Persons</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Name, business address, present principal occupation or employment
+and place of citizenship of the directors and executive officers of</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>BPIFRANCE PARTICIPATIONS S.A.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The name, business address and present principal occupation or employment
+of each of the directors and executive officers of Bpifrance Participations S.A. are set forth below. The business address of each director
+and executive officer is Bpifrance Participations S.A., 27-31, avenue du G&eacute;n&eacute;ral Leclerc, 94710 Maisons-Alfort Cedex, France.
+Unless otherwise indicated, each director and executive officer is a citizen of France.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>BOARD OF DIRECTORS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 30%"><B>Name</B></TD>
+    <TD STYLE="vertical-align: bottom; width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD>NICOLAS DUFOURCQ</TD>
+    <TD><B>Director, Chairman, Chief Executive Officer of Bpifrance Participations</B>, and Chief Executive Officer of Bpifrance</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>MARION CABROL</TD>
+    <TD><B>Director</B>, Investment manager at the Department of strategic holdings at Caisse des D&eacute;p&ocirc;ts</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>REMI FOURNIAL</TD>
+    <TD><B>Director</B>, Head of M&amp;A at Group Caisse des D&eacute;p&ocirc;ts</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>FREDERIC SAINT-GEOURS</TD>
+    <TD><B>Director</B>, Director of Soci&eacute;t&eacute; nationale SNCF</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>FRENCH STATE represented by Guilemette Kreis</TD>
+    <TD><B>Director</B>, in charge of shareholding interests in the Service &amp; Finance sectors, Agence des Participations de l&rsquo;Etat (French State Shareholding Agency)</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>CLEMENT ROBERT</TD>
+    <TD><B>Director,</B> head of the Business Financing and Development Office, Direction G&eacute;n&eacute;rale du Tr&eacute;sor (French Treasury)</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>CHLOE MAYENOBE</TD>
+    <TD><B>Director</B>, Chief Operating Officer at Thunes</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>CAROLINE PAROT</TD>
+    <TD><B>Director</B>, CEO of Technicolor Creative Studios</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>ARNAUD DELAUNAY</TD>
+    <TD><B>Director</B>, deputy Director for Innovation in the General Directorate for Companies of the Ministry of Economy and Finance</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>PIERRE AUBOUIN</TD>
+    <TD><B>Director</B>, Director of the Infrastructure and Mobility Department of the Investment, Division of Banque des Territoires</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>EXECUTIVE OFFICERS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 30%"><B>Name</B></TD>
+    <TD STYLE="width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>NICOLAS DUFOURCQ</TD>
+    <TD><B>Chief Executive Officer</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>JOS&Eacute; GONZALO</TD>
+    <TD><B>Executive Director</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>PIERRE BENEDETTI</TD>
+    <TD><B>Chief Financial Officer</B></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Name, business address, present principal occupation or employment
+and place of citizenship of the directors and executive officers of</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>CDC CROISSANCE S.A.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The name, business address and present principal occupation or employment
+of each of the directors and executive officers of CDC Croissance S.A. are set forth below. The business address of each director and
+executive officer is CDC Croissance S.A., 209, rue de l&rsquo;Universit&eacute;, 75007 Paris, France. Unless otherwise indicated, each
+such person is a citizen of France.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>BOARD OF DIRECTORS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 30%"><B>Name</B></TD>
+    <TD STYLE="width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>OLIVIER MAREUSE</TD>
+    <TD><B>Chief Investment Officer and Director of Saving Funds at Caisse des D&eacute;p&ocirc;ts. </B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>LAURENCE GIRAUDON</TD>
+    <TD><B>Director, Chief Operating Officer, Finance and Operations Department, Asset Management Division </B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>GILLES HAYEM</TD>
+    <TD><B>Director, Head of Listed Equities Portfolio Management, Asset Management Division at Caisse des D&eacute;p&ocirc;ts</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>FLORENCE BONNEVAY</TD>
+    <TD><B>Director, Chief Executive Officer of Allesens</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>NICOLAS FOURT</TD>
+    <TD><B>Director, Chief Risk Officer and ISR Director of Sienna Private Credit</B></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>EXECUTIVE OFFICERS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 30%"><B>Name</B></TD>
+    <TD STYLE="width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>AUDE DE LARDEMELLE</TD>
+    <TD><B>Chief Executive Director</B></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Name, business address, present principal occupation or employment
+and place of citizenship of the directors and executive officers of</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>CAISSE DES D&Eacute;P&Ocirc;TS </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The name, business address and present principal occupation or employment
+of each of the members of the Management Committee of Caisse des D&eacute;p&ocirc;ts are set forth below. The business address of each
+director and executive officer is Caisse des D&eacute;p&ocirc;ts, c/o 56, rue de Lille, 75007 Paris, France. Unless otherwise indicated,
+each such person is a citizen of France.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>MANAGEMENT COMMITTEE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 30%"><B>Name</B> &nbsp;</TD>
+<TD STYLE="width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>OLIVIER SICHEL</TD>
+<TD><B>Acting Chairman and Chief Executive Officer and Executive Vice President of Caisse des D&eacute;p&ocirc;ts and Director of Banque des Territoires</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>NICOLAS DUFOURCQ</TD>
+<TD><B>Chief Executive Officer of Bpifrance</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>VIRGINIE CHAPRON-DU JEU</TD>
+<TD><B>Risk Director of Caisse des D&eacute;p&ocirc;ts Group</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>PIERRE CHEVALIER</TD>
+<TD><B>Head of Legal, Tax and Compliance Department</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>NATHALIE TUBIANA</TD>
+<TD><B>Head of finance and sustainable policy of Caisse des D&eacute;p&ocirc;ts Group</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>OLIVIER MAREUSE</TD>
+<TD><B>Deputy Chief Executive Officer, Director of Assets Management - Director of Savings Funds at Caisse des D&eacute;p&ocirc;ts</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>CATHERINE MAYENOBE</TD>
+<TD><B>Deputy Chief Executive, Operations and Business Transformation </B> &nbsp; <B>Director of Caisse des D&eacute;p&ocirc;ts Group</B> &nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>SOPHIE QUATREHOMME</TD>
+<TD><B>Group Corporate Communications Director</B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>ANTOINE SAINTOYANT</TD>
+<TD><B>Director of strategic holdings at Caisse des D&eacute;p&ocirc;ts </B></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>MARIE-LAURE GADRAT</TD>
+<TD><B>Chief of staff to the Chairman and the Chief Executive Director</B></TD></TR>
+
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>MARIANNE KERMOAL-BERTHOME</TD>
+    <TD><B>Director of Social Policies</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>AURELIE ROBINEAU-ISRA&#274;L</TD>
+    <TD><B>Caisse des D&eacute;p&ocirc;ts Group Human Resources Director</B></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Name, business address, present principal occupation or employment
+and place of citizenship of the directors and executive officers of</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>EPIC BPIFRANCE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The name, business address and present principal occupation or employment
+of each of the directors and executive officers of EPIC Bpifrance are set forth below. The business address of each director and executive
+officer is EPIC Bpifrance, 27-31, avenue du G&eacute;n&eacute;ral Leclerc, 94710 Maisons-Alfort Cedex, France. Unless otherwise indicated,
+each director and executive officer is a citizen of France.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>DIRECTORS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 30%"><B>Name</B></TD>
+    <TD STYLE="width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>CHRISTIAN BODIN</TD>
+    <TD><B>Director, Chairman, Chief Executive Officer of EPIC Bpifrance</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>ESTELLE DHONT-PELTRAULT</TD>
+    <TD><B>Director</B>, assistant to the Head of the Innovation, Technology Transfer and Regional Action Department in the General Directorate for Research and Innovation</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>ARMEL CASTETS</TD>
+    <TD><B>Director</B>, Deputy Director for trade finance</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>ARNAUD WIEBER</TD>
+    <TD><B>Director</B>, Head of the office for Energy, Investments, Industry and Innovation in the General Directorate for Budget of the Ministry of Economy and Finance</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>EMMANUELLE BENHAMOU</TD>
+    <TD><B>Director</B>, Deputy at the audit and accounting department of the Agence des Participations de l'Etat (French State Shareholding Agency)</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>GERALDINE LEVEAU</TD>
+    <TD><B>Director</B>, Deputy General Secretary for Public Investment</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>DAVID HELM</TD>
+    <TD><B>Director</B>, Head of Innovation Financing and Intellectual Property in the General Directorate for Companies of the Ministry of Economy and Finance</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Name, business address, present principal occupation or employment
+and place of citizenship of the directors and executive officers of</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>BPIFRANCE S.A.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The name, business address and present principal occupation or employment
+of each of the directors and executive officers of Bpifrance S.A. are set forth below. The business address of each director and executive
+officer is Bpifrance S.A., 27-31, avenue du G&eacute;n&eacute;ral Leclerc, 94710 Maisons-Alfort Cedex, France. Unless otherwise indicated,
+each director and executive officer is a citizen of France.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>DIRECTORS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 30%"><B>Name</B></TD>
+    <TD STYLE="vertical-align: bottom; width: 70%"><B>Present Principal Occupation or Employment</B></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD>NICOLAS DUFOURCQ</TD>
+    <TD><B>Director, Chief Executive Officer of Bpifrance </B>and Director, Chairman and Chief Executive Officer of Bpifrance Participations</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>ALEXIS ZAJDENWEBER</TD>
+    <TD><B>Director</B>, Chairman of the Agence des Participations de l'Etat (French State Shareholding Agency)</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>MARIE DELEAGE</TD>
+    <TD><B>Director representing the employees of Bpifrance</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>PHILIPPE BAYEUX</TD>
+    <TD><B>Director representing the employees of Bpifrance</B></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>PIERRE-ANDRE DE CHALENDAR</TD>
+    <TD><B>Director</B>, Chairman of Saint-Gobain</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>CLAIRE DUMAS</TD>
+    <TD><B>Director</B>, Finance Director at Soci&eacute;t&eacute; G&eacute;n&eacute;rale</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>SOPHIE STABILE</TD>
+    <TD><B>Director</B>, CFO at Groupe Lagard&egrave;re</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>ANNE LAURENT</TD>
+    <TD><B>Director</B>, Deputy Director of the Ecole nationale superieure des mines de Paris</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>ANTOINE SAINTOYANT</TD>
+    <TD><B>Director</B>, Director of strategic holdings at Caisse des D&eacute;p&ocirc;ts</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>MARION CABROL</TD>
+    <TD><B>Director</B>, Investment manager in the Department of strategic holdings at Caisse des D&eacute;p&ocirc;ts</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">STEPHANIE PERNOD</TD>
+    <TD><B>Director</B>, Vice-president of the Regional Council of Auvergne-Rh&ocirc;ne-Alpes, in charge of the economy, relocation, regional and digital preference</TD></TR>
+
+<TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top">NATHALIE TUBIANA</TD>
+    <TD><B>Director</B>, Head of finance and sustainable policy of Caisse des D&eacute;p&ocirc;ts Group</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">CLAIRE CHEREMETINSKI</TD>
+    <TD><B>Director</B>, Advisor to the Director of the French Treasury</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,407 @@
+<SEC-DOCUMENT>0000807249-25-000005.txt : 20250107
+<SEC-HEADER>0000807249-25-000005.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107161220
+ACCESSION NUMBER:		0000807249-25-000005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+DATE AS OF CHANGE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEASLEY BROADCAST GROUP INC
+		CENTRAL INDEX KEY:			0001099160
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO BROADCASTING STATIONS [4832]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				650960915
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-60309
+		FILM NUMBER:		25515003
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3033 RIVIERA DRIVE
+		STREET 2:		SUITE 200
+		CITY:			NAPLES
+		STATE:			FL
+		ZIP:			34103
+		BUSINESS PHONE:		9412635000
+
+	MAIL ADDRESS:	
+		STREET 1:		3033 RIVIERA DRIVE
+		STREET 2:		SUITE 200
+		CITY:			NAPLES
+		STATE:			FL
+		ZIP:			34103
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAMCO INVESTORS, INC. ET AL
+		CENTRAL INDEX KEY:			0000807249
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				133056041
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		191 MASON STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		9149215000
+
+	MAIL ADDRESS:	
+		STREET 1:		191 MASON STREET
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GABELLI ASSET MANAGEMENT INC ET AL
+		DATE OF NAME CHANGE:	20020828
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GABELLI FUNDS INC ET AL
+		DATE OF NAME CHANGE:	19940714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000807249-02-000220</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000807249</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>56</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock $0.001 Par Value Per Share</securitiesClassTitle>
+      <dateOfEvent>01/06/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001099160</issuerCIK>
+        <issuerCUSIP>074014101</issuerCUSIP>
+        <issuerName>BEASLEY BROADCAST GROUP INC</issuerName>
+        <address>
+          <com:street1>3033 RIVIERA DRIVE</com:street1>
+          <com:street2>3033 RIVIERA DRIVE</com:street2>
+          <com:city>NAPLES</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>34103</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>DAVID GOLDMAN</personName>
+          <personPhoneNum>9149215000</personPhoneNum>
+          <personAddress>
+            <com:street1>GAMCO INVESTORS, INC.</com:street1>
+            <com:street2>ONE CORPORATE CENTER</com:street2>
+            <com:city>RYE</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10580</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000807249</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>GAMCO INVESTORS, INC. ET AL</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>Y</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001081407</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>GABELLI FUNDS LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>25900.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>25900.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>25900.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>2.8</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001460612</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>GAMCO Asset Management Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>60691.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>61491.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>61491.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.6</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001444874</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Teton Advisors, Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>2600.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2600.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>2600.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.3</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001238894</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>GGCP, INC.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>WY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>Y</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001642122</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Associated Capital Group, Inc.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>Y</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001185533</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>GABELLI MARIO J</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>Y</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock $0.001 Par Value Per Share</securityTitle>
+        <issuerName>BEASLEY BROADCAST GROUP INC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>3033 RIVIERA DRIVE</com:street1>
+          <com:street2>3033 RIVIERA DRIVE</com:street2>
+          <com:city>NAPLES</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>34103</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is being filed by one or more of the following persons: GGCP, Inc.  (GGCP), GGCP Holdings LLC (GGCP Holdings), GAMCO Investors, Inc. (GBL), Associated Capital Group, Inc. (AC), Gabelli Funds, LLC (Gabelli Funds), GAMCO Asset Management Inc. (GAMCO), Teton Advisors, LLC (Teton Advisors), Keeley-Teton Advisors, LLC (Keeley-Teton), Gabelli &amp; Company Investment Advisers, Inc. (GCIA), Morgan Group Holding Co., (MGH), G.research, LLC (G.research), MJG Associates, Inc. (MJG Associates), Gabelli Securities International (Bermuda) Limited (GSIL), Gabelli Foundation, Inc. (Foundation), Mario Gabelli, LICT and CIBL.  Those of the foregoing persons signing this Schedule 13D are hereinafter referred to as the Reporting Persons.</filingPersonName>
+        <principalBusinessAddress>GAMCO is a New York corporation and GBL and MGH are Delaware corporations, each having its principal business office at One Corporate Center, Rye, New York 10580. GGCP is a Wyoming corporation and AC and GCIA are Delaware corporations each having its principal business office 191 Mason Street, Greenwich, CT 06830.   GGCP Holdings is a Delaware limited liability corporation having its principal business office at 191 Mason Street, Greenwich, CT 06830.  G.research is a Delaware limited liability company having its principal officers at One Corporate Center, Rye, New York 10580.  Gabelli Funds is a New York limited liability company having its principal business office at One Corporate Center, Rye, New York 10580.  Teton Advisors is a Delaware limited liability company having its principal place of business at 189 Mason Street, Greenwich, CT 06830.  Keeley-Teton Advisors is a Delaware limited liability company having its principal place of business at 141 W. Jackson Blvd., Chicago, IL 60604. MJG Associates is a Connecticut corporation having its principal business office at 191 Mason Street, Greenwich, CT 06830.  The Foundation is a Nevada corporation having its principal offices at 165 West Liberty Street, Reno, Nevada 89501.  LICT is a Delaware corporation having its principal place of business as 401 Theodore Fremd Avenue, Rye, New York 10580. CIBL, Inc. is a Delaware corporation having its principal place of business as 165 West Liberty Street, Suite 220, Reno, NV 89501.  </principalBusinessAddress>
+        <principalJob><![CDATA[GGCP makes investments for its own account and is the manager and a member of GGCP Holdings which is the controlling shareholder of GBL and AC.  GBL, a public company whose stock is quoted on the OTCQX platform, is the parent company for a variety of companies engaged in the securities business, including certain of those named below.  AC, a public company listed on the New York Stock Exchange, is the parent company for a variety of companies engaged in the securities business, including certain of those listed below.
+
+GAMCO, a wholly-owned subsidiary of GBL, is an investment adviser registered under the Investment Advisers Act of 1940, as amended (Advisers Act).  GAMCO is an investment manager providing discretionary managed account services for employee benefit plans, private investors, endowments, foundations and others.
+
+GCIA, a wholly owned subsidiary of AC, is an investment adviser registered under the Advisers Act and serves as a general partner or investment manager to limited partnerships and offshore investment companies and other accounts.  As a part of its business, GCIA may purchase or sell securities for its own account.  GCIA or its relying advisers, act as a general partner or investment manager of a number of funds or partnerships, including Gabelli Associates Fund, L.P., Gabelli Associates Fund II, L.P., Gabelli Associates Limited, Gabelli Associates Limited II E, Gabelli Intermediate Credit Fund L.P., GAMA Select Plus Master Fund, Ltd., GAMCO Medical Opportunities L.P., and Gabelli Multimedia Partners, L.P.
+
+G.research is a wholly owned subsidiary of MGH. G.research, is a broker-dealer registered under the Securities Exchange Act of 1934, as amended (1934 Act), which may as a part of its business purchase and sell securities for its own account.
+
+Gabelli Funds, a wholly owned subsidiary of GBL, is a limited liability company. Gabelli Funds is an investment adviser registered under the Advisers Act which provides advisory services for The Gabelli Equity Trust Inc., The Gabelli Asset Fund, The Gabelli Growth Fund, The Gabelli Convertible and Income Securities Fund Inc., The Gabelli Value 25 Fund Inc., The Gabelli Small Cap Growth Fund, The Gabelli Equity Income Fund, The Gabelli ABC Fund, The Gabelli Global Content & Connectivity Fund, The Gabelli Gold Fund, Inc., The Gabelli Multimedia Trust Inc., The Gabelli Global Rising Income & Dividend Fund, The Gabelli Capital Asset Fund, The Gabelli International Growth Fund, Inc., The Gabelli Global Growth Fund, The Gabelli Utility Trust, The Gabelli Utilities Fund, The Gabelli Dividend Growth Fund, The Gabelli Focused Growth and Income Fund, The Comstock Capital Value Fund, The Gabelli Dividend and Income Trust, The Gabelli Global Utility & Income Trust, The GAMCO Global Gold, Natural Resources, & Income Trust, The GAMCO Natural Resources, Gold & Income Trust, The GDL Fund, Gabelli Enterprise Mergers & Acquisitions Fund, The Gabelli ESG Fund, Inc., The Gabelli International Small Cap Fund, The Gabelli Healthcare & Wellness Rx Trust, The Gabelli Global Small and Mid Cap Value Trust, Gabelli Merger Plus+ Trust Plc,  The Gabelli Global Financial Services Fund, The Gabelli Global Mini Mites Fund, The Gabelli Media Mogul Fund, The Gabelli Pet Parents Fund, The Gabelli U.S. Treasury Money Market Fund, Bancroft Fund Ltd. and Ellsworth Growth & Income Fund Ltd., Gabelli Growth Innovators ETF, Gabelli Love Our Planet & People ETF, Gabelli Automation ETF, Gabelli Commercial Aerospace & Defense ETF, Gabelli Financial Services Opportunities ETF (collectively, the Funds), which are registered investment companies.  Gabelli Funds is also the investment adviser to The GAMCO International SICAV (sub-funds GAMCO Merger Arbitrage and GAMCO All Cap Value), a UCITS III vehicle.
+
+Teton Advisors, an investment adviser registered under the Advisers Act, provides discretionary advisory services to The TETON Westwood Mighty Mitessm Fund, The TETON Convertible Securities Fund, The Teton Westwood Balanced Fund, and The TETON Westwood  Equity Fund. The TETON Westwood Mighty Mites Fund and the Teton Convertible Securities Fund are subadvised by Gabelli Funds, and their holdings are included in this filing.
+
+Keeley-Teton, an investment adviser registered under the Advisers Act, provides discretionary advisory services to The Teton Westwood Smallcap Equity Fund, The Keeley Small Cap Dividend Value Fund, The Keeley Small-Mid Cap Value Fund, and The Keeley Mid Cap Dividend Value Fund, as well as to institutional and individual clients.
+
+MJG Associates provides advisory services to private investment partnerships and offshore funds.  Mario Gabelli is the sole shareholder, director and employee of MJG Associates.   MJG Associates is the Investment Manager of Gabelli International Limited and Gabelli Fund, LDC.  Mario J. Gabelli is the general partner of Gabelli Performance Partnership, LP.
+The Foundation is a private foundation.  Mario Gabelli is the Chairman, a Trustee and the Investment Manager of the Foundation. Elisa M. Wilson is the President of the Foundation.
+LICT is a holding company with operating subsidiaries engaged primarily in the rural telephone industry. LICT actively pursues new business ventures and acquisitions. LICT makes investments in marketable securities to preserve capital and maintain liquidity for financing their business activities and acquisitions and are not engaged in the business of investing, or trading in securities. Mario J. Gabelli is the Chief Executive Officer, a director, and substantial shareholder of LICT.
+
+CIBL is a holding company with interest in telecommunications operations, primarily in the rural telephone industry. CIBL actively pursues new business ventures and acquisitions. CIBL makes investments in marketable securities to preserve capital and maintain liquidity for financing their business activities and acquisitions and are not engaged in the business of investing, or trading in securities. Mario J. Gabelli is a director, and substantial shareholder of CIBL.
+
+Mario Gabelli is the controlling stockholder, co-Chief Executive Officer and a director of GGCP and Chairman and Chief Executive Officer of GBL. He is the Executive Chairman of AC.  Mario Gabelli is also a member of GGCP Holdings. Mario Gabelli is the controlling shareholder of MGH and indirectly of Teton Advisors and Keeley-Teton Advisors.
+]]></principalJob>
+        <hasBeenConvicted>Not applicable.</hasBeenConvicted>
+        <convictionDescription>Not applicable.</convictionDescription>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Item 3 to Schedule 13D is amended, in pertinent part, as follows:
+The Reporting Persons used an aggregate of approximately $86,399 to purchase the additional Securities reported as beneficially owned in Item 5 since the most recent filing on Schedule 13D. GAMCO and Gabelli Funds used approximately $46,608 and $22,660, respectively, of funds that were provided through the accounts of certain of their investment advisory clients (and, in the case of some of such accounts at GAMCO, may be through borrowings from client margin accounts) in order to purchase the additional Securities for such clients. Teton Advisors used approximately $17,131 of funds of investment advisory clients to purchase the additional Securities reported by it.
+</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>Item 5 to Schedule 13D is amended, in pertinent part, as follows:
+The aggregate number of Securities to which this Schedule 13D relates is 89,991 shares, representing 9.59% of the 938,690 shares outstanding as reported in the Issuer's most recently filed Form 10-Q for the quarterly period ended September 30, 2024. The Reporting Persons beneficially own those Securities as follows: GAMCO 61,491 shares 6.55%, Gabelli Funds 25,900 shares 2.76% and Teton Advisors 2,600 shares 0.28%.</percentageOfClassSecurities>
+        <numberOfShares>Each of the Reporting Persons and Covered Persons has the sole power to vote or direct the vote and sole power to dispose or to direct the disposition of the Securities reported for it, either for its own benefit or for the benefit of its investment clients or its partners, as the case may be, except that (i) GAMCO does not have authority to vote 800 of the reported shares, (ii) Gabelli Funds has sole dispositive and voting power with respect to the shares of the Issuer held by the Funds so long as the aggregate voting interest of all joint filers does not exceed 25% of their total voting interest in the Issuer and, in that event, the Proxy Voting Committee of each Fund shall respectively vote that Funds shares, (iii) at any time, the Proxy Voting Committee of each such Fund may take and exercise in its sole discretion the entire voting power with respect to the shares held by such fund under special  circumstances such as regulatory considerations, and (iv) the power of Mario Gabelli, AC, GBL, and GGCP is indirect with respect to Securities beneficially owned directly by other Reporting Persons.</numberOfShares>
+        <transactionDesc>Information with respect to all transactions in the Securities which were effected during the past sixty days or since the most recent filing on Schedule 13D, whichever is less, by each of the Reporting Persons and Covered Persons is set forth below:
+
+		DATE	SHARES PURCHASED	PRICE
+			/SOLD
+GABELLI FUNDS, LLC
+	GABELLI MULTIMEDIA TRUST
+		12/9/2024	500  	8.7800
+	GABELLI GLOBAL MINI MITES FUND
+		12/18/2024	500  	8.9800
+	GABELLI SMALL CAP GROWTH FUND
+		12/23/2024	1,600	9.2000
+		12/3/2024	-100 	9.4000
+
+GAMCO ASSET MANAGEMENT INC.
+		1/6/2025    	1,800	9.4000
+		12/30/2024	75    	8.2000
+		12/27/2024	500  	8.4000
+		12/24/2024	2,000	8.5500
+		12/24/2024	1,500	8.7287
+		12/16/2024	-50   	8.7107
+		12/9/2024	500  	8.7800
+		12/5/2024	423  	8.3000
+		12/2/2024	-50   	8.3582
+		11/29/2024	-5     	9.0433
+		11/26/2024	-13   	8.8727
+		11/20/2024	-778 	8.1500
+		11/19/2024	-22   	8.0500
+		11/14/2024	-700 	8.1275
+
+TETON ADVISORS, INC.
+		12/4/2024	966  	9.1500
+		11/25/2024	134  	8.1500
+		11/21/2024	900  	8.0000
+
+(1) UNLESS OTHERWISE INDICATED, ALL TRANSACTIONS WERE EFFECTED
+    ON THE NASDAQ.
+
+(2) PRICE EXCLUDES COMMISSION.
+</transactionDesc>
+        <listOfShareholders>The investment advisory clients of, or partnerships managed by, GAMCO, Gabelli Funds, Teton Advisors and MJG Associates have the sole right to receive and, subject to the notice, withdrawal and/or termination provisions of such advisory contracts and partnership arrangements, the sole power to direct the receipt of dividends from, and the proceeds of sale of, any of the Securities beneficially owned by such Reporting Persons on behalf of such clients or partnerships.  Except as noted, no such client or partnership has an interest by virtue of such relationship that relates to more than 5% of the Securities.</listOfShareholders>
+        <date5PercentOwnership>Not applicable. </date5PercentOwnership>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>GAMCO INVESTORS, INC. ET AL</signatureReportingPerson>
+        <signatureDetails>
+          <signature>PETER D. GOLDSTEIN</signature>
+          <title>GENERAL COUNSEL</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GABELLI FUNDS LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>DAVID GOLDMAN</signature>
+          <title>GENERAL COUNSEL</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GAMCO Asset Management Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>DOUGLAS R. JAMIESON</signature>
+          <title>PRESIDENT</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Teton Advisors, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>DAVID GOLDMAN</signature>
+          <title>COUNSEL</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GGCP, INC.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>DAVID GOLDMAN</signature>
+          <title>ATTORNEY-IN-FACT</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Associated Capital Group, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>DOUGLAS R. JAMIESON</signature>
+          <title>PRESIDENT &amp; CEO</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GABELLI MARIO J</signatureReportingPerson>
+        <signatureDetails>
+          <signature>DAVID GOLDMAN</signature>
+          <title>ATTORNEY-IN-FACT</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

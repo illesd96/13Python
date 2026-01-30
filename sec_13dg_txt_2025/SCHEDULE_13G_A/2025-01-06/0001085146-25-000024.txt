@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001085146-25-000024.txt : 20250106
+<SEC-HEADER>0001085146-25-000024.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106134935
+ACCESSION NUMBER:		0001085146-25-000024
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Invesco DB US Dollar Index Trust
+		CENTRAL INDEX KEY:			0001371571
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94485
+		FILM NUMBER:		25510386
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+		BUSINESS PHONE:		800-983-0903
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PowerShares DB US Dollar Index Trust
+		DATE OF NAME CHANGE:	20060804
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEW YORK LIFE INVESTMENT MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001133639
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				522206685
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		51 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		2125767000
+
+	MAIL ADDRESS:	
+		STREET 1:		51 MADISON AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001085146-24-004538</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: NEW YORK LIFE INVESTMENT MANAGEMENT LLC -->
+          <cik>0001133639</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Invesco US Dollar Index Bullish Fund</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001371571</issuerCik>
+        <issuerName>Invesco DB US Dollar Index Trust</issuerName>
+        <issuerCusip>46141D203</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>3500 Lacey Road</com:street1>
+          <com:street2>Suite 700</com:street2>
+          <com:city>Downers Grove</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60515</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>New York Life Investment Management LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2210085.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2210085.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2210085.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.14</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Invesco DB US Dollar Index Trust</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3500 Lacey Road Suite 700 Downers Grove, ILLINOIS 60515</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>New York Life Investment Management LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>51 MADISON AVE
+New York, New York
+10010</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>New York Life Investment Management LLC -</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>2210085</amountBeneficiallyOwned>
+        <classPercent>15.14</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>New York Life Investment Management LLC - 2210085</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>New York Life Investment Management LLC - 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>New York Life Investment Management LLC - 2210085</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>New York Life Investment Management LLC - 0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>New York Life Investment Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Paul Vengrow</signature>
+        <title>Corporate Vice President</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

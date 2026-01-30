@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0001068238-25-000006.txt : 20250106
+<SEC-HEADER>0001068238-25-000006.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106075121
+ACCESSION NUMBER:		0001068238-25-000006
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Local Bounti Corporation/DE
+		CENTRAL INDEX KEY:			0001840780
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				981584830
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92312
+		FILM NUMBER:		25509072
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 W. MAIN ST.
+		CITY:			HAMILTON
+		STATE:			MT
+		ZIP:			59840
+		BUSINESS PHONE:		406-361-3711
+
+	MAIL ADDRESS:	
+		STREET 1:		400 W. MAIN ST.
+		CITY:			HAMILTON
+		STATE:			MT
+		ZIP:			59840
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Leo Holdings III Corp.
+		DATE OF NAME CHANGE:	20210115
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wheat Wind Farms, LLC
+		CENTRAL INDEX KEY:			0001890581
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1815 CATTLE DRIVE
+		CITY:			MAGNOLIA
+		STATE:			TX
+		ZIP:			77354
+		BUSINESS PHONE:		406-361-3711
+
+	MAIL ADDRESS:	
+		STREET 1:		1815 CATTLE DRIVE
+		CITY:			MAGNOLIA
+		STATE:			TX
+		ZIP:			77354
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001193125-21-347989</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001890581</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>6</amendmentNo>
+<securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+<dateOfEvent>01/01/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001840780</issuerCIK>
+<issuerCUSIP>53960E205</issuerCUSIP>
+<issuerName>Local Bounti Corporation</issuerName>
+<address>
+<com:street1>490 Foley Lane</com:street1>
+<com:city>Hamilton</com:city>
+<com:stateOrCountry>MT</com:stateOrCountry>
+<com:zipCode>59840</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Wheat Wind Farms, LLC</personName>
+<personPhoneNum>800-640-4016</personPhoneNum>
+<personAddress>
+<com:street1>c/o Local Bounti Corp.</com:street1>
+<com:street2>490 Foley Lane</com:street2>
+<com:city>Hamilton</com:city>
+<com:stateOrCountry>MT</com:stateOrCountry>
+<com:zipCode>59840</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001890581</reportingPersonCIK>
+<reportingPersonName>Wheat Wind Farms LLC</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>TX</citizenshipOrOrganization>
+<soleVotingPower>1177386</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>1177386</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>1177386</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>13.6</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+<commentContent>Based on 8,655,669 shares of Common Stock of Local Bounti Corporation (the "Issuer") outstanding as of November 8, 2024, as reported in the Quarterly Report on Form 10-Q filed by the Issuer with the Securities and Exchange Commission on November 14, 2024.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Craig M. Hurlbert</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>1398525</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>1398525</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>1398525</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>16.2</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<commentContent>Consists of (i) 181,139 shares held directly by Mr. Hurlbert; (ii) 40,000 RSUs granted under the Issuer's 2021 Equity Incentive Plan which, subject to Mr. Hurlbert's continued service with the Issuer, will vest on February 1, 2025; and (iii) 1,177,386 shares of Common Stock held by Wheat Wind Farms, LLC. Mr. Hurlbert serves as the president of Wheat Wind Farms, LLC and, as such, has sole voting and dispositive power with respect to the shares held by Wheat Wind Farms, LLC and may be deemed to beneficially own the shares of Common Stock held by Wheat Wind Farms, LLC. &#13;
+&#13;
+Based on 8,655,669 shares of Common Stock of the Issuer outstanding as of November 8, 2024, as reported in the Quarterly Report on Form 10-Q filed by the Issuer with the Securities and Exchange Commission on November 14, 2024.</commentContent>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Stock, par value $0.0001 per share</securityTitle>
+<issuerName>Local Bounti Corporation</issuerName>
+<issuerPrincipalAddress>
+<com:street1>490 Foley Lane</com:street1>
+<com:city>Hamilton</com:city>
+<com:stateOrCountry>MT</com:stateOrCountry>
+<com:zipCode>59840</com:zipCode>
+</issuerPrincipalAddress>
+</item1>
+<item4>
+<transactionPurpose>Item 4 of the Schedule 13D is hereby amended and supplemented by inserting the following text at the end thereof: &#13;
+On April 25, 2024, Mr. Hurlbert was granted 120,000 RSUs, which will vest in three equal installments on February 1, 2025, February 1, 2026 and February 1, 2027, subject to his continuous service on each vesting date. On December 11, 2024, December 16, 2024 and December 19, 2024, Mr. Hurlbert purchased 1,250 shares, 2,750 shares and 3,250 shares of Common Stock, respectively.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>(a) - (b) The following information with respect to the beneficial ownership of the Common Stock by the Reporting Persons is provided as of January 1, 2025. The percentage of Common Stock owned by the Reporting Persons is based on 8,655,669 shares of Common Stock outstanding as of November 8, 2024, as reported in the Quarterly Report on Form 10-Q filed by the Issuer with the Securities and Exchange Commission on November 14, 2024. &#13;
+&#13;
+The information contained in rows 7, 8, 9, 10, 11 and 13 of the cover pages for each Reporting Person is incorporated herein by reference.</percentageOfClassSecurities>
+<transactionDesc>(c) Except as described in Item 4, the Reporting Persons have not effected any transactions in the Common Stock since the most recent filing on Schedule 13D.</transactionDesc>
+<listOfShareholders>(d) - (e) Not applicable.</listOfShareholders>
+</item5>
+<item6>
+<contractDescription>Item 6 of the Schedule 13D is hereby amended and supplemented by inserting the following: &#13;
+The information disclosed in Item 4 of Amendment No. 6 to the Schedule 13D is incorporated herein by reference.</contractDescription>
+</item6>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Wheat Wind Farms LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Craig M. Hurlbert</signature>
+<title>Craig M. Hurlbert President</title>
+<date>01/03/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Craig M. Hurlbert</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Craig M. Hurlbert</signature>
+<title>Craig M. Hurlbert</title>
+<date>01/03/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

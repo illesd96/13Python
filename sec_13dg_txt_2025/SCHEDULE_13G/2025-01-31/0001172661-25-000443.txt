@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001172661-25-000443.txt : 20250131
+<SEC-HEADER>0001172661-25-000443.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131114419
+ACCESSION NUMBER:		0001172661-25-000443
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beauty Health Co
+		CENTRAL INDEX KEY:			0001818093
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				851908962
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91732
+		FILM NUMBER:		25576869
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2165 SPRING STREET
+		CITY:			LONG BEACH
+		STATE:			CA
+		ZIP:			90806
+		BUSINESS PHONE:		800-603-4996
+
+	MAIL ADDRESS:	
+		STREET 1:		2165 SPRING STREET
+		CITY:			LONG BEACH
+		STATE:			CA
+		ZIP:			90806
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vesper Healthcare Acquisition Corp.
+		DATE OF NAME CHANGE:	20200714
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MIRABELLA FINANCIAL SERVICES LLP
+		CENTRAL INDEX KEY:			0001538853
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 STRAND
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			WC2N 5HR
+		BUSINESS PHONE:		0044 2030393540
+
+	MAIL ADDRESS:	
+		STREET 1:		11 STRAND
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			WC2N 5HR
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Mirabella Financial Services LLP
+		DATE OF NAME CHANGE:	20120105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: MIRABELLA FINANCIAL SERVICES LLP -->
+          <cik>0001538853</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001818093</issuerCik>
+        <issuerName>Beauty Health Company</issuerName>
+        <issuerCusip>88331L108</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2165 Spring Street</com:street1>
+          <com:city>Long Beach</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90806</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Mirabella Financial Services LLP</reportingPersonName>
+      <citizenshipOrOrganization>X0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>8988571.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>8988571.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>8988571.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.24</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Beauty Health Company</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2165 Spring Street, Long Beach, CA 90806</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Mirabella Financial Services LLP</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>11 Strand, London, WC2N 5HR</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>British</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>8,988,571</amountBeneficiallyOwned>
+        <classPercent>7.24</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>8,988,571</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>8,988,571</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The shares are reported on behalf of Blue Riband Fund LP for which Mirabella Financial Services LLP acts as the Investment Manager. Mirabella has discretion to procedure the exercise of voting and dispositive power over the shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Mirabella Financial Services LLP</reportingPersonName>
+      <signatureDetails>
+        <signature>Paul Hamill</signature>
+        <title>Paul Hamill | Chief Operating Officer</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

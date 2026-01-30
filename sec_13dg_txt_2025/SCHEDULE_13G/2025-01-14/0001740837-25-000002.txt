@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001740837-25-000002.txt : 20250114
+<SEC-HEADER>0001740837-25-000002.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114134338
+ACCESSION NUMBER:		0001740837-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WINMARK CORP
+		CENTRAL INDEX KEY:			0000908315
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				411622691
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1228
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-46803
+		FILM NUMBER:		25528765
+
+	BUSINESS ADDRESS:	
+		STREET 1:		605 HIGHWAY 169 N SUITE 400
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55441
+		BUSINESS PHONE:		763-520-8500
+
+	MAIL ADDRESS:	
+		STREET 1:		605 HIGHWAY 169 N SUITE 400
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55441
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GROW BIZ INTERNATIONAL INC
+		DATE OF NAME CHANGE:	19930629
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AltraVue Capital, LLC
+		CENTRAL INDEX KEY:			0001740837
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				811081432
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11747 NE 1ST STREET
+		STREET 2:		SUITE 205
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98005
+		BUSINESS PHONE:		4254558896
+
+	MAIL ADDRESS:	
+		STREET 1:		11747 NE 1ST STREET
+		STREET 2:		SUITE 205
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001740837</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/08/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000908315</issuerCik>
+        <issuerName>WINMARK CORP</issuerName>
+        <issuerCusip>974250102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>605 HIGHWAY 169 N SUITE 400</com:street1>
+          <com:city>MINNEAPOLIS</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55441</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>AltraVue Capital, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>113582.00</soleVotingPower>
+        <sharedVotingPower>63821.00</sharedVotingPower>
+        <soleDispositivePower>177403.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>177403.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>WINMARK CORP</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>605 HIGHWAY 169 N SUITE 400, MINNEAPOLIS, MINNESOTA, 55441.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>AltraVue Capital, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>11747 NE 1st Street, Suite 205
+Bellevue, WA 98005-3018</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>177,403</amountBeneficiallyOwned>
+        <classPercent>5.04%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>113,582</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>63,821</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>177,403</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>AltraVue Capital, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Tom Parkhurst</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

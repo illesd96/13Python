@@ -1,0 +1,285 @@
+<SEC-DOCUMENT>0002012383-25-000313.txt : 20250129
+<SEC-HEADER>0002012383-25-000313.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129164326
+ACCESSION NUMBER:		0002012383-25-000313
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AerSale Corp
+		CENTRAL INDEX KEY:			0001754170
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MACHINERY, EQUIPMENT & SUPPLIES [5080]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				831751907
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90932
+		FILM NUMBER:		25569951
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9850 NW 41 STREET
+		STREET 2:		SUITE 400
+		CITY:			DORAL
+		STATE:			FL
+		ZIP:			33178
+		BUSINESS PHONE:		(305) 764-3245
+
+	MAIL ADDRESS:	
+		STREET 1:		9850 NW 41 STREET
+		STREET 2:		SUITE 400
+		CITY:			DORAL
+		STATE:			FL
+		ZIP:			33178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Monocle Acquisition Corp
+		DATE OF NAME CHANGE:	20180925
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackRock, Inc.
+		CENTRAL INDEX KEY:			0002012383
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				991116001
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		(212) 810-5800
+
+	MAIL ADDRESS:	
+		STREET 1:		50 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlackRock Funding, Inc. /DE
+		DATE OF NAME CHANGE:	20240215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>SCHEDULE 13G</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0002012383</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <coverPageHeader>
+            <securitiesClassTitle>Common Stock</securitiesClassTitle>
+
+            <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+            <issuerInfo>
+                <issuerCik>0001754170</issuerCik>
+                <issuerName>AerSale Corp</issuerName>
+                <issuerCusip>00810F106</issuerCusip>
+                <issuerPrincipalExecutiveOfficeAddress>
+                    <com:street1>9850 NW 41 STREETSUITE 400</com:street1>
+                    <com:city>DORAL</com:city>
+                    <com:stateOrCountry>FL</com:stateOrCountry>
+                    <com:zipCode>33178</com:zipCode>
+                </issuerPrincipalExecutiveOfficeAddress>
+            </issuerInfo>
+            <designateRulesPursuantThisScheduleFiled>
+                <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+            </designateRulesPursuantThisScheduleFiled>
+        </coverPageHeader>
+        <coverPageHeaderReportingPersonDetails>
+
+            <reportingPersonName>BlackRock, Inc.</reportingPersonName>
+            <memberGroup>b</memberGroup>
+            <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+            <reportingPersonBeneficiallyOwnedNumberOfShares>
+                <soleVotingPower>2634986</soleVotingPower>
+                <sharedVotingPower>0</sharedVotingPower>
+                <soleDispositivePower>2732461</soleDispositivePower>
+                <sharedDispositivePower>0</sharedDispositivePower>
+            </reportingPersonBeneficiallyOwnedNumberOfShares>
+            <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2732461</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+            <classPercent>5.1</classPercent>
+            <typeOfReportingPerson>HC</typeOfReportingPerson>
+        </coverPageHeaderReportingPersonDetails>
+        <items>
+            <item1>
+                <issuerName>AerSale Corp</issuerName>
+                <issuerPrincipalExecutiveOfficeAddress>9850 NW 41 STREETSUITE 400 DORAL FL 33178</issuerPrincipalExecutiveOfficeAddress>
+            </item1>
+            <item2>
+                <filingPersonName>BlackRock, Inc.
+
+                                  In accordance with SEC Release No. 34-39538 (January 12, 1998), this Schedule 13G reflects the securities beneficially owned, or deemed to be beneficially owned, by certain business units (collectively, the "Reporting Business Units") of BlackRock, Inc. and its subsidiaries and affiliates. It does not include securities, if any, beneficially owned by other business units whose beneficial ownership of securities are disaggregated from that of the Reporting Business Units in accordance with such release.</filingPersonName>
+                <principalBusinessOfficeOrResidenceAddress>BlackRock, Inc. 50 Hudson Yards New York, NY 10001</principalBusinessOfficeOrResidenceAddress>
+                <citizenship>See Item 4 of Cover Page</citizenship>
+            </item2>
+            <item3>
+                <notApplicableFlag>N</notApplicableFlag>
+                <typeOfPersonFiling>HC</typeOfPersonFiling>
+            </item3>
+            <item4>
+                <amountBeneficiallyOwned>950000</amountBeneficiallyOwned>
+                <classPercent>5.1</classPercent>
+                <numberOfSharesPersonHas>
+                    <solePowerOrDirectToVote>2634986</solePowerOrDirectToVote>
+                    <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+                    <solePowerOrDirectToDispose>2732461</solePowerOrDirectToDispose>
+                    <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+                </numberOfSharesPersonHas>
+            </item4>
+            <item5>
+                  <notApplicableFlag>Y</notApplicableFlag>
+                  <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+            </item5>
+            <item6>
+                <notApplicableFlag>N</notApplicableFlag>
+                <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Various persons have the right to receive or the power to direct
+                                                                                                    the receipt of dividends from, or the proceeds from the sale of
+                                                                                                    the common stock of
+                                                                                                    AerSale Corp.
+                                                                                                    No one person's interest in the common stock of
+                                                                                                    AerSale Corp
+                                                                                                    is more than five percent of the total outstanding common shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+
+
+
+            </item6>
+            <item7>
+                <notApplicableFlag>N</notApplicableFlag>
+                <subsidiaryIdentificationAndClassification>See Exhibit 99</subsidiaryIdentificationAndClassification>
+            </item7>
+            <item8>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item8>
+            <item9>
+                <notApplicableFlag>N</notApplicableFlag>
+                <groupDissolutionNotice>See Item 5.</groupDissolutionNotice>
+            </item9>
+            <item10>
+                <notApplicableFlag>N</notApplicableFlag>
+                <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+            </item10>
+        </items>
+        <signatureInformation>
+            <reportingPersonName>BlackRock, Inc.</reportingPersonName>
+            <signatureDetails>
+                <signature>Spencer Fleming</signature>
+                <title>Managing Director</title>
+                <date>01/29/2025</date>
+            </signatureDetails>
+        </signatureInformation>
+    </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>legalEntitiesAbove5Pct.txt
+<TEXT>
+ BlackRock Life Limited
+ BlackRock Advisors, LLC
+ Aperio Group, LLC
+ BlackRock Investment Management (UK) Limited
+ BlackRock Asset Management Canada Limited
+ BlackRock (Luxembourg) S.A.
+ BlackRock Fund Advisors
+ BlackRock Institutional Trust Company, National Association
+ BlackRock Financial Management, Inc.
+ BlackRock Fund Managers Ltd
+ BlackRock Investment Management, LLC
+
+
+
+*Entity beneficially owns 5% or greater of the outstanding
+shares of the security class being reported on this
+Schedule 13G.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<FILENAME>PowerOfAttorney.txt
+<TEXT>
+POWER OF ATTORNEY
+
+The undersigned, BlackRock, Inc., a corporation duly organized under the
+laws of the State of Delaware, United States (the "Company"), does hereby
+make, constitute and appoint each of Eric Andruczyk, Richard Cundiff,
+R. Andrew Dickson, III, Spencer Fleming, Laura Hildner, David Maryles,
+Christopher Meade, Charles Park, James Raby, Daniel Riemer, David
+Rothenberg and Brenda Schulz, acting severally, as its true and lawful
+attorneys-in-fact, for the purpose of, from time to time, executing, in its
+name and on its behalf and on behalf of its direct and indirect
+subsidiaries and affiliates, any and all documents, certificates,
+instruments, statements, filings, agreements and amendments
+(collectively, "documents") determined by such person to be necessary or
+appropriate to comply with ownership or control-person reporting
+requirements imposed by any United States or non-United States governmental
+or regulatory authority, including, without limitation, Schedules 13D and
+13G and Forms 3, 4, 5, 13F, 13H, SHO and N-PX and any amendments to any of
+the foregoing as may be required to be filed with the Securities and
+Exchange Commission, and delivering, furnishing or filing any such
+documents with the appropriate governmental or regulatory authority or
+other person, and giving and granting to each such attorney-in-fact full
+power and authority to do and perform any and every act and thing
+whatsoever requisite, necessary or proper to be done in the exercise of any
+of the rights and powers herein granted, as fully and to all intents and
+purposes as the Company and/or its direct and indirect subsidiaries, as
+applicable, might or could do if personally present by one of its
+authorized signatories, hereby ratifying and confirming all that said
+attorney-in-fact shall lawfully do or cause to be done by virtue hereof.
+Any such determination by an attorney-in-fact named herein shall be
+conclusively evidenced by such person's execution, delivery, furnishing or
+filing of the applicable document.
+
+This power of attorney shall expressly revoke the power of attorney dated
+30th day of April, 2023 in respect of the subject matter hereof, shall
+be valid from the date hereof and shall remain in full force and effect
+until either revoked in writing by the Company, or, in respect of any
+attorney-in-fact named herein, until such person ceases to be an employee
+of the Company or one of its affiliates.
+
+IN WITNESS WHEREOF, the undersigned has caused this power of attorney to be
+executed as of this 21st day of January, 2025.
+
+BLACKROCK, INC.
+
+
+By: /s/ R. Andrew Dickson, III
+Name:  R. Andrew Dickson, III
+Title: Corporate Secretary
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

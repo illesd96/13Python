@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001599511-25-000003.txt : 20250114
+<SEC-HEADER>0001599511-25-000003.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114180556
+ACCESSION NUMBER:		0001599511-25-000003
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUVEEN SELECT MATURITIES MUNICIPAL FUND
+		CENTRAL INDEX KEY:			0000890119
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				363837799
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-87163
+		FILM NUMBER:		25530475
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 WEST WACKER DRIVE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3129177200
+
+	MAIL ADDRESS:	
+		STREET 1:		333 W WACKER DRIVE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NUVEEN INTERMEDIATE OPPORTUNITY MUNICIPAL FUND
+		DATE OF NAME CHANGE:	19600201
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tortoise Investment Management, LLC
+		CENTRAL INDEX KEY:			0001599511
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				201723529
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 WESTCHESTER PARK DRIVE
+		STREET 2:		SUITE 215
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+		BUSINESS PHONE:		914-686-0024
+
+	MAIL ADDRESS:	
+		STREET 1:		2 WESTCHESTER PARK DRIVE
+		STREET 2:		SUITE 215
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001599511</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Exchange Traded Fund</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000890119</issuerCik>
+        <issuerName>NUVEEN SELECT MATURITIES MUNICIPAL FUND</issuerName>
+        <issuerCusip>67061T101</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>333 WEST WACKER DRIVE</com:street1>
+          <com:city>CHICAGO</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60606</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Tortoise Investment Management, LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>751335.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>751335.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.4</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>NUVEEN SELECT MATURITIES MUNICIPAL FUND</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>333 WEST WACKER DRIVE, CHICAGO, ILLINOIS, 60606</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Tortoise Investment Management, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>2 Westchester Park Drive, Suite 215, White Plains, New York 10604</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States of America</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>751,335</amountBeneficiallyOwned>
+        <classPercent>5.36</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>751,335</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Tortoise Investment Management, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Mike Mattern</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

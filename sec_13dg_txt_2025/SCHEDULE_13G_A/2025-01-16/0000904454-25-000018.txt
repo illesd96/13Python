@@ -1,0 +1,206 @@
+<SEC-DOCUMENT>0000904454-25-000018.txt : 20250116
+<SEC-HEADER>0000904454-25-000018.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116145236
+ACCESSION NUMBER:		0000904454-25-000018
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Singular Genomics Systems, Inc.
+		CENTRAL INDEX KEY:			0001850906
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				812948451
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92575
+		FILM NUMBER:		25535504
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3010 SCIENCE PARK ROAD
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		(858) 333-7830
+
+	MAIL ADDRESS:	
+		STREET 1:		3010 SCIENCE PARK ROAD
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Domain Partners IX, L.P.
+		CENTRAL INDEX KEY:			0001628864
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O DOMAIN ASSOCIATES, L.L.C.
+		STREET 2:		ONE PALMER SQUARE
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08542
+		BUSINESS PHONE:		609-683-5656
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DOMAIN ASSOCIATES, L.L.C.
+		STREET 2:		ONE PALMER SQUARE
+		CITY:			PRINCETON
+		STATE:			NJ
+		ZIP:			08542
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000904454-22-000004</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Domain Partners IX, L.P. -->
+          <cik>0001628864</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.0001 par value</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001850906</issuerCik>
+        <issuerName>Singular Genomics Systems, Inc.</issuerName>
+        <issuerCusip>82933R100</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>3010 Science Park Road</com:street1>
+          <com:city>San Diego</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92121</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Domain Partners IX, L.P.</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>125466.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>125466.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>125446.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.95</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Domain Associates, LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>500.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>500.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>500.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.02</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Singular Genomics Systems, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3010 Science Park Road, San Diego, CA 92121</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Amendment No. 2 to Schedule 13G is filed by Domain Partners IX, L.P., a Delaware limited partnership ("Domain IX"), and Domain Associates, LLC, a Delaware limited liability company ("DA" and together with Domain IX, the "Reporting Persons"). Reference is hereby made to the Schedule 13G filed with the Securities and Exchange Commission by the Reporting Persons with respect to the Common Stock of the Issuer on January 4, 2022 and Amendment No. 1 thereto filed on January 25, 2024. The items included in this Amendment No. 2 are hereby amended and restated.</filingPersonName>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by this item is set forth in the cover pages to this Schedule 13G/A and is incorporated herein by reference.</amountBeneficiallyOwned>
+        <classPercent>The information required by this item is set forth in the cover pages to this Schedule 13G/A and is incorporated herein by reference. Percentage ownership is based on 2,533,744 shares of Common Stock outstanding as of December 20, 2024, as reported in the Issuer's Report on Form 8-K filed with the Securities and Exchange Commission on December 23, 2024.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>The information required by this item is set forth in the cover pages to this Schedule 13G/A and is incorporated herein by reference.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>The information required by this item is set forth in the cover pages to this Schedule 13G/A and is incorporated herein by reference.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>The information required by this item is set forth in the cover pages to this Schedule 13G/A and is incorporated herein by reference.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>The information required by this item is set forth in the cover pages to this Schedule 13G/A and is incorporated herein by reference.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Domain Partners IX, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Lisa A. Kraeutler</signature>
+        <title>Lisa A. Kraeutler, Attorney-in-Fact</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Domain Associates, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Lisa A. Kraeutler</signature>
+        <title>Lisa A. Kraeutler, Attorney-in-Fact</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,934 @@
+<SEC-DOCUMENT>0001104659-25-003030.txt : 20250113
+<SEC-HEADER>0001104659-25-003030.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113160510
+ACCESSION NUMBER:		0001104659-25-003030
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250113
+DATE AS OF CHANGE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WISA TECHNOLOGIES, INC.
+		CENTRAL INDEX KEY:			0001682149
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				301135279
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90913
+		FILM NUMBER:		25526383
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15268 NW GREENBRIER PKWY
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97006
+		BUSINESS PHONE:		408-627-4716
+
+	MAIL ADDRESS:	
+		STREET 1:		15268 NW GREENBRIER PKWY
+		CITY:			BEAVERTON
+		STATE:			OR
+		ZIP:			97006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Summit Wireless Technologies, Inc.
+		DATE OF NAME CHANGE:	20180914
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Summit Semiconductor Inc.
+		DATE OF NAME CHANGE:	20180501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUMMIT SEMICONDUCTOR
+		DATE OF NAME CHANGE:	20180416
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRADLEY NATHANIEL T
+		CENTRAL INDEX KEY:			0001755804
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		1327 OCEAN AVENUE SUITE B
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BRADLEY NATHANIEL T -->
+          <cik>0001755804</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001682149</issuerCIK>
+        <issuerCUSIP>86633R609</issuerCUSIP>
+        <issuerName>WiSA Technologies, Inc.</issuerName>
+        <address>
+          <com:street1>15268 NW Greenbrier Pkwy</com:street1>
+          <com:city>Beaverton</com:city>
+          <com:stateOrCountry>OR</com:stateOrCountry>
+          <com:zipCode>97006</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Nathaniel Bradley</personName>
+          <personPhoneNum>520-631-9595</personPhoneNum>
+          <personAddress>
+            <com:street1>48 Wall Street, Floor 11</com:street1>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10005</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001755804</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Nathaniel Bradley</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>10222321.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>10222321.00</sharedDispositivePower>
+        <aggregateAmountOwned>10222321.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>19.6</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Includes 3,446,456 shares held directly by Mr. Bradley, 3,999,911 shares held directly by Data Vault Holdings Inc. (of which Mr. Bradley is Chief Executive Officer and the sole director) and 2,775,954 shares held by Mr. Bradley's spouse, Sonia Choi.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001918125</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sonia Choi</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6222410.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6222410.00</sharedDispositivePower>
+        <aggregateAmountOwned>6222410.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>12.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Includes 2,775,954 shares held directly by Ms. Choi and 3,446,456 shares held by Ms. Choi's spouse, Nathaniel Bradley.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001882356</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Data Vault Holdings Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3999911.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3999911.00</sharedDispositivePower>
+        <aggregateAmountOwned>3999911.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.7</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>Includes 3,999,911 shares held directly by Data Vault Holdings Inc.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>WiSA Technologies, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>15268 NW Greenbrier Pkwy</com:street1>
+          <com:city>Beaverton</com:city>
+          <com:stateOrCountry>OR</com:stateOrCountry>
+          <com:zipCode>97006</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being filed by (i) Nathaniel Bradley ("Mr. Bradley"), with respect to the shares beneficially owned by him, his spouse, Sonia Choi, and by Data Vault Holdings Inc. (of which Mr. Bradley is the Chief Executive Officer and sole director); (ii) Sonia Choi ("Ms. Choi"), with respect to the shares beneficially owned by her and her spouse, Mr. Bradley; and (iii) Data Vault Holdings Inc., a Delaware corporation ("Data Vault"), with respect to the shares beneficially owned by it (collectively, the "Reporting Persons").</filingPersonName>
+        <principalBusinessAddress>The principal business address of each of the Reporting Persons is 48 Wall Street, Floor 11, New York, NY 10005.</principalBusinessAddress>
+        <principalJob>Data Vault is a data technology and licensing company. Mr. Bradley is the Chief Executive Officer and sole director of Data Vault. Mr. Bradley is also the Chief Executive Officer and a member of the board of directors of the Issuer (the "Board"). Ms. Choi is the Chief Marketing Officer of Data Vault.</principalJob>
+        <hasBeenConvicted>During the last five years, neither the Reporting Persons nor any officer or director of Data Vault has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, neither the Reporting Persons nor any officer or director of Data Vault has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Each of Mr. Bradley and Ms. Choi is a citizen of the United States of America. Data Vault is a Delaware corporation.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>As more fully described in Item 4, on December 31, 2024, Data Vault received 40,000,000 shares of common stock, par value $0.0001 per share, of the Issuer (the "Common Stock") as consideration for the transfer of the Acquired Assets (as described and defined in Item 4) to the Issuer ("WiSA" or the "Company"). Immediately after Data Vault received the stock consideration, a portion of such consideration was distributed to its shareholders on a pro rata basis.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>On December 31, 2024, WiSA completed an asset purchase of information technology assets, certain patents and trademarks (collectively, the "Acquired Assets") from Data Vault. At the closing (the "Closing"), pursuant to an asset purchase agreement, by and between WiSA and Data Vault, dated as of September 4, 2024, as amended, and as further amended from time to time (the "Asset Purchase Agreement"), the Company acquired the Acquired Assets for an aggregate purchase price consisting of (i) $10,000,000 paid in the form of a promissory note issued by the Company to Data Vault (the "Promissory Note"), (ii) 40,000,000 shares (the "Closing Stock Consideration") of validly issued, fully paid and nonassessable shares of restricted Common Stock, issued by the Company to Data Vault and its designees, and (iii) the assumption of the transferred liabilities, which clauses (i) through (iii) above, collectively, comprised the total consideration paid for the Acquired Assets. Immediately after Data Vault received the stock consideration, it distributed a portion of the stock consideration to its shareholders on a pro rata basis (such distribution, the "Distribution"). Ownership and number of shares reported herein reflects the Distribution. Mr. Bradley received 3,446,456 shares in the Distribution and was appointed as Chief Executive Officer and a member of the Board. Ms. Choi received 2,775,954 shares in the Distribution. In connection with the Closing, the Company issued the Promissory Note in a principal amount of $10,000,000 and due on the third anniversary of the Closing (the "Maturity Date"). The Company agreed to pay interest to Data Vault on the aggregate unconverted and then outstanding principal amount of the Promissory Note at the rate of five and twelve hundredths percent (5.12%) per annum, accruing from the Closing. The Promissory Note can be converted at Data Vault's option, partially or entirely, into shares of Common Stock, any time after the Maturity Date until the Promissory Note is fully paid off. The Promissory Note uses a conversion price equaling to seventy-five percent (75%) of the average VWAP (as defined in the Promissory Note) during the ten (10) consecutive trading days ending on the trading day that is immediately prior to the conversion date subject to a floor price of $1.116 per share (the "Conversion Price"). At Data Vault's sole discretion, upon a Change of Control (as defined in the Promissory Note), (i) the Company shall cause any successor entity to assume in writing all of the obligations of the Company under the Promissory Note, (ii) pay or cause to be paid to Data Vault the Note Balance (as defined in the Promissory Note) in cash, or (iii) pay, at the closing of such Change of Control, in full satisfaction of the Company's obligations under the Promissory Note, an amount in cash or equivalent Common Stock to the amount Data Vault would have been paid if Data Vault converted its Note Balance (as defined in the Promissory Note) into shares of Common Stock immediately prior to such closing, at the Conversion Price.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The percentage ownership of shares of Common Stock set forth in this Schedule 13D is based upon 52,034,060 shares outstanding as of December 31, 2024.</percentageOfClassSecurities>
+        <numberOfShares>As of the date of this Schedule 13D, Mr. Bradley directly holds 3,446,456 shares, indirectly holds 3,999,911 shares, which are directly held by Data Vault, and indirectly holds 2,775,954 shares, which are directly held by Mr. Bradley's spouse, for an aggregate of 10,222,321 shares beneficially owned. Ms. Choi directly holds 2,775,954 shares and indirectly holds 3,446,456 shares, which are directly held by Ms. Choi's spouse, for an aggregate of 6,222,410 shares beneficially owned. Data Vault directly holds 3,999,911 shares.</numberOfShares>
+        <transactionDesc>Except as set forth in Item 4 of this Schedule 13D, the Reporting Persons have not engaged in any transaction with respect to the Common Stock during the sixty days prior to the date of filing this Schedule 13D.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Asset Purchase Agreement and Promissory Note
+
+On September 4, 2024, WiSA and certain investors entered into the Asset Purchase Agreement and the Promissory Note, each as defined and described in Item 4 above.
+
+Earnout Agreement
+
+In connection with the Closing, WiSA and Data Vault entered into an earnout agreement, dated as of December 31, 2024 (the "Earnout Agreement"), pursuant to which the Company shall pay an amount equal to three percent (3%) of the gross revenue of the Company (including its subsidiaries and affiliates) generated from or otherwise attributable to any patents and patent applications included in the Acquired Assets, subject to customary deductions calculated in accordance with GAAP, and as further set forth in the Earnout Agreement. The earnout period commenced on the Closing Date (as defined in the Earnout Agreement) and will end upon the expiration of the last to expire of the patents included in the Acquired Assets (the "Term"). The Company shall make the earnout payments to Data Vault on a quarterly basis during the Term.
+
+Employment Agreement
+
+On December 31, 2024, pursuant to the Asset Purchase Agreement, the Board appointed Mr. Bradley as the Company's new principal executive officer and a member of its Board, effective upon the Closing. On the same date, WiSA and Mr. Bradley entered into an employment agreement, dated as of December 31, 2024 (the "Employment Amendment"). In his capacity as the Company's Chief Executive Officer, pursuant to the Employment Agreement, Mr. Bradley will receive an initial base salary of $450,000 per year, with an opportunity to receive an annual bonus, made available to the Company's senior management from time to time by the Board.
+
+Inducement Award Agreement
+
+On December 31, 2024, WiSA and Mr. Bradley entered into an inducement award agreement, dated as of December 31, 2024 (the "Inducement Award Agreement"), pursuant to which Mr. Bradley was granted 1,200,000 units of restricted stock of the Company (the "Units") as an inducement material to Mr. Bradley's entering into employment with the Company. The Units were approved by the Board and granted outside of the Company's 2020 Stock Incentive Plan and 2018 Long-Term Stock Incentive Plan in accordance with Nasdaq Listing Rule 5635(c)(4). The Inducement Award Agreement contemplates half of the Units vesting in equal 3-month installments over a 36-month period beginning June 20, 2025, and the other half of the Units vesting upon the Company's aggregate revenue equaling or exceeding $40 million over any trailing 12 calendar month period ending on or prior to the date that is 5 years from the grant date.
+
+Voting Agreement
+
+On or around January 6, 2025, WiSA and certain stockholders entered into a voting agreement (the "Voting Agreement"), pursuant to which such stockholders agreed to vote (i) in favor of (1) the CSI APA (as defined in the Voting Agreement) and the asset purchase and other transactions contemplated therein and (2) any proposal to adjourn or postpone such meeting of stockholders of the Company to a later date if there are not sufficient votes to approve the CSI APA and/or the CSI Transaction (as defined in the Voting Agreement); and (ii) against any action, proposal, transaction, or agreement which could reasonably be expected to (1) result in a breach of any covenant, representation or warranty, or any other obligation or agreement of the Company under the CSI APA or of any stockholder under the Voting Agreement, or (2) impede, interfere with, delay, discourage, adversely affect, or inhibit the timely consummation of the CSI Transaction or the fulfillment of the Company's conditions to closing under the CSI APA or change in any manner the voting rights of any class of shares of the Company (including any amendments to the Company's certificate of incorporation).</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>99.1 Asset Purchase Agreement, dated September 4, 2024, by and between WiSA Technologies, Inc. and Data Vault Holdings Inc. https://www.sec.gov/Archives/edgar/data/1682149/000110465924098380/tm2423342d1_ex2-1.htm
+
+99.2 Amendment to the Asset Purchase Agreement, dated as of November 14, 2024, by and between WiSA Technologies, Inc. and Data Vault Holdings Inc. https://www.sec.gov/Archives/edgar/data/1682149/000110465924119534/tm2428561d1_ex2-1.htm
+
+99.3 Second Amendment to the Asset Purchase Agreement, dated as of December 31, 2024, by and between WiSA Technologies, Inc. and Data Vault Holdings Inc. https://www.sec.gov/Archives/edgar/data/1682149/000110465925001736/tm252064d1_ex2-1.htm
+
+99.4 Promissory Note, dated as of December 31, 2024, by WiSA Technologies, Inc. https://www.sec.gov/Archives/edgar/data/1682149/000110465925001736/tm252064d1_ex4-1.htm
+
+99.5 Earnout Agreement, dated as of December 31, 2024, by and between WiSA Technologies, Inc. and Data Vault Holdings Inc. https://www.sec.gov/Archives/edgar/data/1682149/000110465925001736/tm252064d1_ex10-1.htm
+
+99.6 Employment Agreement for Nathaniel Bradley, dated as of December 31, 2024. https://www.sec.gov/Archives/edgar/data/1682149/000110465925001736/tm252064d1_ex10-4.htm
+
+99.7 Inducement Award Agreement, dated as of December 31, 2024, by and between WiSA Technologies, Inc. and Nathaniel Bradley. https://www.sec.gov/Archives/edgar/data/1682149/000110465925001736/tm252064d1_ex10-5.htm
+
+99.8 Voting Agreement, by and between WiSA Technologies, Inc. and the stockholder parties thereto.
+
+99.9 Joint Filing Agreement.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Nathaniel Bradley</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Nathaniel Bradley</signature>
+          <title>Nathaniel Bradley</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Sonia Choi</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sonia Choi</signature>
+          <title>Sonia Choi</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Data Vault Holdings Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Nathaniel Bradley</signature>
+          <title>Nathaniel Bradley, CEO</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.8
+<SEQUENCE>2
+<FILENAME>tm252944d1_ex99-8.htm
+<DESCRIPTION>EXHIBIT 99.8
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">Exhibit 99.8</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><U>Voting Agreement</U></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This Voting Agreement (this &ldquo;<B>Agreement</B>&rdquo;),
+dated as of January __, 2025, is entered into by and between and among the undersigned stockholders (each a &ldquo;<B>Stockholder</B>&rdquo;
+and collectively, &ldquo;<B>Stockholders</B>&rdquo;) of WiSA Technologies, Inc., a Delaware corporation (the &ldquo;<B>Company</B>&rdquo;)
+and the Company. Stockholders and the company may be individually referred to as a &ldquo;<B>Party</B>&rdquo; or collectively as the
+&ldquo;<B>Parties</B>.&rdquo;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">WHEREAS, the Stockholders include Data Vault Holdings Inc. (&ldquo;DV&rdquo;),
+a Delaware corporation;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">WHEREAS, DV and the Company entered into that certain Asset Purchase
+Agreement by and between the Company and DV dated September 4, 2024, as amended on November 14, 2024 (&ldquo;<B>DV APA</B>&rdquo;);</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">WHEREAS, upon the closing of the DV APA and the transactions contemplated
+thereby (the &ldquo;<B>DV Transaction</B>&rdquo;), DV and its shareholders will become a stockholder of the Company&rsquo;s common stock,
+par value $0.0001 per share (the &ldquo;<B>Company Common Stock</B>&rdquo;);</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">WHEREAS, in connection with the execution of this Agreement, the Company,
+and CompuSystems, Inc., an Illinois corporation (&ldquo;<B>Target</B>&rdquo;), will enter into that certain Asset Purchase Agreement,
+by and between the Target and the Company (the &ldquo;<B>CSI APA</B>&rdquo;), pursuant to which the Company will obtain stockholders&rsquo;
+approval of transaction contemplated in the CSI APA (the &ldquo;<B>CSI Transaction</B>&rdquo;); and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">WHEREAS, to obtain the benefits of the CSI Transaction and the DV Transaction
+for Stockholders and the Company and to induce Target to close the CSI transaction, Stockholders are willing to make certain agreements
+as set forth in this Agreement with respect to the shares of the Company Common Stock Beneficially Owned (as defined below) by Stockholders
+and set forth below Stockholder&rsquo;s signature on the signature page hereto (the &ldquo;<B>Shares</B>&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">NOW, THEREFORE, in consideration of the foregoing and the respective
+representations, warranties, covenants, and agreements set forth below and for other good and valuable consideration, the receipt, sufficiency,
+and adequacy of which are hereby acknowledged, the Parties hereto, intending to be legally bound, do hereby agree as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>1.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Definitions</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">For purposes of this Agreement, capitalized
+terms used and not otherwise defined herein shall have the respective meanings ascribed to such terms in the CSI APA Agreement. When used
+in this Agreement, the following terms shall have the meanings assigned to them in this Section <FONT STYLE="background-color: lightgrey">1</FONT>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>&ldquo;<B>Beneficially Own</B>&rdquo; or &ldquo;<B>Beneficial Ownership</B>&rdquo; has the meaning assigned to such term in Rule
+13d-3 under the Exchange Act, and a Person&rsquo;s beneficial ownership of securities shall be calculated in accordance with the provisions
+of such rule (in each case, irrespective of whether or not such rule is actually applicable in such circumstance). For the avoidance of
+doubt, &ldquo;Beneficially Own&rdquo; and &ldquo;Beneficial Ownership&rdquo; shall also include record ownership of securities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>&ldquo;<B>Beneficial Owner</B>&rdquo; shall mean the Person who Beneficially Owns the referenced securities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>&ldquo;<B>Person</B>&rdquo; means any of the undersigned stockholders, whether a natural person or entity.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>2.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Representations of Stockholder</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">Each Stockholder hereby represents and
+warrants to Company, severally, and solely as to such Stockholder, that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Ownership of Shares</B>. Stockholder: (i) is the Beneficial Owner of, and has good and marketable title to, all of the Shares,
+free and clear of any proxy, voting restriction, adverse claim, or other liens, other than those created by this Agreement or under applicable
+federal or state securities laws; and (ii) has the sole voting and sole disposition power over all of the Shares. Except pursuant to this
+Agreement, there are no options, warrants, or other rights, agreements, arrangements, or commitments of any character to which Stockholder
+is a party relating to the pledge, disposition, or voting of any of the Shares and there are no voting trusts or voting agreements with
+respect to the Shares.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Disclosure of All Shares Owned</B>. Stockholder does not Beneficially Own any shares of Company Common Stock other than the
+Shares.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Power and Authority; Binding Agreement.</B> Stockholder has full power and authority and legal capacity to enter into, execute,
+and deliver this Agreement and to perform fully Stockholder&rsquo;s obligations hereunder. This Agreement has been duly and validly executed
+and delivered by Stockholder and constitutes the legal, valid, and binding obligation of Stockholder, enforceable against Stockholder
+in accordance with its terms, except as may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, or other similar
+laws affecting creditors&rsquo; rights generally.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>No Conflict.</B> The execution and delivery of this Agreement by Stockholder does not, and the consummation of the transactions
+contemplated hereby and the compliance with the provisions hereof will not, conflict with or violate any law applicable to Stockholder
+or result in any breach or violation of, or constitute a default (or an event that with notice or lapse of time or both would become a
+default) under, or give to others any rights of termination, amendment, acceleration, or cancellation of, or result in the creation of
+any lien on any of the Shares pursuant to, any agreement or other instrument or obligation (including organizational documents) binding
+upon Stockholder or any of the Shares.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(e)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>No Consents. </B>No consent, approval, order, or authorization of, or registration, declaration, or filing with, any governmental
+entity or any other Person on the part of Stockholder is required in connection with the valid execution, delivery, or performance of
+this Agreement. For the avoidance of doubt, no consent of Stockholder&rsquo;s spouse is necessary under any &ldquo;community property&rdquo;
+or other laws in order for Stockholder to enter into and perform its obligations under this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(f)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>No Litigation. </B>There is no action, suit, investigation, or proceeding (whether judicial, arbitral, administrative, or otherwise)
+(each an &ldquo;<B>Action</B>&rdquo;) pending against, or, to the knowledge of Stockholder, threatened against or affecting, Stockholder
+that could reasonably be expected to materially impair or materially adversely affect the ability of Stockholder to perform Stockholder&rsquo;s
+obligations hereunder or to consummate the transactions contemplated by this Agreement on a timely basis.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>3.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Agreement to Vote Shares</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Agreement to Vote and Approve.</B> Each Stockholder irrevocably and unconditionally agrees during the term of this Agreement,
+at any annual or special meeting of the Company called with respect to the following matters, and at every adjournment or postponement
+thereof, and for every action or approval by written consent or consents of the Company stockholders with respect to any of the following
+matters, to vote or cause the holder of record to vote the Shares: (i) in favor of (1) the CSI APA and the asset purchase and the other
+transactions contemplated by the CSI APA, and (2) any proposal to adjourn or postpone such meeting of stockholders of the Company to a
+later date if there are not sufficient votes to approve the CSI APA and/or the CSI Transaction; and against any action, proposal, transaction,
+or agreement which could reasonably be expected to result in a breach of any covenant, representation or warranty, or any other obligation
+or agreement of the Company under the CSI APA or of any Stockholder under this Agreement, and (3) any action, proposal, transaction, or
+agreement that could reasonably be expected to impede, interfere with, delay, discourage, adversely affect, or inhibit the timely consummation
+of the CSI Transaction or the fulfillment of the Company&rsquo;s conditions to Closing under the CSI APA or change in any manner the voting
+rights of any class of shares of the Company (including any amendments to the Company Certificate of Incorporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>4.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>No Voting Trusts or Other Arrangement</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">Each Stockholder agrees that, during the
+term of this Agreement, Stockholder will not, and will not permit any Person under Stockholder&rsquo;s control to, deposit any of the
+Shares in a voting trust, grant any proxies with respect to the Shares, or subject any of the Shares to any arrangement with respect to
+the voting of the Shares, in each case other than those entered into with, or otherwise for the benefit of, Parent.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>5.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Transfer and Encumbrance</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">Each Stockholder agrees that during the
+term of this Agreement, Stockholder will not, directly or indirectly, transfer, sell, offer, exchange, assign, gift, pledge, convey any
+legal or Beneficial Ownership interest in, or otherwise dispose of (by merger (including by conversion into securities or other consideration),
+by tendering into any tender or exchange offer, by operation of Law, or otherwise), or encumber (each, a &ldquo;<B>Transfer</B>&rdquo;),
+any of the Shares or enter into any contract, option, or other agreement with respect to, or consent to, a Transfer of any of the Shares
+or Stockholder&rsquo;s voting or economic interest therein. Any attempted Transfer of Shares or any interest therein in violation of this
+Section <FONT STYLE="background-color: lightgrey">5</FONT> shall be null and void. Notwithstanding the foregoing, this Section <FONT STYLE="background-color: lightgrey">5</FONT>
+shall not prohibit a Transfer of the Shares by Stockholder to: (a) any member of Stockholder&rsquo;s immediate family; (b) a trust under
+which distributions may be made only to the Stockholder or any member of Stockholder&rsquo;s immediate family; or (c) Stockholder&rsquo;s
+executors, administrators, testamentary trustees, legatees, or beneficiaries, for bona fide estate planning purposes by will or by the
+laws of intestate succession/to an Affiliate of Stockholder; provided, that a Transfer referred to in this sentence shall be permitted
+only if, as a precondition to such Transfer, the transferee agrees in a writing, reasonably satisfactory in form and substance to Company,
+to be bound by all of the terms of this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>6.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Additional Shares</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">Each Stockholder agrees that all shares
+of Company Common Stock that Stockholder purchases, acquires the right to vote, or otherwise acquires Beneficial Ownership of, after the
+execution of this Agreement and prior to the Expiration Time shall be subject to the terms and conditions of this Agreement and shall
+constitute Shares for all purposes of this Agreement. In the event of any stock split, stock dividend, merger, reorganization, recapitalization,
+reclassification, combination, exchange of shares, or the like of the capital stock of the Company affecting the Shares, the terms of
+this Agreement shall apply to the resulting securities and such resulting securities shall be deemed to be &ldquo;Shares&rdquo; for all
+purposes of this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>7.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Termination</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">This Agreement shall terminate upon the
+earliest to occur of (the &ldquo;<B>Expiration Time</B>&rdquo;): (a) the date on which the CSI APA terminates in accordance with its terms;
+(b) the termination of this Agreement by mutual written consent of the Parties, and (c) the date that the CSI Transaction is approved;
+provided, however, that (i) this Section 7 shall survive the termination of this Agreement and remain in full force and effect, and (ii)
+nothing in this Section 7 shall relieve or otherwise limit the liability of any Party for any intentional breach of this Agreement prior
+to such termination.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><B>8.<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT></B><B><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline; background-color: white"><U>No
+Agreement as Director or Officer</U></FONT>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">Each Stockholder has entered into this
+Agreement solely in the Stockholder&rsquo;s capacity as the record and Beneficial Owner of the Shares (and not in any other capacity,
+including any capacity as a director or officer of the Company). Nothing in this Agreement: (a) will limit or affect any actions or omissions
+taken by a Stockholder in such Stockholder&rsquo;s capacity as a director or officer of the Company, including in exercising rights under
+the CSI APA, and no such actions or omissions shall be deemed a breach of this Agreement; or (b) will be construed to prohibit, limit,
+or restrict a Stockholder from exercising such Stockholder&rsquo;s fiduciary duties as a director or officer to the Company or its stockholders.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in"></P>
+
+<!-- Field: Page; Sequence: 4; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>9.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Further Assurances</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">Stockholder agrees, from time to time,
+and without additional consideration, to execute and deliver such additional proxies, documents, and other instruments and to take all
+such further action as Company may reasonably request to consummate and make effective the transactions contemplated by this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>10.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Entire Agreement</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">This Agreement supersedes all prior agreements,
+written or oral, between the Parties with respect to the subject matter hereof and contains the entire agreement between the Parties with
+respect to the subject matter hereof. This Agreement may not be amended or supplemented, and no provisions hereof may be modified or waived,
+except by an instrument in writing signed by both Parties. No waiver of any provisions hereof by either Party shall be deemed a waiver
+of any other provisions hereof by such Party, nor shall any such waiver be deemed a continuing waiver of any provision hereof by such
+Party.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>11.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Notices</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">All notices, requests, consents, claims,
+demands, waivers, and other communications hereunder shall be in writing and shall be deemed to have been given upon the earlier of: (a)
+when delivered by hand (providing proof of delivery); (b) when received by the addressee if sent by a nationally recognized overnight
+courier (receipt requested); or (c) on the date sent by email if sent during normal business hours of the recipient, and on the next Business
+Day if sent after normal business hours of the recipient. Such communications must be sent to the respective Parties at their addresses
+set forth below their signatures (or at such other address for a Party as shall be specified in a notice given in accordance with this
+Section 11):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; color: black; vertical-align: baseline"><B>12.<FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="background-color: white"><U>Miscellaneous</U></FONT></B></FONT><B>.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(a)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Governing Law.</B> This Agreement, and all claims or causes of action (whether in contract, tort or otherwise) that may be based
+upon, arise out of or relate to this Agreement or the negotiation, execution or performance of this Agreement (including any claim or
+cause of action based upon, arising out of or related to any representation or warranty made in or in connection with this Agreement)
+shall be governed by and construed in accordance with the law of the State of Delaware, regardless of the laws that might otherwise govern
+under applicable principles of conflicts of laws.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 5; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(b)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Waiver of Jury Trial.</B> EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY
+TO INVOLVE COMPLICATED AND DIFFICULT ISSUES AND, THEREFORE, EACH SUCH PARTY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE
+TO A TRIAL BY JURY IN RESPECT OF ANY LEGAL ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS
+AGREEMENT. EACH PARTY TO THIS AGREEMENT CERTIFIES AND ACKNOWLEDGES THAT: (A) NO REPRESENTATIVE OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY
+OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT SEEK TO ENFORCE THE FOREGOING WAIVER IN THE EVENT OF A LEGAL ACTION; (B) SUCH PARTY HAS
+CONSIDERED THE IMPLICATIONS OF THIS WAIVER; (C) SUCH PARTY MAKES THIS WAIVER VOLUNTARILY; AND (D) SUCH PARTY HAS BEEN INDUCED TO ENTER
+INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS <FONT STYLE="background-color: lightgrey">SECTION
+12(B)</FONT>.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(c)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Expenses. </B>All costs and expenses incurred in connection with this Agreement shall be paid by the Party incurring such cost
+or expense, whether or not the CSI Transaction is consummated.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(d)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Severability.</B> If any term or provision of this Agreement, or the application thereof, becomes or is declared by a court
+of competent jurisdiction to be invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability
+shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other
+jurisdiction. Upon such determination that any term or other provision is invalid, illegal, or unenforceable, the Parties shall negotiate
+in good faith to modify this Agreement so as to effect the original intent of the Parties as closely as possible in a mutually acceptable
+manner in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(e)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Counterparts.</B> This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original
+but all of which together shall constitute one and the same instrument. A signed copy of this Agreement delivered by facsimile, email,
+or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this
+Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(f)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Interpretation.</B> The section headings herein are for convenience of reference only, do not constitute part of this Agreement,
+and shall not be deemed to limit or otherwise affect any of the provisions hereof. Where a reference in this Agreement is made to a Section,
+such reference shall be to a section of this Agreement unless otherwise indicated. Whenever the words &ldquo;include,&rdquo; &ldquo;includes,&rdquo;
+or &ldquo;including&rdquo; are used in this Agreement, they shall be deemed to be followed by the words &ldquo;without limitation.&rdquo;
+As used herein, the word &ldquo;extent&rdquo; in the phrase &ldquo;to the extent&rdquo; means the degree to which a subject or other thing
+extends, and does not simply mean &ldquo;if,&rdquo; and the word &ldquo;or&rdquo; is not exclusive. The definitions of terms defined herein,
+or defined in the CSI APA and incorporated herein, shall apply equally to the singular and plural forms of such terms. The words &ldquo;hereof,&rdquo;
+&ldquo;herein,&rdquo; &ldquo;hereby,&rdquo; &ldquo;hereto,&rdquo; and &ldquo;hereunder,&rdquo; and words of similar import, when used
+in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 6; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(g)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Assignment</B>. No Party may assign any of its rights or obligations under this Agreement without the prior written consent
+of the other Parties. This Agreement will be binding upon, inure to the benefit of, and be enforceable by the Parties and their respective
+successors and permitted assigns. Any assignment contrary to the provisions of this <FONT STYLE="background-color: lightgrey">Section
+12(g)</FONT> shall be null and void.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">(h)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><B>Third-Party Beneficiaries. </B>Target is an express third-party beneficiary under this Agreement as a result of the benefits
+expected to accrue to Target as a result of the approval of the CSI Transaction by the stockholders of Company. Nothing in this Agreement,
+express or implied, is intended to or shall confer upon any Person, other than the Parties, Target, and their respective successors and
+permitted assigns, any legal or equitable right, benefit, or remedy of any nature under or by reason of this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-transform: uppercase; text-align: center">[signature page follows]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-transform: uppercase; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 7; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">IN WITNESS WHEREOF, the Parties have executed and
+delivered this Agreement as of the date first written above.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">WISA TECHNOLOGIES, INC.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 62%; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 5%; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 33%; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">By: </FONT></TD>
+    <TD STYLE="padding: 0; border-bottom: Black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">/s/ Brett Moyer<FONT STYLE="color: white">.</FONT></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">Name:&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">Brett Moyer</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Title:&nbsp;&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Chief Executive Officer</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0">15268 NW Greenbrier Pkwy&nbsp;&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0">Beaverton, OR 97006</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0">Email: bmoyer@wisatechnologies.com</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">[Stockholder Signature Page to Follow]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 75pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 75pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 75pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 75pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">[Signature Page to Voting Agreement]</P>
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">[SHAREHOLDER]</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 62%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 5%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 33%; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">By: </FONT></TD>
+    <TD STYLE="padding: 0; border-bottom: Black 1pt solid; text-indent: 0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">Name:&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0"></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Title:&nbsp;&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Address:</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Email:</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0">Number of Shares of Company Common Stock Beneficially Owned as of the date of this Agreement:&nbsp;&nbsp;</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">[Signature Page to Voting Agreement]</P>
+
+<!-- Field: Page; Sequence: 9; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.9
+<SEQUENCE>3
+<FILENAME>tm252944d1_ex99-9.htm
+<DESCRIPTION>EXHIBIT 99.9
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin-top: 0; margin-bottom: 0"><B>Exhibit 99.9</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In accordance with Rule 13d-1(k) under the Securities
+and Exchange Act of 1934, as amended, the persons and entities named below agree to the joint filing on behalf of each of them of the
+foregoing Schedule 13D with respect to the shares of common stock, par value $0.0001 per share, of WiSA Technologies, Inc, and that all
+subsequent amendments to such Schedule 13D shall be filed on behalf of each of the undersigned without the necessity of filing additional
+joint filing agreements. The undersigned hereby further agree that this joint filing agreement be included as an exhibit to such Schedule
+13D and that this joint filing agreement may be executed in any number of physical or electronically signed counterparts, each of which
+when so executed shall be deemed to be an original, but all of which counterparts shall together constitute one and the same instrument.
+In evidence thereof, the undersigned, being duly authorized, have executed this joint filing agreement as of January 13, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 33.75pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">IN WITNESS WHEREOF, each party hereto, being duly
+authorized, has caused this agreement to be executed and effective as of the date set forth below.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">Date: January 13, 2025</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; border-bottom: Black 1pt solid; text-align: justify; text-indent: 0">/s/ Nathaniel Bradley</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0">Nathaniel Bradley</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; border-bottom: Black 1pt solid; text-align: justify; text-indent: 0">/s/ Sonia Choi</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0">Sonia Choi</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0">Data Vault Holdings Inc.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 62%; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 5%; text-align: justify; text-indent: 0">By:</TD>
+    <TD STYLE="padding: 0; border-bottom: black 1pt solid; text-align: justify; width: 33%; text-indent: 0">/s/ Nathaniel Bradley</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">Name: Nathaniel Bradley</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">Title: Chief Executive Officer</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

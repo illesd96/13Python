@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001027796-25-000004.txt : 20250123
+<SEC-HEADER>0001027796-25-000004.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123114136
+ACCESSION NUMBER:		0001027796-25-000004
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PVH CORP. /DE/
+		CENTRAL INDEX KEY:			0000078239
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEN'S & BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS [2320]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				131166910
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0202
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-20620
+		FILM NUMBER:		25548734
+
+	BUSINESS ADDRESS:	
+		STREET 1:		285 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2123813500
+
+	MAIL ADDRESS:	
+		STREET 1:		285 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PHILLIPS VAN HEUSEN CORP /DE/
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PZENA INVESTMENT MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001027796
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		320 PARK AVENUE, 8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-355-1600
+
+	MAIL ADDRESS:	
+		STREET 1:		320 PARK AVENUE, 8TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001027796</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000078239</issuerCik>
+        <issuerName>PVH CORP. /DE/</issuerName>
+        <issuerCusip>693656100</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>285 MADISON AVENUE</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10017</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>PZENA INVESTMENT MANAGEMENT LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>4549120.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>5408146.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5408146.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>9.7</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>PVH CORP. /DE/</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>285 MADISON AVENUE, NEW YORK, NEW YORK, 10017</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Pzena Investment Management, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>320 Park Avenue, 8th floor
+New York, NY 10022</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>New York</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>5,408,146</amountBeneficiallyOwned>
+        <classPercent>9.7%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>4,549,120</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>5,408,146</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>CLIENTS OF THE FILING INVESTMENT MANAGER HAVE THE RIGHT TO RECEIVE AND THE ULTIMATE POWER TO DIRECT THE RECEIPT OF DIVIDENDS FROM, OR THE PROCEEDS OF SALE OF THE SECURITIES REPORTED ON HEREINABOVE. NO INTEREST OF ANY ONE OF SUCH CLIENTS RELATES TO MORE THAN FIVE PERCENT OF THE CLASS.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>PZENA INVESTMENT MANAGEMENT LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>s/ Steven Coffey</signature>
+        <title>Chief Legal Risk Officer &amp; Chief Compliance Officer</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

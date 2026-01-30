@@ -1,0 +1,207 @@
+<SEC-DOCUMENT>0001214659-25-000803.txt : 20250116
+<SEC-HEADER>0001214659-25-000803.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116141132
+ACCESSION NUMBER:		0001214659-25-000803
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Marpai, Inc.
+		CENTRAL INDEX KEY:			0001844392
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISC HEALTH & ALLIED SERVICES, NEC [8090]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93176
+		FILM NUMBER:		25535257
+
+	BUSINESS ADDRESS:	
+		STREET 1:		615 CHANNELSIDE DRIVE
+		STREET 2:		SUITE 207
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33602
+		BUSINESS PHONE:		646-303-3483
+
+	MAIL ADDRESS:	
+		STREET 1:		615 CHANNELSIDE DRIVE
+		STREET 2:		SUITE 207
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33602
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TALL PINES CAPITAL, LLC
+		CENTRAL INDEX KEY:			0002027613
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				814402451
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1010 JORIE BLVD, SUITE 144
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60523
+		BUSINESS PHONE:		630-230-1836
+
+	MAIL ADDRESS:	
+		STREET 1:		1010 JORIE BLVD, SUITE 144
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60523
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: TALL PINES CAPITAL, LLC -->
+          <cik>0002027613</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>COMMON STOCK</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001844392</issuerCik>
+        <issuerName>MARPAI, INC.</issuerName>
+        <issuerCusip>571354109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>615 CHANNELSIDE DR</com:street1>
+          <com:street2>SUITE 207</com:street2>
+          <com:city>TAMPA</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33602</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>TALL PINES CAPITAL, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>812633.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>812633.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.91</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>STONEBRIDGE WEALTH MANAGEMENT, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>21981.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>21981.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.16</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>MARPAI, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>615 CHANNELSIDE DR, SUITE 207, TAMPA, FL 33602</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>CHRISTOPHER M. PLAHM</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1010 JORIE BLVD, SUITE 144, OAK BROOK, IL 60523</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>834,614</amountBeneficiallyOwned>
+        <classPercent>6.07</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>834,614</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>TALL PINES CAPITAL, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ CHRISTOPHER M PLAHM</signature>
+        <title>INVESMENT ADVISER</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>STONEBRIDGE WEALTH MANAGEMENT, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ CHRISTOPHER M PLAHM</signature>
+        <title>INVESTMENT ADVISER</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

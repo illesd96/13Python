@@ -1,0 +1,291 @@
+<SEC-DOCUMENT>0001213900-25-000799.txt : 20250103
+<SEC-HEADER>0001213900-25-000799.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103163002
+ACCESSION NUMBER:		0001213900-25-000799
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cohen Circle Acquisition Corp. I
+		CENTRAL INDEX KEY:			0001894176
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				981634072
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94652
+		FILM NUMBER:		25506766
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+		BUSINESS PHONE:		4844593476
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FTAC Artemis Acquisition Corp.
+		DATE OF NAME CHANGE:	20211116
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cohen Circle Sponsor I, LLC
+		CENTRAL INDEX KEY:			0001894482
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				873017122
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+		BUSINESS PHONE:		4844593476
+
+	MAIL ADDRESS:	
+		STREET 1:		2929 ARCH STREET STE 1703
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FTAC Artemis Sponsor, LLC
+		DATE OF NAME CHANGE:	20211118
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001213900-24-088556</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Cohen Circle Sponsor I, LLC -->
+          <cik>0001894482</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Class A Ordinary Shares, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>12/30/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001894176</issuerCIK>
+        <issuerCUSIP>G3730H106</issuerCUSIP>
+        <issuerName>Cohen Circle Acquisition Corp. I</issuerName>
+        <address>
+          <com:street1>2929 Arch Street</com:street1>
+          <com:street2>Suite 1703</com:street2>
+          <com:city>Philadelphia</com:city>
+          <com:stateOrCountry>PA</com:stateOrCountry>
+          <com:zipCode>19104</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Mehar Jagota</personName>
+          <personPhoneNum>2157019555</personPhoneNum>
+          <personAddress>
+            <com:street1>2929 Arch Street, Suite 1703</com:street1>
+            <com:city>Philadelphia</com:city>
+            <com:stateOrCountry>PA</com:stateOrCountry>
+            <com:zipCode>19104</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001894482</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Cohen Circle Sponsor I, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4005000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4005000.00</sharedDispositivePower>
+        <aggregateAmountOwned>4005000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>12.67</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Comprised of 445,000 Class A ordinary shares, and 3,560,000 Class B ordinary shares. The Class B shares will automatically convert into Class A shares at the time of the Issuer's initial business combination on a one-for-one basis, subject to certain adjustments described in the Issuer's charter documents.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001894179</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Cohen Circle Advisors I, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4345000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4345000.00</sharedDispositivePower>
+        <aggregateAmountOwned>4345000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.74</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Comprised of 4,345,000 Class B ordinary shares. The Class B shares will automatically convert into Class A shares at the time of the Issuer's initial business combination on a one-for-one basis, subject to certain adjustments described in the Issuer's charter documents.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001829381</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Betsy Z. Cohen</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>8350000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>8350000.00</sharedDispositivePower>
+        <aggregateAmountOwned>8350000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>26.41</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <commentContent>Comprised of 445,000 Class A ordinary shares, and 7,905,000 Class B ordinary shares. The Class B shares will automatically convert into Class A shares at the time of the Issuer's initial business combination on a one-for-one basis, subject to certain adjustments described in the Issuer's charter documents. Ms. Cohen is the Manager of each of Cohen Circle Sponsor I, LLC and Cohen Circle Advisors I, LLC and shares voting and investment power over shares held by those entities and disclaims beneficial ownership over any securities in which she does not have any pecuniary interest.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Amanda Abrams</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>00.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Ordinary Shares, par value $0.0001 per share</securityTitle>
+        <issuerName>Cohen Circle Acquisition Corp. I</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>2929 Arch Street</com:street1>
+          <com:street2>Suite 1703</com:street2>
+          <com:city>Philadelphia</com:city>
+          <com:stateOrCountry>PA</com:stateOrCountry>
+          <com:zipCode>19104</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Introductory Note
+
+This Amendment No. 1 to Schedule 13D (this "Amendment") relates to the Class A ordinary shares, par value $0.0001 per share of Cohen Circle Acquisition Corp. I (the "Issuer"). This Amendment amends the Schedule 13D filed by the Reporting Persons with the Securities and Exchange Commission on October 17, 2024 (the "Original Schedule 13D").  Except as otherwise specified in this Amendment, all previous Items are unchanged. Capitalized terms used herein which are not defined herein have the meanings given to them in the Original Schedule 13D.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by:
+
+(i) Sponsor, which is the holder of record of approximately 12.67% of the issued and outstanding shares of all share classes of the Issuer (31,620,000) based on the number of Class A Shares (23,000,000), private placement units (715,000), and Class B Shares (7,905,000) outstanding as of the closing of the Issuer's initial public offering on October 15, 2024 (the "IPO");
+
+(ii) Cohen Circle Advisors I, LLC ("Advisors"), which is the holder of record of 4,345,000 Class B Shares, or 13.74%, of the issued and outstanding shares of all share classes of the Issuer outstanding as of the closing of the IPO;
+
+(iii) Betsy Z. Cohen, the President and Chief Executive Officer of the Issuer, and also the Manager of Sponsor and Advisors; and
+
+(iv) Amanda Abrams.
+
+On December 30, 2024, Ms. Abrams resigned as the co-Manager of Sponsor and Advisors.  As a result, Ms. Abrams has ceased to be Reporting Person, which change in status is hereby reported upon the filing of this Amendment. The remaining Reporting Persons will continue filing statements on Schedule 13D with respect to their beneficial ownership of securities of the Issuer to the extent required by applicable law.</filingPersonName>
+        <principalBusinessAddress>The address of the principal business and principal office of each of Sponsor, Advisors and Mses. Cohen and Abrams is c/o Cohen Circle, LLC, 2929 Arch Street, Suite 1703, Philadelphia, PA 19104.</principalBusinessAddress>
+        <principalJob>Sponsor and Advisors' principal businesses are to act as the Issuer's sponsor and holder of all Class B Shares. The principal occupation of Ms. Cohen is to serve as an officer of the Issuer. The principal occupation of Ms. Abrams is to serve as Chief Executive Officer of Cohen Circle, LLC.</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons has, during the last five years, been a party to civil proceeding of a judicial administrative body of competent jurisdiction and, as a result of such proceeding, was, or is subject to, a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, Federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Sponsor and Advisors are each a Delaware limited liability company. Mses. Cohen and Abrams are citizens of the United States.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>No change.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>No change.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Calculation of the percentage of ordinary shares beneficially owned is based on 31,620,000 ordinary shares outstanding as of the closing of the IPO, including the Class A Shares (23,000,000), private placement units (715,000), and Class B Shares (7,905,000) outstanding as of such date. The aggregate number and percentage of ordinary shares beneficially owned by each Reporting Person and, for each Reporting Person, the number of shares as to which there is sole power to vote or to direct the vote, shared power to vote or to direct the vote, sole power to dispose or to direct the disposition, or shared power to dispose or to direct the disposition are set forth on rows 7 through 11 and row 13 of the cover pages of this Amendment and are incorporated herein by reference. As of December 30, 2024, each of Sponsor and Advisors is controlled by its Manager, Betsy Cohen. Ms. Cohen may be deemed to have beneficial ownership of securities reported herein, however, Ms. Cohen disclaims any ownership of securities reported herein other than to the extent of any pecuniary interest she may have therein, directly or indirectly.</percentageOfClassSecurities>
+        <numberOfShares>The information in Item 5(a) is incorporated herein by reference.</numberOfShares>
+        <transactionDesc>None of the Reporting Persons has effected any transactions of ordinary shares during the 60 days preceding the date of this Amendment.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>On December 30, 2024, Ms. Abrams resigned as the co-Manager of Sponsor and Advisors. As a result, Ms. Abrams has ceased to be Reporting Person, which change in status is hereby reported upon the filing of this Amendment. The remaining Reporting Persons will continue filing statements on Schedule 13D with respect to their beneficial ownership of securities of the Issuer to the extent required by applicable law.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>No change.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>No change.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Cohen Circle Sponsor I, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Betsy Z. Cohen</signature>
+          <title>Betsy Z. Cohen/Manager</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Cohen Circle Advisors I, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Betsy Z. Cohen</signature>
+          <title>Betsy Z. Cohen/Manager</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Betsy Z. Cohen</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Betsy Z. Cohen</signature>
+          <title>Betsy Z. Cohen</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Amanda Abrams</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Amanda Abrams</signature>
+          <title>Amanda Abrams</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

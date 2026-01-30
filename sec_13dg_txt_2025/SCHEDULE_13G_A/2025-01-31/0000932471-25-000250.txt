@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0000932471-25-000250.txt : 20250131
+<SEC-HEADER>0000932471-25-000250.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131095650
+ACCESSION NUMBER:		0000932471-25-000250
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QUANTUM CORP /DE/
+		CENTRAL INDEX KEY:			0000709283
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				942665054
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-35818
+		FILM NUMBER:		25576361
+
+	BUSINESS ADDRESS:	
+		STREET 1:		224 AIRPORT PARKWAY
+		STREET 2:		SUITE 550
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+		BUSINESS PHONE:		408 944 4000
+
+	MAIL ADDRESS:	
+		STREET 1:		224 AIRPORT PARKWAY
+		STREET 2:		SUITE 550
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VANGUARD GROUP INC
+		CENTRAL INDEX KEY:			0000102909
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				231945930
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 VANGUARD BLVD
+		CITY:			MALVERN
+		STATE:			PA
+		ZIP:			19355
+		BUSINESS PHONE:		6106691000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 2600
+		STREET 2:		V26
+		CITY:			VALLEY FORGE
+		STATE:			PA
+		ZIP:			19482-2600
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13G/A</submissionType>
+<previousAccessionNumber>0000932471-13-004523</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0000102909</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>1</amendmentNo>
+<securitiesClassTitle>Common Stock</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0000709283</issuerCik>
+<issuerName>Quantum Corp</issuerName>
+<issuerCusip>747906600</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<com:street1>224 Airport Parkway Suite 300</com:street1>
+<com:city>San Jose</com:city>
+<com:stateOrCountry>CA</com:stateOrCountry>
+<com:zipCode>95110</com:zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+<reportingPersonName>The Vanguard Group</reportingPersonName>
+<memberGroup>b</memberGroup>
+<citizenshipOrOrganization>PA</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>240712</soleDispositivePower>
+<sharedDispositivePower>1472</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>242184</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<classPercent>4.99</classPercent>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>Quantum Corp</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>224 Airport Parkway Suite 300, San Jose, CA, 95110</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>The Vanguard Group</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>100 Vanguard Blvd., Malvern, PA 19355</principalBusinessOfficeOrResidenceAddress>
+<citizenship>PA</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>N</notApplicableFlag>
+<typeOfPersonFiling>IA</typeOfPersonFiling>
+</item3>
+<item4>
+<amountBeneficiallyOwned>242184</amountBeneficiallyOwned>
+<classPercent>4.99</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>240712</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>1472</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>N</notApplicableFlag>
+<classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+</item5>
+<item6>
+<notApplicableFlag>N</notApplicableFlag>
+<ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The Vanguard Group, Inc.'s clients, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities reported herein.
+
+No one other person's interest in the securities reported herein is more than 5%.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+</item6>
+<item7>
+<notApplicableFlag>Y</notApplicableFlag>
+</item7>
+<item8>
+<notApplicableFlag>Y</notApplicableFlag>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>The Vanguard Group</reportingPersonName>
+<signatureDetails>
+<signature>Ashley Grim</signature>
+<title>Head of Global Fund Administration</title>
+<date>01/31/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

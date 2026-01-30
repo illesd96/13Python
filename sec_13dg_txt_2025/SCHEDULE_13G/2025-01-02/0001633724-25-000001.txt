@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001633724-25-000001.txt : 20250102
+<SEC-HEADER>0001633724-25-000001.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102074640
+ACCESSION NUMBER:		0001633724-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stronghold Digital Mining, Inc.
+		CENTRAL INDEX KEY:			0001856028
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				862759890
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92984
+		FILM NUMBER:		25500260
+
+	BUSINESS ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		28TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(845) 579-5992
+
+	MAIL ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		28TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HANSAINVEST Hanseatische Investment-Limited Co
+		CENTRAL INDEX KEY:			0001633724
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			2M
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KAPSTADTRING 8
+		CITY:			HAMBURG
+		STATE:			2M
+		ZIP:			22297
+		BUSINESS PHONE:		004940300576209
+
+	MAIL ADDRESS:	
+		STREET 1:		KAPSTADTRING 8
+		CITY:			HAMBURG
+		STATE:			2M
+		ZIP:			22297
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001633724</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Ordinary Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001856028</issuerCik>
+        <issuerName>Stronghold Digital Mining, Inc.</issuerName>
+        <issuerCusip>86337R202</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>595 MADISON AVENUE</com:street1>
+          <com:street2>28TH FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>HANSAINVEST Hanseatische Investment-Limited Co</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>2M</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1565226.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1565226.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1565226.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>10.6</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+      <typeOfReportingPerson>FI</typeOfReportingPerson>
+      <comments>The shares are held for the account of investment funds managed by HANSAINVEST. Under German law HANSAINVEST is not the legal owner of these shares which are co-owned by the investors. However by operation of German law (Sec. 93 (1) KAGB) HANSAINVEST is authorized to exercise the ownership rights to vote the shares and has full dipositive power over the shares. The ownership information above is as of 30th of December 2024.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Stronghold Digital Mining, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>595 MADISON AVENUE, 28TH FLOOR, NEW YORK, NEW YORK, 10022.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Pascal Reyer</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Kapstadtring 8
+22297 Hamburg
+Germany</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>German</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>FI</typeOfPersonFiling>
+        <otherTypeOfPersonFiling>German KVG (Investment Management Company)</otherTypeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,565,226</amountBeneficiallyOwned>
+        <classPercent>10.6</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,565,226</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1,565,226</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ? 240.14a-11.
+
+By signing below I certify that, to the best of my knowledge and belief, the foreign regulatory scheme applicable to Investment Management Company (KVG) is substantially comparable to the regulatory scheme applicable to the functionally equivalent U.S. institution(s). I also undertake to furnish to the Commission staff, upon request, information that would otherwise be disclosed in a Schedule 13D.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>HANSAINVEST Hanseatische Investment-Limited Co</reportingPersonName>
+      <signatureDetails>
+        <signature>Pascal Reyer</signature>
+        <title>Director of Reporting</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

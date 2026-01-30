@@ -1,0 +1,681 @@
+<SEC-DOCUMENT>0001140361-25-001550.txt : 20250121
+<SEC-HEADER>0001140361-25-001550.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121210508
+ACCESSION NUMBER:		0001140361-25-001550
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250121
+DATE AS OF CHANGE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NextDecade Corp.
+		CENTRAL INDEX KEY:			0001612720
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				465723951
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88779
+		FILM NUMBER:		25543693
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 LOUISIANA STREET
+		STREET 2:		SUITE 3900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		7135741880
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 LOUISIANA STREET
+		STREET 2:		SUITE 3900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Harmony Merger Corp.
+		DATE OF NAME CHANGE:	20140703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VALINOR MANAGEMENT, L.P.
+		CENTRAL INDEX KEY:			0001401388
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE, 34TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+		BUSINESS PHONE:		212-918-5245
+
+	MAIL ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE, 34TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VALINOR MANAGEMENT, LLC
+		DATE OF NAME CHANGE:	20070530
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001140361-17-030088</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001401388</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>12</amendmentNo>
+<securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+<dateOfEvent>01/16/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001612720</issuerCIK>
+<issuerCUSIP>65342K105</issuerCUSIP>
+<issuerName>NextDecade Corp.</issuerName>
+<address>
+<com:street1>1000 Louisiana Street</com:street1>
+<com:street2>Suite 3900</com:street2>
+<com:city>Houston</com:city>
+<com:stateOrCountry>TX</com:stateOrCountry>
+<com:zipCode>77002</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>David Gallo</personName>
+<personPhoneNum>(212) 918-5230</personPhoneNum>
+<personAddress>
+<com:street1>Valinor Management L.P.</com:street1>
+<com:street2>405 Lexington Avenue, 34th Floor</com:street2>
+<com:city>New York</com:city>
+<com:stateOrCountry>NY</com:stateOrCountry>
+<com:zipCode>10174</com:zipCode>
+</personAddress>
+</notificationInfo>
+<notificationInfo>
+<personName>Kaitlin Descovich</personName>
+<personPhoneNum>(202) 682-7000</personPhoneNum>
+<personAddress>
+<com:street1>Weil, Gotshal &amp; Manges LLP</com:street1>
+<com:street2>2001 M Street NW</com:street2>
+<com:city>Washington</com:city>
+<com:stateOrCountry>DC</com:stateOrCountry>
+<com:zipCode>20036</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001401387</reportingPersonCIK>
+<reportingPersonName>VALINOR CAPITAL PARTNERS, L.P.</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>2321219</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>2321219</sharedDispositivePower>
+<aggregateAmountOwned>2321219</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>0.89</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001452938</reportingPersonCIK>
+<reportingPersonName>VALINOR CAPITAL PARTNERS OFFSHORE MASTER FUND, L.P.</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>10971298</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>10971298</sharedDispositivePower>
+<aggregateAmountOwned>10971298</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>4.22</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001713363</reportingPersonCIK>
+<reportingPersonName>Valinor Associates, LLC</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>13292517</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>13292517</sharedDispositivePower>
+<aggregateAmountOwned>13292517</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>5.11</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001401388</reportingPersonCIK>
+<reportingPersonName>VALINOR MANAGEMENT, L.P.</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>13292517</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>13292517</sharedDispositivePower>
+<aggregateAmountOwned>13292517</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>5.11</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001601013</reportingPersonCIK>
+<reportingPersonName>Gallo David</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>1540680</soleVotingPower>
+<sharedVotingPower>13292517</sharedVotingPower>
+<soleDispositivePower>1540680</soleDispositivePower>
+<sharedDispositivePower>13292517</sharedDispositivePower>
+<aggregateAmountOwned>14833197</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>5.7</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Stock, par value $0.0001 per share</securityTitle>
+<issuerName>NextDecade Corp.</issuerName>
+<issuerPrincipalAddress>
+<com:street1>1000 Louisiana Street</com:street1>
+<com:street2>Suite 3900</com:street2>
+<com:city>Houston</com:city>
+<com:stateOrCountry>TX</com:stateOrCountry>
+<com:zipCode>77002</com:zipCode>
+</issuerPrincipalAddress>
+<commentText>This Amendment No. 12 ("Amendment No. 12") amends the Schedule 13D originally filed with the U.S. Securities and Exchange Commission (the "Commission") on August 3, 2017 (as amended, the "Statement"), and is filed by the Reporting Persons with respect to the common stock, $0.0001 par value per share ("Shares"), of NextDecade Corporation (the "Issuer").  Capitalized terms used herein but not defined shall have the meaning given to them in the Statement.</commentText>
+</item1>
+<item4>
+<transactionPurpose>Item 4 is amended and supplemented as follows:&#13;
+&#13;
+Since January 3, 2024 and through and including January 17, 2025, Valinor Capital Partners, L.P., a Delaware limited partnership ("Capital Partners") and Valinor Capital Partners Offshore Master Fund, L.P., a Cayman Islands exempted limited partnership ("Capital Partners Offshore Master") sold, in the aggregate, 1,694,605 Shares.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>Item 5 is amended and supplemented as follows:&#13;
+&#13;
+The responses set forth in rows 7 through 13 on the cover pages to this Amendment No. 12 are incorporated by reference into this Item 5. Such responses are provided as of January 17, 2025.&#13;
+&#13;
+(A) Capital Partners directly holds 2,321,219 Shares, which represents approximately 0.89% of the Issuer's outstanding Shares (based on 260,291,186 Shares outstanding as of November 1, 2024, as reported by the Issuer in its Quarterly Report on Form 10-Q filed with the Commission on November 7, 2024, the "Outstanding Shares"); and</percentageOfClassSecurities>
+<numberOfShares>(B) Capital Partners Offshore Master directly holds 10,971,298 Shares, which represents approximately 4.22% of the Outstanding Shares.&#13;
+ &#13;
+David Gallo may be deemed to beneficially own 14,833,197 Shares, representing 5.70% of the Outstanding Shares. Mr. Gallo is the Founder, Managing Partner and Portfolio Manager at Valinor Management, an investment management firm that serves as the investment manager to a number of private investment vehicles including Capital Partners Offshore Master and Capital Partners, and is the managing member of Associates, which in turn is the general partner of Capital Partners Offshore Master and Capital Partners.  Valinor Management Associates, LLC is the general partner of Valinor Management.&#13;
+ &#13;
+The aggregate number and percentage of the Shares beneficially owned by each Reporting Person and, for each Reporting Person, the number of shares as to which there is sole power to vote or to direct the vote, shared power to vote or to direct the vote, sole power to dispose or to direct the disposition, or shared power to dispose or to direct the disposition are set forth on rows 7 through 11 and row 13 of the cover pages of this Schedule 13D.</numberOfShares>
+<transactionDesc>None of the Reporting Persons has effected any transaction in the Shares within the last 60 days except as set forth in Annex A included in Exhibit 99.1 of this Amendment No. 12, which is incorporated by reference into this Item 5(c).</transactionDesc>
+<listOfShareholders>To the knowledge of the Reporting Persons, no person other than the Reporting Persons, or the partners, members, affiliates or shareholders of the Reporting Persons, has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities of the Issuer reported on this Amendment No. 12.</listOfShareholders>
+<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+</item5>
+<item7>
+<filedExhibits>Exhibit 99.1 - Annex A</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>VALINOR CAPITAL PARTNERS, L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ David Gallo</signature>
+<title>David Gallo, Managing Partner</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>VALINOR CAPITAL PARTNERS OFFSHORE MASTER FUND, L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ David Gallo</signature>
+<title>David Gallo, Managing Partner</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Valinor Associates, LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ David Gallo</signature>
+<title>David Gallo, Managing Partner</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>VALINOR MANAGEMENT, L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ David Gallo</signature>
+<title>David Gallo, Managing Partner</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Gallo David</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ David Gallo</signature>
+<title>Gallo David</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ef20041905_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge
+         Document created using Broadridge PROfile 24.12.1.5274
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+    <div>
+      <div style="text-align: right; font-weight: bold;"> Exhibit 99.1<br>
+      </div>
+      <div style="text-align: center; font-weight: bold;"><u> <br>
+        </u></div>
+      <div style="text-align: center; font-weight: bold;"><u>Annex A</u></div>
+      <div><br>
+      </div>
+      <div style="text-align: center;">Transactions</div>
+      <div><br>
+      </div>
+      <div>The following table sets forth all transactions by the Reporting Persons in the Issuer's Common Stock since January 2, 2025, and through and including January 17, 2025.</div>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z4a03e2e3574543f7923c1d6d88f0b045" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td nowrap="nowrap" style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);">
+              <div style="font-weight: bold;">Reporting Person</div>
+            </td>
+            <td nowrap="nowrap" style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td nowrap="nowrap" style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);">
+              <div style="font-weight: bold;">Transaction</div>
+              <div style="font-weight: bold;">Date</div>
+            </td>
+            <td nowrap="nowrap" style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td nowrap="nowrap" style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);">
+              <div style="font-weight: bold;">Number of</div>
+              <div style="font-weight: bold;">Shares Sold</div>
+            </td>
+            <td nowrap="nowrap" style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td nowrap="nowrap" style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0);">
+              <div style="font-weight: bold;">Price Per</div>
+              <div style="font-weight: bold;">Share*</div>
+            </td>
+            <td style="border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-top: 2px solid #000000; vertical-align: top; white-space: nowrap;"><br>
+            </td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; border-top: 2px solid #000000; vertical-align: top; white-space: nowrap;">
+              <div style="font-weight: bold;">Price Range</div>
+              <div style="font-weight: bold;">(inclusive)*</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/2/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>4,014</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.2931</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_0"></a>$8.25 to $8.34</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/2/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>11,420</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.2931</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">$8.25 to $8.34</td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/3/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>4,328</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.3188</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_2"></a>$8.25 to $8.48</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/3/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>12,314</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.3188</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_3"></a>$8.25 to $8.48</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/6/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1,837</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.3190</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_4"></a>$8.25 to $8.40</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/6/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>5,226</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.3190</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_5"></a>$8.25 to $8.40</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/14/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>82</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.2507</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_6"></a>$8.25 to $8.255</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/14/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>234</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.2507</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_7"></a>$8.25 to $8.255</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/15/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>732</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.2880</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_8"></a>$8.25 to $8.36</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/15/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>2,081</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.2880</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_9"></a>$8.25 to $8.36</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/16/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>72,122</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.7092</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_10"></a>$8.25 to $9.11</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/16/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>205,171</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$8.7092</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_11"></a>$8.25 to $9.11</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/17/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>36,330</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$9.0672</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_12"></a>$8.7988 to $9.36</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 41.48%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>Valinor Capital Partners Offshore Master Fund, L.P.</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 14.16%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>1/17/2025</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>103,352</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0);" colspan="1">&#160;</td>
+            <td style="width: 13.21%; vertical-align: top; border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>$9.0672</div>
+            </td>
+            <td style="width: 1%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td style="border-bottom: 2px solid #000000; border-right: 2px solid #000000; vertical-align: top; width: 13%;">
+              <div><a name="z_cp_change_13"></a>$8.7988 to $9.36</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>* The number of Shares reported represents an aggregate number of shares executed by a broker-dealer in multiple open market transactions over a range of prices. The price per share reported represents the weighted average price (without regard
+        to brokerage commissions). The applicable Reporting Person undertakes to provide the staff of the SEC upon request, the number of shares executed by such Reporting Person at each separate price within the range.</div>
+      <div> <br>
+      </div>
+      <div> <br>
+      </div>
+    </div>
+    <div>
+      <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

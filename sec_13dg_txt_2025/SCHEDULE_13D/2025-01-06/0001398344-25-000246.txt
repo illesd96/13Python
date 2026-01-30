@@ -1,0 +1,934 @@
+<SEC-DOCUMENT>0001398344-25-000246.txt : 20250106
+<SEC-HEADER>0001398344-25-000246.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106165708
+ACCESSION NUMBER:		0001398344-25-000246
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Matinas BioPharma Holdings, Inc.
+		CENTRAL INDEX KEY:			0001582554
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				463011414
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89724
+		FILM NUMBER:		25512043
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1545 ROUTE 206 SOUTH
+		STREET 2:		SUITE 302
+		CITY:			BEDMINSTER
+		STATE:			NJ
+		ZIP:			07921
+		BUSINESS PHONE:		908-484-8805
+
+	MAIL ADDRESS:	
+		STREET 1:		1545 ROUTE 206 SOUTH
+		STREET 2:		SUITE 302
+		CITY:			BEDMINSTER
+		STATE:			NJ
+		ZIP:			07921
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			111 Equity Group
+		CENTRAL INDEX KEY:			0002024448
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 BATTERY PARK PLAZA
+		STREET 2:		SUITE 3100
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+		BUSINESS PHONE:		2126200099
+
+	MAIL ADDRESS:	
+		STREET 1:		1 BATTERY PARK PLAZA
+		STREET 2:		SUITE 3100
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: 111 Equity Group -->
+          <cik>0002024448</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/02/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001582554</issuerCIK>
+        <issuerCUSIP>576810303</issuerCUSIP>
+        <issuerName>Matinas Biopharma Holdings, Inc.</issuerName>
+        <address>
+          <com:street1>1545 Route 206 South</com:street1>
+          <com:street2>Suite 302</com:street2>
+          <com:city>Bedminster</com:city>
+          <com:stateOrCountry>NJ</com:stateOrCountry>
+          <com:zipCode>07921</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Chaim Herzog</personName>
+          <personPhoneNum>(212) 620-0099</personPhoneNum>
+          <personAddress>
+            <com:street1>1 Battery Park Plaza</com:street1>
+            <com:street2>Suite 3100</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10004</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>111 Equity Group LLC</personName>
+          <personPhoneNum>(212) 620-0099</personPhoneNum>
+          <personAddress>
+            <com:street1>1 Battery Park Plaza</com:street1>
+            <com:street2>Suite 3100</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10004</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Chaim Herzog</reportingPersonName>
+        <fundType>AF</fundType>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>15000.00</soleVotingPower>
+        <sharedVotingPower>248000.00</sharedVotingPower>
+        <soleDispositivePower>15000.00</soleDispositivePower>
+        <sharedDispositivePower>248000.00</sharedDispositivePower>
+        <aggregateAmountOwned>263000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.17</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002024448</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>111 Equity Group LLC</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>248000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>248000.00</sharedDispositivePower>
+        <aggregateAmountOwned>248000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.86</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Limited Liability Company</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>Matinas Biopharma Holdings, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1545 Route 206 South</com:street1>
+          <com:street2>Suite 302</com:street2>
+          <com:city>Bedminster</com:city>
+          <com:stateOrCountry>NJ</com:stateOrCountry>
+          <com:zipCode>07921</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Statement is filed by Chaim Herzog ("Herzog") and 111 Equity Group LLC ("111 Equity Group"), a New York limited liability company. Herzog and 111 Equity Group are referred to collectively as the "Reporting Persons." Reporting Persons have entered into a joint filing agreement, a copy of which is attached as Exhibit 1.</filingPersonName>
+        <principalBusinessAddress>1 Battery Park Plaza, Suite 3100, New York, NY 10004</principalBusinessAddress>
+        <principalJob>The principal business of 111 Equity Group is investing in securities. The principal occupation of Herzog is serving as a member and as manager of 111 Equity Group.</principalJob>
+        <hasBeenConvicted>During the past five years, none of the Reporting Persons has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the past five years, none of the Reporting Persons has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding such person was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Herzog is a citizen of the United State of America. 111 Equity Group is a New York limtied liability company.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>All of the shares of Common Stock to which this Statement relates were purchased on behalf of the Reporting Persons using the working capital or personal funds of the Reporting Persons.  All shares of Common Stock were purchased in various transactions and for various amounts of consideration through open market purchases.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Issuer reported in the Issuer's Current Report filed on October 31, 2024 ("Current Report") that negotiations under a non-binding term sheet regarding global rights to its MAT2203 product candidate have been terminated and, as a result, the Issuer reduced its workforce and has ceased all product development activities to conserve cash. Further, the Current Report stated that the Issuer intends to retain an advisor to assist the Issuer with the potential asset sale of MAT2203 and to evaluate other alternatives, including but not limited to winddown and dissolution of the Issuer.
+
+The Reporting Persons intend to engage in discussion with management of the Issuer on the engagement of an advisor and plan related to any asset sale, exit sale, reverse merger, or other alternatives.
+
+The Reporting Persons may also engage in further discussions with management, the board of directors, and/or other shareholders of the Issuer, and/or other relevant parties (including, without limitation, service providers) concerning the business, capitalization, financial condition, operations, strategy and future plans of the Issuer, and potential avenues to enhance stockholder value, as well as other matters related to the Issuer. Such evaluations and discussions may materially affect, and result in, among other things, the Reporting Persons: (1) modifying their ownership of the shares, including, without limitation, the purchase or sale of shares in the open market or through privately negotiated transactions of otherwise; (2) exchanging information with the Issuer pursuant to appropriate confidentiality or similar agreements; (3) proposing changes in the Issuer's operations, governance or capitalization; or (4) proposals or assisting in formulating plans or proposals that involve one or more of the types of transactions specified in sub-items (a) through (j) of Item 4 of Schedule 13D. The Reporting Persons may at any time reconsider and change their plans or proposals relating to the foregoing.
+
+Other than as described in this Schedule 13D, the Reporting Persons do not have any present plan or proposal that would relate to or result in any of the matters set forth in sub-items (a) through (j) of Item 4 of Schedule 13D. The Reporting Persons retain the right to change their investment intent at any time and there is no assurance the Reporting Persons will continue discussion or evaluation of any transactions or that any transaction will be pursued and, if pursued, will be consummated. Moreover, any actions described in this Item 4 that the Reporting Persons might undertake may be made at any time and from time to time and such determinations will be dependent upon the Reporting Persons' review of numerous factors, including, but not limited to, an ongoing evaluation of the Issuer's business, financial condition, operations and prospects; price levels of the Issuer's securities; general market, industry and economic conditions; and other future developments affecting the Issuer.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The responses of each Reporting Person to rows (11) and (13) of the cover pages to this Schedule 13D are incorporated by reference into this Item 5. The percentage in this paragraph relating to beneficial ownership of common stock is based on 5,086,985 shares outstanding as of November 13, 2024, as reported in the Issuer's Quarterly Report filed on November 13, 2024. 111 Equity Group is controlled by Herzog. Accordingly, Herzog may be deemed to have the power to direct the voting and disposition of the shares beneficially owned by 111 Equity Group, and may be deemed to be the indirect beneficial owner of such shares. Herzog disclaim beneficial ownership of such shares for all other purposes.</percentageOfClassSecurities>
+        <numberOfShares>The responses of each Reporting Person to rows (7) through (10) of the cover pages to this Schedule 13D are incorporated by reference into this Item 5.</numberOfShares>
+        <transactionDesc>Except as disclosed in Exhibit 2, none of the Reporting Persons have effected any transactions in the shares of Common Stock in the 60 days prior to the date of this Statement.</transactionDesc>
+        <listOfShareholders>No other person is known to the Reporting Persons to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the shares covered by this Statement.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Other than as described in this Statement, to the knowledge of the Reporting Persons, there are no contracts, arrangements, understandings or relationships (legal or otherwise) among the Reporting Persons or between the Reporting Persons and any other persons with respect to any securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>(1) Joint Filing Agreement, dated January 6, 2024, by and among Chaim Herzog and 111 Equity Group LLC.  (2) Reporting Person Transactions of Common Stock During the Past 60 Days.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Chaim Herzog</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Chaim Herzog</signature>
+          <title>Chaim Herzog, Manager</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>111 Equity Group LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Chaim Herzog</signature>
+          <title>Chaim Herzog, Manager</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>fp0091619-1_ex991.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"><B><U>EXHIBIT 1</U></B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt">In accordance with Rule&nbsp;13d-1(k)
+under the Securities Exchange Act of 1934, as amended, the undersigned agree to the joint filing on behalf of each of them of a Statement
+on Schedule&nbsp;13D (including any and all amendments thereto) with respect to the common stock of Matinas Biopharma Holdings, Inc.,
+a Delaware corporation, and further agree that this Joint Filing Agreement shall be included as an Exhibit to such joint filings.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt">The undersigned further agree
+that each party hereto is responsible for the timely filing of such Statement on Schedule&nbsp;13D and any amendments thereto, and for
+the accuracy and completeness of the information concerning such party contained therein; provided, however, that no party is responsible
+for the accuracy or completeness of the information concerning any other party, unless such party knows or has reason to believe that
+such information is inaccurate.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt">This Joint Filing Agreement may
+be signed in counterparts with the same effect as if the signature on each counterpart were upon the same instrument.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt"><P STYLE="margin: 0pt; font: 9pt Times New Roman, Times, Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 24.5pt">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="font-variant: small-caps"><B>In witness
+whereof</B>,</FONT> each of the undersigned has executed this Agreement as of January 6, 2024.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 11pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 11pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">/s/ Chaim Herzog &#9;</P></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 11pt">&nbsp;</TD>
+    <TD COLSPAN="2">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Chaim Herzog</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 11pt">&nbsp;</TD>
+    <TD COLSPAN="2">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">111 EQUITY GROUP LLC</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 11pt; width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%">By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 35%"> &#9;/s/ Chaim Herzog&#9;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 11pt">&nbsp;</TD>
+    <TD>Name:</TD>
+    <TD>Chaim Herzog</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 11pt">&nbsp;</TD>
+    <TD>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Title:&#9;</P></TD>
+    <TD><P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Manager</P></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>fp0091619-1_ex992.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in"><B><U>EXHIBIT 2</U></B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in"><B>REPORTING PERSON
+TRANSACTIONS OF </B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: center; text-indent: -0.5in"><B>COMMON STOCK DURING
+THE PAST 60 DAYS</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="2" STYLE="border-right: Black 1pt solid; border-left: Black 1pt solid; font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-top: Black 1pt solid; width: 29%; border-bottom: Black 1pt solid; text-align: left"><FONT STYLE="font-size: 11pt">Reporting Person Effecting Transaction</FONT></TD>
+    <TD STYLE="width: 13%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Date</FONT></TD>
+    <TD STYLE="width: 13%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Type of Transaction</FONT></TD>
+    <TD STYLE="width: 14%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Number of Shares</FONT></TD>
+    <TD STYLE="width: 13%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Price Per Share</FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; width: 18%; border-bottom: Black 1pt solid; text-align: left"><FONT STYLE="font-size: 11pt">How Transaction Effected</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">10,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">10,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">10,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">6,016</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">3,100</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">300</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,645</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/21/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">7,300</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/22/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">400</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.61</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">200</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.61</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.62</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,700</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.62</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,300</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.62</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">10,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.62</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">11/26/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,650</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.63</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/2/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">15,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.65</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/2/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,079</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.65</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/2/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">21</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.62</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/2/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">9,979</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.62</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/2/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,300</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.61</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/2/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,125</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.60</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/3/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">18,154</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.59</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/5/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">3,582</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/11/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">430</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.59</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/11/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Sell</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4,127</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.59</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">7,536</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.52</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,500</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.53</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">42,220</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.53</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">5,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">400</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">9</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">597</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4,518</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">101</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">800</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">16,027</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt"><P STYLE="margin: 0pt; font: 9pt Times New Roman, Times, Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="2" STYLE="border-right: Black 1pt solid; border-left: Black 1pt solid; font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-top: Black 1pt solid; border-bottom: Black 1pt solid; width: 29%"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center; width: 13%"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center; width: 13%"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center; width: 14%"><FONT STYLE="font-size: 11pt">900</FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center; width: 13%"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-top: Black 1pt solid; border-bottom: Black 1pt solid; width: 18%"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">604</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,100</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">900</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">10,252</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/13/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">464</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,697</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">24,030</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">35</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">508</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">21,730</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,100</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4,404</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">200</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.58</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">600</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/16/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">757</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">5,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.54</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">9,102</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.55</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">43</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">3</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">3,856</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">5,400</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,900</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,200</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">6,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4,967</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,319</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.58</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4,602</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.58</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">9,100</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.59</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">7,685</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.59</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1,340</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.59</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/17/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">72</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/18/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">455</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.56</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/18/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">15,545</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/18/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">2,000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/18/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">4,004</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/18/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">500</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">111 Equity Group </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">12/18/2024</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">100</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.57</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Herzog</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1/2/2025</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">5000</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.53</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Herzog</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1/2/2025</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">100</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.53</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Herzog</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">1/2/2025</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">Buy</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">9900</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 11pt">0.53</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 11pt">Open Market</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

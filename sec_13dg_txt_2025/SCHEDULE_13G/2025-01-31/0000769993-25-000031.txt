@@ -1,0 +1,379 @@
+<SEC-DOCUMENT>0000769993-25-000031.txt : 20250131
+<SEC-HEADER>0000769993-25-000031.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131145903
+ACCESSION NUMBER:		0000769993-25-000031
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stronghold Digital Mining, Inc.
+		CENTRAL INDEX KEY:			0001856028
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				862759890
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92984
+		FILM NUMBER:		25577913
+
+	BUSINESS ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		28TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(845) 579-5992
+
+	MAIL ADDRESS:	
+		STREET 1:		595 MADISON AVENUE
+		STREET 2:		28TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP INC
+		CENTRAL INDEX KEY:			0000886982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				134019460
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDMAN SACHS GROUP INC/
+		DATE OF NAME CHANGE:	20010104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>SCHEDULE 13G</submissionType>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0000886982</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <coverPageHeader>
+            <securitiesClassTitle>Class A common stock</securitiesClassTitle>
+            <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+            <issuerInfo>
+                <issuerCik>0001856028</issuerCik>
+                <issuerName>STRONGHOLD DIGITAL MINING INC.</issuerName>
+                <issuerCusip>86337R202</issuerCusip>
+                <issuerPrincipalExecutiveOfficeAddress>
+                    <com:street1>595 Madison Avenue,</com:street1>
+		    <com:street2>28th Floor</com:street2>
+                    <com:city>NEW YORK</com:city>
+                    <com:stateOrCountry>X1</com:stateOrCountry>
+                    <com:zipCode>10022</com:zipCode>
+                </issuerPrincipalExecutiveOfficeAddress>
+            </issuerInfo>
+            <designateRulesPursuantThisScheduleFiled>
+                <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+            </designateRulesPursuantThisScheduleFiled>
+        </coverPageHeader>
+        <coverPageHeaderReportingPersonDetails>
+
+            <reportingPersonName>THE GOLDMAN SACHS GROUP, INC.</reportingPersonName>
+            <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+            <reportingPersonBeneficiallyOwnedNumberOfShares>
+                <soleVotingPower>0.00</soleVotingPower>
+                <sharedVotingPower>753920.53</sharedVotingPower>
+                <soleDispositivePower>0.00</soleDispositivePower>
+                <sharedDispositivePower>753920.53</sharedDispositivePower>
+            </reportingPersonBeneficiallyOwnedNumberOfShares>
+            <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>753920.53</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+            <classPercent>5.1</classPercent>
+            <typeOfReportingPerson>HC</typeOfReportingPerson>
+            <typeOfReportingPerson>CO</typeOfReportingPerson>
+         </coverPageHeaderReportingPersonDetails>
+        <coverPageHeaderReportingPersonDetails>
+            <reportingPersonName>GOLDMAN SACHS &amp; CO. LLC</reportingPersonName>
+            <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+            <reportingPersonBeneficiallyOwnedNumberOfShares>
+                <soleVotingPower>0.00</soleVotingPower>
+                <sharedVotingPower>753920.53</sharedVotingPower>
+                <soleDispositivePower>0.00</soleDispositivePower>
+                <sharedDispositivePower>753920.53</sharedDispositivePower>
+            </reportingPersonBeneficiallyOwnedNumberOfShares>
+            <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>753920.53</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+            <classPercent>5.1</classPercent>
+            <typeOfReportingPerson>BD</typeOfReportingPerson>
+            <typeOfReportingPerson>OO</typeOfReportingPerson>
+            <typeOfReportingPerson>IA</typeOfReportingPerson>
+         </coverPageHeaderReportingPersonDetails>
+        <items>
+            <item1>
+                <issuerName>STRONGHOLD DIGITAL MINING INC.</issuerName>
+                <issuerPrincipalExecutiveOfficeAddress>595 Madison Avenue,Floor 28th, NEW YORK, X1, 10022</issuerPrincipalExecutiveOfficeAddress>
+            </item1>
+            <item2>
+                <filingPersonName>THE GOLDMAN SACHS GROUP, INC.| GOLDMAN SACHS &amp; CO. LLC</filingPersonName>
+                <principalBusinessOfficeOrResidenceAddress>The Goldman Sachs Group, Inc. 200 West Street New York, NY 10282| Goldman Sachs &amp; Co. LLC 200 West Street New York, NY 10282</principalBusinessOfficeOrResidenceAddress>
+                <citizenship>THE GOLDMAN SACHS GROUP, INC. - Delaware| GOLDMAN SACHS &amp; CO. LLC - New York</citizenship>
+            </item2>
+            <item3>
+                <notApplicableFlag>N</notApplicableFlag>
+                <typeOfPersonFiling>BD</typeOfPersonFiling>
+                <typeOfPersonFiling>IA</typeOfPersonFiling>
+                <typeOfPersonFiling>HC</typeOfPersonFiling>
+            </item3>
+            <item4>
+                <amountBeneficiallyOwned>See the response(s) to Item 9 on the attached cover page(s).</amountBeneficiallyOwned>
+                <classPercent>See the response(s)to Item 11 on the attached cover page(s).</classPercent>
+                <numberOfSharesPersonHas>
+                    <solePowerOrDirectToVote>See the response(s) to Item 5 on the attached cover page(s).</solePowerOrDirectToVote>
+                    <sharedPowerOrDirectToVote>See the response(s) to Item 6 on the attached cover page(s).</sharedPowerOrDirectToVote>
+                    <solePowerOrDirectToDispose>See the response(s) to Item 7 on the attached cover page(s).</solePowerOrDirectToDispose>
+                    <sharedPowerOrDirectToDispose>See the response(s) to Item 8 on the attached cover page(s).</sharedPowerOrDirectToDispose>
+                </numberOfSharesPersonHas>
+            </item4>
+            <item5>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item5>
+            <item6>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item6>
+            <item7>
+                <notApplicableFlag>N</notApplicableFlag>
+                <subsidiaryIdentificationAndClassification>See Exhibit (99.2)</subsidiaryIdentificationAndClassification>
+            </item7>
+            <item8>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item8>
+            <item9>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item9>
+            <item10>
+                <notApplicableFlag>N</notApplicableFlag>
+                <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+            </item10>
+        </items>
+        <exhibitInfo>
+                EXHIBIT (99.1)
+
+                JOINT FILING AGREEMENT
+
+                In  accordance  with Rule  13d-1(k)(1)  promulgated  under  the  Securities
+                Exchange Act of 1934, the  undersigned agree to the joint filing of a Statement
+                on Schedule 13G (including  any and all amendments thereto) with respect to the
+                Class A Common Stock,of STRONGHOLD DIGITAL MINING INC.
+                and further agree to the filing of this agreement  as an Exhibit thereto.
+                In addition, each party to this Agreement expressly authorizes each other party
+                to this Agreement to file on its behalf any and all amendments to such Statement
+                on Schedule 13G.
+
+                Date:  01/28/2025
+
+                THE GOLDMAN SACHS GROUP, INC.
+
+                By:/s/ Sam Prashanth
+                ----------------------------------------
+                Name:  Sam Prashanth
+                Title:  Attorney-in-fact
+
+                GOLDMAN SACHS &amp; CO. LLC
+
+                By:/s/ Sam Prashanth
+                ----------------------------------------
+                Name:  Sam Prashanth
+                Title:  Attorney-in-fact
+
+                EXHIBIT (99.2)
+
+                ITEM 7 INFORMATION
+
+                The  securities   being   reported  on  by  The  Goldman  Sachs Group,  Inc.
+                ("GS Group"), as  a parent  holding  company, are owned, or may be  deemed to be
+                beneficially  owned, by  Goldman Sachs &amp; Co. LLC  ("Goldman  Sachs"), a broker or
+                dealer  registered  under  Section  15 of  the  Act and an investment    adviser
+                registered  under Section 203 of the  Investment  Advisers Act of 1940.  Goldman
+                Sachs is a subsidiary of GS Group.
+        </exhibitInfo>
+        <signatureInformation>
+            <reportingPersonName>THE GOLDMAN SACHS GROUP, INC.</reportingPersonName>
+            <signatureDetails>
+                <signature>Name: Sam Prashanth</signature>
+                <title>Attorney-in-fact</title>
+                <date>01/28/2025</date>
+            </signatureDetails>
+        </signatureInformation>
+        <signatureInformation>
+            <reportingPersonName>GOLDMAN SACHS &amp; CO. LLC</reportingPersonName>
+            <signatureDetails>
+                <signature>Name: Sam Prashanth</signature>
+                <title>Attorney-in-fact</title>
+                <date>01/28/2025</date>
+            </signatureDetails>
+        </signatureInformation>
+    </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>POA13G-1500107065_20250128.txt
+<TEXT>
+EXHIBIT 99
+
+
+
+                        POWER OF ATTORNEY
+
+
+KNOW ALL PERSONS BY THESE PRESENTS that THE GOLDMAN SACHS GROUP, INC.
+(the "Company") does hereby make, constitute and appoint Papa Lette,
+Akash Keshari, Regina Chan, Andrzej Szyszka, Ameen Soetan, Rahail Patel,
+Santosh Vinayagamoorthy, Sadhiya Raffique, Matthew Pomfret,
+Abhishek Vishwanathan, Mariana Audeves, Veronica Mupazviriwo, Elizabeth Novak
+and Sam Prashanth, acting individually, its true and lawful attorney,
+to execute and deliver in its name and on its behalf, whether the Company
+is acting individually or as representative of others, any and all filings
+required to be made by the Company pursuant to Rule 13f-1or Regulation 13D-G
+under the Securities Exchange Act of 1934, (as amended, the "Act"), which may
+be required of the Company with respect to securities which may be deemed to be
+beneficially owned by the Company under the Act, giving and granting unto each
+said Attorney-in-fact  power and authority to act in the premises as fully
+and to all intents and purposes as the Company might or could do if personally
+present by one of its authorized signatories, hereby ratifying and confirming
+all that said Attorney-in-fact shall lawfully do or cause to be done by virtue
+hereof.
+
+THIS POWER OF ATTORNEY shall remain in full force and effect until
+July 29, 2025 unless earlier revoked by written instrument, or in the event an
+Attorney-in-fact ceases to be an employee of The Goldman Sachs Group, Inc. or
+one of its affiliates or ceases to perform the function in connection with
+which he or she was appointed Attorney-in-fact prior to July 29, 2025, this
+Power of Attorney shall cease to have effect in relation to such
+Attorney-in-fact upon such cessation but shall continue in full force and
+effect in relation to the remaining Attorneys-in-fact. The Company has the
+unrestricted right unilaterally to revoke the Power of Attorney.
+
+This Power of Attorney shall be governed by, and construed in accordance with,
+the laws of the State of New York, without regard to rules of conflicts of law.
+
+This Power of Attorney supersedes the Power of Attorney granted by the Company
+to Abhishek V, Kateryna Osmachko, Ameen Soetan, Kshama Mishra, Papa Lette,
+Sunaina Kapoor, and Andrzej Szyszka on February 9, 2024.
+
+IN WITNESS WHEREOF, the undersigned has duly subscribed these presents
+as of July 29, 2024.
+
+
+GOLDMAN SACHS & CO. LLC
+
+
+
+By: /s/  Richard A. Friedman
+____________________________
+Name: Richard A. Friedman
+Title: Assistant Secretary
+
+
+
+
+
+
+
+
+
+                        POWER OF ATTORNEY
+
+
+KNOW ALL PERSONS BY THESE PRESENTS that GOLDMAN SACHS & CO. LLC
+(the "Company") does hereby make, constitute and appoint each Papa Lette,
+Akash Keshari, Regina Chan, Andrzej Szyszka, Ameen Soetan, Rahail Patel,
+Santosh Vinayagamoorthy, Sadhiya Raffique, Matthew Pomfret,
+Abhishek Vishwanathan, Mariana Audeves Martinez, Veronica Mupazviriwo,
+Elizabeth Novak and Sam Prashanth, acting individually, its true and lawful
+attorney, to execute and deliver in its name and on its behalf, whether the
+Company is acting individually or as representative of others, any and all
+filings required to be made by the Company pursuant to Rule 13f-1or Regulation
+13D-G under the Securities Exchange Act of 1934, (as amended, the "Act"), which
+may be required of the Company with respect to securities which may be deemed
+to be beneficially owned by the Company under the Act, giving and granting unto
+each said Attorney-in-fact  power and authority to act in the premises as fully
+and to all intents and purposes as the Company might or could do if personally
+present by one of its authorized signatories, hereby ratifying and confirming
+all that said Attorney-in-fact shall lawfully do or cause to be done by
+virtue hereof.
+
+THIS POWER OF ATTORNEY shall remain in full force and effect until
+October 1,2025 unless earlier revoked by written instrument, or in the event an
+Attorney-in-fact ceases to be an employee of The Goldman Sachs Group, Inc.
+or one of its affiliates or ceases to perform the function in connection with
+which he or she was appointed Attorney-in-fact prior to October 1,2025
+this Power of Attorney shall cease to have effect in relation to such
+Attorney-in-fact upon such cessation but shall continue in full force and
+effect in relation to the remaining Attorneys-in-fact. The Company has the
+unrestricted right unilaterally to revoke the Power of Attorney.
+
+This Power of Attorney shall be governed by, and construed in accordance with,
+the laws of the State of New York, without regard to rules of conflicts of law.
+
+This Power of Attorney supersedes the Power of Attorney granted by the Company
+to Abhishek V, Kateryna Osmachko, Ameen Soetan, Kshama Mishra, Papa Lette,
+Sunaina Kapoor, and Andrzej Szyszka on December 1, 2023.
+
+IN WITNESS WHEREOF, the undersigned has duly subscribed these presents
+as of October 1,2024.
+
+
+GOLDMAN SACHS & CO. LLC
+
+
+By: /s/  Milton Millman
+____________________________
+Name: Milton Millman
+Title: Managing Director
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

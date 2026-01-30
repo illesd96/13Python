@@ -1,0 +1,398 @@
+<SEC-DOCUMENT>0001213900-25-000914.txt : 20250103
+<SEC-HEADER>0001213900-25-000914.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103212814
+ACCESSION NUMBER:		0001213900-25-000914
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ondas Holdings Inc.
+		CENTRAL INDEX KEY:			0001646188
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90805
+		FILM NUMBER:		25508823
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 MARINA PARK DRIVE
+		STREET 2:		UNIT 1410
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+		BUSINESS PHONE:		6314187044
+
+	MAIL ADDRESS:	
+		STREET 1:		1 MARINA PARK DRIVE
+		STREET 2:		UNIT 1410
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ZEV VENTURES INC.
+		DATE OF NAME CHANGE:	20150624
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Charles & Potomac Capital, LLC
+		CENTRAL INDEX KEY:			0001990211
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				472422480
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3899 MAPLE AVENUE
+		STREET 2:		SUITE 100
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75219
+		BUSINESS PHONE:		214-395-1213
+
+	MAIL ADDRESS:	
+		STREET 1:		3899 MAPLE AVENUE
+		STREET 2:		SUITE 100
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001213900-23-071415</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Charles & Potomac Capital, LLC -->
+          <cik>0001990211</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Common Stock par value $0.0001</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001646188</issuerCIK>
+        <issuerCUSIP>68236H204</issuerCUSIP>
+        <issuerName>Ondas Holdings Inc.</issuerName>
+        <address>
+          <com:street1>1 MARINA PARK DRIVE</com:street1>
+          <com:street2>UNIT 1410</com:street2>
+          <com:city>BOSTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02210</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Joseph V. Popolo</personName>
+          <personPhoneNum>2143951213</personPhoneNum>
+          <personAddress>
+            <com:street1>Commonwealth Hall at Old Parkland</com:street1>
+            <com:street2>3899 Maple Avenue, Suite 100</com:street2>
+            <com:city>Dallas</com:city>
+            <com:stateOrCountry>TX</com:stateOrCountry>
+            <com:zipCode>75219</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Richard Silfen</personName>
+          <personPhoneNum>2159791225</personPhoneNum>
+          <personAddress>
+            <com:street1>30 South 17th Street</com:street1>
+            <com:city>Philadelphia</com:city>
+            <com:stateOrCountry>PA</com:stateOrCountry>
+            <com:zipCode>19103</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Duane Morris LLP</personName>
+          <personPhoneNum>2159791225</personPhoneNum>
+          <personAddress>
+            <com:street1>30 South 17th Street</com:street1>
+            <com:city>Philadelphia</com:city>
+            <com:stateOrCountry>PA</com:stateOrCountry>
+            <com:zipCode>19103</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001990211</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Charles &amp; Potomac Capital, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6215286.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6215286.00</sharedDispositivePower>
+        <aggregateAmountOwned>6215286.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.59</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>The share amounts set forth in Rows 8, 10 and 11 include (i) 3,183,244 shares of common stock of Ondas Holdings Inc. held directly by Charles &amp; Potomac Capital, LLC, (ii) 2,864,542 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of a warrant that is exercisable at an exercise price of $0.89, on a one-to-one basis until July 21, 2028 (the "Warrant") and held directly by Stage 1 Growth Fund, LLC Series WAVE (the "SPV"), and (iii) 167,500 shares of common stock of Ondas Holdings Inc. issuable upon exercise of a warrant that is exercisable at an exercise price of $1.26, on a one-to-one basis until February 26, 2029 (the "February 2024 Warrant") and held directly by Charles &amp; Potomac Capital, LLC.
+
+The percentage set forth in Row 13 is calculated using 91,325,029 shares of common stock of Ondas Holdings Inc. outstanding as of December 31, 2024, as reported on the Prospectus Supplement to the Prospectus dated February 15, 2024 filed pursuant to Rule 424(b)(5) filed by Ondas Holdings Inc. with the SEC on December 31, 2024, and added to that number, pursuant to Rule 13d-3 of the Act, 3,032,042 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of the Warrant and the February 2024 Warrant.
+
+The Reporting Person is a limited liability company.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Joseph V. Popolo</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>1384245.00</soleVotingPower>
+        <sharedVotingPower>6215286.00</sharedVotingPower>
+        <soleDispositivePower>1384245.00</soleDispositivePower>
+        <sharedDispositivePower>6215286.00</sharedDispositivePower>
+        <aggregateAmountOwned>7599531.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.32</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>The share amounts set forth above in Rows 7 and 9 include 1,384,245 shares of common stock of Ondas Holdings Inc. held directly by Joseph V. Popolo.
+
+The share amount set forth in Rows 8, 10 and 11 include (i) 3,183,244 shares of common stock of Ondas Holdings Inc. held directly by Charles &amp; Potomac Capital, LLC, (ii) 2,864,542 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of the Warrant, and (iii) 167,500 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of the February 2024 Warrant.
+
+The percentage set forth in Row 13 is calculated using 91,325,029 shares of common stock of Ondas Holdings Inc. outstanding as of December 31, 2024, as reported on the Prospectus Supplement to the Prospectus dated February 15, 2024 filed pursuant to Rule 424(b)(5) filed by Ondas Holdings Inc. with the SEC on December 31, 2024, and added to that number, pursuant to Rule 13d-3 of the Act, 3,032,042 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of the Warrant and the February 2024 Warrant.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock par value $0.0001</securityTitle>
+        <issuerName>Ondas Holdings Inc.</issuerName>
+        <commentText>EXPLANATORY NOTE
+
+This Amendment No. 4 (this "Amendment") to the Schedule 13D originally filed by the Reporting Persons on August 29, 2023, as amended by Amendment No. 1 to Schedule 13D filed by the Reporting Persons on November  24, 2023, Amendment No. 2 to Schedule 13D filed by the Reporting Persons on February 28, 2024 and Amendment No. 3 to Schedule 13D ("Amendment No. 3") filed by the Reporting Persons on June 4, 2024 (as so amended, the "Original Schedule 13D" and as amended by this Amendment, the "Schedule 13D") relates to the shares of common stock, par value $0.0001 per share (the "Shares"), of Ondas Holdings Inc., a Nevada corporation (the "Issuer"). Defined terms used in this Amendment and not otherwise defined herein have the meanings prescribed to such terms in the Original Schedule 13D. Any reference in the Original Schedule 13D to any item in the Original Schedule 13D shall be deemed to refer to such item as amended by this Amendment.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>This item remains unchanged from the Original Schedule 13D.</filingPersonName>
+        <principalBusinessAddress>This item remains unchanged from the Original Schedule 13D.</principalBusinessAddress>
+        <principalJob>This item remains unchanged from the Original Schedule 13D.</principalJob>
+        <hasBeenConvicted>This item remains unchanged from the Original Schedule 13D.</hasBeenConvicted>
+        <convictionDescription>This item remains unchanged from the Original Schedule 13D.</convictionDescription>
+        <citizenship>This item remains unchanged from the Original Schedule 13D.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Not applicable.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Not applicable.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The information contained in rows 7, 8, 9, 10, 11 and 13 on the cover page of this Amendment (including footnotes thereto) is incorporated herein by reference. The Related Party, as the Managing Member of C&amp;P, is deemed to share voting and dispositive power over, and therefore is deemed to beneficially own, 6,215,286 Shares that are beneficially owned by C&amp;P, which represent 6.59% of the Shares outstanding. The Reporting Persons' and the Related Party's beneficial ownership percentage is calculated using 91,325,029 Shares outstanding as of December 31, 2024, as reported on the Prospectus Supplement to the Prospectus dated February 15, 2024 filed pursuant to Rule 424(b)(5) filed by Ondas Holdings Inc. with the SEC on December 31, 2024, and added to that number, pursuant to Rule 13d-3 of the Act, 3,032,042 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of the Warrant and the February 2024 Warrant.</percentageOfClassSecurities>
+        <numberOfShares>The information contained in rows 7, 8, 9, 10, 11 and 13 on the cover page of this Amendment (including footnotes thereto) is incorporated herein by reference. The Related Party, as the Managing Member of C&amp;P, is deemed to share voting and dispositive power over, and therefore is deemed to beneficially own, 6,215,286 Shares that are beneficially owned by C&amp;P, which represent 6.59% of the Shares outstanding. The Reporting Persons' and the Related Party's beneficial ownership percentage is calculated using 91,325,029 Shares outstanding as of December 31, 2024, as reported on the Prospectus Supplement to the Prospectus dated February 15, 2024 filed pursuant to Rule 424(b)(5) filed by Ondas Holdings Inc. with the SEC on December 31, 2024, and added to that number, pursuant to Rule 13d-3 of the Act, 3,032,042 shares of common stock of Ondas Holdings Inc. issuable upon the exercise of the Warrant and the February 2024 Warrant.</numberOfShares>
+        <transactionDesc>Item 5(c) of the Original Schedule 13D is hereby amended and supplemented to add the information set forth in Item 6 of this Amendment, which is incorporated herein by reference.</transactionDesc>
+        <listOfShareholders>This item remains unchanged from the Original Schedule 13D.</listOfShareholders>
+        <date5PercentOwnership>This item remains unchanged from the Original Schedule 13D.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 of the Original Schedule 13D is hereby amended and supplemented to add the following:
+
+Pursuant to an Assignment dated December 31, 2024 by the SPV with respect to the Warrant (the "Warrant Assignment"), the SPV assigned a warrant to acquire 1,000,000 Shares at an exercise price of $0.89 (the "Assigned Warrant") to The Popolo Family Fund at the Catholic Foundation of Dallas. The assignment was a charitable gift for no consideration. As the result thereof, (i) the Reporting Persons, as indirect holders of the remaining 2,864,542 Shares issuable upon the exercise of the Warrant, are deemed to beneficially own such 2,864,542 Shares, and (ii) the Reporting Persons cease to be the beneficial owners of the other Shares issuable upon the exercise of the Assigned Warrant.
+
+The Warrant Assignment is filed as Exhibit 13 to the Schedule 13D and incorporated by reference herein.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 of the Original Schedule 13D is hereby amended and restated in its entirety as follows:
+
+1 Joint Filing Agreement (filed herewith).
+
+2 Form of Warrant (incorporated by herein by reference to Exhibit 4.1 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on August 16, 2023).
+
+3 Preferred Stock Purchase Agreement, dated July 9, 2023, between Ondas Networks and  the SPV (incorporated herein by reference to Exhibit 10.1 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on July 10, 2023).
+
+4 Amendment to Preferred Stock Purchase Agreement, dated July 21, 2023, between Ondas Networks and  the SPV (incorporated herein by reference to Exhibit 10.2 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on July 24, 2023).
+
+5 Registration Rights Agreement, dated July 21, 2023, between the Issuer and the SPV (incorporated herein by reference to Exhibit 10.3 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on July 24, 2023).
+
+6 Registration Rights Agreement, dated August 11, 2023, between the Issuer and the SPV (incorporated herein by reference to Exhibit 10.3 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on August 16, 2023).
+
+7 Form of Securities Purchase Agreement, dated February 26, 2024, between the Issuer, C&amp;P and other purchasers and, solely with respect to Section 4.9 thereof, OAH (incorporated herein by reference to Exhibit 10.1 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on February 26, 2024).
+
+8 Form of Preferred Stock Purchase Agreement, dated February 26, 2024, between Ondas Networks, C&amp;P and other purchasers (incorporated herein by reference to Exhibit 10.3 to the Issuer's Current Report on Form 8-K, filed by the Issuer with the SEC on February 26, 2024).
+
+9 Form of Warrant (included as Exhibit B to Exhibit 8 of this Amendment).
+
+10 Form of Registration Rights Agreement (included as Exhibit E to Exhibit 8 of this Amendment).
+
+11 Assignment, dated May 31, 2024, by the SPV with respect to the Warrant (incorporated herein by reference to Exhibit 11 to Amendment No. 3, filed by the Reporting Persons with the SEC on June 4, 2024).
+
+12 Assignment, dated May 31, 2024, by the SPV with respect to the Subsequent Warrant (incorporated herein by reference to Exhibit 12 to Amendment No. 3, filed by the Reporting Persons with the SEC on June 4, 2024).
+
+13 Assignment, dated December 31, 2024, by the SPV with respect to the Assigned Warrant (filed herewith).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Charles &amp; Potomac Capital, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Joseph V. Popolo</signature>
+          <title>Joseph V. Popolo / Chief Executive Officer</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Joseph V. Popolo</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Joseph V. Popolo</signature>
+          <title>Joseph V. Popolo / Chief Executive Officer</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<FILENAME>ea022681401ex-13_ondas.htm
+<DESCRIPTION>ASSIGNMENT, DATED DECEMBER 31, 2024, BY THE SPV WITH RESPECT TO THE ASSIGNED WARRANT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 13</B></P>
+
+<P STYLE="margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">ASSIGNMENT FORM</P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; font-style: normal"><B>FOR
+VALUE RECEIVED,</B></FONT> a Warrant to acquire 1,000,000 shares of Ondas Holdings Inc. common stock at an exercise price of $0.89
+per share, and all rights evidenced thereby, are hereby assigned to:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; margin: 0pt">The Popolo Family Fund at the Catholic Foundation
+of Dallas _________________________________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; margin: 0pt">(Name)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt">12222 Merit Drive, Suite 850, Dallas, TX 75251 _____________________________________________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt">(Mailing
+Address)</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="border-bottom: Black 1.5pt solid; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; margin: 0pt">(E-mail Address)</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0pt; margin: 0pt">Dated: 12/31, 2024</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">Holder&rsquo;s Name:</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">Stage 1 Growth Fund, LLC Series WAVE</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Holder&rsquo;s
+    Signature:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Joseph V. Popolo</FONT></TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Holder&rsquo;s
+    Address:</FONT></TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">2811 South Bayshore Drive</FONT></TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">Suite 17A</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">Coconut Grove, FL 33133</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left; width: 20%">Original Grant Date of Warrant:</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left; width: 40%">&nbsp;</TD>
+    <TD STYLE="font: normal 400 10pt Times New Roman, Times, Serif; text-transform: none; text-align: left; width: 40%">&nbsp;</TD></TR>
+  </TABLE>
+
+
+<P STYLE="margin: 0"><FONT STYLE="font-style: normal; font-weight: 400; text-transform: none; background-color: rgb(255, 255, 255)">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; font-style: normal"><B>NOTE:
+</B></FONT>The signature to this Assignment Form must correspond with the name as it appears on the face of the Warrant, without alteration
+or enlargement or any change whatever. Officers of corporations and those acting in a fiduciary or other representative capacity should
+provide proper evidence of authority to assign the foregoing Warrant.</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

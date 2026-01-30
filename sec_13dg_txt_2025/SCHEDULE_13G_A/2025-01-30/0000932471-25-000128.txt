@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0000932471-25-000128.txt : 20250130
+<SEC-HEADER>0000932471-25-000128.hdr.sgml : 20250130
+<ACCEPTANCE-DATETIME>20250130213437
+ACCESSION NUMBER:		0000932471-25-000128
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250130
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blue Foundry Bancorp
+		CENTRAL INDEX KEY:			0001846017
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				862831373
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92856
+		FILM NUMBER:		25575584
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19 PARK AVENUE
+		CITY:			RUTHERFORD
+		STATE:			NJ
+		ZIP:			07070
+		BUSINESS PHONE:		201-939-6600
+
+	MAIL ADDRESS:	
+		STREET 1:		19 PARK AVENUE
+		CITY:			RUTHERFORD
+		STATE:			NJ
+		ZIP:			07070
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VANGUARD GROUP INC
+		CENTRAL INDEX KEY:			0000102909
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				231945930
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 VANGUARD BLVD
+		CITY:			MALVERN
+		STATE:			PA
+		ZIP:			19355
+		BUSINESS PHONE:		6106691000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 2600
+		STREET 2:		V26
+		CITY:			VALLEY FORGE
+		STATE:			PA
+		ZIP:			19482-2600
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13G/A</submissionType>
+<previousAccessionNumber>0001104659-24-020446</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0000102909</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>1</amendmentNo>
+<securitiesClassTitle>Common Stock</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0001846017</issuerCik>
+<issuerName>Blue Foundry Bancorp</issuerName>
+<issuerCusip>09549B104</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<com:street1>19 Park Avenue</com:street1>
+<com:city>Rutherford</com:city>
+<com:stateOrCountry>NJ</com:stateOrCountry>
+<com:zipCode>07070</com:zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+<reportingPersonName>The Vanguard Group</reportingPersonName>
+<memberGroup>b</memberGroup>
+<citizenshipOrOrganization>PA</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>8793</sharedVotingPower>
+<soleDispositivePower>1036378</soleDispositivePower>
+<sharedDispositivePower>17438</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1053816</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<classPercent>4.62</classPercent>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>Blue Foundry Bancorp</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>19 Park Avenue, Rutherford, NJ, 07070</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>The Vanguard Group</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>100 Vanguard Blvd., Malvern, PA 19355</principalBusinessOfficeOrResidenceAddress>
+<citizenship>PA</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>N</notApplicableFlag>
+<typeOfPersonFiling>IA</typeOfPersonFiling>
+</item3>
+<item4>
+<amountBeneficiallyOwned>1053816</amountBeneficiallyOwned>
+<classPercent>4.62</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>8793</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>1036378</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>17438</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>N</notApplicableFlag>
+<classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+</item5>
+<item6>
+<notApplicableFlag>N</notApplicableFlag>
+<ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The Vanguard Group, Inc.'s clients, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities reported herein.
+
+No one other person's interest in the securities reported herein is more than 5%.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+</item6>
+<item7>
+<notApplicableFlag>Y</notApplicableFlag>
+</item7>
+<item8>
+<notApplicableFlag>Y</notApplicableFlag>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>The Vanguard Group</reportingPersonName>
+<signatureDetails>
+<signature>Ashley Grim</signature>
+<title>Head of Global Fund Administration</title>
+<date>01/30/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

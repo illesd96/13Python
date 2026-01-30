@@ -1,0 +1,771 @@
+<SEC-DOCUMENT>0000950142-25-000168.txt : 20250122
+<SEC-HEADER>0000950142-25-000168.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122174709
+ACCESSION NUMBER:		0000950142-25-000168
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Third Harmonic Bio, Inc.
+		CENTRAL INDEX KEY:			0001923840
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				834553503
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93769
+		FILM NUMBER:		25547036
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1700 MONTGOMERY STREET
+		STREET 2:		SUITE 210
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		2097272457
+
+	MAIL ADDRESS:	
+		STREET 1:		1700 MONTGOMERY STREET
+		STREET 2:		SUITE 210
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENERAL ATLANTIC, L.P.
+		CENTRAL INDEX KEY:			0001017645
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				133503735
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 EAST 52ND STREET
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10055
+		BUSINESS PHONE:		212 715 4000
+
+	MAIL ADDRESS:	
+		STREET 1:		55 EAST 52ND STREET
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10055
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENERAL ATLANTIC L.P.
+		DATE OF NAME CHANGE:	20210803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENERAL ATLANTIC LLC
+		DATE OF NAME CHANGE:	20050322
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GENERAL ATLANTIC PARTNERS LLC
+		DATE OF NAME CHANGE:	19960626
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000950142-22-002792</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: GENERAL ATLANTIC, L.P. -->
+          <cik>0001017645</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common stock, par value $0.0001</securitiesClassTitle>
+      <dateOfEvent>01/17/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001923840</issuerCIK>
+        <issuerCUSIP>88427A107</issuerCUSIP>
+        <issuerName>Third Harmonic Bio, Inc.</issuerName>
+        <address>
+          <com:street1>1700 MONTGOMERY STREET</com:street1>
+          <com:street2>SUITE 210</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94111</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Michael Gosk</personName>
+          <personPhoneNum>212-715-4000</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o General Atlantic Service Company, LP</com:street1>
+            <com:street2>55 East 52nd Street, 33rd Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10055</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001017645</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic, L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>GAP (Bermuda) L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic GenPar (Bermuda), L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic Partners 100, L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic Partners (Bermuda) EU, L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic (SPV) GP, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic (Lux) S.a r.l.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>N4</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>GAP Coinvestments III, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>GAP Coinvestments IV, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>GAP Coinvestments V, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>GAP Coinvestments CDA, L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic GenPar (Lux) SCSp</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>N4</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic Partners (Lux) SCSp</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>N4</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic (TH), L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>General Atlantic GenPar, L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3623910.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3623910.00</sharedDispositivePower>
+        <aggregateAmountOwned>3623910.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common stock, par value $0.0001</securityTitle>
+        <issuerName>Third Harmonic Bio, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1700 MONTGOMERY STREET</com:street1>
+          <com:street2>SUITE 210</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94111</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 1 (this "Amendment No. 1") to Schedule 13D (the "Statement") is being filed to amend the Statement as originally filed with the U.S. Securities and Exchange Commission (the "SEC")  on September 28, 2022, with respect to the common stock, $0.0001 par value (the "common stock") of Third Harmonic Bio, Inc., a company incorporated in Delaware (the "Company"), whose principal executive offices are located at 1700 Montgomery Street, Suite 210, San Francisco, California 94111. Capitalized terms used herein and not defined herein have the meanings ascribed thereto in the Statement. Except as set forth below, all previous Items and disclosures set forth in the Statement remain unchanged.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>(a)-(c), (f) This Statement is being filed by a "group," as defined in Rule 13d-5 of the General Rules and Regulations promulgated under the Act. The members of the group are:
+
+(i)  General Atlantic, L.P., a Delaware limited partnership ("GA LP");
+(ii)  GAP (Bermuda) L.P., a Bermuda exempted limited partnership ("GAP Bermuda LP");
+(iii)  General Atlantic GenPar (Bermuda), L.P., a Bermuda exempted limited partnership ("GenPar Bermuda");
+(iv)  General Atlantic Partners 100 L.P., a Delaware limited partnership ("GAP 100");
+(v)  General Atlantic Partners (Bermuda) EU, L.P., a Bermuda exempted limited partnership ("GAP Bermuda EU");
+(vi)  General Atlantic (SPV) GP, LLC, a Delaware limited liability corporation ("GA SPV");
+(vii)  General Atlantic (Lux) S.a.r.l., a Luxembourg private limited liability company ("GA Lux");
+(viii)  GAP Coinvestments III, LLC, a Delaware limited liability corporation ("GAPCO III");
+(ix)  GAP Coinvestments IV, LLC, a Delaware limited liability corporation ("GAPCO IV");
+(x)  GAP Coinvestments V, LLC, a Delaware limited liability corporation ("GAPCO V");
+(xi)  GAP Coinvestments CDA, L.P., a Delaware limited partnership ("GAPCO CDA");
+(xii)  General Atlantic GenPar (Lux) SCSp, a Luxembourg special limited partnership ("GA GenPar Lux");
+(xiii)  General Atlantic Partners (Lux), SCSp, a Luxembourg special limited partnership ("GAP Lux");
+(xiv)  General Atlantic (TH), L.P., a Delaware limited partnership ("GA TH"); and
+(xv)  General Atlantic GenPar, L.P., a Delaware limited partnership ("GA GenPar").
+
+Each of the foregoing is referred to as a Reporting Person and collectively as the "Reporting Persons." GAP 100, GAP Bermuda EU and GAP Lux are collectively referred to as the "GA Funds." GAPCO III, GAPCO IV, GAPCO V, and GAPCO CDA are collectively referred to as the "Sponsor Coinvestment Funds."
+
+Each of the Reporting Persons is engaged in acquiring, holding and disposing of interests in various companies for investment purposes.
+
+The GA Funds and the Sponsor Coinvestment Funds share beneficial ownership of the common stock held of record by GA TH. The general partner of GA TH is GA SPV. The general partner of GAP Lux is GA GenPar Lux, and the general partner of GA GenPar Lux is GA Lux. The general partner of GAP Bermuda EU, and the sole shareholder of GA Lux, is GenPar Bermuda. The general partner of GAP 100 is GA GenPar, and the general partner of GA GenPar is GA LP. GAP Bermuda LP, which is controlled by the Partnership Committee of GASC MGP, LLC (the "Partnership Committee"), is the general partner of GenPar Bermuda. GA LP, which is also controlled by the Partnership Committee, is the managing member of GAPCO III, GAPCO IV and GAPCO V, the general partner of GAPCO CDA, and the sole member of GA SPV. As of the date hereof, there are five members of the Partnership Committee. Each of the members of the Partnership Committee disclaims ownership of the common stock except to the extent he has a pecuniary interest therein. The information required by General Instruction C to Schedule 13D is attached hereto as Schedule A and is hereby incorporated by reference. The present principal occupation or employment of each of the members of the Partnership Committee is as a managing director of GA LP.</filingPersonName>
+        <principalBusinessAddress>The address of GAP Bermuda LP, GenPar Bermuda and GAP Bermuda EU is c/o Conyers Client Services (Bermuda) Limited, Clarendon House, 2 Church Street, Hamilton HM 11, Bermuda. The address of GA Lux, GA GenPar Lux, and GAP Lux is Luxembourg is 412F, Route d'Esch, L-1471 Luxembourg. The address of each of the Sponsor Coinvestment Funds, GAP 100, GA GenPar, GA LP, GA SPV and GA TH is c/o General Atlantic Service Company, L.P., 55 East 52nd Street, 33rd Floor, New York, NY 10055.</principalBusinessAddress>
+        <principalJob>See Item 2(a).</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons and none of the individuals listed on Schedule A have, during the last five years, been (i) convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons and none of the individuals listed on Schedule A have, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>See Row (6) of each Reporting Person's cover page and Schedule A.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The Reporting Persons obtained the funds for the purchases of common stock reported herein from contributions from the GA Funds and the Sponsor Coinvestment Funds.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Persons acquired the common stock reported herein for investment purposes. Consistent with such purposes, the Reporting Persons may engage in communications with, without limitation, one or more stockholders of the Company, management of the Company, one or more members of the board of directors of the Company, and may make suggestions concerning the Company's operations, prospects, business and financial strategies, strategic transactions, assets and liabilities, business and financing alternatives, the composition of the board of directors of the Company and such other matters as the Reporting Persons may deem relevant to their investment in the common stock. The Reporting Persons expect that they will, from time to time, review their investment position in the common stock or the Company and may, depending on the Company's performance and other market conditions, increase or decrease their investment position in the common stock. The Reporting Persons may, from time to time, make additional purchases of common stock either in the open market or in privately-negotiated transactions, depending upon the Reporting Persons' evaluation of the Company's business, prospects and financial condition, the market for the common stock, other opportunities available to the Reporting Persons, general economic conditions, stock market conditions and other factors. Depending upon the factors noted above, the Reporting Persons may also decide to hold or dispose of all or part of their investments in the common stock, and/or enter into derivative transactions with institutional counterparties with respect to the Company's securities, including the common stock.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5 is hereby amended and replaced with the following:
+
+The percentages used herein are calculated based upon on an aggregate of 45,058,413 shares of common stock reported by the Company to be outstanding as of November 1, 2024 as reflected in the Company's Quarterly Report on Form 10-Q, filed with the SEC on November 7, 2024.
+
+By virtue of the fact that (i) the GA Funds and the Sponsor Coinvestment Funds contributed the capital to fund the IPO, and share beneficial ownership of the common stock reported herein, (ii) GA SPV is the general partner of GA TH, (iii) GAP Bermuda is the general partner of GA GenPar Bermuda, and GenPar Bermuda is the general partner of GAP Bermuda EU, and is the sole shareholder of GA Lux, (iv) GA Lux is the general partner of GA GenPar Lux and GA GenPar Lux is the general partner of GAP Lux, (v) GA LP is the general partner of GA GenPar, (vi) GAP Lux has appointed Carne Global Fund Management (Luxembourg) S.A. (the "AIFM") as the alternative investment fund manager of GAP Lux pursuant to an alternative investment fund management agreement to undertake all functions required of an external alternative investment fund manager under the Luxembourg law of 12 July 2013 on alternative investment fund managers, as amended from time to time and GAP Lux has also entered into a delegated portfolio management and distribution agreement with the AIFM and General Atlantic Service Company, L.P. ("GASC") in order to appoint GASC to act as the portfolio manager of GAP Lux (vii) GA LP is the managing member of GAPCO III, GAPCO IV and GAPCO V, the general partner of GAPCO CDA and the sole member of GA SPV, and (viii) the members of the Partnership Committee control the investment decisions of GA LP, GAP Bermuda and, with respect to GAP Lux, GASC, the Reporting Persons may be deemed to have the power to vote and direct the disposition of the common stock owned of record by GA TH.
+
+As a result, as of the date hereof, each of the Reporting Persons may be deemed to beneficially own an aggregate of 3,623,910 shares of common stock, or approximately 8.0% of the aggregate 45,058,413 shares of common stock as described above.</percentageOfClassSecurities>
+        <numberOfShares>Each of the Reporting Persons has the shared power to vote or direct the vote, and the shared power to dispose or to direct the disposition of, the 3,623,910 shares of common stock that may be deemed to be beneficially owned by each of them.</numberOfShares>
+        <transactionDesc>The table in Exhibit 3 hereto specifies the date, amount and weighted average price of shares of common stock purchased by the Reporting Persons during the 60-day period prior to January 22, 2025. The Reporting Persons effected purchases of shares of common stock through open market transactions on the Nasdaq Stock Market LLC.</transactionDesc>
+        <listOfShareholders>No person other than the persons listed is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, any securities owned by any member of the group.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended and replaced with the following:
+
+The information disclosed under Item 3 and Item 4 above is hereby incorporated by reference into this Item 6.
+
+Please see Item 5(a), which is hereby incorporated by reference. The GA Funds, the Sponsor Coinvestment Funds and the members of the Partnership Committee may, from time to time, consult among themselves and coordinate the voting and disposition of common stock held of record by GA TH as well as such other action taken on behalf of the Reporting Persons with respect to the common stock held by the Reporting Persons as they deem to be in the collective interest of the Reporting Persons.
+
+The Reporting Persons entered into a Joint Filing Agreement on July 21, 2022 (the "Joint Filing Agreement"), pursuant to which they have agreed to file this Statement jointly in accordance with the provisions of Rule 13d-1(k)(1) under the Act. A copy of the Joint Filing Agreement is attached hereto as Exhibit 1.
+
+Pursuant to an Amended and Restated Investors' Rights Agreement (the "Investors' Rights Agreement"), dated December 17, 2021, by and among the Company, GA TH and the other shareholders of the Company named therein, the Reporting Persons are entitled to certain customary demand registration and piggyback registration rights, in each case subject to the terms and conditions of the Investors' Rights Agreement.
+
+The foregoing description of the Investors' Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the Investors' Rights Agreement, which is attached hereto as Exhibit 2.
+
+Except as described above or elsewhere in this Statement or incorporated by reference in this Statement, there are no contracts, arrangements, understandings or relationships (legal or otherwise) between the Reporting Persons or, to the best of their knowledge, any of the persons named in Schedule A hereto and any other person with respect to any securities of the Company, including, but not limited to, transfer or voting of any securities, finder's fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or losses, or the giving or withholding of proxies.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 1: Agreement relating to the filing of joint acquisition statements as required by Rule 13d-1(k)(1) under the Act (previously filed). https://www.sec.gov/Archives/edgar/data/1017645/000095014222002792/eh220290330_ex01.htm
+
+Exhibit 2: Amended and Restated Investors' Rights Agreement, dated December 17, 2021 by and among the Registrant and certain of its stockholders, filed on August 23, 2022 as Exhibit 4.2 to the Issuer's Registration Statement on Form S-1 (previously filed).
+https://www.sec.gov/Archives/edgar/data/1923840/000119312522227496/d319294dex42.htm
+
+Exhibit 3: Transaction details.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Managing Director</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GAP (Bermuda) L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of GAP (Bermuda) GP Limited, its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic GenPar (Bermuda), L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Managing Director of GAP (Bermuda) GP Limited, the general partner of GAP (Bermuda) L.P., its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic Partners 100, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic GenPar, L.P., its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic Partners (Bermuda) EU, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Managing Director of GAP (Bermuda) GP Ltd, GP of GAP (Bermuda) L.P., GP of General Atlantic GenPar (Bermuda), L.P, its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic (SPV) GP, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic, L.P., its sole member</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic (Lux) S.a r.l.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ingrid van der Hoorn</signature>
+          <title>Manager A</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ William Blackwell</signature>
+          <title>Manager B</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GAP Coinvestments III, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic, L.P., its managing member</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GAP Coinvestments IV, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic, L.P., its managing member</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GAP Coinvestments V, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic, L.P., its managing member</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GAP Coinvestments CDA, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic, L.P., its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic GenPar (Lux) SCSp</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ingrid van der Hoorn</signature>
+          <title>Ingrid van der Hoorn, Manager A of General Atlantic (Lux) S.a r.l., its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ William Blackwell</signature>
+          <title>William Blackwell, Manager B of General Atlantic (Lux) S.a r.l., its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic Partners (Lux) SCSp</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ingrid van der Hoorn</signature>
+          <title>Manager A, General Atlantic (Lux) S.a r.l., GP of General Atlantic GenPar (Lux) SCSp, GP of General Atlantic Partners (Lux) SCSp</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ William Blackwell</signature>
+          <title>Manager B, General Atlantic (Lux) S.a r.l., GP of General Atlantic GenPar (Lux) SCSp, GP of General Atlantic Partners (Lux) SCSp</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic (TH), L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic (SPV) GP, LLC, its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>General Atlantic GenPar, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Gosk</signature>
+          <title>Michael Gosk, Managing Director of General Atlantic, L.P., its general partner</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>eh250580242_scha.htm
+<DESCRIPTION>SCHEDULE A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>SCHEDULE A</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><I>Members of the Partnership Committee (as of
+the date hereof)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 8pt; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-top: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif"><B>Name</B></TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif"><B>Address</B></TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-right: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif"><B>Citizenship</B></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(198,244,249)">
+    <TD STYLE="border-top: black 1.5pt solid; border-left: black 1.5pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">William E. Ford</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(Chief Executive Officer)</P></TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-left: black 1.5pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">55 East 52nd Street</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">33rd Floor</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">New York, New York 10055</P></TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-right: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">United States</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="border-top: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">Gabriel Caillaux</TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-left: black 1.5pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">23 Savile Row</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">London W1S 2ET</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">United Kingdom</P></TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-right: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">France</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(198,244,249)">
+    <TD STYLE="border-top: black 1.5pt solid; border-bottom: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">Mart&iacute;n Escobari</TD>
+    <TD STYLE="border-top: black 1.5pt solid; border-bottom: black 1.5pt solid; border-left: black 1.5pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">55 East 52nd Street</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">33rd Floor</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">New York, New York 10055</P></TD>
+    <TD STYLE="border: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">Bolivia and Brazil</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; border-bottom: black 1.5pt solid"><P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif">David C. Hodgson</P></TD>
+    <TD STYLE="border-left: black 1.5pt solid; border-bottom: black 1.5pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">55 East 52nd Street</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">33rd Floor</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">New York, New York 10055</P></TD>
+    <TD STYLE="border-right: black 1.5pt solid; border-bottom: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">United States</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(198,244,249)">
+    <TD STYLE="border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; border-bottom: black 1.5pt solid">Christopher G. Lanning</TD>
+    <TD STYLE="border-left: black 1.5pt solid; border-bottom: black 1.5pt solid">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Asia Square Tower 1</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">8 Marina View, #41-04</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Singapore 018960</P></TD>
+    <TD STYLE="border-right: black 1.5pt solid; border-bottom: black 1.5pt solid; border-left: black 1.5pt solid; font: 10pt Times New Roman, Times, Serif">United States</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 50%">&nbsp;</TD><TD STYLE="width: 50%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>3
+<FILENAME>eh250580242_ex3.htm
+<DESCRIPTION>EXHIBIT 3
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin-top: 0; margin-bottom: 0"><B>EXHIBIT 3</B></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B><U>Trade Date</U></B></FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B><U>Shares of common stock</U></B></FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B><U>Price per share</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: #C6F4F9">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 12, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">138,614</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$11.44</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 13, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">27,130</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$11.14</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: #C6F4F9">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 17, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">5,000</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$11.27</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 18, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">125,000</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$11.25</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: #C6F4F9">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 19, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">25,000</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$10.97</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 20, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">75,000</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$10.69</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: #C6F4F9">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">December 30, 2024</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">17,817</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$10.36</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">January 17, 2025</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">41,384</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$5.72</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: #C6F4F9">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">January 21, 2025</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">85,203</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$6.18</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">January 22, 2025</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">125,000</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt">$6.00</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0in">&nbsp;</P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0in">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2px solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0in">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

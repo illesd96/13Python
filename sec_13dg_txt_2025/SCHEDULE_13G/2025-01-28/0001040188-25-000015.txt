@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001040188-25-000015.txt : 20250128
+<SEC-HEADER>0001040188-25-000015.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128091830
+ACCESSION NUMBER:		0001040188-25-000015
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APOGEE ENTERPRISES, INC.
+		CENTRAL INDEX KEY:			0000006845
+		STANDARD INDUSTRIAL CLASSIFICATION:	GLASS PRODUCTS, MADE OF PURCHASED GLASS [3231]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				410919654
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0301
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-19349
+		FILM NUMBER:		25561219
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4400 WEST 78TH STREET
+		STREET 2:		SUITE 520
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+		BUSINESS PHONE:		6128351874
+
+	MAIL ADDRESS:	
+		STREET 1:		4400 WEST 78TH STREET
+		STREET 2:		SUITE 520
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55435
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APOGEE ENTERPRISES INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARMON GLASS CO INC
+		DATE OF NAME CHANGE:	19720623
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VICTORY CAPITAL MANAGEMENT INC
+		CENTRAL INDEX KEY:			0001040188
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				132700161
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15935 LA CANTERA PARKWAY
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78256
+		BUSINESS PHONE:		2168982400
+
+	MAIL ADDRESS:	
+		STREET 1:		15935 LA CANTERA PARKWAY
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78256
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KEY ASSET MANAGEMENT INC/OH
+		DATE OF NAME CHANGE:	19990325
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: VICTORY CAPITAL MANAGEMENT INC -->
+          <cik>0001040188</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000006845</issuerCik>
+        <issuerName>APOGEE ENTERPRISES, INC.</issuerName>
+        <issuerCusip>037598109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>4400 West 78th Street</com:street1>
+          <com:street2>SUITE 520</com:street2>
+          <com:city>Minneapolis</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55435</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Victory Capital Management, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1150192.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1155967.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1155967.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.27</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>APOGEE ENTERPRISES, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>4400 West 78th Street Suite 520, Minneapolis, Mn 55435</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Victory Capital Management, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>15935 La Cantera Pkwy
+San Antonio, TX 78256</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>New York</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,155,967</amountBeneficiallyOwned>
+        <classPercent>5.27</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,150,192</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1,155,967</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.
+
+By signing below I certify that, to the best of my knowledge and belief, the foreign regulatory scheme applicable to Victory Capital Management, Inc. is substantially comparable to the regulatory scheme applicable to the functionally equivalent U.S. institution(s). I also undertake to furnish to the Commission staff, upon request, information that would otherwise be disclosed in a Schedule 13D.
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Victory Capital Management, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>Barry Garrett</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/28/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

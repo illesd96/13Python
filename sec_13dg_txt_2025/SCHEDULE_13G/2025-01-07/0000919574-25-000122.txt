@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0000919574-25-000122.txt : 20250107
+<SEC-HEADER>0000919574-25-000122.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107080409
+ACCESSION NUMBER:		0000919574-25-000122
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Allegiant Travel CO
+		CENTRAL INDEX KEY:			0001362468
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR TRANSPORTATION, SCHEDULED [4512]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				204745737
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-82267
+		FILM NUMBER:		25513498
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1201 N. TOWN CENTER DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89144
+		BUSINESS PHONE:		702-851-7300
+
+	MAIL ADDRESS:	
+		STREET 1:		1201 N. TOWN CENTER DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89144
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FEINBERG JEFF
+		CENTRAL INDEX KEY:			0001088219
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	MAIL ADDRESS:	
+		STREET 1:		1047 NORTH BUNDY DRIVE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90049
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FEINBERG JEFF -->
+          <cik>0001088219</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001362468</issuerCik>
+        <issuerName>Allegiant Travel Company</issuerName>
+        <issuerCusip>01748X102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1201 N. TOWN CENTER DRIVE</com:street1>
+          <com:city>Las Vegas</com:city>
+          <com:stateOrCountry>NV</com:stateOrCountry>
+          <com:zipCode>89144</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Jeffrey L. Feinberg Personal Trust</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1237172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1237172.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1237172.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.7</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Feinberg, Jeff</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1237172.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1237172.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1237172.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.7</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Allegiant Travel Company</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>201 North Town Center Drive, Las Vegas, Nevada, 89144</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Jeffrey L. Feinberg Personal Trust (the "Trust")
+Jeffrey L. Feinberg ("Feinberg")</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>c/o Seward &amp; Kissel LLP
+One Battery Park Plaza
+New York, NY 10004</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Represents 1,237,172 shares owned directly by the Trust. Feinberg has beneficial ownership over the shares held by the Trust.</amountBeneficiallyOwned>
+        <classPercent>6.7</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>1,237,172</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1,237,172</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Jeffrey L. Feinberg Personal Trust</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Jeffrey L. Feinberg</signature>
+        <title>Jeffrey L. Feinberg, Trustee of the Jeffrey L. Feinberg Personal Trust</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Feinberg, Jeff</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Jeffrey L. Feinberg</signature>
+        <title>Jeffrey L. Feinberg</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

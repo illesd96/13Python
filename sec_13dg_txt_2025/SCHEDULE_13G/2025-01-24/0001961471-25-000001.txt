@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001961471-25-000001.txt : 20250124
+<SEC-HEADER>0001961471-25-000001.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124120443
+ACCESSION NUMBER:		0001961471-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VOX ROYALTY CORP.
+		CENTRAL INDEX KEY:			0001907909
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93874
+		FILM NUMBER:		25552719
+
+	BUSINESS ADDRESS:	
+		STREET 1:		66 WELLINGTON STREET WEST
+		STREET 2:		SUITE 5300, TD BANK TOWER BOX 48
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5K 1E6
+		BUSINESS PHONE:		(345) 815-3939
+
+	MAIL ADDRESS:	
+		STREET 1:		66 WELLINGTON STREET WEST
+		STREET 2:		SUITE 5300, TD BANK TOWER BOX 48
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5K 1E6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vox Royalty Corp.
+		DATE OF NAME CHANGE:	20220131
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Konwave Inc.
+		CENTRAL INDEX KEY:			0001961471
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			V8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		OBSTMARKT 1
+		CITY:			HERISAU
+		STATE:			V8
+		ZIP:			9100
+		BUSINESS PHONE:		0041713525940
+
+	MAIL ADDRESS:	
+		STREET 1:		OBSTMARKT 1
+		CITY:			HERISAU
+		STATE:			V8
+		ZIP:			9100
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001961471</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001907909</issuerCik>
+        <issuerName>VOX ROYALTY CORP.</issuerName>
+        <issuerCusip>92919F103</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>66 WELLINGTON STREET WEST</com:street1>
+          <com:street2>SUITE 5300, TD BANK TOWER BOX 48</com:street2>
+          <com:city>TORONTO</com:city>
+          <com:stateOrCountry>A6</com:stateOrCountry>
+          <com:zipCode>M5K 1E6</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Konwave Inc.</reportingPersonName>
+      <citizenshipOrOrganization>V8</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2990601.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2990601.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2990601.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.9</classPercent>
+      <typeOfReportingPerson>FI</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>VOX ROYALTY CORP.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>66 WELLINGTON STREET WEST, SUITE 5300, TD BANK TOWER BOX 48, TORONTO, ONTARIO, CANADA, M5K 1E6</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Konwave AG</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Obstmarkt, 9100 Herisau, Switzerland</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Switzerland</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>2990601</amountBeneficiallyOwned>
+        <classPercent>5.9</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>2990601</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>2990601</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Konwave Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>Erich Meier</signature>
+        <title>CEO</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+      <signatureDetails>
+        <signature>Judith Rechsteiner</signature>
+        <title>COO</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

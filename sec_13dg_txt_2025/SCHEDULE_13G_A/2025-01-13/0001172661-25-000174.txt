@@ -1,0 +1,238 @@
+<SEC-DOCUMENT>0001172661-25-000174.txt : 20250113
+<SEC-HEADER>0001172661-25-000174.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113151100
+ACCESSION NUMBER:		0001172661-25-000174
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Manchester United plc
+		CENTRAL INDEX KEY:			0001549107
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				981063519
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-86956
+		FILM NUMBER:		25526122
+
+	BUSINESS ADDRESS:	
+		STREET 1:		Old Trafford
+		CITY:			Manchester
+		STATE:			X0
+		ZIP:			M16 ORA
+		BUSINESS PHONE:		44(0)1618688000
+
+	MAIL ADDRESS:	
+		STREET 1:		Old Trafford
+		CITY:			Manchester
+		STATE:			X0
+		ZIP:			M16 ORA
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Manchester United Ltd.
+		DATE OF NAME CHANGE:	20120503
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lindsell Train Ltd
+		CENTRAL INDEX KEY:			0001484150
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		66 BUCKINGHAM GATE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			SW1E 6AU
+		BUSINESS PHONE:		44 207 808 1210
+
+	MAIL ADDRESS:	
+		STREET 1:		66 BUCKINGHAM GATE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			SW1E 6AU
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001484150-17-000005</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Lindsell Train Ltd -->
+          <cik>0001484150</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>12</amendmentNo>
+      <securitiesClassTitle>Class A ordinary shares, par value $0.0005 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001549107</issuerCik>
+        <issuerName>MANCHESTER UNITED PLC</issuerName>
+        <issuerCusip>G5784H106</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>Sir Matt Busby Way</com:street1>
+          <com:street2>Old Trafford</com:street2>
+          <com:city>Manchester</com:city>
+          <com:stateOrCountry>X0</com:stateOrCountry>
+          <com:zipCode>M16 0RA</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Lindsell Train Limited</reportingPersonName>
+      <citizenshipOrOrganization>X0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5776015.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5776015.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5776015.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>10.5</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Mr. Michael James Lindsell</reportingPersonName>
+      <citizenshipOrOrganization>X0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5776015.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5776015.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5776015.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>10.5</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Mr. Nicholas John Train</reportingPersonName>
+      <citizenshipOrOrganization>X0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5776015.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5776015.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5776015.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>10.5</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>MANCHESTER UNITED PLC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>Sir Matt Busby Way, Old Trafford, Manchester M16 0RA, United Kingdom</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13G/A is being jointly filed by Lindsell Train Limited ("the Manager"), a corporation organized under the laws of England and Wales, United Kingdom, Mr. Michael James Lindsell and Mr. Nicholas John Train with respect to the ownership of shares of Ordinary Shares of the Issuer by several separately managed accounts over which the Manager has investment discretion and voting power ("the Managed Accounts"). The Manager and Messrs. Lindsell and Train are collectively referred to in this Schedule 13G/A as the Reporting Persons.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of the principal business office of the Manager and Messrs. Lindsell and Train is 66 Buckingham Gate, London SWIE 6AU, United Kingdom.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>The Manager is a corporation organized under the laws of England and Wales, the United Kingdom. Messrs. Lindsell and Train are citizens of the United Kingdom.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>5776015.00</amountBeneficiallyOwned>
+        <classPercent>10.5</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>5776015.00</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>5776015.00</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Lindsell Train Limited</reportingPersonName>
+      <signatureDetails>
+        <signature>Mathew McNeill</signature>
+        <title>Mathew McNeill, Chief Compliance Officer</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Mr. Michael James Lindsell</reportingPersonName>
+      <signatureDetails>
+        <signature>Mr. Michael James Lindsell</signature>
+        <title>Mr. Michael James Lindsell</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Mr. Nicholas John Train</reportingPersonName>
+      <signatureDetails>
+        <signature>Mr. Nicholas John Train</signature>
+        <title>Mr. Nicholas John Train</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>1. Items 4(a) and (b) of Schedule 13G/A
+As of December 31, 2024, the Managed Accounts were the legal owners of 5,776,015 shares of Ordinary Shares, respectively. Based on there being 55,016,448 shares of Ordinary Shares, the Managed Accounts' holding represents approximately 10.5% of the outstanding Ordinary Shares, respectively. The Manager serves as investment manager to the Managed Accounts and has investment discretion and voting power over the shares of Ordinary Shares held by the Managed Accounts. Accordingly, the Manager may be deemed to be the beneficial owner of the Ordinary Shares.    Michael Lindsell owns a significant membership interest in the Manager and as such may be deemed to control shares held by the Manager by virtue of his interest in the Manager. Nicholas Train owns a significant membership interest in the Manager and as such may be deemed to control shares held by the Manager by virtue of his interest in the Manager.    Each of the Reporting Persons disclaims beneficial ownership of the shares of Ordinary Shares of the Issuer held by the Managed Accounts, except to the extent of any pecuniary interest therefrom, and this report shall not be deemed to be an admission that they are the beneficial owners of such securities.
+2. Item 4(c) of Schedule 13G/A
+As of December 31, 2024, each of the Reporting Persons may be deemed to have the power to vote or to direct the voting of and to dispose or to direct the disposition of the 5,776,015 shares, respectively, of Ordinary Shares held by the Managed Accounts. Each of the Reporting Persons disclaims beneficial ownership of the shares of Ordinary Shares held by the Managed Accounts, except to the extent of any pecuniary interest therefrom, and this report shall not be deemed to be an admission that they are the beneficial owners of such securities.</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

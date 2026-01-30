@@ -1,0 +1,589 @@
+<SEC-DOCUMENT>0001104659-25-005344.txt : 20250122
+<SEC-HEADER>0001104659-25-005344.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122195538
+ACCESSION NUMBER:		0001104659-25-005344
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bitdeer Technologies Group
+		CENTRAL INDEX KEY:			0001899123
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94078
+		FILM NUMBER:		25547342
+
+	BUSINESS ADDRESS:	
+		STREET 1:		08 KALLANG AVENUE, APERIA TOWER 1, #09-0
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			339509
+		BUSINESS PHONE:		65-62828220
+
+	MAIL ADDRESS:	
+		STREET 1:		08 KALLANG AVENUE, APERIA TOWER 1, #09-0
+		CITY:			SINGAPORE
+		STATE:			U0
+		ZIP:			339509
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tether Holdings Ltd
+		CENTRAL INDEX KEY:			0002025889
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SHRM TRUSTEES (BVI) LIMITED
+		STREET 2:		TRINITY CHAMBERS, P.O. BOX 4301
+		CITY:			ROAD TOWN, TORTOLA
+		STATE:			D8
+		ZIP:			VG 1110
+		BUSINESS PHONE:		443333355842
+
+	MAIL ADDRESS:	
+		STREET 1:		SHRM TRUSTEES (BVI) LIMITED
+		STREET 2:		TRINITY CHAMBERS, P.O. BOX 4301
+		CITY:			ROAD TOWN, TORTOLA
+		STATE:			D8
+		ZIP:			VG 1110
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-24-068877</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Tether Holdings Ltd -->
+          <cik>0002025889</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Class A ordinary shares, par value $0.0000001 per share</securitiesClassTitle>
+      <dateOfEvent>01/17/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001899123</issuerCIK>
+        <issuerCUSIP>G11448100</issuerCUSIP>
+        <issuerName>BITDEER TECHNOLOGIES GROUP</issuerName>
+        <address>
+          <com:street1>08 Kallang Avenue</com:street1>
+          <com:street2>Aperia tower 1, #09-03/04</com:street2>
+          <com:city>Singapore</com:city>
+          <com:stateOrCountry>U0</com:stateOrCountry>
+          <com:zipCode>339509</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Tether Holdings Limited</personName>
+          <personPhoneNum>443333355842</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o SHRM Trustees</com:street1>
+            <com:street2>Trinity Chambers</com:street2>
+            <com:city>Tortola, Road Town</com:city>
+            <com:stateOrCountry>D8</com:stateOrCountry>
+            <com:zipCode>VG1110</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002025889</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Tether Holdings Limited</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D8</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>30066689.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>30066689.00</sharedDispositivePower>
+        <aggregateAmountOwned>30066689.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>20.1</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Tether International Limited</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D8</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>23773987.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>23773987.00</sharedDispositivePower>
+        <aggregateAmountOwned>23773987.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>15.9</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Tether Investments Limited</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D8</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6292702.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6292702.00</sharedDispositivePower>
+        <aggregateAmountOwned>6292702.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.4</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Giancarlo Devasini</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>L6</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>30066689.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>30066689.00</sharedDispositivePower>
+        <aggregateAmountOwned>30066689.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>20.1</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A ordinary shares, par value $0.0000001 per share</securityTitle>
+        <issuerName>BITDEER TECHNOLOGIES GROUP</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>08 Kallang Avenue</com:street1>
+          <com:street2>Aperia tower 1, #09-03/04</com:street2>
+          <com:city>Singapore</com:city>
+          <com:stateOrCountry>U0</com:stateOrCountry>
+          <com:zipCode>339509</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This statement on Schedule 13D amends the Schedule 13D of Tether Holdings Limited, a British Virgin Islands business company, Tether International Limited, a British Virgin Islands business company, Ludovicus Jan Van der Velde and Giancarlo Devasini that was originally filed with the Securities and Exchange Commission on June 6, 2024, as amended by Amendment No. 1 filed on August 8, 2024, Amendment No. 2 filed on September 3, 2024, and Amendment No. 3 filed on November 7, 2024 (as amended, the "Schedule 13D") with respect to the Class A ordinary shares, par value $0.0000001 per share ("Class A Shares") of Bitdeer Technologies Group, an exempted company incorporated in the Cayman Islands (the "Issuer"). This amendment to the Schedule 13D is being filed by Tether Holdings Limited, a British Virgin Islands business company, Tether International Limited, a British Virgin Islands business company, Tether Investments Limited, a British Virgin Islands business company, and Giancarlo Devasini (collectively, the "Reporting Persons") and constitutes Amendment No. 4 to the Schedule 13D. Capitalized terms used but not defined herein have the meanings given to such terms in the Schedule 13D. Except as set forth herein, the Schedule 13D is unmodified.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The Reporting Persons beneficially own an aggregate of 30,066,689 shares of the Issuer's Class A Shares, representing 20.1% of the outstanding Class A Shares.</percentageOfClassSecurities>
+        <numberOfShares>Each of Tether Holdings Limited and Mr. Devasini has shared voting and dispositive power with respect to the beneficially owned 30,066,689 shares. Tether International Limited has shared voting and dispositive power with respect to 23,773,987 shares. Tether Investments Limited has shared voting and dispositive power with respect to 6,292,702 shares. The percentages reported herein are calculated based upon 149,286,361 Class A Shares outstanding, which include (i) 144,099,734 Class A Shares outstanding as of January 2, 2025, and (ii) for all Reporting Persons other than Tether Investments Limited, 5,186,627 Class A Shares that may be acquired upon the exercise of the Warrants.</numberOfShares>
+        <transactionDesc>The Reporting Persons have not effected any transactions in the Class A Shares during the past 60 days.</transactionDesc>
+        <listOfShareholders>None.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Schedule A - Executive Officers and Directors
+Exhibit 1 - Agreement of filing persons relating to filing of joint statement per Rule 13d-1(k).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Tether Holdings Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ludovicus Jan Van der Velde</signature>
+          <title>Ludovicus Jan Van der Velde, Director</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Tether International Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ludovicus Jan Van der Velde</signature>
+          <title>Ludovicus Jan Van der Velde, Director</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Tether Investments Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ludovicus Jan Van der Velde</signature>
+          <title>Ludovicus Jan Van der Velde, Director</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Giancarlo Devasini</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Giancarlo Devasini</signature>
+          <title>Giancarlo Devasini, individually</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.(A)
+<SEQUENCE>2
+<FILENAME>tm253713d2_ex99a.htm
+<DESCRIPTION>SCHEDULE A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Schedule A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Executive Officers and Directors</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The following sets forth the name, country of citizenship, position
+and principal occupation of each executive officer and member of the board of directors of Tether Holdings Limited, Tether International
+Limited and Tether Investments Limited. Except as indicated below, none of the persons listed below has been convicted of a crime (other
+than traffic violations or similar misdemeanors) or been subject to proceedings pertaining to violations of securities laws within the
+past 5 years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><U>Executive Officers and Directors of Tether Holdings Limited</U></B>:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 19%; border: black 1pt solid; padding: 10pt 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Name and<BR>
+Citizenship</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 19%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-top: 10pt; padding-right: 2pt; padding-left: 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Position and<BR>
+Principal<BR>
+Occupation</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 20%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 10pt 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Beneficial Ownership</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 42%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 10pt 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Business Address</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Paolo Ardoino, citizen<BR>
+of Italy</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Executive<BR>
+Officer and Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Giancarlo Devasini,<BR>
+citizen of Italy</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Financial<BR>
+Officer and Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">30,066,689 (1)</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Ludovicus Jan Van der<BR>
+Velde, citizen of the<BR>
+Netherlands</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><U>Executive Officers and Directors of Tether International Limited</U></B>:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 19%; border: black 1pt solid; padding: 10pt 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Name and<BR>
+Citizenship</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 19%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-top: 10pt; padding-right: 2pt; padding-left: 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Position and Principal<BR>
+Occupation</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 20%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 10pt 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Beneficial Ownership</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 42%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 10pt 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Business Address</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Paolo Ardoino, citizen<BR>
+of Italy</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Executive<BR>
+Officer and Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Giancarlo Devasini,<BR>
+citizen of Italy</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Financial<BR>
+Officer and Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">30,066,689 (1)</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Ludovicus Jan Van der<BR>
+Velde, citizen of the<BR>
+Netherlands</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B><U>Executive Officers and Directors of Tether Investments Limited</U></B>:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="vertical-align: top; width: 19%; border: black 1pt solid; padding: 10pt 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Name and Citizenship</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 19%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-top: 10pt; padding-right: 2pt; padding-left: 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Position and Principal<BR>
+Occupation</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 20%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 10pt 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Beneficial Ownership</U></B></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 42%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 10pt 2pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Business Address</U></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Paolo Ardoino, citizen of<BR>
+Italy</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Executive<BR>
+Officer and Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Giancarlo Devasini,<BR>
+citizen of Italy</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Financial<BR>
+Officer and Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">30,066,689 (1)</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Ludovicus Jan Van der<BR>
+Velde, citizen of the<BR>
+Netherlands</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Director</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding: 2pt; border-right: black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">SHRM Trustees (BVI) Limited,<BR>
+P.O.&nbsp;Box 4301, Trinity Chambers, Road Town,<BR>
+ Tortola, British Virgin Islands, VG 1110</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px">&nbsp;</TD>
+    <TD STYLE="width: 25px"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Includes the following Class&nbsp;A ordinary shares, par value $0.0000001 per share (&ldquo;Class&nbsp;A Shares&rdquo;) of Bitdeer Technologies Group: (a)&nbsp;18,587,360 Class&nbsp;A Shares held by Tether International Limited, a wholly owned subsidiary of Tether Holdings Limited, (b)&nbsp; 6,292,702 Class&nbsp;A Shares held by Tether Investments Limited, a wholly owned subsidiary of Tether Holdings Limited and (c)&nbsp;5,186,627 Class&nbsp;A Shares that may be acquired upon the exercise of a presently exercisable warrant held by Tether International Limited.</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In October&nbsp;2021, the U.S. Commodity Futures Trading Commission
+(CFTC) instituted and settled regulatory proceedings against Tether Holdings Limited, Tether Limited, Tether Operations Limited, and Tether
+International Limited (collectively, &ldquo;Tether&rdquo;) by way of an order accepting Tether&rsquo;s payment of a civil monetary penalty
+of $41 million without admitting or denying any of the CFTC&rsquo;s findings or conclusions. The order settled CFTC allegations that,
+from June&nbsp;2016 to February&nbsp;2019, Tether made untrue or misleading statements and omissions of material fact or omitted to state
+material facts necessary to make statements made not true or misleading in connection with, among other things, whether USDT was fully
+backed by U.S. Dollars held in bank accounts in Tether&rsquo;s name.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In February&nbsp;2021, the Office of the Attorney General of the State
+of New York (NYAG) entered into an agreement with Tether and several Bitfinex (a group of companies with which Tether is affiliated) companies,
+to settle a 2019 proceeding brought by NYAG seeking an injunction related to, among other things, the transfer of certain funds by and
+among Bitfinex and Tether. Without admitting or denying NYAG&rsquo;s findings, Bitfinex and Tether agreed to settle the NYAG proceeding
+by paying $18.5 million in penalties to the State of New York. The agreement further required Bitfinex and Tether to discontinue any trading
+activity with New York persons or entities and to submit to mandatory reporting on certain business functions.</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>tm253713d2_ex1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>EXHIBIT&nbsp;1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Joint Filing Agreement</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">In accordance with Rule&nbsp;13d-1(k)&nbsp;promulgated under the Securities
+Exchange Act of 1934, as amended, each of the persons named below agrees to the joint filing of this Amendment to Schedule 13D, including
+further amendments thereto, with respect to the Class&nbsp;A ordinary shares, par value $0.0000001 per share, of Bitdeer Technologies
+Group and further agrees that this Joint Filing Agreement be filed with the Securities and Exchange Commission as an exhibit to such filing;
+provided, however, that no person shall be responsible for the completeness or accuracy of the information concerning the other persons
+making the filing unless such person knows or has reason to believe such information is inaccurate (as provided in Rule&nbsp;13d-1(k)(1)(ii)).
+This Joint Filing Agreement may be executed in one or more counterparts, all of which together shall constitute one and the same instrument.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">IN WITNESS WHEREOF, the persons named below have executed this Joint
+Filing Agreement as of the date set forth below.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">January 22, 2025</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>TETHER HOLDINGS LIMITED</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Ludovicus Jan Van der Velde </FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="width: 45%"><FONT STYLE="font-size: 10pt">Ludovicus Jan Van der Velde</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Director</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>TETHER INTERNATIONAL LIMITED</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Ludovicus Jan Van der Velde </FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Ludovicus Jan Van der Velde</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Director</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>TETHER INVESTMENTS LIMITED</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Ludovicus Jan Van der Velde </FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Ludovicus Jan Van der Velde</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Director</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Ludovicus Jan Van der Velde</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>Ludovicus Jan Van der Velde</B><U>,</U> individually</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Giancarlo Devasini</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>Giancarlo Devasini</B>, individually</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

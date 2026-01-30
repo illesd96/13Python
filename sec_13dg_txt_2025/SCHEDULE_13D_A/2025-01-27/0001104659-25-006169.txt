@@ -1,0 +1,432 @@
+<SEC-DOCUMENT>0001104659-25-006169.txt : 20250127
+<SEC-HEADER>0001104659-25-006169.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127093225
+ACCESSION NUMBER:		0001104659-25-006169
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250127
+DATE AS OF CHANGE:		20250127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UNIVERSAL STAINLESS & ALLOY PRODUCTS INC
+		CENTRAL INDEX KEY:			0000931584
+		STANDARD INDUSTRIAL CLASSIFICATION:	STEEL WORKS, BLAST FURNACES  ROLLING MILLS (COKE OVENS) [3312]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				251724540
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-49841
+		FILM NUMBER:		25556018
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 MAYER ST
+		CITY:			BRIDGEVILLE
+		STATE:			PA
+		ZIP:			15017
+		BUSINESS PHONE:		4122577600
+
+	MAIL ADDRESS:	
+		STREET 1:		600 MAYER ST
+		CITY:			BRIDGEVILLE
+		STATE:			PA
+		ZIP:			15017
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Magnetar Financial LLC
+		CENTRAL INDEX KEY:			0001352851
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				043818748
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1603 ORRINGTON AVE.
+		STREET 2:		13TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+		BUSINESS PHONE:		(847)905-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		1603 ORRINGTON AVE.
+		STREET 2:		13TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-24-116684</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Magnetar Financial LLC -->
+          <cik>0001352851</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock Par Value $.01</securitiesClassTitle>
+      <dateOfEvent>01/23/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000931584</issuerCIK>
+        <issuerCUSIP>913837100</issuerCUSIP>
+        <issuerName>United Stainless &amp; Alloy Products, Inc.</issuerName>
+        <address>
+          <com:street1>600 Mayer Street</com:street1>
+          <com:city>Bridgeville</com:city>
+          <com:stateOrCountry>PA</com:stateOrCountry>
+          <com:zipCode>15017</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>David J. Snyderman</personName>
+          <personPhoneNum>847-905-4400</personPhoneNum>
+          <personAddress>
+            <com:street1>1603 Orrington Avenue</com:street1>
+            <com:street2>13th Floor</com:street2>
+            <com:city>Evanston</com:city>
+            <com:stateOrCountry>IL</com:stateOrCountry>
+            <com:zipCode>60201</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001352851</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Magnetar Financial LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001353085</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Magnetar Capital Partners LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001368026</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Supernova Management LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>David J. Snyderman</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock Par Value $.01</securityTitle>
+        <issuerName>United Stainless &amp; Alloy Products, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>600 Mayer Street</com:street1>
+          <com:city>Bridgeville</com:city>
+          <com:stateOrCountry>PA</com:stateOrCountry>
+          <com:zipCode>15017</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item4>
+        <transactionPurpose>Since the filing of Schedule D on November 12, 2024, on January 23, 2025, the Issuer consummated a merger (the "Merger") pursuant to which each issued and outstanding Share was cancelled and converted into the right to receive $45.00 in cash, without interest. In connection with the Merger, the Reporting Persons' 618,018 Shares, which consisted of 156,251 Shares sold for the benefit of Systematic Master Fund, 394,430 Shares sold for the benefit of PRA Master Fund, 35,639 Shares sold for the benefit of the Relative Value Master Fund and 31,698 Shares sold for the benefit of Managed Account, were cancelled and converted into the right to receive $45.00 in cash, without interest.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>As of the closing of the Merger on January 23, 2025, each of the Reporting Persons may have been deemed to have beneficial ownership of 0 Shares.</percentageOfClassSecurities>
+        <numberOfShares>As of the closing of the Merger on January 23, 2025, each of the Reporting Persons may have been deemed to share the power to vote and direct the disposition of 0 Shares, which represented beneficial ownership of 0% of the Shares.</numberOfShares>
+        <transactionDesc>Except as set forth on Schedule A attached hereto and Item 6, the Funds had no transactions in the Shares during the 60 days preceding the date of filing of this Statement. All of the transactions set forth on Schedule A attached hereto were effected in the ordinary course of business of Magnetar Financial for the accounts of each of the Funds. The transactions in the Shares set forth on Schedule A were effected in open market transactions on the NASDAQ and various other trading markets.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Pursuant to Rule 13d-1(k)(1) promulgated under the Securities Exchange Act of 1934, as amended, the Reporting Persons have entered into an agreement with respect to the joint filing of this Statement, and any amendment or amendments hereto.
+
+Except as otherwise described herein, no contracts, arrangements, understandings or similar relationships exist with respect to the securities of the Company among or between the Reporting Persons or any other person or entity.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>99.1 Joint Filing Agreement, dated as of January 27, 2025, among the Reporting Persons
+99.2 Power of Attorney, dated as of December 22, 2022 filed by the Reporting Persons on January 25, 2025.
+99.3. Schedule A</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Magnetar Financial LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC, Magnetar Capital Partners LP, its Sole Member</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Magnetar Capital Partners LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC, Supernova Management LLC, its General Partner</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Supernova Management LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>David J. Snyderman</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Hayley Stein/Attorney-in-fact for David J. Snyderman</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>2
+<FILENAME>tm254435d1_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>EXHIBIT 99.2</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>LIMITED POWER OF ATTORNEY</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Know all by these present, that I, <U>David J.
+Snyderman</U>, hereby make, constitute and appoint each of <U>Michael Turro</U>, <U>Karl Wachter</U> and <U>Hayley Stein</U>, or any
+of them acting individually, and with full power of substitution, as my true and lawful attorney-in-fact for the purpose of executing
+in my name, (a) in my personal capacity or (b) in my capacity as <U>Manager</U> or in other capacities of <U>Supernova Management LLC</U>,
+a <U>Delaware limited liability company</U>, and each of its affiliates or entities advised or controlled by me or <U>Supernova Management
+LLC</U>, all documents, certificates, instruments, statements, filings and agreements (&ldquo;documents&rdquo;) to be filed with or delivered
+to the United States Securities and Exchange Commission (the &ldquo;SEC&rdquo;) pursuant to the Securities and Exchange Act of 1934,
+as amended (the &ldquo;Act&rdquo;), and the rules and regulations promulgated thereunder, including, without limitation, all documents
+relating to the beneficial ownership of securities required to be filed with the SEC pursuant to Section 13(d) or Section 16(a) of the
+Act, including, without limitation: (a) any acquisition statements on Schedule 13D or Schedule 13G and any amendments thereto, (b) any
+joint filing agreements pursuant to Rule 13d-1(k) under the Act, and (c) any initial statements of, or statements of changes in, beneficial
+ownership of securities on Form 3, Form 4 or Form 5.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">All past acts of the attorney-in-fact in furtherance of the foregoing
+are hereby ratified and confirmed.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This Power of Attorney shall remain in full force and effect until
+the earlier of it being (a) revoked by the undersigned in a signed writing delivered to the foregoing attorney-in-fact or (b) superseded
+by a new power of attorney regarding the purposes outlined herein as of a later date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney
+to be executed as of this 22 day of December, 2022.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" STYLE="width: 100%; margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: top">
+  <TD STYLE="text-align: center; width: 50%">&nbsp;</TD>
+  <TD STYLE="border-bottom: Black 1pt solid; text-align: left; width: 50%">/s/ David J. Snyderman</TD></TR>
+
+<TR STYLE="vertical-align: top">
+  <TD STYLE="text-align: center">&nbsp;</TD>
+  <TD STYLE="text-align: left">David J. Snyderman</TD></TR>
+</TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>3
+<FILENAME>tm254435d1_ex99-3.htm
+<DESCRIPTION>EXHIBIT 99.3
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: right; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>Exhibit 99.3</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SCHEDULE A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Funds</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 80%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif">Date</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: center; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif">Number of Shares <BR>
+Bought</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: center; border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Price Per Share($) <SUP>(1)(2)</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"><SUP>&nbsp;</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; width: 31%; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/05/2024</FONT></TD><TD STYLE="width: 1%; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; width: 30%; font: 10pt Times New Roman, Times, Serif; text-align: right">2,537</TD><TD STYLE="width: 1%; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; width: 1%; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; width: 30%; font: 10pt Times New Roman, Times, Serif; text-align: right">44.24001</TD><TD STYLE="width: 1%; padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left"><SUP>(3)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/06/2024</FONT></TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">6,265</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">44.28617</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left"><SUP>(4)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/09/2024</FONT></TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">3,234</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">44.30376</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left"><SUP>(5)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/10/2024</FONT></TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">433</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">44.21229</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left"><SUP>(6)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">01/21/2025</FONT></TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">1,532</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: right">44.58736</TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; text-align: left"><SUP>(7)</SUP></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">TB(1) Excludes commissions and other execution-related costs.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(2) Upon request by the staff of the Securities and Exchange Commission,
+full information regarding the number of shares bought or sold (as the case may be) at each separate price will be provided.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(3) Reflects a weighted average purchase price of $44.24001 per share,
+at prices ranging from $44.18 to $44.285 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(4) Reflects a weighted average purchase price of $44.28617 6per share,
+at prices ranging from $44.18 to $44.33 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(5) Reflects a weighted average purchase price of $44.30376 per share,
+at prices ranging from $44.22 to $44.41 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(6) Reflects a weighted average purchase price of $44.21229 per share,
+at prices ranging from $44.14 to $44.25 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(7) Reflects a weighted average purchase price of $44.58736 per share,
+at prices ranging from $44.58 to $44.6 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

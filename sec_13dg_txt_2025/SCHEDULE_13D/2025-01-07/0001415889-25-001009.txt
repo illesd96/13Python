@@ -1,0 +1,369 @@
+<SEC-DOCUMENT>0001415889-25-001009.txt : 20250107
+<SEC-HEADER>0001415889-25-001009.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107165302
+ACCESSION NUMBER:		0001415889-25-001009
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250107
+DATE AS OF CHANGE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vor Biopharma Inc.
+		CENTRAL INDEX KEY:			0001817229
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92269
+		FILM NUMBER:		25515503
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CAMBRIDGEPARK DRIVE
+		STREET 2:		SUITE 101
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02140
+		BUSINESS PHONE:		617-655-6580
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CAMBRIDGEPARK DRIVE
+		STREET 2:		SUITE 101
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02140
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Reprogrammed Interchange LLC
+		CENTRAL INDEX KEY:			0002050755
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				364889533
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 MISSION STREET, SUITE 1000
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		415-541-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		101 MISSION STREET, SUITE 1000
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+	    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002050755</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+
+
+    </filerInfo>
+  </headerData>
+
+  <formData>
+    <coverPageHeader>
+	      <securitiesClassTitle>Common Stock, par value $.0001 per share</securitiesClassTitle>
+      <dateOfEvent>12/30/2024</dateOfEvent>
+	  <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001817229</issuerCIK>
+        <issuerCUSIP>929033108</issuerCUSIP>
+		<issuerName>VOR BIOPHARMA INC.</issuerName>
+
+        <address>
+          <com:street1>100 Cambridgepark Drive, Suite 101</com:street1>
+                    <com:city>Cambridge</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02140</com:zipCode>
+        </address>
+      </issuerInfo>
+
+	  	  <authorizedPersons>
+
+		<notificationInfo>
+			<personName>Frank Huang, Manager</personName>
+			<personPhoneNum>(415) 541-0200</personPhoneNum>
+				<personAddress>
+					<com:street1>101 Mission Street, Suite 1000</com:street1>
+										<com:city>San Francisco</com:city>
+					<com:stateOrCountry>CA</com:stateOrCountry>
+					<com:zipCode>94105</com:zipCode>
+				</personAddress>
+		</notificationInfo>
+			</authorizedPersons>
+	    </coverPageHeader>
+
+	<reportingPersons>
+
+
+			<reportingPersonInfo>
+									<reportingPersonCIK>0002050755</reportingPersonCIK>
+
+				<reportingPersonNoCIK>N</reportingPersonNoCIK>
+				<reportingPersonName>Reprogrammed Interchange LLC</reportingPersonName>
+
+
+
+
+
+
+				  				  <fundType>WC</fundType>
+
+
+
+				<legalProceedings>N</legalProceedings>
+
+								<citizenshipOrOrganization>CA</citizenshipOrOrganization>
+												<soleVotingPower>0.00</soleVotingPower>
+												<sharedVotingPower>38974101.00</sharedVotingPower>
+												<soleDispositivePower>0.00</soleDispositivePower>
+
+				<sharedDispositivePower>38974101.00</sharedDispositivePower>
+												<aggregateAmountOwned>38974101.00</aggregateAmountOwned>
+
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+
+								<percentOfClass>31.3</percentOfClass>
+
+
+
+
+
+
+
+
+
+
+
+
+			  			  <typeOfReportingPerson>OO</typeOfReportingPerson>
+
+
+
+			</reportingPersonInfo>
+
+			<reportingPersonInfo>
+									<reportingPersonCIK>0001519339</reportingPersonCIK>
+
+				<reportingPersonNoCIK>N</reportingPersonNoCIK>
+				<reportingPersonName>Reid Hoffman</reportingPersonName>
+
+
+
+
+
+				  				  <fundType>AF</fundType>
+
+
+
+
+				<legalProceedings>N</legalProceedings>
+
+								<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+												<soleVotingPower>0.00</soleVotingPower>
+												<sharedVotingPower>38974101.00</sharedVotingPower>
+												<soleDispositivePower>0.00</soleDispositivePower>
+
+				<sharedDispositivePower>38974101.00</sharedDispositivePower>
+												<aggregateAmountOwned>38974101.00</aggregateAmountOwned>
+
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+
+								<percentOfClass>31.3</percentOfClass>
+
+
+
+
+
+
+
+
+
+
+
+			  			  <typeOfReportingPerson>IN</typeOfReportingPerson>
+
+
+
+
+			</reportingPersonInfo>
+			</reportingPersons>
+
+
+	<items1To7>
+		<item1>
+			<securityTitle>Common Stock, par value $.0001 per share</securityTitle>
+			<issuerName>VOR BIOPHARMA INC.</issuerName>
+
+			<issuerPrincipalAddress>
+			 <com:street1>100 Cambridgepark Drive, Suite 101</com:street1>
+			  			  <com:city>Cambridge</com:city>
+			  <com:stateOrCountry>MA</com:stateOrCountry>
+			  <com:zipCode>02140</com:zipCode>
+			</issuerPrincipalAddress>
+
+					</item1>
+
+				<item2>
+			<filingPersonName>This Schedule 13D is filed by Reprogrammed Interchange LLC ("Reprogrammed") and Reid Hoffman (each, a "Reporting Person" and, collectively, the "Reporting Persons"). The agreement among the Reporting Persons to file this Schedule 13D jointly in accordance with Rule 13d-1(k) of the Securities Exchange Act of 1934, as amended (the "Act"), is attached hereto as Exhibit 99.1.</filingPersonName>			<principalBusinessAddress>The business address of each Reporting Person is 101 Mission Street, Suite 1000, San Francisco, CA 94105.</principalBusinessAddress>			<principalJob>Reprogrammed is a private investment vehicle. The principal occupation of Mr. Hoffman is as a Partner at Greylock Partners, a venture capital firm with a principal business address at 2550 Sand Hill Road, Suite 200, Menlo Park, CA 94025.</principalJob>			<hasBeenConvicted>No Reporting Person has, during the past five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>			<convictionDescription>No Reporting Person has, during the past five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding such person was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>			<citizenship>See Item 6 of the cover pages.</citizenship>		</item2>
+
+				<item3>
+			<fundsSource>On December 26, 2024, Vor Biopharma Inc. (the "Issuer") entered into a securities purchase agreement (the "December 2024 Securities Purchase Agreement") with certain accredited institutional investors (the "December 2024 PIPE Investors"), including Reprogrammed, pursuant to which the Issuer agreed to issue and sell to the December 2024 PIPE Investors in a private placement (the "December 2024 Private Placement") an aggregate of (i) 55,871,260 shares (the "Shares") of Common Stock, par value $0.0001 per share (the "Common Stock"), and (ii) accompanying warrants (the "Common Stock Warrants") to purchase up to 69,839,075 shares of Common Stock (the "Warrant Shares"), at a price of $0.99425 per Share and accompanying Common Stock Warrants. The December 2024 Private Placement closed on December 30, 2024 (the "Closing Date"). Reprogrammed purchased 38,974,101 shares of Common Stock and received Common Stock Warrants exercisable for up to 48,717,626 Warrant Shares in the December 2024 Private Placement, for total consideration of $38,749,999.92, which was funded by the working capital of Reprogrammed.</fundsSource>
+		</item3>
+
+				<item4>
+			<transactionPurpose>The Reporting Persons acquired the Common Stock reported herein for investment purposes and not with an intent, purpose or effect of changing control of the Issuer. Although the Reporting Persons currently have no plan or proposal to acquire any additional Issuer securities or to dispose of any of the Issuer securities reported herein, the Reporting Persons may, from time to time, acquire additional equity securities or debt securities of the Issuer, which debt securities may be convertible or non-convertible, secured or unsecured, and could involve the monetization of potential revenue streams deriving from development-stage or commercial programs of the Issuer, or dispose of Issuer securities they beneficially own, on the open market or in private transactions or otherwise (including by means of 10b5-1 programs), consistent with their investment purposes and in amounts, on such terms and at such times as to be determined by the Reporting Persons based upon a number of factors, including, without limitation, their ongoing assessment of the Issuer's business prospects, the availability of Issuer securities at prices that would make the purchase or sale of such securities desirable, prevailing market conditions, the availability of other investment opportunities, and/or other considerations.
+
+In addition, consistent with their investment purpose, the Reporting Persons may engage in communications with persons associated with the Issuer, including stockholders of the Issuer, officers of the Issuer, members of the board of directors of the Issuer, and/or or other third parties, to discuss matters regarding the Issuer, including but not limited to its operations, strategic direction, governance or capitalization, and potential business combinations or dispositions involving the Issuer or certain of its businesses.
+
+Pursuant to the December 2024 Securities Purchase Agreement, as described in Item 6 hereof, the Issuer is required to appoint a designee of the Fund to the Issuer's board of directors (the "Reprogrammed Appointed Director"). Erez Kalir shall initially serve as the Reprogrammed Appointed Director. Mr. Kalir will engage in regular discussions with the Issuer's board of directors and management as part of his duties as a director.
+
+Neither Mr. Kalir (other than in his capacity as a director) nor the Reporting Persons have any present plans or proposals that relate to, or could result in, any of the matters referred to in paragraphs (a) through (j), inclusive, of the instructions to Item 4 of Schedule 13D.
+
+Depending on various factors including, without limitation, the Issuer's financial position, results and strategic direction, actions taken by the Issuer's management and board of directors, other investment opportunities available to Reprogrammed, the price levels of the Issuer securities, conditions in the securities markets and general economic and industry conditions, the Reporting Persons may change their purpose and formulate and implement plans or proposals with respect to the Issuer at any time and from time to time. Any such action may be made by the Reporting Persons alone or in conjunction with other stockholders, potential acquirers, financing sources and/or other third parties and could include one or more purposes, plans or proposals that relate to or would result in actions required to be reported herein in accordance with Item 4 of Schedule 13D.</transactionPurpose>
+		</item4>
+
+				<item5>
+			<percentageOfClassSecurities>Rows 11 and 13 of each Reporting Person's cover page to this Schedule 13D set forth the aggregate number of shares of Common Stock and percentages of the shares of Common Stock beneficially owned by such Reporting Person and are incorporated by reference. The percentage set forth in each row 13 is based upon the sum of (i) 68,673,612 shares of Common Stock outstanding as of November 1, 2024, as reported in the Issuer's Quarterly Report on Form 10-Q filed with the SEC on November 7, 2024 and (ii) 55,871,260 shares of Common Stock issued in the December 2024 Private Placement.</percentageOfClassSecurities>
+			<numberOfShares>Rows 7 through 10 of each Reporting Person's cover page to this Schedule 13D set forth the number of shares of Common Stock as to which such Reporting Person has the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition and are incorporated by reference.</numberOfShares>
+			<transactionDesc>Except as set forth herein, none of the Reporting Persons has effected any transactions with respect to the securities of the Issuer during the past sixty days.  </transactionDesc>
+			<listOfShareholders>Not applicable.</listOfShareholders>
+			<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+		</item5>
+
+				<item6>
+			<contractDescription>DECEMBER 2024 SECURITIES PURCHASE AGREEMENT
+
+Pursuant to the December 2024 Securities Purchase Agreement, subject to the terms and conditions thereof, commencing on the date of the December 2024 Securities Purchase Agreement and ending on the date on which Reprogrammed, together with its affiliates, ceases to beneficially own at any time 4.99% or more of the then issued and outstanding Common Stock (such period, the "Reprogrammed Director Designation Right Period"), the Issuer has agreed to appoint one individual designated by Reprogrammed to its board of directors.
+
+Additionally, subject to the terms and conditions of the December 2024 Securities Purchase Agreement, during the Reprogrammed Director Designation Right Period, the Issuer shall invite a single representative of Reprogrammed, as designated by Reprogrammed, to attend and participate in all meetings of its board of directors, in a nonvoting observer capacity.
+
+The foregoing description of the December 2024 Securities Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the Form of the December 2024 Securities Purchase Agreement, a copy of which is filed as Exhibit 99.2 hereto and incorporated by reference herein.
+
+REGISTRATION RIGHTS AGREEMENT
+
+On December 26, 2024, the Issuer entered into a registration rights agreement (the "Registration Rights Agreement") with the December 2024 PIPE Investors, pursuant to which the Issuer agreed to register for resale the Shares and the Warrant Shares held by the December 2024 PIPE Investors. Pursuant to the terms of the Registration Rights Agreement, the Issuer is obligated to prepare and file with the SEC a registration statement on Form S-3 (the "Registration Statement") to register for resale the Shares and the Warrant Shares within 30 days of the Closing Date and to use its reasonable efforts to have the Registration Statement declared effective within 75 days of the initial filing date of the Registration Statement, subject to extension under the terms of the Registration Rights Agreement.
+
+The Issuer has granted the December 2024 PIPE Investors customary indemnification rights in connection with the registration statement. The December 2024 PIPE Investors have also granted the Issuer customary indemnification rights in connection with the registration statement.
+
+The foregoing description of the Registration Rights Agreement does not purport to be complete and is qualified in its entirety by reference to the Form of Registration Rights Agreement, a copy of which is filed as Exhibit 99.3 hereto and incorporated by reference herein.
+
+COMMON STOCK WARRANTS
+
+Each Common Stock Warrant has an exercise price of $0.838 per Warrant Share. The Common Stock Warrants will be exercisable immediately and will expire seven years from the date of issuance. A holder (together with its affiliates and other attribution parties) may not exercise any portion of a Common Stock Warrant to the extent that immediately prior to or after giving effect to such exercise the holder would own more than 9.99% of the Issuer's outstanding Common Stock immediately after exercise, which percentage may be changed at the holder's election to any other percentage not in excess of the lower of (i) 49.99% or (ii) such percentage that, if the Common Stock Warrant was exercised to the fullest extent, would not result in a change of control under Nasdaq Stock Market Listing Rule 5635(b) or any successor rule, upon 61 days' notice to the Issuer, subject to the terms of the Common Stock Warrants.
+
+The foregoing description of the Common Stock Warrants does not purport to be complete and is qualified in its entirety by reference to the Form of Common Stock Warrant, a copy of which is filed as Exhibit 99.4 hereto and incorporated by reference herein.</contractDescription>
+		</item6>
+
+				<item7>
+			<filedExhibits>Exhibit 99.1	Joint Filing Agreement
+
+Exhibit 99.2	Form of Securities Purchase Agreement (incorporated by reference to Exhibit 10.1 to the Issuer's Current Report on Form 8-K filed on December 27, 2024).
+
+Exhibit 99.3	Form of Registration Rights Agreement (incorporated by reference to Exhibit 10.2 to the Issuer's Current Report on Form 8-K filed on December 27, 2024).
+
+Exhibit 99.4	Form of Common Stock Warrant (incorporated by reference to Exhibit 4.1 to the Issuer's Current Report on Form 8-K filed on December 27, 2024).</filedExhibits>
+		</item7>
+
+	</items1To7>
+
+<signatureInfo>
+
+	<signaturePerson>
+		<signatureReportingPerson>Reprogrammed Interchange LLC</signatureReportingPerson>
+
+					<signatureDetails>
+				<signature>/s/ Frank Huang</signature>
+				<title>Frank Huang, Manager</title>
+				<date>01/07/2025</date>
+			</signatureDetails>
+
+	</signaturePerson>
+
+	<signaturePerson>
+		<signatureReportingPerson>Reid Hoffman</signatureReportingPerson>
+
+					<signatureDetails>
+				<signature>/s/ Reid Hoffman</signature>
+				<title>Reid Hoffman</title>
+				<date>01/07/2025</date>
+			</signatureDetails>
+
+	</signaturePerson>
+
+
+
+</signatureInfo>
+</formData>
+
+
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex-99-01072025_090100.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+<html><head><title>ex-99-01072025_090100.htm</title></head><body style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<p style="margin-top:16px; margin-bottom:0px"><br></p>
+<p style="margin-top:16px; margin-bottom:0px; font-size:12pt" align="center"><b>JOINT FILING AGREEMENT</b></p>
+<p style="margin-top:16px; margin-bottom:0px" align="center"><br></p>
+<p style="margin-top:16px; margin-bottom:0px; text-indent:48px; font-size:12pt" align="justify">This Joint Filing Agreement, dated as of January 7, 2025, is by and among Reprogrammed Interchange LLC and Reid Hoffman (the foregoing are collectively referred to herein as the <font style="font-family:Arial Unicode MS,Times New Roman">&ldquo;</font><b>Filers</b><font style="font-family:Arial Unicode MS,Times New Roman">&rdquo;</font>).</p>
+<p style="margin-top:16px; margin-bottom:0px; text-indent:48px; font-size:12pt" align="justify">Each of the Filers may be required to file with the United States Securities and Exchange Commission a statement on Schedule 13G and/or 13D with respect to Common Stock, par value $0.0001 per share of Vor Biopharma, Inc. beneficially owned by them from time to time.</p>
+<p style="margin-top:16px; margin-bottom:0px; text-indent:48px; font-size:12pt" align="justify">Pursuant to and in accordance with Rule 13(d)(1)(k) promulgated under the Securities Exchange Act of 1934, as amended, the Filers hereby agree to file a single statement on Schedule 13G and/or 13D (and any amendments thereto) on behalf of each of such parties, and hereby further agree to file this Joint Filing Agreement as an exhibit to such statement, as required by such rule.</p>
+<p style="margin-top:16px; margin-bottom:0px; text-indent:48px; font-size:12pt" align="justify">This Joint Filing Agreement may be terminated by any of the Filers upon one week<font style="font-family:Arial Unicode MS,Times New Roman">&rsquo;</font>s prior written notice or such lesser period of notice as the Filers may mutually agree.</p>
+<p style="margin-top:16px; margin-bottom:0px; text-indent:48px; font-size:12pt" align="justify">Executed and delivered as of the date first above written.</p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:12pt"><b>REPROGRAMMED INTERCHANGE LLC</b></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:12pt">By:<u> /s/ Frank Huang</u></p>
+<p style="margin:0px; text-indent:48px; font-size:12pt">Name: &nbsp;Frank Huang</p>
+<p style="margin:0px; text-indent:48px; font-size:12pt">Title: &nbsp;Manager</p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:12pt"><b>REID HOFFMAN</b></p>
+<p style="margin-top:16px; margin-bottom:0px"><br></p>
+<p style="margin:0px; text-indent:48px; font-size:12pt"><u>&nbsp;/s/ Reid Hoffman</u></p>
+<p style="margin:0px; text-indent:48px; font-size:12pt">Reid Hoffman</p>
+<p style="margin:0px"><br><br></p>
+<p style="margin-top:16px; margin-bottom:0px"><br></p>
+</body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

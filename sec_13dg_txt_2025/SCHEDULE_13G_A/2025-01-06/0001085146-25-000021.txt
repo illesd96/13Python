@@ -1,0 +1,330 @@
+<SEC-DOCUMENT>0001085146-25-000021.txt : 20250106
+<SEC-HEADER>0001085146-25-000021.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106130854
+ACCESSION NUMBER:		0001085146-25-000021
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SONO TEK CORP
+		CENTRAL INDEX KEY:			0000806172
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY, NEC [3559]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				141568099
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-39295
+		FILM NUMBER:		25510169
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2012 RT 9W BLDG 3
+		CITY:			MILTON
+		STATE:			NY
+		ZIP:			12547
+		BUSINESS PHONE:		8457952020
+
+	MAIL ADDRESS:	
+		STREET 1:		2012 RT. 9W, BLDG. 3,
+		CITY:			MILTON
+		STATE:			NY
+		ZIP:			12547
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Emancipation Management LLC
+		CENTRAL INDEX KEY:			0001478861
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				020700892
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		825 THIRD AVENUE
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212 605-0661
+
+	MAIL ADDRESS:	
+		STREET 1:		825 THIRD AVENUE
+		STREET 2:		33RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000904454-16-001046</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Emancipation Management LLC -->
+          <cik>0001478861</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>11</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000806172</issuerCik>
+        <issuerName>SONO TEK CORP</issuerName>
+        <issuerCusip>835483108</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2012 RT 9W BLDG 3</com:street1>
+          <com:city>MILTON</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>12547</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Emancipation Management LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5472052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5472052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>34.7</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Circle N Advisors, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5472052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5472052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>34.7</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Charles Frumberg</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5472052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>5472052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>34.7</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>SONO TEK CORP</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2012 RT 9W BLDG 3 MILTON, NEW YORK 12547</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by:
+
+
+(i) Emancipation Management LLC, a New York limited liability company ("Emancipation Management"), which owns Circle N (as defined below), with respect to the shares of Common Stock (as defined below) held in accounts managed by Circle N;
+
+
+
+
+(ii) Circle N Advisors, LLC, a Delaware limited liability company ("Circle N"), with respect to the shares of Common Stock held in accounts managed by it;
+
+
+
+
+(iii) Mr. Charles Frumberg ("Mr. Frumberg"), who serves as the managing member of Emancipation Management, with respect to the shares of Common Stock held in accounts managed by Circle N.
+
+
+The foregoing persons are hereinafter sometimes collectively referred to as the "Reporting Persons."
+
+
+The filing of this statement should not be construed as an admission that any of the Reporting Persons is, for the purposes of Section 13 of the Act, the beneficial owner of the Common Stock reported herein.
+
+The Reporting Persons have entered into a Joint Filing Agreement, dated February 16, 2016, pursuant to which the Reporting Persons have agreed to file this statement jointly in accordance with the provisions of Rule 13d-1(k)(1) under the Securities Exchange Act of 1934.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The principal business address of Emancipation Management and Mr. Frumberg is 1065 Main Street, Suite F, P.O. Box 336 Fishkill, NY 12524. The principal business address of Circle N is 1065 Main Street, Suite F, P.O. Box 336 Fishkill, NY 12524.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Emancipation Management is a New York limited liability company. Circle N is a Delaware limited liability company. Mr. Frumberg is a citizen of the United States of America.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>5472052</amountBeneficiallyOwned>
+        <classPercent>34.7</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Emancipation Management LLC - 0
+
+Circle N Advisors, LLC - 0
+
+Charles Frumberg - 0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Emancipation Management LLC - 0
+
+Circle N Advisors, LLC - 0
+
+Charles Frumberg - 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Emancipation Management LLC - 0
+
+Circle N Advisors, LLC - 0
+
+Charles Frumberg - 0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Emancipation Management LLC - 5,472,052
+
+Circle N Advisors, LLC - 5,472,052
+
+Charles Frumberg - 5,472,052</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit A
+
+Agreement Regarding the Joint Filing of Schedule 13G
+
+The undersigned hereby agree as follows:
+
+(i) Each of them is individually eligible to use the Schedule 13G to which this Exhibit is attached, and such Schedule 13G is filed on behalf of each of them; and
+
+(ii) Each of them is responsible for the timely filing of such Schedule 13G and any amendments thereto, and for the completeness and accuracy of the information concerning such person contained therein; but none of them is responsible for the completeness or accuracy of the information concerning the other persons making the filing, unless such person knows or has reason to believe that such information is inaccurate.
+
+Dated: February 16, 2016
+
+
+
+Emancipation Management LLC
+
+
+
+By:
+
+/s/ Charles Frumberg
+
+
+Name:
+
+Charles Frumberg
+
+
+Title:
+
+Managing Member
+
+
+
+
+Circle N Advisors, LLC
+
+
+
+By:
+
+/s/ Charles Frumberg
+
+
+Name:
+
+Charles Frumberg
+
+
+Title:
+
+Chief Executive Officer
+
+
+
+By:
+
+/s/ Charles Frumberg
+
+
+Name:
+
+Charles Frumberg</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Emancipation Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Charles Frumberg</signature>
+        <title>Managing Member</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Circle N Advisors, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Charles Frumberg</signature>
+        <title>Chief Executive Officer</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Charles Frumberg</reportingPersonName>
+      <signatureDetails>
+        <signature>Charles Frumberg</signature>
+        <title>Self</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

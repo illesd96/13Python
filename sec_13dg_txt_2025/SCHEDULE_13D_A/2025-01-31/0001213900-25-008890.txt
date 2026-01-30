@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001213900-25-008890.txt : 20250131
+<SEC-HEADER>0001213900-25-008890.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131164717
+ACCESSION NUMBER:		0001213900-25-008890
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+DATE AS OF CHANGE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EnLink Midstream, LLC
+		CENTRAL INDEX KEY:			0001592000
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION [4922]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88047
+		FILM NUMBER:		25579082
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1722 ROUTH STREET, SUITE 1300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		(214) 953-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		1722 ROUTH STREET, SUITE 1300
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Public Rangers, L.L.C.
+		DATE OF NAME CHANGE:	20131114
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ONEOK INC /NEW/
+		CENTRAL INDEX KEY:			0001039684
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION & DISTRIBUTION [4923]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				731520922
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 WEST 5TH ST
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74103
+		BUSINESS PHONE:		9185887000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 WEST 5TH ST
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74103
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WAI INC
+		DATE OF NAME CHANGE:	19970519
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001213900-24-087890</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: ONEOK INC /NEW/ -->
+          <cik>0001039684</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Units</securitiesClassTitle>
+      <dateOfEvent>01/31/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001592000</issuerCIK>
+        <issuerCUSIP>29336T100</issuerCUSIP>
+        <issuerName>EnLink Midstream, LLC</issuerName>
+        <address>
+          <com:street1>1722 ROUTH STREET, SUITE 1300</com:street1>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75201</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>ONEOK, Inc.</personName>
+          <personPhoneNum>(918) 588-7000</personPhoneNum>
+          <personAddress>
+            <com:street1>Attention: Walter S. Hulse, III</com:street1>
+            <com:street2>100 W. Fifth Street</com:street2>
+            <com:city>Tulsa</com:city>
+            <com:stateOrCountry>OK</com:stateOrCountry>
+            <com:zipCode>74103</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001039684</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>ONEOK, INC.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>OK</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Units</securityTitle>
+        <issuerName>EnLink Midstream, LLC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1722 ROUTH STREET, SUITE 1300</com:street1>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75201</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Explanatory Note.
+
+This Amendment No. 2 to Schedule 13D (this "Amendment No. 2") amends and supplements the Schedule 13D originally filed by ONEOK, Inc., an Oklahoma corporation ("ONEOK" or the "Reporting Person"), with the Securities and Exchange Commission, on October 15, 2024 (the "Original Schedule 13D"), as amended by Amendment No. 1 to Schedule 13D filed by the Reporting Person on November 24, 2024 (together with the Original Schedule 13D, the "Schedule 13D"), relating to the common units representing limited liability company interests (the "EnLink Units") of EnLink Midstream, LLC, a Delaware limited liability company (the "Issuer" or "EnLink"). Capitalized terms used but not defined herein shall have the meanings set forth in the Schedule 13D. Except as specifically provided herein, this Amendment No. 2 does not modify any of the information previously reported in the Schedule 13D.</commentText>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 of the Schedule 13D is hereby amended and supplemented by adding the following:
+
+On January 31, 2025, pursuant to the Merger Agreement, at the First Merger Effective Time, each EnLink Unit issued and outstanding as of immediately prior to the First Merger Effective Time (except for EnLink Units that were owned immediately prior to the First Merger Effective Time by ONEOK) was converted into the right to receive 0.1412 shares of ONEOK Common Stock. Promptly thereafter, pursuant to the Second Merger, the Issuer merged with and into Merger Sub II, with the separate limited liability company existence of the Issuer ceasing and Merger Sub II surviving the Second Merger as a direct wholly owned subsidiary of ONEOK.
+
+Following the consummation of the Merger Transaction, the EnLink Units ceased to be listed on the New York Stock Exchange and Merger Sub II (as successor in interest to the Issuer) intends to file with the SEC a certification and notice of termination of registration on Form 15 with respect to the EnLink Units, requesting that the EnLink Units be deregistered under Section 12(g) of the Act and that the reporting obligations with respect to the EnLink Units under Sections 13(a) and 15(d) of the Act be suspended. As a result of the Second Merger, the Issuer's separate limited liability company existence ceased, and the Reporting Person does not beneficially own any EnLink Units or have any voting power or dispositive power over any EnLink Units.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The response of the Reporting Person to rows 7 through 13 on the cover page of this Amendment No. 2 are incorporated by reference herein. As a result of the Second Merger, as described in Item 4, the Reporting Person no longer beneficially owns any securities of the Issuer nor has sole or shared power to vote, direct the vote, dispose or direct the disposition with respect to any securities of the Issuer, and the filing of this Amendment No. 2 represents the final amendment to the Schedule 13D and constitutes an "exit" filing for the Reporting Person.</percentageOfClassSecurities>
+        <numberOfShares>The response of the Reporting Person to rows 7 through 13 on the cover page of this Amendment No. 2 are incorporated by reference herein. As a result of the Second Merger, as described in Item 4, the Reporting Person no longer beneficially owns any securities of the Issuer nor has sole or shared power to vote, direct the vote, dispose or direct the disposition with respect to any securities of the Issuer, and the filing of this Amendment No. 2 represents the final amendment to the Schedule 13D and constitutes an "exit" filing for the Reporting Person.</numberOfShares>
+        <transactionDesc>Except as described in this Amendment No. 2, the Reporting Person has not effected any transactions in EnLink Units of the Issuer during the past 60 days.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>As of January 31, 2025 and as a result of the Second Merger, the Reporting Person ceased to beneficially own more than 5% of the outstanding EnLink Units.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended and supplemented by adding the following to the end thereof:
+
+The information set forth in Item 4 of this Amendment No. 2 is incorporated by reference herein.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>ONEOK, INC.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Walter S. Hulse III</signature>
+          <title>Walter S. Hulse III / Chief Financial Officer, Treasurer and Executive Vice President, Investor Relations and Corporate Development</title>
+          <date>01/31/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

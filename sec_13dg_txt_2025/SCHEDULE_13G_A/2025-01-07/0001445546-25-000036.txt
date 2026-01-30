@@ -1,0 +1,308 @@
+<SEC-DOCUMENT>0001445546-25-000036.txt : 20250107
+<SEC-HEADER>0001445546-25-000036.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107094658
+ACCESSION NUMBER:		0001445546-25-000036
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST TRUST EXCHANGE-TRADED FUND VIII
+		CENTRAL INDEX KEY:			0001667919
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90766
+		FILM NUMBER:		25513646
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 EAST LIBERTY DRIVE, SUITE 400
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+		BUSINESS PHONE:		630-765-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		120 EAST LIBERTY DRIVE, SUITE 400
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST TRUST PORTFOLIOS LP
+		CENTRAL INDEX KEY:			0001184765
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			IL
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12O EAST LIBERTY DRIVE
+		STREET 2:		SUITE 400
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+		BUSINESS PHONE:		630-765-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		12O EAST LIBERTY DRIVE
+		STREET 2:		SUITE 400
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001445546-21-002430</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FIRST TRUST PORTFOLIOS LP -->
+          <cik>0001184765</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>16</amendmentNo>
+      <securitiesClassTitle>FT Vest U.S. Equity Deep Buffer ETF - November</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001667919</issuerCik>
+        <issuerName>First Trust Exchange-Traded Fund VIII</issuerName>
+        <issuerCusip>33740F839</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>120 East Liberty Drive</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>Wheaton</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60187</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>First Trust Portfolios L.P.</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2130631.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>28.60</classPercent>
+      <typeOfReportingPerson>BD</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>First Trust Advisors L.P.</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2130631.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2130631.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2130631.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>28.60</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>The Charger Corporation</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2130631.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2130631.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2130631.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>28.60</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>First Trust Exchange-Traded Fund VIII</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>Attn: Legal Department, 120 East Liberty Drive, Suite 400, Wheaton, IL 60187, USA</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>First Trust Portfolios L.P.
+First Trust Advisors L.P.
+The Charger Corporation</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>120 East Liberty Drive, Suite 400, Wheaton, Illinois 60187</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Illinois, USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>BD</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>2,130,631</amountBeneficiallyOwned>
+        <classPercent>28.60</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>2,130,631</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>2,130,631</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>This Schedule 13G filing is jointly filed by The Charger Corporation, First Trust Portfolios L.P. and First Trust Advisors L.P. pursuant to Rule 13d-1(k)(1). The Charger Corporation is the General Partner of both First Trust Portfolios L.P. and First Trust Advisors L.P. First Trust Portfolios L.P. acts as sponsor of certain unit investment trusts which hold shares of the issuer. The total number of shares of the issuer held by these unit investment trusts is set forth in Row (8) above with respect to First Trust Portfolios L.P. No individual unit investment trust sponsored by First Trust Portfolios L.P. holds more than 3% of any registered investment company issuer's shares. First Trust Advisors L.P., an affiliate of First Trust Portfolios L.P., acts as portfolio supervisor of the unit investment trusts sponsored by First Trust Portfolios L.P., certain of which hold shares of the issuer. Neither First Trust Portfolios L.P., First Trust Advisors L.P. nor The Charger Corporation have the power to vote the shares of the issuer held by these unit investment trusts sponsored by First Trust Portfolios L.P. These shares are voted by the trustee of such unit investment trusts so as to insure that the shares are ordinarily voted as closely as possible in the same manner and in the same general proportion as are the shares held by owners other than such unit investment trusts. Subject to the requirements of Rule 12d1-4 under the Investment Company Act of 1940 and as further explained in the Standard Terms and Conditions of Trust and related Trust Agreements of the unit investment trusts, First Trust Portfolios L.P., on behalf of the unit investment trusts, may enter into an agreement with a deposited fund which may permit the shares of such fund to be voted in the best interest of unit holders at the discretion of First Trust Portfolios L.P. The difference, if any, between the aggregate amount of shares beneficially owned by each reporting person, as set forth in Row (9) above, and the number of shares of the issuer held by the unit investment trusts sponsored by First Trust Portfolios L.P. represents shares of the issuer which are either held in other registered investment companies, pooled investment vehicles and/or separately managed accounts for which First Trust Advisors L.P. serves as investment advisor and/or investment sub-advisor. Each of First Trust Portfolios L.P., First Trust Advisors L.P. and The Charger Corporation disclaims beneficial ownership of the shares of the issuer identified in this filing.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>See Item 6.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Please see Exhibit 99.1 for Joint Filing Agreement</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>First Trust Portfolios L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James M. Dykas</signature>
+        <title>James M. Dykas, Chief Financial Officer</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>First Trust Advisors L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James M. Dykas</signature>
+        <title>James M. Dykas, Chief Financial Officer</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>The Charger Corporation</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James M. Dykas</signature>
+        <title>James M. Dykas, Chief Financial Officer and Treasurer</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99_1.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+  <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right">Exhibit 99.1</P>
+
+<P STYLE="font-weight: bold; font-size: 12pt; text-align: center">Exhibit 99.1 - Joint Filing Agreement</P>
+
+<P STYLE="text-align: justify; font-size: 12pt">The undersigned hereby agree that they are filing this statement jointly pursuant to Rule
+13d-1(k)(1). Each of them is responsible for the timely filing of such Schedule 13G and any amendments thereto, and for the completeness
+and accuracy of the information concerning such person contained therein; but none of them is responsible for the completeness or accuracy
+of the information concerning the other persons making the filing, unless such person knows or has reason to believe that such information
+is inaccurate.</P>
+
+<P STYLE="text-align: justify; font-size: 12pt">In accordance with Rule 13d-1(k)(1) promulgated under the Securities and Exchange Act
+of 1934, as amended, the undersigned hereby agree to the joint filing with each other on behalf of each of them of such a statement on
+Schedule 13G and any amendments thereto with respect to the equity securities (as defined in Rule 13d-1(i)) of the issuer, beneficially
+owned by each of them. This Joint Filing Agreement shall be included as an exhibit to such Schedule 13G and any amendments thereto.</P>
+
+<P STYLE="font-size: 12pt">Date: January 7, 2025</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font-size: 12pt; margin-top: 12pt; margin-bottom: 0pt; width: 100%">
+  <TR>
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 35%">&nbsp;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="vertical-align: top; text-align: left">First Trust Portfolios L.P.,<BR>First Trust Advisors L.P. and<BR>The Charger
+        Corporation</TD>
+    <TD>&nbsp;</TD> </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">By:</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; text-align: left">/s/ James M. Dykas</TD>
+    <TD>&nbsp;</TD> </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">Name:</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">James M. Dykas</TD>
+    <TD>&nbsp;</TD> </TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">Title:</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">Chief Financial Officer of First Trust Portfolios L.P. and First Trust Advisors L.P., and
+        Chief Financial Officer and Treasurer of The Charger Corporation</TD>
+    <TD>&nbsp;</TD> </TR>
+  </TABLE>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

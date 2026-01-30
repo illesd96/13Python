@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0000912938-25-000004.txt : 20250103
+<SEC-HEADER>0000912938-25-000004.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103121503
+ACCESSION NUMBER:		0000912938-25-000004
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TransUnion
+		CENTRAL INDEX KEY:			0001552033
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CONSUMER CREDIT REPORTING, COLLECTION AGENCIES [7320]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				611678417
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89363
+		FILM NUMBER:		25504626
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 WEST ADAMS STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+		BUSINESS PHONE:		(312) 985-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		555 WEST ADAMS STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TransUnion Holding Company, Inc.
+		DATE OF NAME CHANGE:	20120612
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MASSACHUSETTS FINANCIAL SERVICES CO /MA/
+		CENTRAL INDEX KEY:			0000912938
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+		BUSINESS PHONE:		18006372929
+
+	MAIL ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000912938-24-000335</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000912938</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001552033</issuerCik>
+        <issuerName>TRANSUNION</issuerName>
+        <issuerCusip>89400J107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>555 West Adams Street</com:street1>
+          <com:city>Chicago</com:city>
+          <com:stateOrCountry>X1</com:stateOrCountry>
+          <com:zipCode>60661</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Massachusetts Financial Services Company</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>18918876</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>19540131</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>19540131.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>10.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>TRANSUNION</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>555 West Adams Street, Chicago, IL 60661</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Massachusetts Financial Services Company</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>111 Huntington Avenue, Boston, MA  02199
+</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>19,540,131 shares of Common Stock consisting of shares beneficially owned by MFS and/or certain other non-reporting entities</amountBeneficiallyOwned>
+        <classPercent>10.0</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>18,918,876</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>19,540,131</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Massachusetts Financial Services Company</reportingPersonName>
+      <signatureDetails>
+        <signature>Lisa Neaves</signature>
+        <title>Compliance Officer</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

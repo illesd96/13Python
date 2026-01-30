@@ -1,0 +1,254 @@
+<SEC-DOCUMENT>0001104659-25-002021.txt : 20250108
+<SEC-HEADER>0001104659-25-002021.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108160345
+ACCESSION NUMBER:		0001104659-25-002021
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lyft, Inc.
+		CENTRAL INDEX KEY:			0001759509
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				208809830
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91197
+		FILM NUMBER:		25518544
+
+	BUSINESS ADDRESS:	
+		STREET 1:		185 BERRY STREET, SUITE 400
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		844-250-2773
+
+	MAIL ADDRESS:	
+		STREET 1:		185 BERRY STREET, SUITE 400
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rakuten Group, Inc.
+		CENTRAL INDEX KEY:			0001294591
+		ORGANIZATION NAME:           	International Corp Fin
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1-14-1 TAMAGAWA
+		CITY:			SETAGAYA-KU, TOKYO
+		STATE:			M0
+		ZIP:			158-0094
+		BUSINESS PHONE:		81-50-5581-6910
+
+	MAIL ADDRESS:	
+		STREET 1:		1-14-1 TAMAGAWA
+		CITY:			SETAGAYA-KU, TOKYO
+		STATE:			M0
+		ZIP:			158-0094
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rakuten, Inc.
+		DATE OF NAME CHANGE:	20040619
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001104659-20-021743</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Rakuten Group, Inc. -->
+          <cik>0001294591</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001759509</issuerCik>
+        <issuerName>Lyft, Inc.</issuerName>
+        <issuerCusip>55087P104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>185 Berry Street</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>San Francisco</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94107</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Rakuten Group, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>M0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>10994865.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>10994865.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>10994865.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.71</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Liberty Holdco Ltd.</reportingPersonName>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>10994865.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>10994865.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>10994865.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.71</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Hiroshi Mikitani</reportingPersonName>
+      <citizenshipOrOrganization>M0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>10994865.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>10994865.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>10994865.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.71</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Lyft, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>185 Berry Street, Suite 400, San Francisco, CA 94107</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Rakuten Group, Inc. ("Rakuten"), Liberty Holdco Ltd. ("Liberty") and Hiroshi Mikitani ("Mr. Mikitani") are collectively referred to herein as the "Reporting Persons."</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The principal business address of each of the Reporting Persons is 1-14-1, Tamagawa, Setagaya-ku, Tokyo, Japan 158-0094.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Rakuten is a corporation organized under the laws of Japan; Liberty is a corporation organized under the laws of the Cayman Islands; and Mr. Mikitani is a citizen of Japan.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>As of October 21, 2020, Liberty was the record owner of 31,395,679 shares of the Issuer's Common Stock. Mr. Mikitani is the record owner of 6,344 share of the Issuer's Common Stock. Liberty is a wholly-owned subsidiary of Rakuten. Mr. Mikitani, as the Representative Director, Chairman, President and Chief Executive Officer of Rakuten, has sole voting and dispositive power over the shares of Issuer's Common Stock held by Liberty Holdco Ltd.
+
+As of December 11, 2024, Liberty sold aggregate 20,407,158 shares of the Issuer's Common Stock, and Liberty was the record owner of 10,988,521 shares of the Issuer's Common Stock. Mr. Mikitani is the record owner of 6,344 share of the Issuer's Common Stock. Liberty is a wholly-owned subsidiary of Rakuten. Mr. Mikitani, as the Representative Director, Chairman, President and Chief Executive Officer of Rakuten, has sole voting and dispositive power over the shares of Issuer's Common Stock held by Liberty Holdco Ltd.</amountBeneficiallyOwned>
+        <classPercent>Rakuten: 2.71%, Liberty: 2.71% and Mr. Mikitani:  2.71%.  The foregoing percentages are calculated based on 406,286,219 shares of Common Stock represented to be outstanding by the Issuer on November 4, 2024, as reported in the Issuer's Form 10-Q for the quarterly period ended September 30, 2024.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Rakuten: 10,994,865; Liberty: 0; Mr. Mikitani: 10,994,865</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Rakuten: 0; Liberty: 10,988,521; Mr. Mikitani: 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Rakuten: 10,994,865; Liberty: 0; Mr. Mikitani: 10,994,865</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Rakuten: 0; Liberty: 10,988,521; Mr. Mikitani: 0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <exhibitInfo>EXHIBIT I
+
+Pursuant to Rule 13d-1(k)(1) under the Securities Exchange Act of 1934, the undersigned hereby agree that only one statement containing the information required on Schedule 13G need be filed with respect to ownership by each of the undersigned of the shares of Common Stock of Lyft, Inc.
+
+This Agreement may be executed in any number of counterparts, each of which shall be deemed an original.
+
+Date:  January 8, 2025
+
+Rakuten Group, Inc.
+By: /s/ Kenji Hirose
+Name:  Kenji Hirose
+Title:    Director and Group Executive Vice President, Chief Financial Officer
+
+Liberty Holdco Ltd.
+By: /s/ Eiichi Kaga
+Name:  Eiichi Kaga
+Title:    Director
+
+/s/ Hiroshi Mikitani
+Hiroshi Mikitani</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Rakuten Group, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Kenji Hirose</signature>
+        <title>Kenji Hirose/Director and Group Executive Vice President, Chief Financial Officer</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Liberty Holdco Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Eiichi Kaga</signature>
+        <title>Eiichi Kaga/Director</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Hiroshi Mikitani</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Hiroshi Mikitani</signature>
+        <title>Hiroshi Mikitani</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

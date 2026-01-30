@@ -1,0 +1,399 @@
+<SEC-DOCUMENT>0001539497-25-000136.txt : 20250123
+<SEC-HEADER>0001539497-25-000136.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123165119
+ACCESSION NUMBER:		0001539497-25-000136
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+DATE AS OF CHANGE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DANA INC
+		CENTRAL INDEX KEY:			0000026780
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				261531856
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-10058
+		FILM NUMBER:		25550779
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3939 TECHNOLOGY DRIVE
+		CITY:			MAUMEE
+		STATE:			OH
+		ZIP:			43537
+		BUSINESS PHONE:		419-887-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 1000
+		CITY:			MAUMEE
+		STATE:			OH
+		ZIP:			43537
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DANA HOLDING CORP
+		DATE OF NAME CHANGE:	20080129
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DANA CORP
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICAHN CARL C
+		CENTRAL INDEX KEY:			0000921669
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	CF
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ICAHN ENTERPRISES L.P.
+		STREET 2:		16690 COLLINS AVE., PH-1
+		CITY:			SUNNY ISLES BEACH
+		STATE:			FL
+		ZIP:			33160
+		BUSINESS PHONE:		305-422-4145
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ICAHN ENTERPRISES L.P.
+		STREET 2:		16690 COLLINS AVE., PH-1
+		CITY:			SUNNY ISLES BEACH
+		STATE:			FL
+		ZIP:			33160
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ICAHN CARL C ET AL
+		DATE OF NAME CHANGE:	19950612
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001539497-22-000021</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: ICAHN CARL C -->
+          <cik>0000921669</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value</securitiesClassTitle>
+      <dateOfEvent>01/23/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000026780</issuerCIK>
+        <issuerCUSIP>235825205</issuerCUSIP>
+        <issuerName>DANA INC</issuerName>
+        <address>
+          <com:street1>3939 TECHNOLOGY DRIVE</com:street1>
+          <com:city>MAUMEE</com:city>
+          <com:stateOrCountry>OH</com:stateOrCountry>
+          <com:zipCode>43537</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Jesse Lynn, Esq.</personName>
+          <personPhoneNum>(305) 422-4100</personPhoneNum>
+          <personAddress>
+            <com:street1>16690 Collins Avenue, Suite PH-1</com:street1>
+            <com:city>Sunny Isles Beach</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>33160</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001322827</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Partners Master Fund LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>5936147.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>5936147.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>5936147.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.09</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001322825</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Offshore LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5936147.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5936147.00</sharedDispositivePower>
+        <aggregateAmountOwned>5936147.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.09</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001313666</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Partners LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>8350358.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>8350358.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>8350358.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.76</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001322826</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Onshore LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>8350358.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>8350358.00</sharedDispositivePower>
+        <aggregateAmountOwned>8350358.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.76</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001412093</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Capital LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14286505.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14286505.00</sharedDispositivePower>
+        <aggregateAmountOwned>14286505.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.85</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001412091</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>IPH GP LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14286505.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14286505.00</sharedDispositivePower>
+        <aggregateAmountOwned>14286505.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.85</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001034563</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Enterprises Holdings L.P.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14286505.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14286505.00</sharedDispositivePower>
+        <aggregateAmountOwned>14286505.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.85</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001257324</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Icahn Enterprises G.P. Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14286505.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14286505.00</sharedDispositivePower>
+        <aggregateAmountOwned>14286505.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.85</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001080113</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Beckton Corp.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14286505.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14286505.00</sharedDispositivePower>
+        <aggregateAmountOwned>14286505.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.85</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000921669</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Carl C. Icahn</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>FL</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14286505.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14286505.00</sharedDispositivePower>
+        <aggregateAmountOwned>14286505.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.85</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.01 par value</securityTitle>
+        <issuerName>DANA INC</issuerName>
+        <commentText>This statement constitutes Amendment No. 3 to the Schedule 13D (as amended, the "Schedule 13D") relating to shares of the common stock, par value $0.01 per share (the "Shares"), of Dana Incorporated, a Delaware corporation (the "Issuer"), and hereby amends the Schedule 13D initially filed with the Securities and Exchange Commission (the "SEC") on December 28, 2021. All capitalized terms contained herein but not otherwise defined shall have the meanings ascribed to such terms in the Schedule 13D.</commentText>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 of the Schedule 13D is hereby amended by adding the following at the end thereof: On January 23, 2025, the  Reporting Persons, Messrs. Gary Hu, Steven Miller, Brett Icahn, and Christian Garcia enter into an Amendment (the  "Amendment") to the Director Appointment and Nomination Agreement, dated as of January 7, 2022, by and among the  Reporting Persons and the Issuer (the "Nomination Agreement"). Pursuant to the terms, and subject to the conditions of,  the Amendment, each of Messrs. Hu and Miller resigned as members of the Board of Directors effective as of January 23,  2025. Each of Messrs. Brett Icahn and Garcia have been appointed to fill the vacancies created by the resignations of  Messrs. Hu and Miller. The Issuer has agreed to nominate each of Messrs. Brett Icahn and Garcia, in their capacity as Icahn  Designees, for election at the Issuer's 2025 annual meeting of stockholders. Pursuant to the terms of the Amendment,  the Reporting Persons have agreed to a "standstill" to not take certain actions (i) until 30 days prior to the director  nomination deadline for the Issuer's 2027 annual meeting of stockholders if certain business objectives are met and the  Issuer nominates both Icahn Designees (or any replacement designees) for re-election at the Issuer's 2026 annual meeting  of stockholders or (ii) until 30 days prior to the director nomination deadline for the Issuer's 2026 annual meeting of  stockholders if certain business objectives are not met. Subject to the terms of the Amendment, the Icahn Designees will  also be entitled to serve on existing and new committees of the Board. The foregoing description of the Amendment is  qualified in its entirety by reference to the Amendment, a copy of which is included hereto as Exhibit 3.</transactionPurpose>
+      </item4>
+      <item6>
+        <contractDescription>The information set forth in Item 4 of this Schedule 13D is hereby incorporated by reference into this Item 6.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 of the Schedule 13D is hereby amended by the addition of the following exhibit:    3. Amendment to Director Appointment and Nomination Agreement, dated as of January 23, 2025 (incorporated herein by reference to Exhibit 10.1 to the Form 8-K filed by the Issuer with the Securities and Exchange Commission on January 23, 2025).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Partners Master Fund LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Offshore LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Partners LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Onshore LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Capital LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jesse Lynn</signature>
+          <title>Jesse Lynn / Chief Operating Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>IPH GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Enterprises Holdings L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Icahn Enterprises G.P. Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Chief Financial Officer</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Beckton Corp.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ted Papapostolou</signature>
+          <title>Ted Papapostolou / Vice President</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Carl C. Icahn</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ CARL C. ICAHN</signature>
+          <title>CARL C. ICAHN</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

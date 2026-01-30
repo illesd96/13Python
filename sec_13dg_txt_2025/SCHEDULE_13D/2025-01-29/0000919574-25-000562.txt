@@ -1,0 +1,629 @@
+<SEC-DOCUMENT>0000919574-25-000562.txt : 20250129
+<SEC-HEADER>0000919574-25-000562.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129201713
+ACCESSION NUMBER:		0000919574-25-000562
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20250129
+DATE AS OF CHANGE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DHT Holdings, Inc.
+		CENTRAL INDEX KEY:			0001331284
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			1T
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-81077
+		FILM NUMBER:		25570775
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CLARENDON HOUSE
+		STREET 2:		2 CHURCH STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+		BUSINESS PHONE:		1 441 299-4912
+
+	MAIL ADDRESS:	
+		STREET 1:		CLARENDON HOUSE
+		STREET 2:		2 CHURCH STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 11
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DHT Maritime, Inc.
+		DATE OF NAME CHANGE:	20080627
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Double Hull Tankers, Inc.
+		DATE OF NAME CHANGE:	20050624
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Scorpio Tankers Inc.
+		CENTRAL INDEX KEY:			0001483934
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		L'EXOTIQUE 99 BOULEVARD JARDIN EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+		BUSINESS PHONE:		212-542-1616
+
+	MAIL ADDRESS:	
+		STREET 1:		L'EXOTIQUE 99 BOULEVARD JARDIN EXOTIQUE
+		CITY:			MONACO
+		STATE:			O9
+		ZIP:			98000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Scorpio Tankers Inc. -->
+          <cik>0001483934</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <dateOfEvent>01/22/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001331284</issuerCIK>
+        <issuerCUSIP>Y2065G121</issuerCUSIP>
+        <issuerName>DHT Holdings, Inc.</issuerName>
+        <address>
+          <com:street1>CLARENDON HOUSE</com:street1>
+          <com:street2>2 CHURCH STREET</com:street2>
+          <com:city>HAMILTON</com:city>
+          <com:stateOrCountry>D0</com:stateOrCountry>
+          <com:zipCode>HM 11</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Mr. Emanuele Lauro</personName>
+          <personPhoneNum>212-574-1200</personPhoneNum>
+          <personAddress>
+            <com:street1>CLARENDON HOUSE</com:street1>
+            <com:street2>2 CHURCH STREET</com:street2>
+            <com:city>HAMILTON</com:city>
+            <com:stateOrCountry>D0</com:stateOrCountry>
+            <com:zipCode>HM 11</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001483934</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Scorpio Tankers Inc.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <citizenshipOrOrganization>1T</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11910730.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11910730.00</sharedDispositivePower>
+        <aggregateAmountOwned>11910730.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.45</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Scorpio Holdings Limited</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <citizenshipOrOrganization>1T</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11910730.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11910730.00</sharedDispositivePower>
+        <aggregateAmountOwned>11910730.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.45</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001512327</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Annalisa Lolli-Ghetti</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <citizenshipOrOrganization>L6</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11910730.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11910730.00</sharedDispositivePower>
+        <aggregateAmountOwned>11910730.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.45</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001646142</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Scorpio Services Holding Ltd.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <citizenshipOrOrganization>1T</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11910730.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11910730.00</sharedDispositivePower>
+        <aggregateAmountOwned>11910730.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.45</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.01 per share</securityTitle>
+        <issuerName>DHT Holdings, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>CLARENDON HOUSE</com:street1>
+          <com:street2>2 CHURCH STREET</com:street2>
+          <com:city>HAMILTON</com:city>
+          <com:stateOrCountry>D0</com:stateOrCountry>
+          <com:zipCode>HM 11</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being filed on behalf of the following persons with respect to the common stock, par value $0.01 per share (the "Shares") of DHT Holdings, Inc. (the "Issuer"): Scorpio Tankers Inc. ("Scorpio"), Scorpio Holdings Limited ("Scorpio Holdings"), Scorpio Services Holding Limited, a wholly-owned subsidiary of Scorpio Holdings ("SSH"), and Annalisa Lolli-Ghetti, the majority shareholder of Scorpio Holdings ("Ms. Lolli-Ghetti", and together with Scorpio, Scorpio Holdings and SSH, the "Reporting Persons").
+
+The identity, present principal occupation/employment, business address and citizenship of the executive officers, directors, and controlling persons of the Reporting Persons (the "Principals") is set forth in Exhibit A hereto.</filingPersonName>
+        <principalBusinessAddress>The principal business address and principal office address of the Reporting Persons is 99, Boulevard du Jardin Exotique, MC 98000, Monaco.</principalBusinessAddress>
+        <principalJob>The principal business of Scorpio is providing marine transportation of petroleum products worldwide.
+
+The principal business of Scorpio Holdings is acting as a holding company for SSH and certain other companies.
+
+The principal business of SSH is the provision of administrative services relating to the ownership and operation of vessels, including to Scorpio and unaffiliated third-parties.</principalJob>
+        <hasBeenConvicted>The Reporting Persons, and, to the best of their knowledge, the Principals have not, during the last five years, been convicted in any criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>The Reporting Persons, and, to the best of their knowledge, the Principals have not, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, Federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Scorpio, Scorpio Holdings and SSH are each incorporated under the law of the Republic of the Marshall Islands. Ms. Lolli-Ghetti is a citizen of Italy.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>During the period of July 5, 2024 through January 29, 2025, Scorpio acquired the Shares reported in this Schedule 13D in open market transactions using its working capital for an aggregate consideration of approximately $131.5 million (exclusive of fees and expenses).</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Scorpio acquired the securities reported herein for investment purposes in the ordinary course of business because of its belief that the Issuer presents an attractive investment based on the Issuer's business prospects and strategy. Representatives of Scorpio may communicate with the board of directors of the Issuer (the "Board"), members of management and/or other shareholders or other relevant parties from time to time with respect to operational, strategic, financial or governance matters or otherwise work with management and the Board with a view to maximizing shareholder value.
+
+The Reporting Persons reserve the right to acquire, or cause to be acquired, additional securities of the Issuer, to dispose of, or cause to be disposed of, such securities at any time or to formulate other purposes, plans or proposals regarding the Issuer or any of its securities, to the extent deemed advisable in light of general investment and trading policies of the Reporting Persons, market conditions or other factors.
+
+Other than as set forth above, the Reporting Persons do not have any plans or proposals as of the date of this filing which relate to or would result in any of the actions enumerated in Item 4 of the instructions to Schedule 13D.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>According to information provided by the Issuer in Current Report on Form 6-K filed by the Issuer on November 12, 2024 and the Issuer's press release issued on January 6, 2025, the Issuer had 159,983,104 Shares outstanding as of January 6, 2025. Based on the foregoing, as of the date of this filing the Reporting Persons may be deemed the beneficial owners of 11,910,730 Shares, representing approximately 7.45% of the Issuer's outstanding Shares.</percentageOfClassSecurities>
+        <numberOfShares>As of the date of this filing the Reporting Persons may be deemed to have the shared power to vote and dispose of 11,910,730 Shares.</numberOfShares>
+        <transactionDesc>To the best of the Reporting Persons' knowledge, the transactions in the Shares effected by the Reporting Persons during the past 60 days and not previously reported are set forth on Exhibit B to this Schedule 13D.</transactionDesc>
+        <listOfShareholders>No other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, any of the Shares beneficially owned by the Reporting Persons.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>There are no contracts, arrangements, understandings or relationships (legal or otherwise) among the persons named in Item 2 hereof and any other person with respect to any securities of the Issuer, including but not limited to the transfer or voting of any of the securities, finders' fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or loss, or the giving or withholding of proxies.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit A: Directors and Officers  Exhibit B: Information with Respect to Transactions Effected in the Last 60 Days  Exhibit C: Joint Filing Agreement</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Scorpio Tankers Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Filippo Lauro</signature>
+          <title>Filippo Lauro, Vice President</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Scorpio Holdings Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Filippo Lauro</signature>
+          <title>Filippo Lauro, Director and Vice President*</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Annalisa Lolli-Ghetti</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Annalisa Lolli-Ghetti</signature>
+          <title>Annalisa Lolli-Ghetti*</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Scorpio Services Holding Ltd.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Filippo Lauro</signature>
+          <title>Filippo Lauro, Director and Vice President*</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>* The Reporting Persons specifically disclaims beneficial ownership of the securities reported herein except to the extent of their pecuniary interest therein</commentText>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11596155_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>EXHIBIT A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The Principals of each of Scorpio, Scorpio Holdings and SSH are set forth
+below.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>SCORPIO </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt"><B>Name</B></FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt"><B>Principal Occupation and Employment (1)</B></FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt"><B>Citizenship</B></FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Emanuele Lauro</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and Chief Executive Officer of Scorpio Holdings, SSH, Scorpio, and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Italy</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Robert Bugbee</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and President of Scorpio Holdings, SSH, Scorpio, and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">UK</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Cameron Mackey</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and Chief Operating Officer of Scorpio Holdings, SSH, Scorpio, and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">USA</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Filippo Lauro</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and Vice President of Scorpio Holdings, SSH, and other entities within the Scorpio group of companies, and Vice President of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Italy</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Christopher Avella</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Chief Financial Officer of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">USA</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Auste Adelborg</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Corporate Secretary of Scorpio, Scorpio Holdings, SSH and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Lithuanian</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Sujata P. Kumar</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">India</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Marianne &Oslash;kland</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Norway</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Merrick Rayner</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">UK</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Berit Henriksen</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Norway</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Niccolo Camerana</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Italy</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="5" STYLE="text-align: justify"><FONT STYLE="font-size: 9pt">(1) The business address of the Principals, Scorpio, and other entities within the Scorpio group of companies is 99, Boulevard du Jardin Exotique, MC 98000, Monaco.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="width: 14%">&nbsp;</TD>
+    <TD STYLE="width: 17%">&nbsp;</TD>
+    <TD STYLE="width: 38%">&nbsp;</TD>
+    <TD STYLE="width: 29%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>SCORPIO HOLDINGS AND SSH</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%">
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt"><B>Name</B></FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt"><B>Principal Occupation and Employment (1)</B></FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt"><B>Citizenship</B></FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Emanuele Lauro</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and Chief Executive Officer of Scorpio Holdings, SSH, Scorpio, and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Italy</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Robert Bugbee</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and President of Scorpio Holdings, SSH, Scorpio, and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">UK</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Cameron Mackey</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and Chief Operating Officer of Scorpio Holdings, SSH, Scorpio, and other entities within the Scorpio group of companies.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">USA</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD COLSPAN="2" STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Filippo Lauro</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 9pt">Director and Vice President of Scorpio Holdings, SSH, and other entities within the Scorpio group of companies, and Vice President of Scorpio.</FONT></TD>
+    <TD STYLE="vertical-align: top; border: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 9pt">Italy</FONT></TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="4">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="5">
+    <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: justify">(1) The business address of the Principals, Scorpio,
+    and other entities within the Scorpio group of companies is 99, Boulevard du Jardin Exotique, MC 98000, Monaco.</P>
+    <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>d11596155_ex99-b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>EXHIBIT B </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt/11.4pt Times New Roman, Times, Serif; margin: 0; background-color: white"><B>INFORMATION WITH RESPECT TO TRANSACTIONS
+EFFECTED</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; width: 22%; border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Date of Transaction</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; width: 25%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Number of Shares Purchased</B></FONT></TD>
+    <TD STYLE="width: 33%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Transaction Type</B></FONT></TD>
+    <TD STYLE="white-space: nowrap; width: 20%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Average Price Per Share</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">22-Jan-25</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">1,433,563</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Open Market Transaction</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">$10.66</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">23-Jan-25</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">1,000,000</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Open Market Transaction</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">$10.85</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">24-Jan-25</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">669,262</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Open Market Transaction</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">$10.74</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">27-Jan-25</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">262,011</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Open Market Transaction</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">$10.80</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">28-Jan-25</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">63,414</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Open Market Transaction</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">$10.89</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">29-Jan-25</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">500,000</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">Open Market Transaction</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt">$11.13</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>d11596155_ex99-c.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>EXHIBIT C</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; background-color: white"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; background-color: white">Each of the undersigned hereby
+consents and agrees to the joint filing of this Schedule 13D, including any amendments thereto, relating to the common stock, par value
+$0.01 per share, of DHT Holdings, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Date: January 29, 2025</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><B>SCORPIO TANKERS INC.</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; text-align: justify"><FONT STYLE="font-size: 10pt">/s/ Filippo Lauro</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 5%; text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="width: 41%; text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;Filippo Lauro</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Vice President</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><B>SCORPIO HOLDINGS LIMITED</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; text-align: justify"><FONT STYLE="font-size: 10pt">/s/ Filippo Lauro</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;Filippo Lauro</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Director and Vice President</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><B>SCORPIO SERVICES HOLDING LIMITED</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; text-align: justify"><FONT STYLE="font-size: 10pt">/s/ Filippo Lauro</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;Filippo Lauro</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Director and Vice President</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><B>ANNALISA LOLLI-GHETTI</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; text-align: justify"><FONT STYLE="font-size: 10pt">/s/ Annalisa Lolli-Ghetti</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">&nbsp;Annalisa Lolli-Ghetti</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

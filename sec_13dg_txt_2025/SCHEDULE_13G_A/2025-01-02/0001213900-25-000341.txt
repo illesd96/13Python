@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001213900-25-000341.txt : 20250102
+<SEC-HEADER>0001213900-25-000341.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102151734
+ACCESSION NUMBER:		0001213900-25-000341
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ESPEY MFG & ELECTRONICS CORP
+		CENTRAL INDEX KEY:			0000033533
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				141387171
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-19806
+		FILM NUMBER:		25501735
+
+	BUSINESS ADDRESS:	
+		STREET 1:		233 BALLSTON AVE
+		STREET 2:		COR. CONGRESS & BALLSTON AVES.
+		CITY:			SARATOGA SPRINGS
+		STATE:			NY
+		ZIP:			12866
+		BUSINESS PHONE:		5185844100
+
+	MAIL ADDRESS:	
+		STREET 1:		233 BALLSTON AVE
+		CITY:			SARATOGA SPRINGS
+		STATE:			NY
+		ZIP:			12866
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ESPEY MANUFACTURING & ELECTRONICS CORP
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kesselman Stanley
+		CENTRAL INDEX KEY:			0001657476
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MAXIM GROUP
+		STREET 2:		405 LEXINGTON AVE, 2ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001571049-15-009129</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Kesselman Stanley -->
+          <cik>0001657476</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>7</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000033533</issuerCik>
+        <issuerName>Espey Mfg &amp; Electronics Corp.</issuerName>
+        <issuerCusip>296650104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>233 Ballston Avenue</com:street1>
+          <com:city>Saratoga Springs</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>12866</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Stanley Kesselman</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>58856.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>58856.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>58856.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.11</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Espey Mfg &amp; Electronics Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>233 Ballston Avenue, Saratoga Springs, New York 12866</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Stanley Kesselman</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>c/o Maxim Group, 300 Park Ave, 16th Floor, New York, NY 10022</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>58,856</amountBeneficiallyOwned>
+        <classPercent>2.11</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>58,856</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>58,856</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Stanley Kesselman</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Stanley Kesselman</signature>
+        <title>Stanley Kesselman</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

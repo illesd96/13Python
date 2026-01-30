@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0002022936-25-000005.txt : 20250110
+<SEC-HEADER>0002022936-25-000005.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110142608
+ACCESSION NUMBER:		0002022936-25-000005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+DATE AS OF CHANGE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pampa Energy Inc.
+		CENTRAL INDEX KEY:			0001469395
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-85324
+		FILM NUMBER:		25522362
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MAIPU 1
+		CITY:			CITY OF BUENOS AIRES
+		STATE:			C1
+		ZIP:			C1084ABA
+		BUSINESS PHONE:		54-11-4809-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIPU 1
+		CITY:			CITY OF BUENOS AIRES
+		STATE:			C1
+		ZIP:			C1084ABA
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mindlin Marcos Marcelo
+		CENTRAL INDEX KEY:			0002022936
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		MAIPU 1
+		CITY:			BUENOS AIRES
+		STATE:			C1
+		ZIP:			1084
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0002022936-24-000016</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002022936</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>12</amendmentNo>
+      <securitiesClassTitle>American Depositary Shares, each representing 25 shares of common stock</securitiesClassTitle>
+      <dateOfEvent>10/15/2024</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001469395</issuerCIK>
+        <issuerCUSIP>697660207</issuerCUSIP>
+        <issuerName>Pampa Energy Inc.</issuerName>
+        <address>
+          <com:street1>MAIPU 1</com:street1>
+          <com:street2>MAIPU 1</com:street2>
+          <com:city>CITY OF BUENOS AIRES</com:city>
+          <com:stateOrCountry>C1</com:stateOrCountry>
+          <com:zipCode>C1084ABA</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Carolina Sigwald</personName>
+          <personPhoneNum>541143446000</personPhoneNum>
+          <personAddress>
+            <com:street1>Maipu 1</com:street1>
+            <com:city>City of Buenos Aires</com:city>
+            <com:stateOrCountry>C1</com:stateOrCountry>
+            <com:zipCode>1084</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002022936</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Mindlin Marcos Marcelo</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>C1</citizenshipOrOrganization>
+        <soleVotingPower>209146376.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>209146376.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>209146376.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>15.3</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>American Depositary Shares, each representing 25 shares of common stock</securityTitle>
+        <issuerName>Pampa Energy Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>MAIPU 1</com:street1>
+          <com:street2>MAIPU 1</com:street2>
+          <com:city>CITY OF BUENOS AIRES</com:city>
+          <com:stateOrCountry>C1</com:stateOrCountry>
+          <com:zipCode>C1084ABA</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Marcos Marcelo Mindlin</filingPersonName>
+        <principalBusinessAddress>Maipu 1, City of Buenos Aires, Argentina</principalBusinessAddress>
+        <principalJob>Shareholder and Chairman of the Board of the Issuer.</principalJob>
+        <hasBeenConvicted>No</hasBeenConvicted>
+        <convictionDescription>No</convictionDescription>
+        <citizenship>Argentina</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Marcelo Mindlin purchased the Shares that he owns directly with personal funds</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Marcos Marcelo Mindlin purchases and sells Shares as market opportunities arise. The transactions that are the subject of this Schedule 13D were executed in response to such market opportunities</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Marcos Marcelo Mindlin owns 209,146,376 shares of the Issuer, representing 15.34% of the share capital.</percentageOfClassSecurities>
+        <numberOfShares>209,146,376</numberOfShares>
+        <transactionDesc>See Schedule A</transactionDesc>
+        <listOfShareholders>No person, other than the Reporting Person, is known to the Reporting Person to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, any securities covered by this Amendment No. 12</listOfShareholders>
+        <date5PercentOwnership>Not Applicable</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Marcos Marcelo Mindlin purchases and sells Shares as market opportunities arise. The transactions that are the subject of this Schedule 13D were executed in response to such market opportunities. Other than those transactions, there are no other contracts, arrangements, understandings or relationships (legal or otherwise) among the Reporting Person and any person with respect to the securities of the Issuer</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Schedule A - Description of transactions in the class of securities reported on that were effected during the past sixty days or since the most recent filing of Schedule 13D</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Mindlin Marcos Marcelo</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Marcos Marcelo Mindlin</signature>
+          <title>Shareholder</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

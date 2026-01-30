@@ -1,0 +1,526 @@
+<SEC-DOCUMENT>0000905148-25-000047.txt : 20250107
+<SEC-HEADER>0000905148-25-000047.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107194206
+ACCESSION NUMBER:		0000905148-25-000047
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250107
+DATE AS OF CHANGE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IBEX Ltd
+		CENTRAL INDEX KEY:			0001720420
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92244
+		FILM NUMBER:		25516237
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1717 PENNSYLVANIA AVENUE NW
+		STREET 2:		SUITE 825
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+		BUSINESS PHONE:		(202)580-6200
+
+	MAIL ADDRESS:	
+		STREET 1:		1717 PENNSYLVANIA AVENUE NW
+		STREET 2:		SUITE 825
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IBEX Holdings Ltd
+		DATE OF NAME CHANGE:	20171023
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PineBridge GEM II G.P., L.P.
+		CENTRAL INDEX KEY:			0001902511
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		65 E. 55TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		646-857-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		65 E. 55TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001104659-22-001308</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001902511</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>5</amendmentNo>
+<securitiesClassTitle>Common Shares, par value $0.0001</securitiesClassTitle>
+<dateOfEvent>01/03/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001720420</issuerCIK>
+<issuerCUSIP>G4690M101</issuerCUSIP>
+<issuerName>IBEX Ltd</issuerName>
+<address>
+<com:street1>1717 Pennsylvania Avenue NW</com:street1>
+<com:street2>Suite 825</com:street2>
+<com:city>Washington</com:city>
+<com:stateOrCountry>DC</com:stateOrCountry>
+<com:zipCode>20006</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>William Corson</personName>
+<personPhoneNum>(646) 857-8000</personPhoneNum>
+<personAddress>
+<com:street1>65 East 55th Street</com:street1>
+<com:city>New York</com:city>
+<com:stateOrCountry>NY</com:stateOrCountry>
+<com:zipCode>10022</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001984825</reportingPersonCIK>
+<reportingPersonName>PineBridge Global Emerging Markets Partners II, L.P.</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>E9</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1255363</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1255363</sharedDispositivePower>
+<aggregateAmountOwned>1255363</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.5</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001902511</reportingPersonCIK>
+<reportingPersonName>PineBridge GEM II G.P., L.P.</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<citizenshipOrOrganization>E9</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1255363</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1255363</sharedDispositivePower>
+<aggregateAmountOwned>1255363</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.5</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001974212</reportingPersonCIK>
+<reportingPersonName>Leone John</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1255363</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1255363</sharedDispositivePower>
+<aggregateAmountOwned>1255363</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.5</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001984821</reportingPersonCIK>
+<reportingPersonName>Mellinger Pierre</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>I0</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1255363</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1255363</sharedDispositivePower>
+<aggregateAmountOwned>1255363</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.5</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001984823</reportingPersonCIK>
+<reportingPersonName>Clowe Kevin</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1255363</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1255363</sharedDispositivePower>
+<aggregateAmountOwned>1255363</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.5</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Shares, par value $0.0001</securityTitle>
+<issuerName>IBEX Ltd</issuerName>
+<issuerPrincipalAddress>
+<com:street1>1717 Pennsylvania Avenue NW</com:street1>
+<com:street2>Suite 825</com:street2>
+<com:city>Washington</com:city>
+<com:stateOrCountry>DC</com:stateOrCountry>
+<com:zipCode>20006</com:zipCode>
+</issuerPrincipalAddress>
+<commentText>This Amendment No. 5 to Schedule 13D ("Amendment No. 5") is being filed by the undersigned, pursuant to Rule 13d-2(a), to amend and supplement the Schedule 13D filed with the U.S. Securities and Exchange Commission (the "SEC") on January 5, 2022, as amended by Amendment No. 1 filed with the SEC on September 17, 2024, Amendment No. 2 filed with the SEC on October 4, 2024, Amendment No. 3 filed with the SEC on November 22, 2024 and Amendment No. 4 filed with the SEC on December 6, 2024 (collectively, the "Schedule 13D"), with respect to the common shares, $0.0001 par value (the "Common Shares"), of IBEX Limited (the "Issuer"), whose principal executive offices are located at 1717 Pennsylvania Avenue NW, Suite 825, Washington, DC 20006. Except as specifically provided herein, this Amendment No. 5 does not modify any of the information previously reported in the Schedule 13D. Capitalized terms used but not defined in this Amendment No. 5 shall have the meanings given to them in the Schedule 13D.</commentText>
+</item1>
+<item5>
+<percentageOfClassSecurities>Item 5(a) - (c) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+GEM II is the record owner of 1,255,363 Common Shares. As the sole director of PineBridge GEM II GP Ltd., which is the sole general partner of GEM II, GEM II GP may be deemed to beneficially own the Common Shares directly owned by GEM II. As members of the Investment Committee, each of the Investment Committee Members may be deemed to beneficially own the Common Shares directly owned by GEM II.&#13;
+ &#13;
+PineBridge GEM II G.P., Co., a Cayman Islands company, is the sole general partner of GEM II GP. PineBridge GEM II G.P., Co. is a wholly-owned subsidiary of PineBridge Investments Partners LLC, a Delaware limited liability company that is a wholly-owned subsidiary of PineBridge Investments, L.P., a Cayman Islands partnership ("PILP"). The General Partner of PILP is Bridge Holdings Company Limited ("Bridge Holdings"). Bridge Holdings is wholly owned by Pacific Century Investment Holdings No. 1 Limited ("PCIH No. 1"). PCIH No. 1 is wholly owned by ChiltonLink Limited, which, in turn, is wholly owned by Richard Li. Each of PineBridge GEM II G.P., Co., PineBridge Investments Partners LLC, PILP, Bridge Holdings, PCIH No. 1, ChiltonLink Limited, and Richard Li disclaims beneficial ownership of the Common Shares directly owned by GEM II.&#13;
+ &#13;
+The percentage of outstanding Common Shares of the Issuer which may be deemed to be beneficially owned by each Reporting Person is set forth on Line 13 of such Reporting Person's cover sheet. Such percentage was calculated based on 16,764,808 Common Shares outstanding as of October 31, 2024, as reported in the Issuer's quarterly report on Form 10-Q filed with the SEC on November 7, 2024, minus 3,562,341 Common Shares that the Issuer repurchased on November 19, 2024, as reported in the Issuer's current report on Form 8-K filed with the SEC on November 20, 2024.</percentageOfClassSecurities>
+<numberOfShares>(i)  sole power to vote or to direct the vote: See line 7 of cover sheets&#13;
+(ii) shared power to vote or to direct the vote: See line 8 of cover sheets&#13;
+(iii) sole power to dispose or to direct the disposition: See line 9 of cover sheets&#13;
+(iv) shared power to dispose or to direct the disposition: See line 10 of cover sheets</numberOfShares>
+<transactionDesc>Except for the transactions listed in Exhibit 11 of this Amendment No. 5, the Reporting Persons have not effected any transactions with respect to the Common Shares since the filing of Amendment No. 4 on December 6, 2024.</transactionDesc>
+</item5>
+<item7>
+<filedExhibits>Item 7 of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+Exhibit 11 - Schedule of Transactions for Item 5(c) of Amendment No. 5.</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>PineBridge Global Emerging Markets Partners II, L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ John Leone</signature>
+<title>By: PineBridge GEM II GP Ltd., its GP, By PineBridge GEM II G.P., L.P., its sole director, By PineBridge GEM II G.P., Co., its GP, By: John Leone, VP</title>
+<date>01/07/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>PineBridge GEM II G.P., L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ John Leone</signature>
+<title>By: PineBridge GEM II G.P., Co., its general partner, By: John Leone, Vice President</title>
+<date>01/07/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Leone John</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ John Leone</signature>
+<title>John Leone</title>
+<date>01/07/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Mellinger Pierre</signatureReportingPerson>
+<signatureDetails>
+<signature>*/s/ Lindsay Johnson</signature>
+<title>Lindsay Johnson as attorney-in-fact</title>
+<date>01/07/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Clowe Kevin</signatureReportingPerson>
+<signatureDetails>
+<signature>*/s/ Lindsay Johnson</signature>
+<title>Lindsay Johnson as attorney-in-fact</title>
+<date>01/07/2025</date>
+</signatureDetails>
+</signaturePerson>
+<commentText>*This Schedule 13D was executed by Lindsay Johnson on behalf of the individuals listed above pursuant to a Power of Attorney, a copy of which is attached as an exhibit to the amendment to Form 3 filed by GEM II, GEM II GP, Mr. Mellinger and Mr. Clowe on July 13, 2023.</commentText>
+</signatureInfo>
+</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<FILENAME>ex11.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Sidley
+         Document created using Broadridge PROfile 24.12.1.5274
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <br>
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+  <div>
+    <div style="text-align: right; color: rgb(0, 0, 0); font-weight: bold;">EXHIBIT 11<br>
+    </div>
+  </div>
+  <div>
+    <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">SCHEDULE OF TRANSACTIONS</div>
+    <div><br>
+    </div>
+  </div>
+  <div>
+    <div style="color: rgb(0, 0, 0);">The following table sets forth all transactions in the Common Shares effected by the Reporting Persons since the filing of Amendment No. 4 on <font style="color: rgb(0, 0, 0);"><font style="color: rgb(0, 0, 0);">December
+
+
+
+
+          6, 2024</font></font>. All such transactions were effected in the open market through a broker.</div>
+  </div>
+  <div><br>
+  </div>
+  <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 1128px; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="z7077a06c1a9e4c0393a6c3155933c854">
+
+      <tr>
+        <td style="width: 202.406px; vertical-align: middle; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Reporting Person</div>
+        </td>
+        <td style="width: 205.297px; vertical-align: middle; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Title of Security</div>
+        </td>
+        <td style="width: 216.375px; vertical-align: middle; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Date of Transaction</div>
+        </td>
+        <td style="width: 259.5px; vertical-align: middle; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Nature of Transaction</div>
+        </td>
+        <td style="width: 115.438px; vertical-align: middle; border-bottom: 2px solid rgb(0, 0, 0);">
+          <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Quantity</div>
+        </td>
+        <td style="vertical-align: middle; border-bottom: 2px solid rgb(0, 0, 0);" rowspan="1" colspan="2">
+          <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">Price</div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 202.406px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">GEM II</div>
+        </td>
+        <td style="width: 205.297px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Common Shares</div>
+        </td>
+        <td style="width: 216.375px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">12/09/2024</div>
+        </td>
+        <td style="width: 259.5px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Sell</div>
+        </td>
+        <td style="width: 115.438px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">
+            <div style="font-family: 'Times New Roman',Times,serif;">23,735</div>
+          </div>
+        </td>
+        <td style="width: 3.34375px; vertical-align: middle; background-color: rgb(204, 238, 255);">&#160;</td>
+        <td style="width: 125.641px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center;">$20.0186<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(1)</sup></div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 202.406px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">GEM II</div>
+        </td>
+        <td style="width: 205.297px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Common Shares</div>
+        </td>
+        <td style="width: 216.375px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">12/10/2024</div>
+        </td>
+        <td style="width: 259.5px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Sell</div>
+        </td>
+        <td style="width: 115.438px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">
+            <div style="font-family: 'Times New Roman',Times,serif;">60,958</div>
+          </div>
+        </td>
+        <td style="width: 3.34375px; vertical-align: middle;">&#160;</td>
+        <td style="width: 125.641px; vertical-align: middle;">
+          <div style="text-align: center;">$20.1208<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(2)</sup></div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 202.406px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">GEM II</div>
+        </td>
+        <td style="width: 205.297px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Common Shares</div>
+        </td>
+        <td style="width: 216.375px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">12/13/2024</div>
+        </td>
+        <td style="width: 259.5px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Sell</div>
+        </td>
+        <td style="width: 115.438px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center; color: rgb(0, 0, 0);">
+            <div style="font-family: 'Times New Roman',Times,serif;">20,000</div>
+          </div>
+        </td>
+        <td style="width: 3.34375px; vertical-align: middle; background-color: rgb(204, 238, 255);">&#160;</td>
+        <td style="width: 125.641px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+          <div style="text-align: center;">$19.9989<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(3)</sup></div>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 202.406px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">GEM II</div>
+        </td>
+        <td style="width: 205.297px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Common Shares</div>
+        </td>
+        <td style="width: 216.375px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">01/03/2025</div>
+        </td>
+        <td style="width: 259.5px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Sell</div>
+        </td>
+        <td style="width: 115.438px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">
+            <div style="font-family: 'Times New Roman',Times,serif;">37,416</div>
+          </div>
+        </td>
+        <td style="width: 3.34375px; vertical-align: middle;">&#160;</td>
+        <td style="width: 125.641px; vertical-align: middle;">
+          <div style="text-align: center;">$21.9663<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(4)</sup></div>
+        </td>
+      </tr>
+
+  </table>
+  <div>
+    <div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 1128px; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+          <tr>
+            <td style="width: 202.406px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: rgb(0, 0, 0);">GEM II</div>
+            </td>
+            <td style="width: 205.297px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: rgb(0, 0, 0);">Common Shares</div>
+            </td>
+            <td style="width: 216.375px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: rgb(0, 0, 0);">01/06/2025</div>
+            </td>
+            <td style="width: 259.5px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: rgb(0, 0, 0);">Sell</div>
+            </td>
+            <td style="width: 115.438px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: rgb(0, 0, 0);">
+                <div style="font-family: 'Times New Roman',Times,serif;">15,202</div>
+              </div>
+            </td>
+            <td style="width: 3.34375px; vertical-align: middle; background-color: rgb(204, 238, 255);">&#160;</td>
+            <td style="width: 125.641px; vertical-align: middle; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center;">$21.5610<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(5)</sup></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+  </div>
+  <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 1128px; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+      <tr>
+        <td style="width: 202.406px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">GEM II</div>
+        </td>
+        <td style="width: 205.297px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Common Shares</div>
+        </td>
+        <td style="width: 216.375px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">01/07/2025</div>
+        </td>
+        <td style="width: 259.5px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">Sell</div>
+        </td>
+        <td style="width: 115.438px; vertical-align: middle;">
+          <div style="text-align: center; color: rgb(0, 0, 0);">
+            <div style="font-family: 'Times New Roman',Times,serif;">1,800</div>
+          </div>
+        </td>
+        <td style="width: 3.34375px; vertical-align: middle;">&#160;</td>
+        <td style="width: 125.641px; vertical-align: middle;">
+          <div style="text-align: center;">$21.5067<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">(6)</sup></div>
+        </td>
+      </tr>
+
+  </table>
+</body>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <br>
+</body>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  (1) This transaction was executed in multiple trades at prices ranging from $20.00 to $20.041, inclusive. The price reported above reflects the weighted average sale price. The Reporting Persons undertake to provide to the Issuer, any security holder of
+  the Issuer, or the staff of the SEC, upon request, full information regarding the number of Common Shares sold at each separate price within the range set forth herein.
+  <div><br>
+  </div>
+  <div style="color: rgb(0, 0, 0);">(2) This transaction was executed in multiple trades at prices ranging from $20.00 to $20.258, inclusive. The price reported above reflects the weighted average sale price. The Reporting Persons undertake to provide to
+    the Issuer, any security holder of the Issuer, or the staff of the SEC, upon request, full information regarding the number of Common Shares sold at each separate price within the range set forth herein.</div>
+  <div><br>
+  </div>
+  <div style="color: rgb(0, 0, 0);">(3) This transaction was executed in multiple trades at prices ranging from $19.96 to $20.0261, inclusive. The price reported above reflects the weighted average sale price. The Reporting Persons undertake to provide to
+    the Issuer, any security holder of the Issuer, or the staff of the SEC, upon request, full information regarding the number of Common Shares sold at each separate price within the range set forth herein.</div>
+  <div><br>
+  </div>
+  <div style="color: rgb(0, 0, 0);">(4) This transaction was executed in multiple trades at prices ranging from $21.78 to $22.0868, inclusive. The price reported above reflects the weighted average sale price. The Reporting Persons undertake to provide to
+    the Issuer, any security holder of the Issuer, or the staff of the SEC, upon request, full information regarding the number of Common Shares sold at each separate price within the range set forth herein.</div>
+  <div><br>
+  </div>
+  <div>(5) This transaction was executed in multiple trades at prices ranging from $21.50 to $21.90, inclusive. The price reported above reflects the weighted average sale price. The Reporting Persons undertake to provide to the Issuer, any security holder
+    of the Issuer, or the staff of the SEC, upon request, full information regarding the number of Common Shares sold at each separate price within the range set forth herein.</div>
+  <div> <br>
+  </div>
+  <div>(6) This transaction was executed in multiple trades at prices ranging from $21.50 to $21.515, inclusive. The price reported above reflects the weighted average sale price. The Reporting Persons undertake to provide to the Issuer, any security
+    holder of the Issuer, or the staff of the SEC, upon request, full information regarding the number of Common Shares sold at each separate price within the range set forth herein. </div>
+  <div> <br>
+  </div>
+  <div style="color: rgb(0, 0, 0);">
+    <hr noshade="noshade" align="center" style="height: 2px; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

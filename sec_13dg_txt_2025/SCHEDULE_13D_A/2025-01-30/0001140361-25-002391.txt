@@ -1,0 +1,795 @@
+<SEC-DOCUMENT>0001140361-25-002391.txt : 20250130
+<SEC-HEADER>0001140361-25-002391.hdr.sgml : 20250130
+<ACCEPTANCE-DATETIME>20250130092915
+ACCESSION NUMBER:		0001140361-25-002391
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250130
+DATE AS OF CHANGE:		20250130
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Li-Cycle Holdings Corp.
+		CENTRAL INDEX KEY:			0001828811
+		STANDARD INDUSTRIAL CLASSIFICATION:	HAZARDOUS WASTE MANAGEMENT [4955]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92789
+		FILM NUMBER:		25571394
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O LI-CYCLE CORP.
+		STREET 2:		10-2351 ROYAL WINDSOR DRIVE
+		CITY:			MISSISSAUGA
+		STATE:			A6
+		ZIP:			L5J 4S7
+		BUSINESS PHONE:		4165833509
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LI-CYCLE CORP.
+		STREET 2:		10-2351 ROYAL WINDSOR DRIVE
+		CITY:			MISSISSAUGA
+		STATE:			A6
+		ZIP:			L5J 4S7
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Glencore plc
+		CENTRAL INDEX KEY:			0001521365
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 8880 [8880]
+		ORGANIZATION NAME:           	International Corp Fin
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Y9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BAARERMATTSTRASSE 3
+		CITY:			BAAR
+		STATE:			V8
+		ZIP:			CH-6341
+		BUSINESS PHONE:		41 41 709 2000
+
+	MAIL ADDRESS:	
+		STREET 1:		BAARERMATTSTRASSE 3
+		CITY:			BAAR
+		STATE:			V8
+		ZIP:			CH-6341
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Glencore Xstrata plc
+		DATE OF NAME CHANGE:	20130606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLENCORE INTERNATIONAL PLC
+		DATE OF NAME CHANGE:	20110520
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001140361-22-034542</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001521365</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>7</amendmentNo>
+<securitiesClassTitle>Common Shares without par value</securitiesClassTitle>
+<dateOfEvent>01/28/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001828811</issuerCIK>
+<issuerCUSIP>50202P105</issuerCUSIP>
+<issuerName>Li-Cycle Holdings Corp.</issuerName>
+<address>
+<com:street1>207 Queens Quay West, Suite 590</com:street1>
+<com:city>Toronto</com:city>
+<com:stateOrCountry>A6</com:stateOrCountry>
+<com:zipCode>M5J 1A7</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Peter Wright</personName>
+<personPhoneNum>(416) 775-1500</personPhoneNum>
+<personAddress>
+<com:street1>Glencore Canada Corporation</com:street1>
+<com:street2>100 King Street West, Suite 6900</com:street2>
+<com:city>Toronto</com:city>
+<com:stateOrCountry>A6</com:stateOrCountry>
+<com:zipCode>M5X 1E3</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001521365</reportingPersonCIK>
+<reportingPersonName>Glencore plc</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>AF</fundType>
+<legalProceedings>Y</legalProceedings>
+<citizenshipOrOrganization>Y9</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>83420624</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>83420624</sharedDispositivePower>
+<aggregateAmountOwned>83420624</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>66.4</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+<commentContent>For rows 8, 10, and 11, represents the amount beneficially owned by Glencore Canada Corporation, which is a wholly-owned indirect subsidiary of Glencore plc. For row 13, see comment regarding row 13 to Glencore Canada Corporation's cover page of this Amendment No. 7.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001032383</reportingPersonCIK>
+<reportingPersonName>GLENCORE INTERNATIONAL AG</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>AF</fundType>
+<legalProceedings>Y</legalProceedings>
+<citizenshipOrOrganization>V8</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>83420624</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>83420624</sharedDispositivePower>
+<aggregateAmountOwned>83420624</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>66.4</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+<commentContent>For rows 8, 10, and 11, represents the amount beneficially owned by Glencore Canada Corporation, which is a wholly-owned indirect subsidiary of Glencore International AG. For row 13, see comment regarding row 13 to Glencore Canada Corporation's cover page of this Amendment No. 7.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0002015686</reportingPersonCIK>
+<reportingPersonName>Glencore Canada Corp</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>WC</fundType>
+<fundType>OO</fundType>
+<legalProceedings>Y</legalProceedings>
+<citizenshipOrOrganization>A6</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>83420624</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>83420624</sharedDispositivePower>
+<aggregateAmountOwned>83420624</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>66.4</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+<commentContent>For rows 8, 10, and 11, represents 83,413,201 Common Shares of Li-Cycle Holdings Corp (the "Issuer") that are issuable to Glencore Canada Corporation upon conversion of all of the outstanding secured and unsecured notes of the Issuer held by Glencore Canada Corporation, subject to adjustment and including accrued but unpaid interest through January 30, 2025, plus 7,423 Common Shares of the Issuer previously awarded to Mr. Kunal Sinha under the Issuer's 2021 Incentive Award Plan. For row 13, percent of Common Shares calculated based on 42,163,821 Common Shares of the Issuer outstanding as of January 30, 2025 (such outstanding shares based on information provided to the Reporting Persons by the Issuer), plus the number of Common Shares of the Issuer that are issuable to Glencore Canada Corporation as described in in the preceding sentence. See Item 5 of this Amendment No. 7 for more information.</commentContent>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Shares without par value</securityTitle>
+<issuerName>Li-Cycle Holdings Corp.</issuerName>
+<issuerPrincipalAddress>
+<com:street1>207 Queens Quay West, Suite 590</com:street1>
+<com:city>Toronto</com:city>
+<com:stateOrCountry>A6</com:stateOrCountry>
+<com:zipCode>M5J 1A7</com:zipCode>
+</issuerPrincipalAddress>
+<commentText>EXPLANATORY NOTE&#13;
+&#13;
+This Amendment No. 7 (this "Amendment No. 7") is being filed by the undersigned to amend and supplement the Schedule 13D originally filed with the U.S. Securities and Exchange Commission (the "SEC") on September 23, 2022 (as amended, from time to time, the "Schedule 13D") relating to the common shares, without par value (the "Common Shares"), of Li-Cycle Holdings Corp. (the "Issuer"). Capitalized terms used herein and not otherwise defined shall have the respective meanings ascribed to them in the Schedule 13D.</commentText>
+</item1>
+<item2>
+<filingPersonName>Item 2(a) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The name, citizenship, occupation and principal business address of each director and executive officer of the Reporting Persons as of January 30, 2025 are listed in Schedule I of Exhibit 99.9 hereto (the "Schedule I Persons"), which Schedule I is incorporated herein by reference.&#13;
+ &#13;
+As of the date of this Amendment No. 7, other than as set out in Schedule II of Exhibit 99.9 hereto, during the last five years, none of the Reporting Persons, or, to the Reporting Persons' knowledge, any of the Schedule I Persons, has been (i) convicted in a criminal proceeding (excluding traffic violations and similar misdemeanors) or (ii) party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</filingPersonName>
+<principalBusinessAddress>Item 2(b) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The information set forth in Item 2(a) of this Amendment No. 7 is hereby incorporated herein by reference.</principalBusinessAddress>
+<principalJob>Item 2(c) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The information set forth in Item 2(a) of this Amendment No. 7 is hereby incorporated herein by reference.</principalJob>
+<hasBeenConvicted>Item 2(d) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The information set forth in Item 2(a) of this Amendment No. 7 is hereby incorporated herein by reference.</hasBeenConvicted>
+<convictionDescription>Item 2(e) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The information set forth in Item 2(a) of this Amendment No. 7 is hereby incorporated herein by reference.</convictionDescription>
+<citizenship>Item 2(f) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The information set forth in Item 2(a) of this Amendment No. 7 is hereby incorporated herein by reference.</citizenship>
+</item2>
+<item4>
+<transactionPurpose>Item 4 of the Schedule 13D is hereby supplemented as follows: &#13;
+&#13;
+On January 28, 2025, the Reporting Persons received from the Issuer a calculation setting forth the adjustment to the conversion prices for outstanding secured and unsecured notes held by Glencore Canada Corporation following the closing of an overallotment exercise relating to an underwritten public offering of securities by the Issuer. As a result, in accordance with the terms of the applicable notes, the conversion price for A&amp;R Convertible Note No. 1 had been adjusted to $2.33, the conversion price for A&amp;R Convertible Note No. 2 had been adjusted to $49.60 and the New Note Conversion Price for the Senior Secured Convertible Note had been adjusted to $3.02, each subject to future adjustments in accordance with the terms of the applicable notes.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>Item 5(a) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The responses of the Reporting Persons to Rows (7) through (13) of the cover pages of this Amendment No. 7, as of January 30, 2025, are incorporated herein by reference.&#13;
+&#13;
+As of such date, the Reporting Persons may be deemed to have shared power to vote, direct the vote, dispose of or direct the disposition of (and therefore beneficially own), an aggregate of 83,413,201 Common Shares issuable upon the conversion of the Senior Secured Convertible Note and A&amp;R Glencore Convertible Notes directly owned by Glencore Canada Corporation, including accrued but unpaid interest through January 30, 2025, plus 7,423 Common Shares previously awarded to Mr. Kunal Sinha under the Issuer's 2021 Incentive Award Plan. This amount of Common Shares represents approximately 66.4% of the outstanding Common Shares and is calculated based on 42,163,821 Common Shares of the Issuer outstanding as of as of January 30, 2025 (such outstanding shares based on information provided to the Reporting Persons by the Issuer), plus the 83,413,201 Common Shares of the Issuer issuable to Glencore Canada Corporation upon conversion of all of the Senior Secured Convertible Note and A&amp;R Glencore Convertible Notes directly owned by Glencore Canada Corporation including accrued but unpaid interest through January 30, 2025. Mr. Sinha is the Global Head of Recycling at the Glencore group and holds the securities reported herein for the benefit of the Reporting Persons, and will, after vesting, if applicable, transfer the securities directly to the Reporting Persons. As of the date hereof, the aggregate outstanding principal amount of the A&amp;R Glencore Convertible Notes and Senior Secured Convertible Note is $245,831,872.79 (inclusive of PIK interest) and $81,573,643.75 (inclusive of PIK interest), respectively.</percentageOfClassSecurities>
+<numberOfShares>Item 5(b) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+The information set forth in Item 5(a) of this Amendment No. 7 is hereby incorporated herein by reference.</numberOfShares>
+<transactionDesc>Item 5(c) of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+Except as otherwise disclosed in this Amendment No. 7 and the Schedule 13D, none of the Reporting Persons nor, to the Reporting Persons' knowledge, any of the Schedule I Persons, has effected any transaction during the past 60 days in, any Common Shares.</transactionDesc>
+</item5>
+<item7>
+<filedExhibits>Item 7 of the Schedule 13D is hereby amended and supplemented as follows:&#13;
+&#13;
+Exhibit 99.9 Schedules I and II</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Glencore plc</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ John Burton</signature>
+<title>John Burton/Company Secretary</title>
+<date>01/30/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>GLENCORE INTERNATIONAL AG</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ John Burton</signature>
+<title>John Burton/Attorney-in-fact</title>
+<date>01/30/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Glencore Canada Corp</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ John Burton</signature>
+<title>John Burton/Attorney-in-fact</title>
+<date>01/30/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.9
+<SEQUENCE>2
+<FILENAME>ef20042540_ex99-9.htm
+<DESCRIPTION>EXHIBIT 99.9
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge
+         Document created using Broadridge PROfile 25.1.1.5279
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <!--PROfilePageNumberReset%Num%1%%%-->
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+    <div style="text-align: right;"><font style="font-weight: bold;">Exhibit 99.9</font><br>
+    </div>
+    <div><br>
+    </div>
+    <div>
+      <div style="text-align: center; color: #000000; font-weight: bold;"><u>SCHEDULE I</u></div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">Set forth below are the names, business addresses and present principal occupations of the directors and executive officers of Glencore plc, Glencore International AG and Glencore Canada Corporation.
+        Where no business address is given for an executive officer or director, and such director&#8217;s principal employer is Glencore plc or one of its subsidiaries, the business address is Baarermattstrasse 3, CH-6340, Baar, Switzerland. To the best
+        knowledge of the Reporting Persons, none of the persons listed below beneficially owns any Common Shares.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z33e84a4746c84d5184740c46d0ae4e11">
+
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;" rowspan="1">
+              <div style="color: #000000; font-weight: bold;">Directors of Glencore plc:</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Name</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Principal Occupation</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Business Address</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;">
+              <div style="text-align: center; color: #000000; font-weight: bold;">Citizenship</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">Gary Nagle,</div>
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">Chief Executive Officer</div>
+              <div style="color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="text-align: center; color: #000000;">South Africa</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top;">
+              <div style="color: #000000;">Kalidas Madhavpeddi,</div>
+              <div style="color: #000000;">Non-Executive Chairman</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top;">
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top;">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top;">
+              <div style="text-align: center; color: #000000;">USA</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">John Wallington,</div>
+              <div style="color: #000000;">Non-Executive Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="text-align: center; color: #000000;">South Africa</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top;">
+              <div style="color: #000000;">Martin Gilbert,</div>
+              <div style="color: #000000;">Non-Executive Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top;">
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top;">
+              <div style="color: #000000;">c/o Glencore UK Ltd.</div>
+              <div style="color: #000000;">18 Hanover Square</div>
+              <div style="color: #000000;">London W1S 1JY</div>
+              <div style="color: #000000;">United Kingdom</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top;">
+              <div style="text-align: center; color: #000000;">United Kingdom</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">Cynthia Carroll,</div>
+              <div style="color: #000000;">Non-Executive Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="text-align: center; color: #000000;">USA</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top;">
+              <div style="color: #000000;">Gill Marcus,</div>
+              <div style="color: #000000;">Senior Independent Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top;">
+              <div style="margin-left: 0.1pt; color: #000000;">Director</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top;">
+              <div style="color: #000000;">c/o Glencore South Africa (Pty) Ltd.</div>
+              <div style="color: #000000;">3rd Floor, Worley Parsons Building</div>
+              <div style="color: #000000;">39 Melrose Boulevard</div>
+              <div style="color: #000000;">Melrose Arch</div>
+              <div style="color: #000000;">Melrose North 2196</div>
+              <div style="color: #000000;">South Africa</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top;">
+              <div style="text-align: center; color: #000000;">South Africa</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">Liz Hewitt,</div>
+              <div style="color: #000000;">Non-Executive Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="margin-left: 0.1pt; color: #000000;">Director</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="color: #000000;">c/o Glencore UK Ltd.</div>
+              <div style="color: #000000;">18 Hanover Square</div>
+              <div style="color: #000000;">London W1S 1JY</div>
+              <div style="color: #000000;">United Kingdom</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: #CCEEFF;">
+              <div style="text-align: center; color: #000000;">United Kingdom</div>
+            </td>
+          </tr>
+
+      </table>
+      <br>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">1</font></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zffce8e98859b441e99f56bcfeafcba03">
+
+          <tr>
+            <td style="width: 22%; vertical-align: bottom;" rowspan="1">
+              <div style="color: #000000; font-weight: bold;">Executive Officers of</div>
+              <div style="color: #000000; font-weight: bold;">Glencore plc:</div>
+            </td>
+            <td style="width: 25%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 37%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 22%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 25%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 37%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 22%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Name</div>
+            </td>
+            <td style="width: 25%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Principal Occupation</div>
+            </td>
+            <td style="width: 37%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Business Address</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;">
+              <div style="margin-right: 5pt; color: rgb(0, 0, 0); font-weight: bold; text-align: center;">Citizenship</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 22%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">Gary Nagle</div>
+            </td>
+            <td style="width: 25%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="margin-left: 0.05pt; color: #000000;">Chief Executive Officer</div>
+              <div style="margin-left: 0.05pt; color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 37%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; margin-right: 1pt; color: #000000;">South Africa</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 22%; vertical-align: top;">
+              <div style="color: #000000;">Steven Kalmin</div>
+            </td>
+            <td style="width: 25%; vertical-align: top;">
+              <div style="margin-left: 0.05pt; color: #000000;">Chief Financial Officer</div>
+              <div style="margin-left: 0.05pt; color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 37%; vertical-align: top;">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top;">
+              <div style="text-align: center; color: #000000;">Australia</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 22%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">John Burton</div>
+            </td>
+            <td style="width: 25%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="margin-left: 0.05pt; color: #000000;">Company Secretary</div>
+              <div style="margin-left: 0.05pt; color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 37%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: #000000;">United Kingdom</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z5756bf26f585438883f26e45e9fdd385">
+
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;" rowspan="1">
+              <div style="color: #000000; font-weight: bold;">Directors and Executive</div>
+              <div style="color: #000000; font-weight: bold;">Officers of Glencore</div>
+              <div style="color: #000000; font-weight: bold;">International AG:</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Name</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Principal Occupation</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Business Address</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;">
+              <div style="margin-right: 5pt; color: rgb(0, 0, 0); font-weight: bold; text-align: center;">Citizenship</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">Gary Nagle,</div>
+              <div style="color: #000000;">Member of the Board of Directors</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="margin-left: 0.05pt; color: #000000;">Chief Executive Officer</div>
+              <div style="margin-left: 0.05pt; color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; margin-right: 1pt; color: #000000;">South Africa</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top;">
+              <div style="color: #000000;">Steven Kalmin,</div>
+              <div style="color: #000000;">Member of the Board of Directors</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top;">
+              <div style="margin-left: 0.05pt; color: #000000;">Chief Financial Officer</div>
+              <div style="margin-left: 0.05pt; color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top;">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top;">
+              <div style="text-align: center; color: #000000;">Australia</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">John Burton,</div>
+              <div style="color: #000000;">Member of Board of Directors</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="margin-left: 0.05pt; color: #000000;">Company Secretary</div>
+              <div style="margin-left: 0.05pt; color: #000000;">of Glencore plc</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">c/o Glencore International AG</div>
+              <div style="color: #000000;">Baarermattstrasse 3</div>
+              <div style="color: #000000;">CH-6340 Baar</div>
+              <div style="color: #000000;">Switzerland</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="text-align: center; color: #000000;">United Kingdom</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><font style="color: #000000;"> </font><br>
+      </div>
+      <div style="color: #000000;">Each director of Glencore International AG is also an executive officer of the company.</div>
+      <div style="color: #000000;"> <br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">2</font></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zab0eebd724d347eabdcdd90cf4f74c05">
+
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;" rowspan="1">
+              <div style="color: #000000; font-weight: bold;">Directors and Executive</div>
+              <div style="color: #000000; font-weight: bold;">Officers of Glencore</div>
+              <div style="color: #000000; font-weight: bold;">Canada Corporation:</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;" rowspan="1"><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Name</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Principal </div>
+              <div style="color: #000000; font-weight: bold;">Occupation</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: bottom;">
+              <div style="color: #000000; font-weight: bold;">Business Address</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: bottom;">
+              <div style="margin-right: 5pt; color: #000000; font-weight: bold;">Citizenship</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">Michael Boone,</div>
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="margin-left: 0.05pt; color: #000000;">Finance at Glencore Canada</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="color: #000000;">c/o Glencore Canada Corporation, 100, King Street West, Suite 6900, Toronto, ON, M5X 1E3, Canada</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top; background-color: rgb(204, 238, 255);">
+              <div style="margin-right: 1pt; color: #000000;">Canada</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 26%; vertical-align: top;">
+              <div style="color: #000000;">Peter Wright,</div>
+              <div style="color: #000000;">Director</div>
+            </td>
+            <td style="width: 22.66%; vertical-align: top;">
+              <div style="margin-left: 0.05pt; color: #000000;">VP Legal at Glencore Canada</div>
+            </td>
+            <td style="width: 34.58%; vertical-align: top;">
+              <div style="color: #000000;">c/o Glencore Canada Corporation, 100, King Street West, Suite 6900, Toronto, ON, M5X 1E3, Canada</div>
+            </td>
+            <td style="width: 15.92%; vertical-align: top;">
+              <div style="color: #000000;">Canada</div>
+            </td>
+          </tr>
+
+      </table>
+      <div> <br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="text-align: center;" class="BRPFPageNumberArea"><font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">3</font></div>
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center; color: #000000; font-weight: bold;"><u>SCHEDULE II</u></div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">On May 24, 2022, in an agreement with the Department of Justice (&#8220;<u>DOJ</u>&#8221;), subject to final approval by the Court, Glencore International AG, a wholly-owned subsidiary of Glencore plc, agreed to
+        $428,521,173 in fines and $272,185,792 in forfeiture and disgorgement and pled guilty in the Southern District of New York to one count of conspiracy to violate the US Foreign Corrupt Practices Act related to past actions in certain overseas
+        jurisdictions. Glencore International AG agreed to pay $262,590,214 to the United States, with up to $136,236,140 to be credited against the resolution with UK authorities and up to $29,694,819 to be credited against any potential resolution with
+        Swiss authorities, both in connection with investigations into related conduct. The DOJ resolution provided for forfeiture of $181,457,195 and credited Glencore International AG for $90,728,597 in disgorgement to the Commodity Futures Trading
+        Commission (&#8220;<u>CFTC</u>&#8221;). The DOJ agreement provides for the appointment of an independent compliance monitor for a period of three years to assess and monitor Glencore International AG&#8217;s compliance with the terms of the agreement and evaluate
+        the effectiveness of its compliance program and internal controls.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">On May 24, 2022, in a separate agreement with the DOJ, Glencore AG agreed to a fine of $341,221,682 and forfeiture of $144,417,203 and pled guilty in the District of Connecticut to one count of
+        conspiracy to commit commodity price manipulation related to past market conduct in certain US fuel oil markets. Of this amount, $242,819,443 will be credited against the resolution with the CFTC. The DOJ agreement provides for the appointment of
+        an independent compliance monitor for a period of three years to assess and monitor Glencore AG&#8217;s compliance with the agreement and evaluate the effectiveness of its compliance program and internal controls.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">On May 24, 2022, Glencore International AG, Glencore AG and Chemoil Corporation (a wholly-owned subsidiary of Glencore plc) reached a separate agreement to resolve an investigation by the CFTC in
+        relation to civil violations of the Commodity Exchange Act and CFTC regulations, in connection with past market conduct in certain US fuel oil markets as well as past corrupt practices in certain overseas jurisdictions. The companies agreed to pay
+        $333,548,040 in civil penalties and disgorgement to the CFTC, with the $852,797,810 balance of the penalty to the CFTC being offset against penalties imposed by other authorities.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">On May 24, 2022, Glencore further agreed to pay $39,598,367 under a resolution signed with the Brazilian Federal Prosecutor&#8217;s Office in connection with its bribery investigation.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">On June 21, 2022, Glencore Energy UK Limited (a wholly-owned subsidiary of Glencore plc) pled guilty in Southwark Crown Court to five counts of bribery and two counts of failure to prevent bribery
+        under the UK Bribery Act 2010. On November 3, 2022, Glencore Energy UK Limited was sentenced to pay a financial penalty and costs of GBP 280,965,092.95.</div>
+      <div>&#160;</div>
+      <div style="text-align: justify; color: #000000;">On August 5, 2024, the Office of the Attorney General of Switzerland (&#8220;<u>OAG</u>&#8221;) announced that it has closed its criminal investigation against Glencore International with a summary penalty order
+        and an abandonment order. The summary penalty order holds Glencore International criminally liable for failing to have taken all necessary and reasonable organizational measures to prevent the bribery of a Congolese public official by a business
+        partner in 2011 in connection with the acquisition from the state-owned mining company by that business partner of minority stakes in two mining companies in the Democratic Republic of the Congo. The OAG stated in the summary penalty order that it
+        did not identify that any Glencore employees had any knowledge of the bribery by the business partner, nor did Glencore benefit financially from the conduct of the business partner. Glencore International has been sentenced to a fine of CHF 2
+        million and the OAG imposed a compensation claim in the amount of US$150 million in respect of the estimated benefit obtained by the business partner. Glencore has cooperated fully with the investigation by the OAG and taken significant measures to
+        enhance its compliance programme, particularly since 2016, both of which were taken into account as mitigating factors in setting the amount of the fine. The parallel investigation by the Dutch Prosecution Service has also been concluded, and the
+        case was dismissed following the resolution of the Swiss investigation. Glencore does not admit the findings of the OAG, but in the interests of resolving this matter has agreed not to appeal the summary penalty order.</div>
+      <div>&#160;</div>
+      <div> <br>
+      </div>
+      <div style="text-align: center;"> <font style="font-size: 8pt; font-weight: normal; font-style: normal;" class="BRPFPageNumber">4</font></div>
+    </div>
+    <div>
+      <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

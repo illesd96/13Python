@@ -1,0 +1,1546 @@
+<SEC-DOCUMENT>0001104659-25-007209.txt : 20250129
+<SEC-HEADER>0001104659-25-007209.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129160944
+ACCESSION NUMBER:		0001104659-25-007209
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20250129
+DATE AS OF CHANGE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lamb Weston Holdings, Inc.
+		CENTRAL INDEX KEY:			0001679273
+		STANDARD INDUSTRIAL CLASSIFICATION:	CANNED, FROZEN & PRESERVED FRUIT, VEG & FOOD SPECIALTIES [2030]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				611797411
+		FISCAL YEAR END:			0525
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89775
+		FILM NUMBER:		25569421
+
+	BUSINESS ADDRESS:	
+		STREET 1:		599 S. RIVERSHORE LANE
+		CITY:			EAGLE
+		STATE:			ID
+		ZIP:			83616
+		BUSINESS PHONE:		208.938.1047
+
+	MAIL ADDRESS:	
+		STREET 1:		599 S. RIVERSHORE LANE
+		CITY:			EAGLE
+		STATE:			ID
+		ZIP:			83616
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONTINENTAL GRAIN CO
+		CENTRAL INDEX KEY:			0000929607
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+		BUSINESS PHONE:		2122072898
+
+	MAIL ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONTIGROUP COMPANIES, INC.
+		DATE OF NAME CHANGE:	20050609
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONTINENTAL GRAIN CO
+		DATE OF NAME CHANGE:	19940906
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-24-109740</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: CONTINENTAL GRAIN CO -->
+          <cik>0000929607</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Common Stock, $1.00 par value</securitiesClassTitle>
+      <dateOfEvent>01/27/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001679273</issuerCIK>
+        <issuerCUSIP>513272104</issuerCUSIP>
+        <issuerName>Lamb Weston Holdings, Inc.</issuerName>
+        <address>
+          <com:street1>599 S. RIVERSHORE LANE</com:street1>
+          <com:city>EAGLE</com:city>
+          <com:stateOrCountry>ID</com:stateOrCountry>
+          <com:zipCode>83616</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Michael Mayberry, Gen. Counsel</personName>
+          <personPhoneNum>212-207-2898</personPhoneNum>
+          <personAddress>
+            <com:street1>Continental Grain Company</com:street1>
+            <com:street2>767 Fifth Avenue</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10153</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000929607</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CONTINENTAL GRAIN CO</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>1269452.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1269452.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>1269452.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.89</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>Box 13 - The percentages used herein are calculated based on 142,640,697 shares of common stock, $1.00 par value per share (the 'Shares') outstanding as of December 13, 2024, as disclosed in the Issuer's quarterly report on Form 10-Q filed with the U.S. Securities and Exchange Commission on December 20, 2024 (the 'Quarterly Report').</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>FRIBOURG PAUL J</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>1269452.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1269452.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>1269452.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.89</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Box 11 - Does not include 15 Shares over which Mr. Paul Fribourg does not have direct or indirect beneficial ownership. Such shares are held in a trust for members of Mr. Paul Fribourg's extended family in which Mr. Paul Fribourg is one of three voting trustees.
+
+Box 13 - The percentages used herein are calculated based on 142,640,697 Shares outstanding as of December 13, 2024, as disclosed in the Quarterly Report.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>GENDASON ARI DAVID</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>1975.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1975.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>1975.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.00</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Box 11 - Ari D. Gendason is the Chief Investment Officer ('CIO') of Continental Grain Company. In his capacity as CIO, Mr. Gendason possesses neither shared nor sole voting or dispositional control over the 1,269,452 Shares beneficially owned by Continental Grain Company. However, as the CIO of Continental Grain Company, there may be certain unforeseen circumstances affecting Continental Grain Company that could result in Mr. Gendason potentially influencing the sale and voting of the 1,269,452 Shares owned by Continental Grain Company. The Reporting Persons do not believe the occurrence of any such unforeseen circumstance to be probable. Mr. Gendason expressly disclaims any beneficial ownership of the 1,269,452 Shares beneficially owned by Continental Grain Company.
+
+Box 13 - The percentages used herein are calculated based on 142,640,697 Shares outstanding as of December 13, 2024, as disclosed in the Quarterly Report.
+
+Represents less than 0.01 percent.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>ZIMMERMAN MICHAEL J</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>5000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>5000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>5000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.00</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Box 11 - Michael J. Zimmerman is a member of the Board of Directors and the Vice Chairman of Continental Grain Company. In his capacity as Vice Chairman, Mr. Zimmerman possesses neither shared nor sole voting or dispositional control over the 1,269,452 hares beneficially owned by Continental Grain Company. However, as disclosed in Item 4 of Amendment No. 2, the Reporting Persons anticipate that Mr. Zimmerman may become more actively involved in the strategy and purpose of the investment in the Issuer by Continental Grain Company. Further, as the Vice Chairman of Continental Grain Company, there may be certain unforeseen circumstances affecting Continental Grain Company that could result in Mr. Zimmerman potentially influencing the sale and voting of the 1,269,452 Shares owned by Continental Grain Company. The Reporting Persons do not believe the occurrence of any such unforeseen circumstance to be probable. Mr. Zimmerman expressly disclaims any beneficial ownership of the 1,269,452 Shares beneficially owned by Continental Grain Company.
+
+Box 13 - The percentages used herein are calculated based on 142,640,697 Shares outstanding as of December 13, 2024, as disclosed in the Quarterly Report.
+
+Represents less than 0.01 percent.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>FRIBOURG CHARLES</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>6675.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>6675.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>6675.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.00</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Box 11 - This amount does not include 15 Shares over which Mr. Charles Fribourg does not have direct or indirect beneficial ownership. Such Shares are held in a trust for members of Mr. Charles Fribourg's extended family in which Mr. Charles Fribourg is one of three voting trustees. Mr. Charles Fribourg is a member of the Board of Directors and the Vice Chairman of Continental Grain Company. In his capacity as Vice Chairman, Mr. Charles Fribourg possesses neither shared nor sole voting or dispositional control over the 1,269,452 Shares beneficially owned by Continental Grain Company. However, as disclosed in Item 4 of Amendment No. 2, the Reporting Persons anticipate that Mr. Charles Fribourg may become more actively involved in the strategy and purpose of the investment in the Issuer by Continental Grain Company. Further, as the Vice Chairman of Continental Grain Company, there may be certain unforeseen circumstances affecting Continental Grain Company that could result in Mr. Charles Fribourg potentially influencing the sale and voting of the 1,269,452 Shares owned by Continental Grain Company. The Reporting Persons do not believe the occurrence of any such unforeseen circumstance to be probable. Mr. Charles Fribourg expressly disclaims any beneficial ownership of the 1,269,452 Shares beneficially owned by Continental Grain Company.
+
+Box 13 - The percentages used herein are calculated based on 142,640,697 Shares outstanding as of December 13, 2024, as disclosed in the Quarterly Report.
+
+Represents less than 0.01 percent.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $1.00 par value</securityTitle>
+        <issuerName>Lamb Weston Holdings, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>599 S. RIVERSHORE LANE</com:street1>
+          <com:city>EAGLE</com:city>
+          <com:stateOrCountry>ID</com:stateOrCountry>
+          <com:zipCode>83616</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 4 to the Schedule 13D ("Amendment No. 4"), amends and supplements the Schedule 13D originally filed by the undersigned with the U.S. Securities and Exchange Commission (the 'SEC') on October 18, 2024, as amended by Amendment No. 1 to the Schedule 13D filed with the SEC on December 18, 2024, and as further amended by Amendment No. 2 to the Schedule 13D filed with the SEC on December 20, 2024, and as further amended by Amendment No. 3 to the Schedule 13D filed with the SEC on December 27, 2024 (as amended and supplemented, the "Schedule 13D"). Unless otherwise indicated, all capitalized terms used but not defined herein shall have the meanings ascribed to them in the Schedule 13D. This Amendment No. 4 is being filed to make amendments to the Schedule 13D as follows:</commentText>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and supplemented as follows:
+
+The funds for the purchase of the 1,269,452 Shares owned directly by CGC were derived from the general working capital of CGC. The funds for the purchase of the 1,975 Shares owned directly by Mr. Gendason were derived from the personal funds of Mr. Gendason. The funds for the purchase of the 6,675 Shares owned directly by Mr. Charles Fribourg were derived from the personal funds of Mr. Charles Fribourg.
+
+A total of $85,590,566.89 net of broker fees and commissions was paid to acquire the Shares owned by CGC. A total of $125,590.42 net of broker fees and commissions was paid to acquire the Shares owned by Mr. Gendason. A total of $404,155.69 net of broker fees and commissions was paid to acquire the Shares owned by Mr. Charles Fribourg.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is hereby amended and supplemented to add the following paragraph:
+
+On January 27, 2025, JANA issued a public letter to the Board (the 'January 27, 2025 Letter'), which is attached hereto as Exhibit 99.6 and incorporated by reference herein.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5 is hereby amended and restated as follows:
+
+The percentage of Shares reported to be beneficially owned by the Reporting Persons is based upon 142,640,697 Shares outstanding as of December 13, 2024, as reported in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended November 24, 2024 filed with the SEC on December 20, 2024 (the 'Quarterly Report').
+
+As of the close of business on the date hereof, CGC may be deemed to beneficially own 1,269,452 Shares, representing approximately 0.89% of the Shares outstanding.
+
+As of the close of business on the date hereof, Mr. Paul Fribourg may be deemed to beneficially own 1,269,452 Shares, representing approximately 0.89% of the Shares outstanding.
+
+As of the close of business on the date hereof, Mr. Gendason may be deemed to beneficially own 1,975 Shares, representing less than 0.01% of the Shares outstanding.
+
+As of the close of business on the date hereof, Mr. Zimmerman may be deemed to beneficially own 5,000 Shares, representing less than 0.01% of the Shares outstanding.
+
+As of the close of business on the date hereof, Mr. Charles Fribourg may be deemed to beneficially own 6,675 Shares, representing less than 0.01% of the Shares outstanding.
+
+In addition, as discussed in Item 6 of the Schedule 13D, the Reporting Persons, JANA and the Jana Individuals (as defined by Item 6 of the Schedule 13D) may be deemed to constitute a group for purposes of Rule 13d-3 of the Securities Exchange Act of 1934, as amended (the 'Exchange Act'). In the aggregate, such group would beneficially own 8,619,315 Shares, representing approximately 6.04% of the outstanding Shares (calculated on the basis of 142,640,697 Shares outstanding as of December 13, 2024 as disclosed in the Quarterly Report).
+
+The filing of this Schedule 13D shall not be deemed an admission that the Reporting Persons or the executive officers and directors of CGC are, for purposes of Section 13(d) of the Exchange Act, the beneficial owners of any securities of the Issuer that he, she or it does not directly own. Each of the Reporting Persons specifically disclaims beneficial ownership of the securities reported herein that he or it does not directly own. The Reporting Persons further expressly disclaim any beneficial ownership of Shares beneficially owned by JANA and its affiliates and such Shares are not the subject of this Schedule 13D.
+
+The executive officers and directors of CGC identified in this Schedule 13D disclaim beneficial ownership over all of the Shares reported as owned by the Reporting Persons, except to the extent of their pecuniary interest therein, if any.</percentageOfClassSecurities>
+        <numberOfShares>CGC has sole voting and dispositive power over 1,269,452 Shares. Mr. Paul Fribourg has sole voting and dispositive power over 1,269,452 Shares. This amount does not include 15 Shares over which Mr. Paul Fribourg does not have direct or indirect beneficial ownership. Such Shares are held in a trust for members of Mr. Fribourg's extended family in which Mr. Paul Fribourg is one of three voting trustees.
+
+Mr. Gendason has sole voting and dispositive power over 1,975 Shares. Mr. Gendason is the Chief Investment Officer ('CIO') of CGC. In his capacity as CIO, Mr. Gendason possesses neither shared nor sole voting or dispositional control over the 1,269,452 Shares beneficially owned by CGC. However, as the CIO of CGC, there may be certain unforeseen circumstances affecting CGC that could result in Mr. Gendason potentially influencing the sale and voting of the 1,269,452 Shares owned by CGC. The Reporting Persons do not believe the occurrence of any such unforeseen circumstance to be probable. Mr. Gendason expressly disclaims any beneficial ownership of the 1,269,452 Shares beneficially owned by CGC.
+
+Mr. Zimmerman has sole voting and dispositive power over 5,000 Shares. Mr. Zimmerman is a member of the Board of Directors and the Vice Chairman of CGC. In his capacity as Vice Chairman, Mr. Zimmerman possesses neither shared nor sole voting or dispositional control over the 1,269,452 Shares beneficially owned by CGC. However, as the Vice Chairman of CGC, there may be certain unforeseen circumstances affecting CGC that could result in Mr. Zimmerman potentially influencing the sale and voting of the 1,269,452 Shares owned by CGC. The Reporting Persons do not believe the occurrence of any such unforeseen circumstance to be probable. Mr. Zimmerman expressly disclaims any beneficial ownership of the 1,269,452 Shares beneficially owned by CGC.
+
+Mr. Charles Fribourg has sole voting and dispositive power over 6,675 Shares. This amount does not include 15 Shares over which Mr. Charles Fribourg does not have direct or indirect beneficial ownership. Such Shares are held in a trust for members of Mr. Charles Fribourg's extended family in which Mr. Charles Fribourg is one of three voting trustees. Mr. Charles Fribourg is a member of the Board of Directors and the Vice Chairman of CGC. In his capacity as Vice Chairman, Mr. Charles Fribourg possesses neither shared nor sole voting or dispositional control over the 1,269,452 Shares beneficially owned by CGC. However, as the Vice Chairman of CGC, there may be certain unforeseen circumstances affecting CGC that could result in Mr. Charles Fribourg potentially influencing the sale and voting of the 1,269,452 Shares owned by CGC. The Reporting Persons do not believe the occurrence of any such unforeseen circumstance to be probable. Mr. Charles Fribourg expressly disclaims any beneficial ownership of the 1,269,452 Shares beneficially owned by CGC.</numberOfShares>
+        <transactionDesc>Mr. Paul Fribourg has not entered into any transactions in the Shares during the past sixty (60) days. The transactions in the Shares by CGC and Messrs. Gendason, Zimmerman and Charles Fribourg during the past sixty (60) days are as set forth on Exhibit 99.A. All such transactions were effected in the open market through a broker.</transactionDesc>
+        <listOfShareholders>No person other than the Reporting Persons is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, any securities owned by the Reporting Persons.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended and supplemented as follows:
+
+The Reporting Persons may be deemed to constitute a group for purposes of Rule 13d-3 under the Exchange Act, collectively with (i) JANA, (ii) Bradley Alford, (iii) Jeffery DeLapp, (iv) Diane Dietz (whose legal name is Diane Dietz Suciu), (v) John Gainor, (vi) Timothy McLevish and (vii) Joseph Scalzo ((ii) through (vii) being collectively referred to as the "Jana Individuals"). JANA and the Jana Individuals are separately filing on Schedule 13D with respect to their beneficial ownership of Shares. Based on information and belief, JANA and the Jana Individuals may be deemed to beneficially own an aggregate of 7,336,213 Shares. Accordingly, in the aggregate, the Reporting Persons, JANA and the Jana Individuals may be deemed to beneficially own an aggregate of 8,619,315 Shares, representing approximately 6.04% of Shares outstanding. Each of the Reporting Persons expressly disclaims beneficial ownership of the Shares beneficially owned by the other Reporting Persons, JANA and the Jana Individuals. The Reporting Persons and JANA may act together with respect to the voting of the securities held by such entities.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 is hereby amended and supplemented to add the following exhibits:
+
+99.A - Transactions in Company Securities During the Past Sixty (60) Days
+
+99.6 - January 27, 2025 Letter</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>CONTINENTAL GRAIN CO</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ari D. Gendason</signature>
+          <title>Ari D. Gendason, Chief Investment Officer</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>FRIBOURG PAUL J</signatureReportingPerson>
+        <signatureDetails>
+          <signature>By: Jonthan Jacobs, as Attorney-In-Fact, /s/ Paul J. Fribourg</signature>
+          <title>Paul J. Fribourg</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>GENDASON ARI DAVID</signatureReportingPerson>
+        <signatureDetails>
+          <signature>By: Jonthan Jacobs, as Attorney-In-Fact, /s/ Ari D. Gendason</signature>
+          <title>Ari D. Gendason</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>ZIMMERMAN MICHAEL J</signatureReportingPerson>
+        <signatureDetails>
+          <signature>By: Jonthan Jacobs, as Attorney-In-Fact, /s/ Michael J. Zimmerman</signature>
+          <title>Michael J. Zimmerman</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>FRIBOURG CHARLES</signatureReportingPerson>
+        <signatureDetails>
+          <signature>By: Jonthan Jacobs, as Attorney-In-Fact, /s/ Charles Fribourg</signature>
+          <title>Charles Fribourg</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>tm254714d1_ex99-a.htm
+<DESCRIPTION>EXHIBIT 99.A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 99.A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Exhibit 99.A is hereby amended and supplemented as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>TRANSACTIONS IN COMPANY SECURITIES DURING THE
+PAST SIXTY (60) DAYS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>CONTINENTAL GRAIN COMPANY</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Transaction Date</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Nature of Transaction</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Price
+    Per Share</B><SUP>1</SUP></FONT></TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Quantity</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 24%; font: 10pt Times New Roman, Times, Serif; text-align: center">12/30/24</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 24%; font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$64.8587<SUP>2</SUP></FONT></TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif; text-align: center">54,207</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">12/30/24</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$65.2291<SUP>3</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">10,793</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/02/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$66.2961<SUP>4</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">34,862</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/02/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$67.1915<SUP>5</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">15,138</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/03/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$65.9310<SUP>6</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">35,000</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/06/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$63.7243<SUP>7</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">13,849</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/06/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$64.4955<SUP>8</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">12,151</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/06/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$65.2410<SUP>9</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">4,000</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/07/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$62.05<SUP>10</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">40,000</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/08/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$60.95<SUP>11</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">50,000</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/10/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$60.0990<SUP>12</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">50,000</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/16/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$59.0776<SUP>13</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">57,755</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/16/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$59.3972<SUP>14</SUP></FONT></TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">2,245</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>1 </SUP>Prices reported are net
+of commissions. The Reporting Persons undertake to provide the Issuer, any security holder of the Issuer or the SEC staff, upon request,
+all information regarding the number of Shares purchased at each price within the ranges set forth in Footnotes 1 through 14 herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>2</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $64.21 to $65.21 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>3</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $65.21 to $65.25 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>4</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $65.94 to $66.89 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>5</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $66.97 to $67.25 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>6</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $65.36 to $66.00 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>7</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $63.09 to $64.09 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>8</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $64.10 to $65.09 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>9</SUP> The price reported is the
+weighted average price. These Shares were purchased in multiple transactions at prices ranging from $65.11 to $65.38 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>10</SUP> The price reported is
+the weighted average price. These Shares were purchased in multiple transactions at prices ranging from $61.68 to $62.42 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>11</SUP> The price reported is
+the weighted average price. These Shares were purchased in multiple transactions at prices ranging from $60.55 to $61.39 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>12</SUP> The price reported is
+the weighted average price. These Shares were purchased in multiple transactions at prices ranging from $59.54 to $60.40 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>13</SUP> The price reported is
+the weighted average price. These Shares were purchased in multiple transactions at prices ranging from $58.36 to $59.36 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><SUP>14</SUP> The price reported is
+the weighted average price. These Shares were purchased in multiple transactions at prices ranging from $59.365 to $59.43 per share.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>ARI D. GENDASON</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Transaction Date</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Nature of Transaction</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Price
+    Per Share</B><SUP>1</SUP></FONT></TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Quantity</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 24%; font: 10pt Times New Roman, Times, Serif; text-align: center">01/07/25</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 24%; font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif; text-align: center">$61.96</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif; text-align: center">100</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/07/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">$62.05</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">125</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">01/16/25</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">$58.42</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">150</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"><SUP>1 </SUP>Prices reported are net
+of commissions</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>CHARLES FRIBOURG</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Transaction Date</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Nature of Transaction</TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Price
+    Per Share</B><SUP>1</SUP></FONT></TD><TD STYLE="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font: bold 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid">Quantity</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 24%; font: 10pt Times New Roman, Times, Serif; text-align: center">01/28/25</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 24%; font: 10pt Times New Roman, Times, Serif; text-align: center">Purchase</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif; text-align: center">$60.58</TD><TD STYLE="width: 2%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 23%; font: 10pt Times New Roman, Times, Serif; text-align: center">1,675</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: left"><SUP>1 </SUP>Prices reported are net
+of commissions</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.6
+<SEQUENCE>3
+<FILENAME>tm254714d1_ex99-6.htm
+<DESCRIPTION>EXHIBIT 99.6
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0; text-align: right"><B>Exhibit 99.6</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"><IMG SRC="tm254714d1_ex99-6img001.jpg" ALT=""></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">January 27, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Board of Directors</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Lamb Weston Holdings, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">599 S. Rivershore Lane</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Eagle, ID 83616</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Board of Directors,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">JANA Partners (&ldquo;JANA,&rdquo; &ldquo;we&rdquo;
+or &ldquo;us&rdquo;), together with our strategic and operating partners, beneficially owns more than 5% of the outstanding shares of
+Lamb Weston Holdings, Inc. (&ldquo;Lamb Weston&rdquo; or the &ldquo;Company&rdquo;), making us one of the Company&rsquo;s largest shareholders.
+The Board&rsquo;s recent decision to double down on a broken status quo, after already subjecting shareholders to years of <U>systemic
+failures</U> across nearly all key dimensions of operating the business, highlights just how detached the Board is from the urgent need
+for wholesale change at Lamb Weston. <B>We are therefore writing to inform the Board of the shareholder feedback we have received and
+the overwhelming support for significant Board and leadership change.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Lamb Weston&rsquo;s earnings report on December
+19, 2024 further underscored the urgent need for change at the Company:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">First, Lamb Weston again reported
+                                            extremely poor financial metrics that were well below expectations. The Company made a significant
+                                            cut to fiscal 2025 guidance &ndash; the latest in a series of recent cuts &ndash; resulting
+                                            in the stock plummeting 20% in one day and now trading near its 52-week low; <SUP>1</SUP></TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">Second, the Board&rsquo;s response
+                                            to shareholder pressure was to make a long overdue CEO change. But by replacing the CEO with
+                                            his &lsquo;right hand&rsquo; COO, a 17-year veteran and long-time senior Lamb Weston executive,
+                                            the Board demonstrated its continued failure to recognize the magnitude of changes required
+                                            at the Company;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">Third, the Board once again opted
+                                            to shirk accountability for the self-inflicted missteps that have led to substantial share
+                                            losses, which we believe to be the primary driver of Lamb Weston&rsquo;s significant volume
+                                            declines and large performance gap to North American peers (who we believe are operating
+                                            at higher capacity utilization). After previously trying to blame its self-induced volume
+                                            losses on restaurant traffic, on the December call the departing CEO once again strained
+                                            credulity &ndash; citing potential <I><U>future</U></I> competitor capacity additions to
+                                            normalize <I><U>current and ongoing</U></I> underperformance. After spending billions in
+                                            shareholder capital to expand capacity and acquire its European joint venture &ndash; while
+                                            at the same time voluntarily walking away from customers &ndash; the Company now claims ignorance
+                                            regarding potential competitor capacity additions, despite their multi-year lead time and
+                                            evidence to the contrary. The Board&rsquo;s approval of this disingenuous presentation of
+                                            the facts &ndash; presumably in a bid to save itself from blame &ndash; only adds to the
+                                            damage;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify"><B>The market reaction to these events
+                                            was so overwhelmingly negative that it prompted one long-tenured analyst to write, &ldquo;Having
+                                            missed and lowered guidance 4 times in the past 5 quarters, we too have lost confidence
+in mgmt's oversight&rdquo; <SUP>2</SUP> while another seasoned analyst titled his report, &ldquo;Strategic Change Increasingly Likely.&rdquo;
+<SUP>3</SUP></B></TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0in"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0in"><SUP>1</SUP> &ldquo;Lamb reported
+another in a series of truly bad prints (typically we might say &ldquo;soft&rdquo; or &ldquo;underwhelming,&rdquo; but euphemisms don&rsquo;t
+suffice today).&rdquo; (JP Morgan, 12/19/24); &ldquo;[I]t&rsquo;s difficult to have much confidence in guidance (management is in the
+midst of a miss-and-lower run, and LW has produced some of the worst day-of-print stock performances in the group&rsquo;s history).&rdquo;
+(JP Morgan, 1/7/25).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Our discussions with investors and other stakeholders
+have revealed a staggering level of frustration and loss of confidence in Lamb Weston&rsquo;s Board and leadership. We summarize below
+the feedback from roughly 70% of the top 70 Lamb Weston shareholders who participated in an independent shareholder perception study.
+These views &ndash; both quantitative and qualitative &ndash; loudly echo what investors have told us directly. <B>While the ratings
+for nearly all key areas including leadership, operational execution and capital allocation were extremely weak, product quality stood
+out in sharp contrast and was nearly a 10 &ndash; highlighting how severely the Company has squandered its leading market position and
+reputation.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><U>Excerpt of Quantitative Feedback from Perception Study</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><IMG SRC="tm254714d1_ex99-6img002.jpg" ALT=""></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The extensive qualitative feedback provided by Lamb Weston shareholders
+participating in the study paints a similar picture:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">&ldquo;It's among the worst managed
+                                            companies in 2024&hellip; They've not been proactive, and so maybe it is time to go for the
+                                            management team and start fresh and try to right the ship.&rdquo;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">&ldquo;So, yeah, there's not much
+                                            for me to say on the board other than I think we need a whole new board to really drive value
+                                            creation.&rdquo;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">&ldquo;They've gone nowhere fast
+                                            and oftentimes a wholesale change at the top can be the difference maker.&rdquo;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><SUP>2</SUP> TD Cowen, 12/20/24.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> <SUP>3</SUP> Barclays, 12/20/24.</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">&ldquo;The board seems to be non-existent&hellip;
+                                            Many of the investors see the C-suite as the biggest hindrance as well as the board. If they're
+                                            gone, they will have a chance to regroup and then go towards improving their lot and then
+                                            moving forward. Because right now they seem to be completely floundering.&rdquo;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">&nbsp;</TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: Symbol">&middot;</FONT></TD><TD STYLE="text-align: justify">&ldquo;I think they are probably
+                                            on the medal platform for worst run company of 2024. That is not a distinction I think you
+                                            want, but it is one that they have earned, and by a wide margin from our perspective.&quot;</TD></TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Put simply, after more than $6bn <SUP>4</SUP>
+of value destruction, shareholders are done with &lsquo;business as usual&rsquo; and are clamoring for dramatic change at the Company.
+If the Board remains unwilling to adopt the necessary Board and leadership changes needed to remediate Lamb Weston&rsquo;s issues, JANA
+is committed to providing shareholders with an alternative to the status quo at the Company&rsquo;s 2025 Annual Meeting: highly qualified
+and engaged new directors who will oversee improved execution and capital allocation and ensure the right leadership team is in place
+and is held accountable to investors.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">JANA has a multi-decade reputation of working
+constructively with boards to drive change and improve performance, and our offer to work constructively with Lamb Weston continues to
+stand. We and our team of highly regarded industry executives remain prepared to immediately join the Board and help rehabilitate the
+Company and drive long-term value. If, however, the Board remains unwilling to adopt the significant changes needed to repair the Company,
+Lamb Weston should pursue a sale transaction.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Sincerely,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 50%">/s/ Scott Ostfeld</TD>
+    <TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif; width: 50%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Scott Ostfeld</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">Managing Partner &amp; Portfolio Manager</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  </TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><SUP>4</SUP> Based on the change in market cap from market close as
+of 12/29/23 to market close as of 1/24/25 per Bloomberg.</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>tm254714d1_ex99-6img001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 tm254714d1_ex99-6img001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0@)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !G ) # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+MV]RU\85:X*W+J/,(RPP#C@\?A6-\1/A3HNG>#+S4M&@N%N[/$QWSO(#&/O\
+M!/8<_P# :]1T'5[K5[626[T>\TR1&V^7=;<MQU&TG(JGXKU6[L;(VUKX>O-8
+M^U1.C) 5"*,8PY)XSGL#T-)3GS;C<8V//O@%KWVG1;_0I7R]I)Y\(/\ <?J!
+M]&&?^!5[%7S7X+\-^//!GB2'5H?#5U,@4QS0[U'F(>HSG@Y (]Q7T#H>J7&K
+MV+7%SI5WILBR%/)NMNX\ [A@GCG'X&G57O704WI9FG17,^/-:U;0/#,M]H]H
+M+FX4G<"I81H$8E\#T('YU@>%/BOHE_X0BO\ 7-4M+?4HE87%N/E9B"<;$ZMD
+M8/&>36:@VKHIR2=F>6M"UU^T/L09(UD/QZ*VX_R-?2]>/_##PC?WGBO4?'.L
+M6CVQN999+."48<>822Y'88.!ZY)],^P5=5W:78FFM&PHHHK(T"BBB@ HHHH
+M**** "BBB@ HHHH **** "J2:-I<5U]JCTVS2XSGS5@4/GZXS110!=HHHH *
+>*** "BBB@ HHHH **** "BBB@ HHHH **** /__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>tm254714d1_ex99-6img002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 tm254714d1_ex99-6img002.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0@)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" '1 K8# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M<'ZLHJ31]2U.75K0W&HF/4FO62YM6FE9BF3\OE;=JKC!#?K1:[_K^MPOI?\
+MK^K'IM,CFBF!,4B.%)4E6!P1VKSRROIT\6I ^I7%YY]U)&5AN722-<'B2%A@
+M*.S+CUS6?9O+IFCZG!;W5Y%(NK;;W$KEX;8M_K!Z$]V')I+7^O-?YC>CM_77
+M_(]6HKR^^U*[BTK6?[+U.[DTV.XMEM;KSF9MQ(WJKGDC\Q72Z"9K3QCJ^F_:
+M[F>V2&&51<2F0JQSG!/3/I0OZ^ZX/3^OD=71110 4444 %%%% !1110 4444
+M %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110
+M4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+M110 4444 %%%% !114%Y>6VGV<UY>3)!;PJ7DD<X"@=S0!/161X9\0VWBG1$
+MU:S1UMI9)%CW\$A7*YQVSC.*UZ   #H,4  =!BBB@ (!ZBBBB@ HZT44 %%%
+M% $<\,=S;R02KNCD4HZYZ@C!K*L_#-C9W%I,'N9C9J5MEFE++$",<#Z<<YK9
+MHH ,#TZ4444 %&.<]Z** "BBB@ P,YQS1110 48&<XY]:** # SG'-%%%
+M ,#@4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%
+M% !1110 45@>)O%MAX3?3FU+*6UY.8#,.D1QD$^W'/I6ZCK(BNC!D8 JRG((
+M]10%QU%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+M110 4444 %%%% !1110 4444 %%%% !1110 4444 07EY;:?9S7EY,D%O"I>
+M21S@*!W-?/WC3QK<^-;T11AX-#A?,,!X,Y'21QZ>BU/\2/%&I:[XCN-&NH9;
+M*PL)/EM'X:<]I&QP5_N@<5RBUYF-Q;I_NX;]7_D?9\/Y)&NEBZ^L>B[VZO\
+MR^_2R?=^!_B78^%O"MOI%UI&I330R2L7A5-I#.S#&6!Z&NC_ .%V:3_T M9_
+M[XC_ /BZ\PTJSCU#5;6SEG\A)Y5C,NW=MR<9QD?SKMO^%87$4223ZDL8$D@G
+M_<Y\J-=^'^]R&V>W6IAC:]1<T8*WJ7BLAR_#SY:M:2;UV7^7]:=S9_X77I7_
+M $ =9_[XC_\ BZ7_ (75I?\ T =9_P"^(_\ XNL*_P#AU)9:1]I&HHURB([P
+ME,##8X!!))&?3GM6M8?#VVL-6TZ2>Y^V0-.89H9(MF3L9@1R3CCH<&ME7Q#E
+M9P2^9PSRW+(QYE6D]^BZ?+[B?_A=6E_] '6?^^(__BZ/^%TZ9_T -9_[XC_^
+M+KB_$VAIH-\EN9]\\@,CQ"/"Q GY0&S\W'M^=8HKDEF52+LX+\3OI<-X6K!5
+M(5)6?DCT_P#X73IG_0 UK_OW'_\ %T?\+HTS_H :U_W[C_\ BZ\R%.'2I_M2
+M?\J_$I\,4/\ GY+\#TO_ (7/IO\ T+^M?]^X_P#XNE_X7/IO_0OZU_W[C_\
+MBZ\V%.%+^U)_RK\2'PU1_P"?DOP/1_\ A<VG?]"_K7_?N/\ ^+H_X7-IW_0O
+M:W_W[C_^+KSJG4?VK/\ E7XF;X<HK_EX_P #T3_A<NG_ /0O:W_W[C_^+H_X
+M7+I__0O:W_W[C_\ BZ\]IPI?VK/^5?B0^'Z*^V_P/0/^%R:?_P!"[K?_ '[C
+M_P#BZ7_A<=A_T+NM_P#?N/\ ^+K@*44?VK/^5?B9O(:2^V_P.^_X7'8?]"[K
+M?_?N/_XNC_A<=A_T+NM_]^X__BZX.E%+^UI_RK\3-Y)27VW^!W?_  N*Q_Z%
+MS6_^_<?_ ,72_P#"XK'_ *%S7/\ OW'_ /%UPM.H_M:?\J_$S>3TU]M_@=Q_
+MPN&Q_P"A<US_ +]Q_P#Q='_"X;+_ *%S7/\ OW'_ /%UQ%+1_:T_Y5^)D\I@
+MOM/\#MO^%PV7_0N:Y_W[C_\ BZ/^%P67_0MZY_W[C_\ BZXJEH_M:?\ *OQ,
+MWED%]I_@=K_PN"R_Z%O7/^_<?_Q='_"X++_H6]<_[]Q__%UQ=**/[6G_ "K\
+M3)Y?%?:?X'9_\+@LO^A;US_OU'_\71_PN"S_ .A;US_OU'_\77&4HI_VK/\
+ME7XF;P45]I_@=E_PN"S_ .A;US_OU'_\71_PN"S_ .A;US_OU'_\77&T4?VK
+M/^5?B9/"I=?R.R_X6_9_]"WKG_?J/_XNC_A;]G_T+>N?]^H__BZXZBC^U9_R
+MK\3)T+=3L?\ A;]G_P!"WKG_ 'ZC_P#BZ/\ A;]G_P!"WKG_ 'ZC_P#BZXZB
+MG_:L_P"5?B9NG;J=C_PN"S_Z%O7/^_4?_P 71_PN"S_Z%O7/^_4?_P 77&T4
+M?VI/^5?B9M-=3LO^%P6?_0MZY_WZC_\ BZ/^%P67_0MZY_WZC_\ BZXVDI_V
+MI/\ E7XF;;.S_P"%P67_ $+>N?\ ?J/_ .+I/^%P67_0MZY_WZC_ /BZXVDH
+M_M2?\J_$AU)([/\ X7!9?]"WKG_?J/\ ^+H_X7#9?]"WKG_?J/\ ^+KC#24_
+M[3G_ "K\3-UI':?\+ALO^A;US_OU'_\ %T?\+ALO^A<US_OU'_\ %UQ=6]*L
+M4U+4H;1[A+=9#CS'Z#BJAF-2<E%15WZDO$3.I_X7#8_]"YKG_?J/_P"+H_X7
+M#8_]"YKG_?J/_P"+J+_A%+&T?4([R[F_=6OG(WDD;><9ZX;'L>]5?^$3A$T,
+M1U/YC;?:I?W!_=QXSGKR<\8KH>)KK["^_P!?\F4ZE7L7_P#A<5C_ -"YKG_?
+MJ/\ ^+H_X7%8_P#0N:Y_WZC_ /BZSQX3A:1I/[2Q9_9?M2S>022N<$%<\&K$
+M/@E)+MT^W.\'[HHT4&YB'Z%AGY0,=::Q&(;MR+[R?:UNB.;\;>+H/&HTJTBT
+M74((X+DR2FZC7:5*%<<,?6I_!OC*;P7<1Z5JLKR^'Y6VP7#'+63'^%O5/?M5
+M6_BA@OYX;=F:*.0JK,020#C/%5)(TFB:.1 Z,,,K#((KD683YU)K3L<SQ$XU
+M+L^@$=9$5T8,C %64Y!'J*=7CGPR\0ZAI_B'_A$U66_TWRS+&X.6L1_=8G^
+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
+M!]J7U3!]OQ8U3S"6T7]R/,_[*\4_]"GJ'_?<?_Q5']E>*?\ H4]0_P"^X_\
+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
+M* "BBB@ HJEJ&L:9I*JVHZC:6:M]TW,ZQ@_]]$50_P"$T\*_]#-HW_@?%_\
+M%4[,5T;E%8?_  FGA7_H9M&_\#XO_BJ/^$T\*_\ 0S:-_P"!\7_Q5%F%T;E%
+M4['5M-U2(RZ?J%I=QCJUO,L@'X@FK6]?[P_.D,=13=Z_WA^=&]?[P_.@!U%-
+MWK_>'YT;U_O#\Z '44W>O]X?G1O7^\/SH =13=Z_WA^=&]?[P_.@!U%-WK_>
+M'YT;U_O#\Z '44W>O]X?G1O7^\/SH =13=Z_WA^=&]?[P_.@!U%-WK_>'YT;
+MU_O#\Z '44W>O]X?G1O7^\/SH =13=Z_WA^=,DD'R;6'+@<&@"6BBB@ HHHH
+M **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@
+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
+M_'_OBEI#]^/_ 'Q0!>HHHH **** "BBB@ HHHH **** "BBB@ HHHH ****
+M"BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH *
+M*** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HH
+MHH KW6GV5[M^UVEO<;?N^;&'Q],BJW]@:-_T";#_ ,!D_P *T:YBZ^(O@^SN
+M7MY_$%D)8SM8*Q;!],@$4]1-I;FE_P (WHO_ $"[+_P'3_"C_A&]%_Z!=E_X
+M#I_A6/\ \+/\%#_F8;7\F_PI/^%H>"O^AAM?R;_"BS"Z.BMM*LK(,+6VB@#=
+M1%&JY_(5/Y"^IKEO^%H>"O\ H8;7\F_PK<TK7])URU-SI=_!=P@[6:)L[3Z$
+M=C[&BS"Z+OD+ZFCR%]33O.3^]^E'G)_>_2D,;Y"^IH\A?4T[SD_O?I1YR?WO
+MTH ;Y"^IH\A?4T[SD_O?I1YR?WOTH ;Y"^IH\A?4T[SD_O?I1YR?WOTH ;Y"
+M^IH\A?4T[SD_O?I1YR?WOTH ;Y"^IH\A?4T[SD_O?I1YR?WOTH ;Y"^IH\A?
+M4T[SD_O?I1YR?WOTH ;Y"^IH\A?4T[SD_O?I1YR?WOTH ;Y"^IH\A?4T[SD_
+MO?I1YR?WOTH ;Y"^IIDD*J8R"?OBI?.3^]^E1RR(QC /\8H GHHHH **** "
+MBBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **
+M** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HK,
+MUF_GLX[6&U$?VF[G$$;2 E4)!)8@8S@*>,BL^V\0"W>^CO+^SO?LVT?Z*-LF
+M\MMV%-QYW8 .>_;% '1T5CP>(K>2[6TGM[BUN"Q5DFV_(0NX9*L1RN2,9Z'I
+M54^,].#19CG".J.[ML'EA_NY!;)SP?E!P#S0!T5%81\40D_N]/OI-URUK'M5
+M/WDB[LXRW3Y#R<=1[X)?%-O'I\-X+.Z=9"X9/D4Q[#A@Q9@N<]@23VS1YA8W
+M:*PF\56GF#9:W<D ,.^X55V()0-A.6S_ !#H#BIAX@@-Q(OV6Z^RQN\;780&
+M(,@.X<'<,8(R1C(QF@#7HK(TCQ%::Q,\,,<D<@C$JARAW(3@'Y6./H<'VK7H
+M **** "BBB@#C_BE?W&G_#O5)+9S'+((X-XZA7=5;'X$UX1%#'!&L<:A5 P
+M*]N^+_\ R3>__P"NUO\ ^C4KQ2O-S!NT5ZGW7"$(MUIVU]U?F%%='!I^DS>"
+M;Z^B2X;4+>2)7>0@(NXGA0#SP.IJMX5M=,OM>MK75%N'CFD6-$A( 9B0/F.<
+M@?3FO/5)N2CW_4^P^MQY*D[/W+WTUT5]->QBUT?PUE>T^(<$<+%([NUE690>
+M'VX*DCU'K[FL7484M]3NX8QB..9T49S@!B!6O\/O^2D:;_U[S_\ H(K?!-^U
+M7S_(\?B-1GELIV_E:^;7^9[O1117MGY:%%%% !1110 4444 %%%% !1110 4
+M444 %%%% !1110 4A^_'_OBEI#]^/_?% %ZBBB@ HHHH **** "BBB@ HHHH
+M **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@
+MHHHH **** "BBB@ HHHH **** "BBB@ HHHH **** *FHZ?%J5NL4CR1LCB2
+M.6,X:-QT8=OSXJA_PCD,L5Q]LO+FZN)@@^T/L5D"-N7:%4*,-STY[YK:HH P
+MI_"]M=V=Q#=75S+-<2+))<Y57^48 &T  8R.G<U+<>'H);PW$5Q/;APBR1Q;
+M0'"?=Y()7CC@CBMBB@#+CT.VB^SXDE/D74EVN2.6?=D'CI\Y_2JLOA2V=8PE
+MU<1E/.!(",2)7WL/F4XYZ$<XK>HH"YBQ^&;2.SDMA+.4D\C))&?W6W;V[[1F
+MGCP_")Y#]KNOLDCO(UH& C+.#NS@;B#DG!.,FM>BAZ@M#,TO1ETQR1=W$X""
+M-%DV@(H_W0,GW.36G110 4444 %%%% '#?%__DF]_P#]=K?_ -&I7BE?0/CO
+M0I_$G@S4=,M2!=2*KP[C@%T8,!^.W'XU\ZW5W_9LOD:G!<65P.&BGA92".O;
+MFN#&TYS4>57W/LN%\9A\/[6-::C>UKNVUS8M]4EM]'O--6-#%=/&[,<Y&S.,
+M?G4JZT8]9L]2@LK:![4QD11*0CE>YYZGO7-_VWIW_/Q_XXW^%']MZ=_S\?\
+MCC?X5P*E733Y7IY=CZQXW+6VW5AK>_O+JK/KV-6YG:ZNYKAP TKLY Z DYK;
+M^'W_ "4C3?\ KWG_ /017'_VWIW_ #\?^.-_A7H/PPT34+OQ0NN26LUO86L#
+MQQR3(4,SO@?*#V SSZUOA*-2-5.46EJ>/GV88.I@)4J52+;M9)I[/R\D>S44
+M45ZY^<A1110 4444 %%%% !1110 4444 %%%% !1110 4444 %(?OQ_[XI:0
+M_?C_ -\4 7J*** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **
+M** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHH
+MH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BFNZ
+M11M)(RHB@LS,<  =237!W'QA\)PSO'%)>W2H2OFV]JS(2.N"<9^M XQ<G:*N
+M=XR*^-PSBD\E/[OZUY__ ,+F\,?\\-5_\ S_ (T?\+F\,?\ /OJW_@&?\:5U
+MW-/8U?Y7]S_R/0/)3^[^M'DI_=_6O/\ _A<WAC_GWU;_ , S_C72>'O&>B^*
+M(9'TNY9WB($L+H4DCSTRI_GTIDRA./Q)KU37YI&YY*?W?UH\E/[OZTWSU]#1
+MYZ^AH('>2G]W]:/)3^[^M-\]?0T>>OH: '>2G]W]:/)3^[^M-\]?0T>>OH:
+M'>2G]W]:/)3^[^M-\]?0T>>OH: '>2G]W]:/)3^[^M-\]?0T>>OH: '>2G]W
+M]:/)3^[^M-\]?0T>>OH: '>2G]W]:/)3^[^M-\]?0T>>OH: '>2G]W]:/)3^
+M[^M-\]?0T>>OH: '>2G]W]:/)3^[^M-\]?0T>>OH: '>2G]W]:CEC13&0/XQ
+M3O/7T-,DF5C& #]\4 6**** "BBB@ HHHH **** "BBB@ HHHH **** "BBB
+M@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHKBM>U'58
+M=;U);.>_"VMM%+&D"1M&"=V3(&&XCC^'G@T =K17/GQ*^]IH[6.33XIHX);@
+M2X;<^W!5-O*_.O<'KQ3%\4M_:K6K6L?E$RK&Z3;F)C!)W +M&<'HQ([@4/0%
+MJ='17,#Q%J-S:1^1IL2SRVANR#=?<C(^7!V<L3GC@<=:+W5+Q?"6FR02RO?W
+M20D+$H\R7Y0S[<@@':&.2,4/0%J=/17.V.L-=>$[F>.\$UY;6[>;*J_=DV;@
+M.@!(R,\=>PZ5CC7M;;2]/B8-'<1R6[75SL^66-V4+M[98,<^FT^HIVUL'2YW
+M5%<XOBEO[5:U:UC\HF58W2;<Q,8).X!=HS@]&)'<"DM_$\[6[S7.GQP@V0O(
+M0+D'<IP,,2H"G)'K2#R.DHKE1XP81,LEK;1W"SB'=)<LD'*%P2[(". 1]WDT
+MQ?&%P(X<Z=YDGD)/,J;\JKDX5 %.X@#N5!_D =;17.S^([Q+J1(=,CDA2[%F
+M':YVL7*@@XV\#G!YS[&H)/%TR!(5T]3>AI1+'YK%%\M@#M94).<C&0/?% '4
+MT5S<_BB=#))%IN;>&&&:8RS;'59,\!=I^88Z$BK6DZI?W0U1KNVA5+6=XX_*
+MD+%@HS@@J/;GWZ<<CT#<VJ*YK3#J%SI^GZO)K!#7.R22WD5!#M?'R+QNR,X!
+MSR:8WBNX$$3C3HPUQ-)' &G8@B,D,S;4)'08 !Z]J'IHP.HHKDM0\37T^D7D
+MFGV)BD@LO/F::38\)(;&U2IW$;2><<8HGUC4!?1Q6A,DG]H+"8Y9 J,#;[\9
+M"Y49Y[GC\*=@.MHKC=1\27+VVZ(26UPL<ZR*KJR*\<B*>JY/4X/'7IZ6KO6]
+M1AU1K>SACF!U!;=A/-M !A#X7"<#KUST]^$!U%%8^GZ[]ON8+86VR8K*;A=^
+M?)*-MQTYR>G3@9K8H **** "BBB@#BOBS<2P?#;5/*<H93%$Q'7:TBAA^()'
+MXUX>JA%"J % P .U>V?%_P#Y)O?_ /7:W_\ 1J5XI7F9AM'YGW?""5JSZ^[^
+MH45T]M%IL_@/498[ )>6\L(:Y=]S-N9N@Q\HP*J^$182>([2"_LOM:S2I&BL
+M^U5)8#)&/FX[5P*DW-1OO;\3Z[ZTN2I/E?N7TTULK]^QA5T7PZ=HOB/9B,E1
+M-:S))C^(  @'\:R-3C2+5KR.-0J).ZJHZ !CQ6K\/O\ DI&F_P#7O/\ ^@BM
+ML$_WR^?Y'D\1-3RR4O\ "_Q7^9[O1117N'Y8%%%% !1110 4444 %%%% !11
+M10 4444 %%%% !1110 4A^_'_OBEI#]^/_?% %ZBBB@ HHHH **** "BBB@
+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
+M0!0?1-+DCAC?3K5D@XB4Q+A/IQ4G]E:?]L:[^Q6_VEP0TOEC<<C!Y^G%6Z*
+M*XL;0*%%M#M$7D@;!_J_[OT]J8^E:?)<Q7#V5NTT0 CD,8W*!TP?:K=% $"V
+M5JGE[;:(>66*80?*6^]CTSDYIJ:=8QV)LDLX%M#D& 1C8<G)^7I5FB@"K!IM
+MC;)$D%I!&L+%XPD8&UB""1[D$\^]17NB:7J,PFO=.M;F4+M#RQ*Q ],D5?HH
+M III6GQW3W26-NL[C#2",;B#UR:CCT/28HI(H]-M$CE79(HA4!AZ'CD5H44
+M41HNEBT:U&G6HMW8.T8B7:6'0XQUX'-316-I %$-M#&%C\H!$ PG]WZ>U6**
+M *5OH^FV@Q;V%M$ X?Y(@/F'0_ADT7&E6=Q;RQ>1&AD60;T0!E+CYB/<]ZNT
+M4/4%H4M.TFQTJ'R[.VBA) #LB!2^!U..M3_9+;]_^XB_?_Z[Y!^\XQ\WKQQ4
+MU%#U!:&>-"TD6OV;^S;3R-^_R_)7;NZ9QCKCBIX].LH5"Q6D"*$:,!8P %8Y
+M(^A/.*LT4 11VL$3J\<,:,J",%5 (0=%^GM4M%% !1110 4444 %>:_&O_D6
+MM%_[#4'_ *!)7I5<]XU\+IXM\.OI_FB&X219[:8C(CE7H2/3!(/L:"H2Y9*7
+M9I_<T_T/$ZE^TS?9UM_-?R5?>$SP&QC./7BKDO@SQW!(8QX<AN=O_+6&_B56
+M^@8@_G4)\+^.0<'PI_Y48/\ &O(^J5ELOQ1^@_VY@'O/_P E?^1/'XAUB%I&
+MCU.Z4R-N<B4_,< 9/X ?E5&>>6YG>:>1I)7.6=CDDU-_PC'CC_H5/_*C!_C2
+MCPOXX+ 'PJ%R>IU&' _6AX6N]U^*_P R8YQEL7>,K/\ PO\ R-#X<?\ )3KC
+M_L#-_P"CDKV6N'\!>#;O0)KO5-6DB.HW2+$(X3E88P<[<]R3R?I7<5ZE.+C!
+M1?1'Q&-JQK8FI5ALVVOP_P @HHHJSE"BBB@ HHHH **** "BBB@ HHHH ***
+M* "BBB@ I#]^/_?%+2'[\?\ OB@"]1110 4444 %%%% !1110 4444 %%%%
+M!1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %
+M%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 44
+M44 %%%% !1110 4444 %%<?XV\=Q^$VMK.WLS?:G<J7CAW[%1 <%W;L/3UQ7
+M%_\ "U?%7_0(TC_O])_A42G"/Q.QTT<)B*ZYJ4&UY(]DHKQO_A:GBO\ Z!.C
+M_P#?V2C_ (6IXK_Z!.C_ /?V2I]M3_F1M_9F,_Y]2^[_ ()[)17CB?%GQ+$P
+M>?0].FB'WD@G=7(]LC%>DZ#XBMO$6BVVJ67^HG7.UAAD(."IYZ@@BKC*,M8N
+MYSUL/6H-*K%QOW-JBJ_GMZ"CSV]!5&!8HJOY[>@H\]O04 6**K^>WH*//;T%
+M %BBJ_GMZ"CSV]!0!8HJOY[>@H\]O04 6**K^>WH*//;T% %BBJ_GMZ"CSV]
+M!0!8HJOY[>@H\]O04 6*CF_Y9_[XJ/SV]!3'F9FC! ^^* +=%%% !1110 44
+M44 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !111
+M0 4444 %%%% !117&'69?^$N^U[KK[")_L&-C>3C^_NQC=YGR_2A;V#I<[.B
+MN&@U?4;325,TL,\%RUW&B@.)4*>8P)?=R/EQP!CCFIH;^<&=MS'=>V2JK2/A
+M0T:9QALD9)X)P>^:%J#.SHKC;/Q#J6GV"7FK36\]JTUS$7CB*,KHS;1]X@@[
+M2!QG[HYK0OKK64FT!5GMX)+B0K=)Y192?+9B!\W3@_CCZ$ Z*BN<T_7+ZXNK
+M"286YM=0>5(XD0B2'8&.6;<0WW<'@8)%4)X(I;[Q'>3WUU;R6CKY,B73HL?[
+MI6^[G:>>Q!S1Y_U_6H[=#LJ*XZ#Q+J\DD9:TC5(OLZ7"N@!+2*I)W%QMQNX&
+MTYQBH;?5+ZWCC> >?,HOY,2.YR$G'RXW 9VY R../?+L):G;T5R<WB:]N7C_
+M +-CB>&YG:.WF\LR95$!8XWKG+9 Y'W2>:M:1K.HZGJ,<3I:PPI:I-,H!=BS
+M,ZX5@V ,J#W]/H@.BHKC)VDM]6EOY9YI[?[<L8N+>[8&$[@OE-"?E*YZD9/.
+M?>C3=9U"PM87N9K>2UE-V5+A@Z>6SL"S9.1QC 7CWHZ7#K8[.BN.7Q+JR174
+M4D=N;E/LQC9H&C7$LFP@KO)X['(^E6!KVJKJK0-#"T$%S':S'R]FYF"Y<,7^
+M7EN%P<^O-.P=+G4T5Q-EKFHZ98)-.8KFV?[8RIM;S 8V=AEB2"#C&,<<5+?Z
+MKJ*M!:7,T#L\EI<++:JT856F52C98Y^O&1GBDM0.QHKC[S5M0GGMKGS(4M$U
+M-H! BL)3LW Y;.#G&<8].:9%XIU;^S)KR6WMQOLC=097:%Y'RD;R7'S?> 7Z
+M<T+4'H=G16%K#W=GI]GJ4TRF2SF5[CR051HV^5N"3P <\_W:RDU:_$9N[65#
+M)J$LLT2R1M+M@C 5=JAE !X))(^]WH_K^OZZ!_7]?UU.RHKBH_$5WLN=415W
+M/96,@A8DHI=V#$#/H?T%6[_Q)?QZK<:?:PQ,XN4@CD\LO@&+S#E=RY/& ,BF
+MU;0#JJ*H:/>37^EQ7%Q&D<Q+*ZHP(RK%>Q..G3)QTJ_2 **** "BBB@ HHHH
+M \1^)'_)3#_V"XO_ $8]8%;_ ,2/^2F'_L%Q?^C'K$MYY+:XCGB($D;!E)4,
+M 1['@UY.+_BZ^1^@Y#?ZBK=Y?F)+#+ P66-XRRA@'4C(/0_2I!97;6INA:S&
+MW'641G8/QZ5T/B2WO-7U>S\I&GN'TZ*5\8!/RY)K3TJ._&DR?:C*\#Z:X@N4
+M;-O$FT_*RX WYR.23D]ZR]EK)=K_ (7_ ,CKGC7&E&>EWNK_ )?U\F<)7HGP
+MD_Y%"X'8:A< >WS5YW7HGPD_Y%&Y_P"PC<?S%=.!WE\CQN)OX=+U?Y([RBBB
+MO2/C HHHH **** "BBB@ HHHH **** "BBB@ HHHH *0_?C_ -\4M(?OQ_[X
+MH O4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M !1110 4444 %%%% !1110 4444 %0?8;3[+]F^S1>1G/E[!MSG.<?7GZU/1
+M0!1CT72X99)8].M4DE4J[+$H+ ]0>._>I#IMB91*;.#S % ?RQG"G*\^W;TJ
+MU10!EW6@V=TZX188S.MQ,D2*//=2"I<XSP0#5ZYM+:\14N8(ID5@ZB1 P##H
+M1GO4U% %6'3;&WNY+N&S@CN)/ORK& S>N344NB:5->_;9=-M)+K(/G/"I?(Z
+M'.*OT4 59=-L9[Q+N6S@DN8\;)6C!9<=,&ECT^RAN&N(K2!)G+%I%C 8EL9R
+M?? S]!5FB@"G)I.G2V26;V-NUJARL)C&U3[#M4T-I;6[;H+>*,A!'E$ ^49P
+MO'89/'O4U% %)M(TU[\7[6%LUX.DYB7?^>,U+]@L]BI]EAVKNVC8,#=G=^>3
+MGUS5BB@"C#HVEVR%8-/M8U8J2%B49VG*YX['D5(^FV,EZMZ]G UTOW9C&"X_
+M&K5% $"V5JGE[;:(>66*80?*6^]CZY.:@CT72XK>:WCTZU6&;_61B%=K_48Y
+MJ]10!2_LC3?MGVS[!;?:<@^;Y0W9'&<T1Z/ID0G$>GVJB?B7;$HW]^>.>:NT
+M4 ,EBCFB>*5%>-U*LC#((/4$56FTK3[F&&&>QMY(X.(D>,$(,8X':KE% %,Z
+M3IS(%:PMBHB\@ Q+Q'_<Z?=]J8NAZ2EJUJNFVBP,06C$*A21T.,=15^B@".&
+M"*VA2&")(HD&%1% "CV J2BB@ HHHH **** "BBB@#Q'XD?\E,/_ &"XO_1C
+MU@5ZQXZ\!'Q1-;:C87:6>JVR&)7D3<DL9.=CXYP#R".F3Q7#'X8^.@,_:?#I
+M^DD__P 17#B,-.I/FB?595G&'PN&5*K>Z;V5]_F8.]LYW'.,9SVI?,<1F/>V
+MPG)7/&?I6U_PK7QU_P ]_#__ 'W/_P#$T?\ "M?'7_/?P_\ ]]S_ /Q-<_U.
+MKY?>>I_K!@?[W_@/_!,.O1/A)_R*%Q_V$+C_ -"%<U'\,/&DS^7<7VBP1-PT
+MD E=U]P" #^=>G^'O#\'AO0[;2K02-'"#EWY9V)RS'W))KKPU"5*_-U/!SG,
+MJ.,4(TKZ7W5O(TJ*=L;^Z?RHV-_=/Y5UGSXVBG;&_NG\J-C?W3^5 #:*=L;^
+MZ?RHV-_=/Y4 -HIVQO[I_*C8W]T_E0 VBG;&_NG\J-C?W3^5 #:*=L;^Z?RH
+MV-_=/Y4 -HIVQO[I_*C8W]T_E0 VBG;&_NG\J-C?W3^5 #:0_?C_ -\4_8W]
+MT_E365@\>5/WQVH NT444 %%%% !1110 4444 %%%% !1110 4444 %%%% !
+M1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%
+M%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 444
+M4 %%%% !12.ZQHSN0%49)/85XO=?%/Q%JEW)/HZ65GINXB#SX3))(H/WFY &
+M?3^=3*<8*\G8WH8>KB)\E*-V>TT5X@?B!XS/_+_IP_[<C_\ %TG_  L#QI_T
+M$-._\ C_ /%UE]8I?S?F=W]C8[_GW^*_S/<**\/_ .%@>-/^@AIW_@$?_BZT
+MM ^)FMQZY:V6O"UFM+R58([BWB*-'(W"AER<@G SVJHUJ<G:+U,JV68NC!U*
+MD&DO3]&>O455\Y_[WZ4><_\ >_2M3SRU157SG_O?I1YS_P![]* +5%5?.?\
+MO?I1YS_WOTH M455\Y_[WZ4><_\ >_2@"U157SG_ +WZ4><_][]* +5%5?.?
+M^]^E'G/_ 'OTH M455\Y_P"]^E'G/_>_2@"U157SG_O?I1YS_P![]* +51S?
+M\L_]\5#YS_WOTIK2.SQ@G^,4 7**** "BBB@ HHHH **** "BBB@ HHHH **
+M** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH *C$\3/L65"W]T,
+M,U)7GGAU+-S<!;C18KTR76UD1/MJG<_.23V]NE*^X['H(=#C#KR<#GO3J\UT
+MZVNM/MK*]MKB2>:'13<PQ-#'@,V,XPN>^<YR<<DUIPZY?BSF!U6*2#SH%:]5
+MDD,"OG<2P0)V&,@XW<]JIJSM_78FYV]("" 0<@]Q7&?:Y)-7TN3_ (2"2:U/
+MGQ"39&B3,"N%/RX8GD97&<<8YIFFZKJ,=KI=BCJ'U""![=DA4+$ /WPP!CH
+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
+MBH-[?WC^=-9F+QY8_?'>@"[1110 4444 %%%% !1110 4444 %%%% !1110
+M4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+M110 51EUG3(;T64M_;)<D@>4T@#9/08]35ZN1MY$L=/O-)O-,N;N[FN)7V+
+MY2<,Y*MY@&T<$=3D8H6X=#KJ9--%;PO--(L<4:EG=C@*!U)-<:LVH_\ "3)(
+MHOT!NI8Y5?S601!&VGM&!D C&3SR>M4+*>_GT59K&;599GTJ5KEI3*09=H\L
+MINXW=?N=NM"U0[:GH:NKC*L"/8TQIXDGC@:11+("40GE@,9Q],C\ZXAK>:Q.
+MKJ$U023W<3LRO,5\HJF6R >X(.WY@,#@58T87HO],ENX[MHXY+J!'DCD)"L5
+M*9W98# /+?G3ZD]#K7NK>.YCMGF19Y06CC+?,P'7 ]LTU+ZUDD6-+B-G9V10
+M&Y++]X?4=ZY/4[?59]7N=:ALU9+&5%A#;A*R)GS-B[>=VYAUYP*:J7D-PCPV
+MUP)H[V[*DPM@&16,9Z8VG(R>@[XJ;Z7&=M17#QMJ8M9SIIU,M]B!N?M'F%A/
+MN7/E[_XMN_A>/NU)<O\ Z&(K+^VS9O<J&>8S\#82<8'G%<X[@9[XXIL#LGD2
+M,$NZJ "QR>@'4TD4L<\22Q.KQNH964Y!!Z$5PUG;7C3Z7>WBZEYXM+F$,#+P
+MX<; P'3*@\MUP,Y.*6,ZIY,9F.I_VD$MOL8'F>61M7?YF/ESG?NW\],=J=A'
+M=U3N=6TZSN4MKF^MX9WQMC>0 G)P./<US\5O?KJ<5V9+\L=4DB96D<QB#:V/
+MD^[C(&#C\:BU\/#J%\UO#=BXGC51";0W%O>X' ;"_)CD<L/6DNA1V (.<$''
+M!]J6N&73[B/5+N%?[3A>XU*-Y#'++M\DQC.&!Q]X$<'( ';%22F_;Q*@C_M%
+M5^UB)P6F*^3LQG(Q&!GG/+9[T".T!##(((]12UYS%:WEI8VULKZG#!&9Q-Q<
+ML1-N&S&T@D;>1CY2<YYJ6[N+J?48H-0DNQ#&MMY\Y,BQQG +JZ)E,MD<L?ES
+M[#(M0>AZ#17->'WOYM1G@NI9FCTQ3:[F<GSV)R&/J0FSKW8UTM !1110 444
+M4 %%%% !1110!\R^%?\ D6[3_@?_ *&U=#9V%UJ$WE6D#S/C)"CH/?TKGO"O
+M_(MVG_ __0VKM?"EXUKKL"M<&&W<GS 7VJV%;&>W>O(J).M)/NS]#PTY0R^$
+MH;J*_(Q41Y9%C12SL<*H&23Z5:OM)OM-"&[MVB#Y"G((R.HR._M5[P_Y5EJ-
+MCJ=Q-"(%N=C+O^=>/O;?3WJUKXA32XE=;6*Z-PQ6.TF+HT>.';YCR3WZFHY%
+MR<W4VGB)*O&FEH_^#^77U."\5?\ (MW?_ /_ $-:^C:^<O%7_(MW?_ /_0UK
+MZ-KT,)_"^?\ D?*9_P#[VO\ "OS84445U'@A1110 4444 %%%% !1110 444
+M4 %%%% !2'[\?^^*6D/WX_\ ?% %ZBBB@ HHHH **** "BBB@ HHHH ****
+M"BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH *
+M*** "BBB@ HHHH " 1@]*CAABMH$AAC6.*-0J(HP% ["I** "BBB@ HHHH *
+M*** "BBB@ HHHH **** "J<VDZ?<70NIK.&2<8.]D!/'3ZXJY10!#;6EO9Q&
+M*VACA0L6*HN 2>I^M3444 %%%% !1110 4444 %%%% 'S1X;C>WT6.VE79/!
+M))%*AZHP<Y!K6KTS7OACHNMZG)J4=Q?:==S',S6<H593ZLI!&?<8K*;X.V?\
+M/B/6OQDC_P#B*X:F%<IN2>Y]3A<]IT:$*<H.\4EI;H<117;?\*=M?^ACUG_O
+MY'_\11_PIVU_Z&/6?^_D?_Q%1]2E_,OQ.C_6*C_(_P #S/Q+&T^ARV\8W33/
+M''&@ZLQ<8 KZ*KDM$^%VDZ1J4>H2W-WJ-S"<PM>2AEB/JJ@ 9]SFNR\AO45V
+M4:?LX<MSY[,<8L77]HE96M^?^9%14OD-ZBCR&]16IYY%14OD-ZBCR&]10!%1
+M4OD-ZBCR&]10!%14OD-ZBCR&]10!%14OD-ZBCR&]10!%14OD-ZBCR&]10!%1
+M4OD-ZBCR&]10!%2'[\?^^*F\AO44QX65HR2/OB@"W1110 4444 %%%% !111
+M0 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M!1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %
+M%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 44
+M44 %%%% !1110 4444 %%%% !1110 5'-_RS_P!\5)4%U_JU_P!\4 3T52HH
+M NT52HH NT52HH NT52HH NT52HH NT52HH NT52HH NT52HH NT52HH NT5
+M2HH NT52HH NT5YWX^\6W^B266E:.(EO[Q6D::5=P@C7 +;>Y).!VX-</_;?
+MB_OXKN,_]>L/_P 36-3$4Z3M-V9A4Q$*;LSWRBO _P"V_%__ $-=Q_X"P_\
+MQ-']M^+_ /H:[C_P%A_^)K+Z[0_F_!F?URF>^45X./$?C6-@Z>*I'93D++:1
+M%6]CA<XKU'P'XID\5^'C=7,*0WUM,UM=1IG:)%P<KGL00?QQSBMJ=:G5OR.]
+MC6G7A4=HG3T445J;!1110 4444 %%%% !1110 4444 %%%% !1110 4444 9
+MFH:]9:;=K:SK<O*8_-(AMWEVIG&3M!P*OPS17$$<\+J\4BAD93PP/(-86H:+
+M<W_B<7 N;JUM?L7E-);L@+G?G:<@G&/3'UJE+X:>)=6%E:JC&**&T;=@F-5
+M90>HSC&:%L!UN1C.1CUJ&VNX;P2F%BPBD:)LC&&7K7(/HL[,\D.C-%I9N(G?
+M2_W8\P*K!FVAMO4H<9YV4MCIE_IUQ:7D>DS"..XNO]%CDCW(DFW:>6VX&.QX
+MH [7('?K4<<\4S2K'(K-$VR0 _=; .#^!!_&N'LM"O;>UMTO]&:^D%JD< $R
+MK]FD#,6.[.5SE3N7)XQZ5MZ7HZV>IZW_ *"L/VN3>ER@7#*44%>#NR&#'D8Y
+MS0P+D7B/39ITC6279(_EI.8'$3MZ!R-I]!SSVK5KA[B2XM](TWPW>6;VS!X8
+MA>.R^2PC93E2#G<<# (')]JE@TW5([NRM_[/DV6NHW%P;@R($97$FW&&W?Q
+M'BF!UEW>065N9YWVQAE0D#/+$*/U(I!>P&41,Q1S(8E$BE=[ ;CMSUXSR/0U
+MPD&@:HJ2-'IC0DVZ&5!Y:^;*DJ/@$,2QP&PSG-:-SH,ES?I>7.E"Y1=3:8QM
+ML9O*:(+GDXX8 D9_A[T SLJ*Y7PO;N]]<,726TT[=9V<B-N#*3N//L-B_P#
+M3754@"BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ H
+MHHH **** "BBB@ HHHH *@NO]6O^^*GJ"Z_U:_[XH AHHHH **** "BBB@ H
+MHHH **** "BBB@ HHHH **** "BBB@ HHHH **** /)_B-_R/NF?]@Z3_P!&
+M"L>**2>5(HD+R.0JJHR2:V/B-_R/NF?]@Z3_ -&"J6CSM;:Q:3+)%&4D!W2Y
+MVCZX[5XN-2EB$GY'C8K^*QM]I=[INS[7 8P^=IW!@2.HR">?:H[6QN;Q9FMX
+M6D$*&20CHJCO72ZG%:OIL&EPK:VUQ-=F7!NQ*JC;C<7Z#/85/HUQI,&F2V:Z
+MB(F:VE^T Q??<C'#9Y '0#KDUS^PCS-7TM^-MOEU%[&/.E?0XNNW^#O_ ""]
+M?_["K_\ HM*X@XR<'(KM_@[_ ,@O7_\ L*O_ .BTKIRWXY>GZFF#_B,])HHH
+MKV3U@HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **
+M** "BBB@ HHHH 15"C"@ >@%+110 4444 %%%% !1110 4444 %%%% !1110
+M 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !4%U_JU_WQ4]0W"[E
+M0>KB@""BI_L_^U^E'V?_ &OTH @HJ?[/_M?I1]G_ -K]* (**G^S_P"U^E'V
+M?_:_2@""BI_L_P#M?I1]G_VOTH @HJ?[/_M?I1]G_P!K]* (**G^S_[7Z4?9
+M_P#:_2@""BI_L_\ M?I1]G_VOTH @HJ?[/\ [7Z4?9_]K]* (**G^S_[7Z4?
+M9_\ :_2@""BI_L_^U^E'V?\ VOTH @HJ?[/_ +7Z4?9_]K]* /(?B2"GCK27
+M;A9+"5$)_B8."1^58=>P^(_".F^*-/%IJ&\%&WQ31';)$WJI[?RKEQ\(;4#'
+M_"1ZQ^<7_P 17GXK!NM/FB['!7PTISYHG#45W/\ PJ&U_P"ACUC\XO\ XBC_
+M (5#:_\ 0QZQ^<7_ ,17+_9L_P"9?B8?4ZAPU=Q\'%)T;6Y0#Y<FJR;&[-A$
+M!Q^-./P?T]_EE\0:TR'[RB2-<CTR$S7<Z3I-CH>EP:;IUNL%K NU$7]23W)/
+M)-=F%PKH-MN]SIP^'E3ES2+M%%%=QVA1110 4444 %%%% !1110 4444 %%%
+M% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444
+M %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110
+M5'-_RS_WQ110!)1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+< !1110 4444 %%%% !1110 4444 %%%% '__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

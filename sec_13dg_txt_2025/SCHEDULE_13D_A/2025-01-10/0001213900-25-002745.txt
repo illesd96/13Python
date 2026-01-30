@@ -1,0 +1,320 @@
+<SEC-DOCUMENT>0001213900-25-002745.txt : 20250110
+<SEC-HEADER>0001213900-25-002745.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110172905
+ACCESSION NUMBER:		0001213900-25-002745
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+DATE AS OF CHANGE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EON Resources Inc.
+		CENTRAL INDEX KEY:			0001842556
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				854359124
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93564
+		FILM NUMBER:		25524050
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3730 KIRBY DRIVE, SUITE 1200
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77098
+		BUSINESS PHONE:		713.834.1145
+
+	MAIL ADDRESS:	
+		STREET 1:		3730 KIRBY DRIVE, SUITE 1200
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77098
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HNR Acquisition Corp.
+		DATE OF NAME CHANGE:	20210126
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pogo Royalty, LLC
+		CENTRAL INDEX KEY:			0002001635
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				933265543
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4809 COLE AVENUE
+		STREET 2:		STE 200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75205
+		BUSINESS PHONE:		214-801-9302
+
+	MAIL ADDRESS:	
+		STREET 1:		4809 COLE AVENUE
+		STREET 2:		STE 200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001213900-23-089918</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Pogo Royalty, LLC -->
+          <cik>0002001635</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>01/08/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001842556</issuerCIK>
+        <issuerCUSIP>40472A102</issuerCUSIP>
+        <issuerName>EON RESOURCES INC.</issuerName>
+        <address>
+          <com:street1>3730 Kirby Drive,</com:street1>
+          <com:street2>Suite 1200,</com:street2>
+          <com:city>Houston</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>77098</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Kirk Pogoloff</personName>
+          <personPhoneNum>2148716812</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Pogo Royalty, LLC</com:street1>
+            <com:street2>3879 Maple Avenue, Suite 400</com:street2>
+            <com:city>Dallas</com:city>
+            <com:stateOrCountry>TX</com:stateOrCountry>
+            <com:zipCode>75205</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Bryan Henderson</personName>
+          <personPhoneNum>2149536744</personPhoneNum>
+          <personAddress>
+            <com:street1>2001 Ross Avenue, Suite 900</com:street1>
+            <com:city>Dallas</com:city>
+            <com:stateOrCountry>TX</com:stateOrCountry>
+            <com:zipCode>75201</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Baker Botts L.L.P.</personName>
+          <personPhoneNum>2149536744</personPhoneNum>
+          <personAddress>
+            <com:street1>2001 Ross Avenue, Suite 900</com:street1>
+            <com:city>Dallas</com:city>
+            <com:stateOrCountry>TX</com:stateOrCountry>
+            <com:zipCode>75201</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002001635</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Pogo Royalty, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1571897.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1571897.00</sharedDispositivePower>
+        <aggregateAmountOwned>1571897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>16.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>For Box 8,10 &amp; 11
+Pogo Royalty, LLC, a Texas limited liability company ("Pogo Royalty"), directly holds (i) 500,000 shares of Class B common stock, $0.0001 par value per share ("Class B Common Stock"), of EON Resources Inc., a Delaware corporation (the "Issuer"), and an equivalent number of Class B common units (the "OpCo Class B Units") of HNRA Upstream, LLC, a Delaware limited liability company ("OpCo"), which together are exchangeable for shares of Class A common stock, $0.0001 par value per share ("Class A Common Stock") on a one-for-one basis, of the Issuer and (ii) 1,071,897 shares of Class A Common Stock of the Issuer (such shares of Class A Common Stock referenced in (i) and (ii) above, the "Reported Securities").
+
+For Box 13
+Calculated based on an assumed combined total of 9,704,972 shares of common stock outstanding. This assumed combined total outstanding of the Issuer (i) consists of 9,204,972 shares of Class A Common Stock outstanding as of November 7, 2024, as reported on the Issuer's Schedule 14A filed with the Securities and Exchange Commission (the "Commission") on November 13, 2024, and (ii) assumes that all 500,000 shares of Class B Common Stock directly held by Pogo Royalties (along with an equivalent number of OpCo Class B Units) were exchanged for newly-issued shares of Class A Common Stock on a one-for-one basis.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002001871</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CIC Pogo LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1571897.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1571897.00</sharedDispositivePower>
+        <aggregateAmountOwned>1571897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>16.2</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>For Box 8, 10 &amp; 11
+CIC Pogo LP, a Delaware limited partnership ("CIC Pogo"), is the controlling member of Pogo Royalty. Pogo Royalty directly holds the Reported Securities (see Footnote 1 on Page 2 above). Therefore, CIC Pogo LP may be deemed to beneficially own all or a portion of the Reported Securities that are directly held by Pogo Royalty. This statement shall not be deemed an admission that CIC Pogo is the beneficial owner of the Reported Securities for the purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or any other purpose.
+
+For Box 13
+Calculated based on an assumed combined total of 9,704,972 shares of common stock outstanding. This assumed combined total outstanding of the Issuer (i) consists of 9,204,972 shares of Class A Common Stock outstanding as of November 7, 2024, as reported on the Issuer's Schedule 14A filed with the Commission on November 13, 2024, and (ii) assumes that all 500,000 shares of Class B Common Stock directly held by Pogo Royalties (along with an equivalent number of OpCo Class B Units) were exchanged for newly-issued shares of Class A Common Stock on a one-for-one basis.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002001810</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CIC IV GP LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1571897.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1571897.00</sharedDispositivePower>
+        <aggregateAmountOwned>1571897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>16.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>For Box 8, 10 &amp; 11
+CIC IV GP LLC, a Delaware limited liability company ("CIC GP"), is the general partner of CIC Pogo, which is the controlling member of Pogo Royalty. Pogo Royalty directly holds the Reported Securities (see Footnote 1 on Page 2 above). Therefore, CIC GP may be deemed to beneficially own all or a portion of the Reported Securities that are directly held by Pogo Royalty. This statement shall not be deemed an admission that CIC GP is the beneficial owner of the Reported Securities for the purposes of Section 13(d) of the Exchange Act, or any other purpose.
+
+For Box 13
+Calculated based on an assumed combined total of 9,704,972 shares of common stock outstanding. This assumed combined total outstanding of the Issuer (i) consists of 9,204,972 shares of Class A Common Stock outstanding as of November 7, 2024, as reported on the Issuer's Schedule 14A filed with the Commission on November 13, 2024, and (ii) assumes that all 500,000 shares of Class B Common Stock directly held by Pogo Royalties (along with an equivalent number of OpCo Class B Units) were exchanged for newly-issued shares of Class A Common Stock on a one-for-one basis.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002001877</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CIC Partners Firm LP</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1571897.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1571897.00</sharedDispositivePower>
+        <aggregateAmountOwned>1571897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>16.2</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>For Box 8, 10 &amp; 11
+CIC Partners Firm LP, a Delaware limited partnership ("Firm LP"), is the sole member of CIC GP, which is the general partner of CIC Pogo, which is the controlling member of Pogo Royalty. Pogo Royalty directly holds the Reported Securities (see Footnote 1 on Page 2 above). Therefore, Firm LP may be deemed to beneficially own all or a portion of the Reported Securities that are directly held by Pogo Royalty. This statement shall not be deemed an admission that Firm LP is the beneficial owner of the Reported Securities for the purposes of Section 13(d) of the Exchange Act, or any other purpose.
+
+For Box 13
+Calculated based on an assumed combined total of 9,704,972 shares of common stock outstanding. This assumed combined total outstanding of the Issuer (i) consists of 9,204,972 shares of Class A Common Stock outstanding as of November 7, 2024, as reported on the Issuer's Schedule 14A filed with the Commission on November 13, 2024, and (ii) assumes that all 500,000 shares of Class B Common Stock directly held by Pogo Royalties (along with an equivalent number of OpCo Class B Units) were exchanged for newly-issued shares of Class A Common Stock on a one-for-one basis.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002001872</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CIC Partners Firm GP LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1571897.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1571897.00</sharedDispositivePower>
+        <aggregateAmountOwned>1571897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>16.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>For Box 8, 10 &amp; 11
+CIC Partners Firm GP LLC, a Delaware limited liability company ("CIC Firm GP"), is the general partner of Firm LP, which is the sole member of CIC GP, which is the general partner of CIC Pogo, which is the controlling member of Pogo Royalty. Pogo Royalty directly holds the Reported Securities (see Footnote 1 on Page 2 above). Therefore, CIC Firm GP may be deemed to beneficially own all or a portion of the Reported Securities that are directly held by Pogo Royalty. This statement shall not be deemed an admission that CIC Firm GP is the beneficial owner of the Reported Securities for the purposes of Section 13(d) of the Exchange Act, or any other purpose.
+
+For Box 13
+Calculated based on an assumed combined total of 9,704,972 shares of common stock outstanding. This assumed combined total outstanding of the Issuer (i) consists of 9,204,972 shares of Class A Common Stock outstanding as of November 7, 2024, as reported on the Issuer's Schedule 14A filed with the Commission on November 13, 2024, and (ii) assumes that all 500,000 shares of Class B Common Stock directly held by Pogo Royalties (along with an equivalent number of OpCo Class B Units) were exchanged for newly-issued shares of Class A Common Stock on a one-for-one basis.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>EON RESOURCES INC.</issuerName>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The information contained on the cover pages to this Schedule 13D is incorporated herein by reference. The information relating to the beneficial ownership of the shares of Class A Common Stock and Class B Common Stock (together, with the Class A Common Stock, the "Common Stock") as of January 8, 2025, by each of the Reporting Persons set forth in Rows 7 through 13 of the cover pages hereto is incorporated herein by reference. As of January 8, 2025, the Reporting Persons beneficially owned (i) 500,000 shares of Class B common stock, $0.0001 par value per share ("Class B Common Stock"), of the Issuer, and an equivalent number of Class B common units (the "OpCo Class B Units") of HNRA Upstream, LLC, a Delaware limited liability company ("OpCo"), which together are exchangeable for shares of Class A Common Stock on a one-for-one basis, of the Issuer and (ii) 1,071,897 shares of Class A Common Stock of the Issuer. Such number of shares represent 16.2% of the shares of Common Stock outstanding based on 9,704,972 shares of Common Stock outstanding as of November 7, 2024, which number the Company reported in its Schedule 14A, filed with the U.S. Securities and Exchange Commission on November 13, 2024.</percentageOfClassSecurities>
+        <transactionDesc>Except as set forth below, no Reporting Person or, to the best knowledge of the Reporting Persons, any other person identified below, has effected any transaction in the Common Stock in the 60 days preceding the date hereof.
+
+The below reflects transactions in Class A Common Stock effected by Pogo Royalty during the past 60 days. All transactions occurred in the open market pursuant to a Rule 10b5-1 Trading Plan adopted by Pogo Royalty on September 13, 2024:
+
+Date :  01/08/25
+Class A Common Stock Sold: 429,125
+Weighted Average Trading Price Per Share of Class A Common Stock (1): $1.5208
+
+(1) The price reported is a weighted average price. These shares were sold in multiple transactions ranging from $1.50 to $1.59, inclusive. The reporting persons undertake to provide to EON Resources Inc. (the "Issuer"), any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote 1 to this Schedule D.</transactionDesc>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Pogo Royalty, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Bayard Friedman</signature>
+          <title>Bayard Friedman Authorized Person</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CIC Pogo LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Bayard Friedman</signature>
+          <title>Bayard Friedman Authorized Person</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CIC IV GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Bayard Friedman</signature>
+          <title>Bayard Friedman Authorized Person</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CIC Partners Firm LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Bayard Friedman</signature>
+          <title>Bayard Friedman Authorized Person</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CIC Partners Firm GP LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Bayard Friedman</signature>
+          <title>Bayard Friedman Authorized Person</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0000950142-25-000118.txt : 20250114
+<SEC-HEADER>0000950142-25-000118.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114165659
+ACCESSION NUMBER:		0000950142-25-000118
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250114
+DATE AS OF CHANGE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Equinox Gold Corp.
+		CENTRAL INDEX KEY:			0001756607
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91223
+		FILM NUMBER:		25530015
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 WEST PENDER ST., SUITE 1501
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 1G8
+		BUSINESS PHONE:		604-558-0560
+
+	MAIL ADDRESS:	
+		STREET 1:		700 WEST PENDER ST., SUITE 1501
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 1G8
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beaty Ross J
+		CENTRAL INDEX KEY:			0001476537
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		1550- 625 HOWE STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 2T6
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000950142-20-000812</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Beaty Ross J -->
+          <cik>0001476537</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Shares, no par value</securitiesClassTitle>
+      <dateOfEvent>01/12/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001756607</issuerCIK>
+        <issuerCUSIP>29446Y502</issuerCUSIP>
+        <issuerName>Equinox Gold Corp.</issuerName>
+        <address>
+          <com:street1>700 West Pender St</com:street1>
+          <com:street2>Suite 1501</com:street2>
+          <com:city>Vancouver</com:city>
+          <com:stateOrCountry>A1</com:stateOrCountry>
+          <com:zipCode>V6C 1G8</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Ross Beaty</personName>
+          <personPhoneNum>604-806-3173</personPhoneNum>
+          <personAddress>
+            <com:street1>1130 - 400 Burrard Street</com:street1>
+            <com:city>Vancouver</com:city>
+            <com:stateOrCountry>A1</com:stateOrCountry>
+            <com:zipCode>V6C 3A6</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001476537</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BEATY, ROSS J.</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>Z4</citizenshipOrOrganization>
+        <soleVotingPower>26781487.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>26781487.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>26781487.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.9</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Represents 26,781,487 shares, comprised of (i) 23,988,890 Common Shares held by Ross Beaty, (ii) 80,846 Common Shares issuable on the conversion of restricted stock units ("RSUs") held by Ross Beaty and (iii) 2,711,751 Common Shares held by Kestrel Holdings Ltd. a limited company organized under the laws of the Province of British Columbia, wholly-owned and controlled by Ross Beaty. Ownership of 5.9% is based on 455,476,702 Common Shares outstanding, calculated as follows: (i) 455,395,856 Common Shares outstanding as of November 6, 2024 plus (ii) 80,846 Common Shares issuable on the conversion of RSUs held by Ross Beaty.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Kestrel Holdings Ltd.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>A1</citizenshipOrOrganization>
+        <soleVotingPower>2711751.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2711751.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>2711751.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Shares, no par value</securityTitle>
+        <issuerName>Equinox Gold Corp.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>700 West Pender St</com:street1>
+          <com:street2>Suite 1501</com:street2>
+          <com:city>Vancouver</com:city>
+          <com:stateOrCountry>A1</com:stateOrCountry>
+          <com:zipCode>V6C 1G8</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>5.9%, based on 455,476,702 Common Shares outstanding, calculated as follows: (i) 455,395,856 Common Shares outstanding as of November 6, 2024 plus (ii) 80,846 Common Shares issuable on the conversion of RSUs held by Ross Beaty.</percentageOfClassSecurities>
+        <numberOfShares>26,781,487 shares, comprised of (i) 23,988,890 Common Shares held by Ross Beaty, (ii) 80,846 Common Shares issuable on the conversion of restricted stock units ("RSUs") held by Ross Beaty and (iii) 2,711,751 Common Shares held by Kestrel Holdings Ltd. a limited company organized under the laws of the Province of British Columbia, wholly-owned and controlled by Ross Beaty.</numberOfShares>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>BEATY, ROSS J.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ross Beaty</signature>
+          <title>Ross Beaty</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Kestrel Holdings Ltd.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ross Beaty</signature>
+          <title>Ross Beaty, President</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

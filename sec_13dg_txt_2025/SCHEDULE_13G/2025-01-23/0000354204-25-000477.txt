@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0000354204-25-000477.txt : 20250123
+<SEC-HEADER>0000354204-25-000477.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123155549
+ACCESSION NUMBER:		0000354204-25-000477
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Heritage Insurance Holdings, Inc.
+		CENTRAL INDEX KEY:			0001598665
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				455338504
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88559
+		FILM NUMBER:		25549960
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1401 N WESTSHORE BLVD
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33607
+		BUSINESS PHONE:		7273627202
+
+	MAIL ADDRESS:	
+		STREET 1:		1401 N WESTSHORE BLVD
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33607
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Heritage Insurance Holdings, LLC
+		DATE OF NAME CHANGE:	20140130
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIMENSIONAL FUND ADVISORS LP
+		CENTRAL INDEX KEY:			0000354204
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				222370029
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6300 BEE CAVE ROAD
+		STREET 2:		BUILDING ONE
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+		BUSINESS PHONE:		(512) 306-7400
+
+	MAIL ADDRESS:	
+		STREET 1:		6300 BEE CAVE ROAD
+		STREET 2:		BUILDING ONE
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78746
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIMENSIONAL FUND ADVISORS INC
+		DATE OF NAME CHANGE:	19920929
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000354204</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001598665</issuerCik>
+        <issuerName>Heritage Insurance Holdings Inc</issuerName>
+        <issuerCusip>42727J102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2600 McCormick Drive</com:street1>
+          <com:street2>Suite 300</com:street2>
+          <com:city>Clearwater</com:city>
+          <com:stateOrCountry>X1</com:stateOrCountry>
+          <com:zipCode>33759</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Dimensional Fund Advisors LP</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1542143</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>1569667</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1569667.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.1</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Heritage Insurance Holdings Inc</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2600 McCormick Drive, Suite 300, Clearwater, FL 33759</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Dimensional Fund Advisors LP</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>6300 Bee Cave Road, Building One, Austin, TX  78746
+</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware Limited Partnership</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,569,667 ** see Note 1 **
+
+** Note 1 ** Dimensional Fund Advisors LP, an investment adviser registered under Section 203 of the Investment Advisors Act of 1940, furnishes investment advice to four investment companies registered under the Investment Company Act of 1940, and serves as investment manager or sub-adviser to certain other commingled funds, group trusts and separate accounts (such investment companies, trusts and accounts, collectively referred to as the "Funds"). In certain cases, subsidiaries of Dimensional Fund Advisors LP may act as an adviser or sub-adviser to certain Funds. In its role as investment advisor, sub-adviser and/or manager, Dimensional Fund Advisors LP or its subsidiaries (collectively, "Dimensional") may possess voting and/or investment power over the securities of the Issuer that are owned by the Funds, and may be deemed to be the beneficial owner of the shares of the Issuer held by the Funds. However, all securities reported in this schedule are owned by the Funds. Dimensional disclaims beneficial ownership of such securities. In addition, the filing of this Schedule 13G shall not be construed as an admission that the reporting person or any of its affiliates is the beneficial owner of any securities covered by this Schedule 13G for any other purposes than Section 13(d) of the Securities Exchange Act of 1934.</amountBeneficiallyOwned>
+        <classPercent>5.1</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,542,143** see Note 1 **</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1,569,667** see Note 1 **</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The Funds described in Note 1 above have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of the securities held in their respective accounts. To the knowledge of Dimensional, the interest of any one such Fund does not exceed 5% of the class of securities. Dimensional Fund Advisors LP disclaims beneficial ownership of all such securities.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Dimensional Fund Advisors LP</reportingPersonName>
+      <signatureDetails>
+        <signature>Selwyn Notelovitz</signature>
+        <title>Global Chief Compliance Officer</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

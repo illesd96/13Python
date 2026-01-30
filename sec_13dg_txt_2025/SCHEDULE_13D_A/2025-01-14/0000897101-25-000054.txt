@@ -1,0 +1,280 @@
+<SEC-DOCUMENT>0000897101-25-000054.txt : 20250114
+<SEC-HEADER>0000897101-25-000054.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114120719
+ACCESSION NUMBER:		0000897101-25-000054
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250114
+DATE AS OF CHANGE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DWS MUNICIPAL INCOME TRUST
+		CENTRAL INDEX KEY:			0000839533
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				363605060
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-46835
+		FILM NUMBER:		25528443
+
+	BUSINESS ADDRESS:	
+		STREET 1:		875 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022-6225
+		BUSINESS PHONE:		212-454-4500
+
+	MAIL ADDRESS:	
+		STREET 1:		875 THIRD AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022-6225
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DEUTSCHE MUNICIPAL INCOME TRUST
+		DATE OF NAME CHANGE:	20140811
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DWS MUNICIPAL INCOME TRUST
+		DATE OF NAME CHANGE:	20060206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCUDDER MUNICIPAL INCOME TRUST
+		DATE OF NAME CHANGE:	20010123
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SIT INVESTMENT ASSOCIATES INC
+		CENTRAL INDEX KEY:			0000769317
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				411404829
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3300 IDS CENTER
+		STREET 2:		80 SOUTH EIGHTH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+		BUSINESS PHONE:		6123323223
+
+	MAIL ADDRESS:	
+		STREET 1:		3300 IDS CENTER
+		STREET 2:		80 SOUTH EIGHTH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000769317-23-000076</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SIT INVESTMENT ASSOCIATES INC -->
+          <cik>0000769317</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>9</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/13/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000839533</issuerCIK>
+        <issuerCUSIP>233368109</issuerCUSIP>
+        <issuerName>DWS Municipal Income Trust</issuerName>
+        <address>
+          <com:street1>875 3rd Avenue</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022-6225</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Paul E. Rasmussen</personName>
+          <personPhoneNum>612-332-3223</personPhoneNum>
+          <personAddress>
+            <com:street1>80 South Eighth Street</com:street1>
+            <com:street2>Suite 3300</com:street2>
+            <com:city>Minneapolis</com:city>
+            <com:stateOrCountry>MN</com:stateOrCountry>
+            <com:zipCode>55402-4130</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000769317</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sit Investment Associates, Inc.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>MN</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9054231.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>9054231.00</sharedDispositivePower>
+        <aggregateAmountOwned>9054231.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>23.1</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001053046</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sit Fixed Income Advisors II, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>9054231.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>9054231.00</sharedDispositivePower>
+        <aggregateAmountOwned>9054231.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>23.1</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>DWS Municipal Income Trust</issuerName>
+        <commentText>This Amendment No. 9 ("Amendment") amends and supplements the statement on Schedule 13D filed on October 6, 2023, and amended by Amendment No. 1 filed on November 6, 2023, Amendment No. 2 filed on November 15, 2023, Amendment No. 3 filed on December 28, 2023, Amendment No. 4 filed on January 23, 2024, Amendment No. 5 filed on March 28, 2024, Amendment No. 6 filed on July 17, 2024, Amendment No. 7 filed on August 29, 2024, and Amendment No. 8 filed on December 18, 2024 (as amended, the "Original Schedule 13D" and, as amended by this Amendment, the "Schedule 13D"), relating to the shares of Common Stock ("Shares)" of DWS Municipal Income Trust (the "Issuer").  Capitalized terms used but not otherwise defined herein have the meanings set forth in the Original Schedule 13D.  Except as specifically provided herein, each Item of the Original Schedule 13D remains unchanged.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The aggregate percentage of Shares reported owned by Sit Entities herein is based upon 39,172,838 Shares outstanding as of May 31, 2024, which is the total number of Shares outstanding as reported in the Issuer's Report on Form N-CSRS filed with the Securities Exchange Commission.
+
+As of the date hereof, the Sit Entities may be deemed to be the beneficial owner of 9,054,231 Shares held in client accounts which represent 23.1% of the Issuer's outstanding Shares.</percentageOfClassSecurities>
+        <numberOfShares>Each of the Sit Entities may be deemed to have shared power to vote and dispose of such Shares.  However, none of SIA's or SFI's directors or executive officers own Shares directly.</numberOfShares>
+        <transactionDesc>Transactions in Shares by the Sit Entities in the last 60 days are set forth in Exhibit A.</transactionDesc>
+        <listOfShareholders>The clients of SIA and SFI have the right to participate in the receipt of dividends from, or proceeds from the sales of, the Shares held for their respective accounts.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Exhibit A:  Schedule of Transactions in Shares by Sit Entities in the last 60 days.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Sit Investment Associates, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roger J. Sit</signature>
+          <title>Roger J. Sit, Chairman &amp; CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Sit Fixed Income Advisors II, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roger J. Sit</signature>
+          <title>Roger J. Sit, Chairman &amp; CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>sit250011_exa.htm
+<DESCRIPTION>SCHEDULE OF TRANSACTIONS IN SHARES BY SIT ENTITIES IN THE LAST 60 DAYS.
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">EXHIBIT
+A</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Schedule
+of Transactions in Shares by Sit Entities in the last 60 days:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%; border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date
+    of Transaction</FONT></TD>
+    <TD STYLE="width: 25%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Transaction</FONT></TD>
+    <TD STYLE="width: 25%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Shares
+    of Common Stock</FONT></TD>
+    <TD STYLE="width: 25%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Price
+    Per Share</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">BUY</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">13,000
+    </FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">9.43
+    </FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">01/13/2025</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">BUY</FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">600
+    </FONT></TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">9.39
+    </FONT></TD></TR>
+</TABLE>
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Gray 3pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Times New Roman, Times, Serif">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

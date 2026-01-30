@@ -1,0 +1,263 @@
+<SEC-DOCUMENT>0001019056-25-000031.txt : 20250123
+<SEC-HEADER>0001019056-25-000031.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123180226
+ACCESSION NUMBER:		0001019056-25-000031
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			POWER SOLUTIONS INTERNATIONAL, INC.
+		CENTRAL INDEX KEY:			0001137091
+		STANDARD INDUSTRIAL CLASSIFICATION:	ENGINES & TURBINES [3510]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				330963637
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-84256
+		FILM NUMBER:		25551162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 MITTEL DRIVE
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+		BUSINESS PHONE:		630-350-9400
+
+	MAIL ADDRESS:	
+		STREET 1:		201 MITTEL DRIVE
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FORMAT INC
+		DATE OF NAME CHANGE:	20060901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FORMAT INC /FA/
+		DATE OF NAME CHANGE:	20010321
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GAGNON SECURITIES LLC
+		CENTRAL INDEX KEY:			0001125725
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				134087058
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1370 AVENUE OF THE AMERICAS
+		STREET 2:		26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-554-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		1370 AVENUE OF THE AMERICAS
+		STREET 2:		26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001019056-15-000775</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: GAGNON SECURITIES LLC -->
+          <cik>0001125725</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>11</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001137091</issuerCik>
+        <issuerName>Power Solutions International, Inc.</issuerName>
+        <issuerCusip>73933G202</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>201 Mittel Drive</com:street1>
+          <com:city>Wood Dale</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60191</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Neil Gagnon</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>163944.00</soleVotingPower>
+        <sharedVotingPower>1481636.00</sharedVotingPower>
+        <soleDispositivePower>163944.00</soleDispositivePower>
+        <sharedDispositivePower>1514905.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1678849.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.3</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Gagnon Securities LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>898225.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>923094.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>923094.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.0</classPercent>
+      <typeOfReportingPerson>BD</typeOfReportingPerson>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Gagnon Advisors, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>470165.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>470165.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>470165.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Power Solutions International, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>201 Mittel Drive, Wood Dale, IL 60191</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Neil Gagnon has sole voting and dispositive power over 163,944 shares of the Issuer's Common Stock, par value $0.001 per share (the "Common Stock"). In addition, Mr. Gagnon has shared voting power over 1,481,636 shares of Common Stock and shared dispositive power over 1,514,905 shares of Common Stock.
+
+Mr. Gagnon is the managing member and principal owner of Gagnon Securities LLC ("GS"), an investment adviser registered with the U.S. Securities and Exchange Commission ("SEC") under the Investment Advisers Act of 1940, as amended (the "Advisers Act"), and a registered broker-dealer, in its role as investment manager to several customer accounts, foundations, partnerships and trusts (collectively, the "Accounts") to which it furnishes investment advice. GS and Mr. Gagnon may be deemed to share voting power with respect to 898,225 shares of Common Stock held in the Accounts and dispositive power with respect to 923,094 shares of Common Stock held in the Accounts. GS and Mr. Gagnon expressly disclaim beneficial ownership of all securities held in the Accounts.
+
+Mr. Gagnon is also the Chief Executive Officer of Gagnon Advisors, LLC ("Gagnon Advisors"), an investment adviser registered with the SEC under the Advisers Act. Mr. Gagnon and Gagnon Advisors, in its role as investment manager to Gagnon Investment Associates, LLC ("GIA"), a private investment fund, may be deemed to share voting and dispositive power with respect to the 470,165 shares of Common Stock held by GIA. Gagnon Advisors and Mr. Gagnon expressly disclaim beneficial ownership of all securities held by GIA.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1370 Ave. of Americas, 26th Floor, New York, NY 10019</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Gagnon Securities LLC  Delaware limited liability company
+Gagnon Advisors, LLC   Delaware limited liability company
+Neil Gagnon                  USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Gagnon Securities LLC  923,094
+Gagnon Advisors, LLC   470,165
+Neil Gagnon               1,678,849</amountBeneficiallyOwned>
+        <classPercent>Gagnon Securities LLC 4.0%
+Gagnon Advisors, LLC  2.0%
+Neil Gagnon                 7.3%
+Calculation of percentage of beneficial ownership is based on 22,968,872 Common Stock outstanding as of October 31, 2024, based on the Issuer's Form 10-Q filed with the Securities and Exchange Commission on November 7, 2024.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Gagnon Securities LLC   0
+Gagnon Advisors, LLC    0
+Neil Gagnon        163,944</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Gagnon Securities LLC  898,225
+Gagnon Advisors, LLC   470,165
+Neil Gagnon               1,481,636</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Gagnon Securities LLC     0
+Gagnon Advisors, LLC      0
+Neil Gagnon           163,944</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Gagnon Securities LLC       923,094
+Gagnon Advisors, LLC        470,165
+Neil Gagnon                    1,514,905</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The Accounts described above in Item 2 have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, securities held in their respective accounts. To the knowledge of the Reporting Persons, the interest in any such account does not exceed 5% of the class of securities. Except to the extent described herein, the Reporting Persons disclaim beneficial ownership of all such securities.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Neil Gagnon</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Neil Gagnon</signature>
+        <title>Neil Gagnon</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Gagnon Securities LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Neil Gagnon</signature>
+        <title>Neil Gagnon/Managing Member</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Gagnon Advisors, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Neil Gagnon</signature>
+        <title>Neil Gagnon/Chief Executive Officer</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

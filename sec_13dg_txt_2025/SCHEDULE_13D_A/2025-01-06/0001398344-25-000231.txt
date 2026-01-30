@@ -1,0 +1,532 @@
+<SEC-DOCUMENT>0001398344-25-000231.txt : 20250106
+<SEC-HEADER>0001398344-25-000231.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106160502
+ACCESSION NUMBER:		0001398344-25-000231
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Intrepid Potash, Inc.
+		CENTRAL INDEX KEY:			0001421461
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINING, QUARRYING OF NONMETALLIC MINERALS (NO FUELS) [1400]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				261501877
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-83993
+		FILM NUMBER:		25511037
+
+	BUSINESS ADDRESS:	
+		STREET 1:		707 17TH STREET
+		STREET 2:		SUITE 4200
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		303-296-3006
+
+	MAIL ADDRESS:	
+		STREET 1:		707 17TH STREET
+		STREET 2:		SUITE 4200
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GATE CITY CAPITAL MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001705447
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				471729190
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8725 W HIGGINS ROAD, STE 530
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60631
+		BUSINESS PHONE:		312-825-1228
+
+	MAIL ADDRESS:	
+		STREET 1:		8725 W HIGGINS ROAD, STE 530
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60631
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001398344-24-023420</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: GATE CITY CAPITAL MANAGEMENT, LLC -->
+          <cik>0001705447</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/06/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001421461</issuerCIK>
+        <issuerCUSIP>46121Y201</issuerCUSIP>
+        <issuerName>Intrepid Potash Inc.</issuerName>
+        <address>
+          <com:street1>707 17TH STREET</com:street1>
+          <com:street2>SUITE 4200</com:street2>
+          <com:city>DENVER</com:city>
+          <com:stateOrCountry>CO</com:stateOrCountry>
+          <com:zipCode>80202</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Michael Melby</personName>
+          <personPhoneNum>(312) 825-1228</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Gate City Capital Management, LLC</com:street1>
+            <com:street2>8725 W. Higgins Road, Suite 530</com:street2>
+            <com:city>Chicago</com:city>
+            <com:stateOrCountry>IL</com:stateOrCountry>
+            <com:zipCode>60631</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001705447</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Gate City Capital Management, LLC</reportingPersonName>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+        <soleVotingPower>838921.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>838921.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>838921.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.37</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Michael Melby</reportingPersonName>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>838921.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>838921.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>838921.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.37</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>This Schedule 13D (this "Schedule 13D") is being filed on behalf of Gate City Capital Management, LLC, an Illinois limited liability company (the "Management Company") and Michael Melby. Mr. Melby serves as the managing member of the Management Company. The Management Company serves as an adviser to certain private investment funds and managed accounts (the "Funds"). This Schedule 13D relates to Common Shares (the "Common Shares") of Intrepid Potash Inc. (the "Issuer") held by the Funds.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>Intrepid Potash Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>707 17TH STREET</com:street1>
+          <com:street2>SUITE 4200</com:street2>
+          <com:city>DENVER</com:city>
+          <com:stateOrCountry>CO</com:stateOrCountry>
+          <com:zipCode>80202</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>The names of the persons jointly filing this statement on Schedule 13D (the "Reporting Persons") are Gate City Capital Management, LLC, an Illinois limited liability company and Michael Melby, Managing Member of Gate City Capital Management, LLC.  Mr. Melby is the controlling member of Gate City Capital Management, LLC.</filingPersonName>
+        <principalBusinessAddress>The address of each of the Reporting Persons is 8725 W. Higgins Road, Suite 530, Chicago, IL 60631.</principalBusinessAddress>
+        <principalJob>The principal business of Gate City Capital Management, LLC is to serve as an adviser to certain private investment funds and managed accounts. Mr. Melby's principal occupation is serving as the Portfolio Manager of Gate City Capital Management, LLC.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons have been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons have been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Gate City Capital Management, LLC is an Illinois limited liability company.  Mr. Melby is a United States citizen.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The source and amount of funds used by the Reporting Persons in making their purchase of the shares of Common Stock owned by each of them in the aggregate was $8,039,170 using the working capital of each of the Funds.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>This Amendment No. 1 amends the Schedule 13D initially filed on December 19, 2024 and is filed to include the letter sent by the Reporting Person to the Board of Directors of the Issuer on December 20, 2024.  A copy of the full text of the letter is filed as Exhibit A to this amended Schedule 13D.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>No material change.</percentageOfClassSecurities>
+        <numberOfShares>No material change.</numberOfShares>
+        <transactionDesc>No material change.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Other than described herein, there are no contracts, arrangements, understandings or relationships among the Reporting Person and any other person with respect to the securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.  In accordance with the requirements of Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended, and subject to the limitations set forth therein, the parties set forth below agree to jointly file the Schedule 13D to which this joint filing agreement is attached, and have duly executed this joint filing agreement as of the date set forth below.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Gate City Capital Management, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Melby</signature>
+          <title>Michael Melby, Managing Member</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Michael Melby</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Melby</signature>
+          <title>Michael Melby</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.  In accordance with the requirements of Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended, and subject to the limitations set forth therein, the parties set forth below agree to jointly file the Schedule 13D to which this joint filing agreement is attached, and have duly executed this joint filing agreement as of the date set forth below.</commentText>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>fp0091625-1_ex99a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><IMG SRC="image_001.gif" ALT="" STYLE="height: 41px; width: 69px"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">Gate City Capital Management, LLC</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">8725 West
+Higgins Road, Suite 530</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">Chicago, IL 60631</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(312) 825-1228</P>
+
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">December 20, 2024</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Barth Whitham</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Chairman of the Board</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Intrepid Potash Inc.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">707 17<SUP>th</SUP> Street, Suite 4200</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Denver, Colorado 80202</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Dear Mr. Whitham,</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: justify">Gate City Capital Management, LLC (&ldquo;Gate
+City&rdquo;) beneficially owns 6.37% of the common stock of Intrepid Potash Inc. (&ldquo;Intrepid Potash&rdquo; or the &ldquo;Company&rdquo;).
+I have appreciated the opportunity to build a relationship with you since you became Chairman and the hard work you have done on behalf
+of shareholders.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: justify">The Company&rsquo;s historical financial results
+and share price have languished due to a number of reasons including a lack of operational focus, the pursuit of value-destructive non-core
+projects, an elevated cost structure, an inconsistent shareholder return policy, and outdated corporate governance policies. Intrepid
+Potash has the potential to create significant value for its shareholders. The recent leadership changes at the Company provide an opportune
+time to implement best-practice policies in capital allocation, cost structure, and corporate governance.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">I propose the following potential value-accretive policies for
+the Company to implement:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in">&bull;</TD><TD>Create a shareholder return program committing to return 75% of free cash flow to shareholders through dividends or share repurchases.
+Additionally, commit to return all future payments received from XTO to shareholders.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in">&bull;</TD><TD>Initiate negotiations with Mr. Jornayvaz for the repurchase of his remaining shares.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in">&bull;</TD><TD>Implement a cost-cutting program to return Selling and Administrative expenses to 2019 levels of $23.6 million.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in">&bull;</TD><TD>Enact the following Corporate Governance best practices: declassify the Board of Directors, add new directors that are meaningful
+shareholders, and encourage current directors to increase their investment in the Company.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in">&bull;</TD><TD>Modify management&rsquo;s incentive compensation structure to utilize value-enhancing financial metrics including free cash flow generation,
+capital returns to shareholders, and S&amp;A expense per ton of potash production.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">&bull;</TD><TD STYLE="text-align: justify">Refrain from pursuing any acquisitions until consistent profitable
+results have been achieved for multiple years.</TD>
+</TR></TABLE>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">The decisive implementation of these
+best practices would create considerable long-term shareholder value.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">I am excited to work with you and other members of the Intrepid
+Potash team to create value for all shareholders. I am available to travel to Denver to discuss these opportunities with you at your earliest
+convenience.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Sincerely,</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><IMG SRC="image_001.jpg" ALT="" STYLE="height: 22.5pt; width: 64.15pt"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Michael Melby, CFA, FRM</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Founder and Portfolio Manager</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">Gate City Capital Management, LLC</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">CC: Intrepid Potash Board of Directors</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image_001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 image_001.gif
+M1TE&.#EA10 I '< ,2'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E "'Y
+M! $     +     !% "D AP       !T='1@8&!P<'!86%@<'!Q\?'QX>'AL;
+M&Q04%!(2$@@("! 0$ 8&!@T-#0P,#!D9&145%0\/#P,# P(" B0D)"TM+2<G
+M)RLK*SHZ.C\_/RPL+"XN+B\O+R,C(S$Q,3,S,S8V-C(R,B @("$A(2(B(CDY
+M.3@X."4E)3X^/CP\/"DI*3L[.S0T-#T]/34U-2HJ*D1$1$%!04M+2UE964-#
+M0U145%A86$9&1E%145=75UQ<7$5%15)24DI*2D]/3T! 0%M;6U-34U965E!0
+M4%U=75I:6DE)25]?7T)"0EY>7DQ,3$A(2$U-36H\56-C8V)B8F%A869F9GY^
+M?G]_?V!@8&1D9'=W=W5U=6AH:'1T='-S<VYN;F5E979V=GAX>'%Q<6UM;6]O
+M;WQ\?&QL;'U]?6MK:WIZ>GM[>W)R<FIJ:GEY>6EI:6=G9Y&1D8:&AH2$A(*"
+M@HR,C(&!@8" @):6EI>7EY65E9.3DY24E)"0D)R<G)V=G8.#@XV-C8Z.CHB(
+MB(J*BH^/CX6%A9J:FI^?GYF9F9*2DHN+BXF)B9Z>GIN;FX>'A[%H;K5N<[R\
+MO+V]O:.CHZ2DI*RLK+*RLJBHJ*"@H*JJJJFIJ;N[N[>WM[.SLZ*BHJ&AH;JZ
+MNJ6EI;&QL;6UM;Z^OK"PL*>GIZ:FIJVMK;^_O[2TM*ZNKJ^OK[:VMKBXN+FY
+MN:NKJ].9FLZ)B=>7ELN"@]^HI\;&QM?7U][>WLW-S=+2TLG)R=_?W\+"PLS,
+MS,[.SMC8V,# P,O+R];6UMS<W,'!P=K:VL/#P]W=W=/3T]75U<?'Q\_/S\C(
+MR,K*RL3$Q-G9V=34U,7%Q='1T=O;V]#0T.JXM>"MK/#3T?O[^_W]_>'AX>GI
+MZ>[N[O[^_OS\_/GY^>KJZNCHZ.OKZ^3DY/CX^/;V]OKZ^O#P\.?GY^SL[.+B
+MXN;FYO+R\N_O[_[\_/3T]/[X^/7AX/CHYOOR\>#@X/SV]OCIZ/;EY?7U]>/C
+MX^WM[>7EY?/S\_?W]____P$" PC_  'X Y"-H,&"" \J3,APH<.&$!\*).BO
+MHL6+&#-JW,BQHT=_!3^*'$E2),62*%.2#%E16RU;V[AEZ^9-I<V9W\"%NX4+
+M4J1<W3*>?"/!P@4, C)<R*!!AM,9-*!$F2JEZA0J<.+$D3-'TB1)8"=->E.%
+M3ITI5J)<J6%#Q@8.'3Q\ &%A ($"!G1E#.D-0Q1PNWA1LG/G#IX\>O9@R:+E
+M!HX<(42,(%'"A&7+%C)G_G#A!(K/.G;<X+$%RQX\=OA4@M3+UR]QXP[T$9K-
+MW[</EFQ^(\>[MV]RY6Q6E.%GK\!O*20)7_ZQ!Q?:_LREN,2\^D8?78S[.X<
+MD_7O%[W@_X ^+@$P\.B__-".3D$D].#AC(">S885X;5+=@MZ,5M^C'"44%-_
+M OD3S *U6"0,&%0,8]$NZ6!$3!B69%*,@QCQL04N&1FCB3K!571);AGQ40(Y
+M&)WD3P]75'0.$)= <LPF<""#PQ7)_%%)-^K,P(DRG0 "@B>UJ/.)/Z   <DR
+MH,RQ32ARB*+,)4$$$DP<S @RAT:4*# .1BSY8\,)%04CQ#I71#+*#52(,<@8
+M7@S!CB9$5'0%(440$P49A?A3QB 53:*"(3H<8@099AQ!2C-:6 $((AHY8P R
+M*?Y7"@.)^-,.$I8D0<490Z"1R!Q7B&&*.;NL4$DM1UPRQ#EBL/\@CC^7T$!,
+M*43DH,<1AEB!A2)?E++%#D?$L65&R330"Y@%5D2* WGXDPP8=11C"2+.//-'
+M+XF<@HT_D71!227JX.'+(D!4Y,T=7(S"AQVX('&%)LLHX\P=H;Q1B3/*5.3.
+M1;<HP$NE&&DR0#'"B8(*1W>\XQ$\U5R$S@*<,)L1%$' 1](UL#A"2SP5L4."
+M<A>I:-$M#UCQC,8?R?/($[',4U$V'.QA<8<E0 "I16(0XH\D27QC3D9#^\,?
+M1P-6M$TEM74CRRS67-1"%01KQ X*(5B4C0XMT".%$LGLD48Q9BS!"319]&$+
+M%5V,0H<BP:@Q!1E7C&-)&9 LXD4@DBC_P(P_]=CCSSW_5O3#&C=KM(07%F&S
+M!1<UU,%%,WPHP0@0G4BA#!@W(")%'&KPH 8<-?PA1AJ-,(%&'3P<8L4E.R2=
+M$0YG5)W1.2P<69$Y9:12@"9L##($$(=HT0L48>Q@Q1LMJ&)'$9*<H@8I;]CQ
+M!@YR1--&-&>L0H,M'(&Q0^(8.1/!K!5UXPL[RN C#3JIC)+/,OI(\PPIRU A
+M!0W+L-+*/M 8QS2FL8UI>&(:T!"'+_C1"FAP1! ]L!U&>J$ \*7$%GUPQ7^8
+M\P8.' TDS<+()AJ@#9:EA!(FP$?)-GB1&KB '80@D0E%@@H6\(- &X%" #XP
+M@0:H8X8BD08&_WYH$9,!+ R%$ <'%@'$CV@C!1S26@@WHH5T-;$C^HC P(K(
+M0HW<0@"EJ XWTJ&/;0@#&LD(!B0^ 0I/P($,5*"#&I+ @QGH8 44H 8./Z(&
+M,G'D&YC@00^:@(0?_( )3M  "$+0 19T8"D7N( +7N"!#J2 !2<X@0IV4 ,B
+M""$+BWE%T2IBQ(U\P@&KX,@M @ #(#CA"F/H@K$N08I3J((8NE!&,XZQBWSP
+MHQ_EZ(?L/A*FCG1C$!!0Q5Y*@8D8<..*7"1)%F;@C76L A!V  43 E"! J #
+MFC.;8D>"$8 "I& " :   F8 ##?(8)17+&5'Y. %6X0#'-M@AT50!!9.$.[G
+4GP -Z <QPA^!&O2@"$TH  (" #L!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>image_001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 image_001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  ," @," @,# P,$ P,$!0@%!00$
+M!0H'!P8(# H,# L*"PL-#A(0#0X1#@L+$!80$1,4%145# \7&!84&!(4%13_
+MVP!# 0,$! 4$!0D%!0D4#0L-%!04%!04%!04%!04%!04%!04%!04%!04%!04
+M%!04%!04%!04%!04%!04%!04%!04%!3_P  1" !- -H# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M:_I5K>Z]<,;B:6=/,;>6;:#N'92!^%=3XN^'$GBWQ+X;U&:[$5KI$C2^0O\
+M&28R.W3Y/7O78Q6Y1<[4$@!4;<XQFDV^Y+?<\5U]=)T_XT2^([]DL-'\/Z0J
+M%L[(Q*99 <#@ XD K?\ A?\ $'7?B/J6H:K]C;3_  HKE+*24?-=Q\[9%..A
+M&T\'O6;XN^ #>,_B.FLW]^K:$4'FZ<K$&1P6()XZ?=[]J]7L=*BTRRM[6V1(
+MX( $CB'W44<8'T I._<7N]%8M1,>!C"XR 3S4M1QQE'=BQ;=C@]JDI 1DX+9
+MY!XP*\0_:6\83Z5INE:#80&>]U"Y5(D'.7Z $=Q\W/6O<"I)/3!'XUR-U\,M
+M,O/&5MXDG:2>\MXV6))"-BDE2&QCJ-HH K_#+P<OA31X5N41]7FCW7$R#ISP
+MH/Y<5VZ@8!P,U$;<G<IP58?,>^:F4$ 9ZT -90!P,<]J\Z^,^B:OXD\,+;:(
+MB-=B4,)G7*KPPZ8/K7HY&:A>!W0C<%]AT/UH ^9=9^ .OI;Z;JK7HUWQC+>M
+M)/J-PS-#9J5 *(A!7'WB/E'+5ZA\/?@GIWA&_N-9U"7^W_$%RQ=[^[&YH3DG
+M;&"2$4$]%QT''%>EF$NA#X.>2.U((&#;M^?8]OI6G-H'O=S@_B[X0U;QCH=O
+M9Z5.D#B4,Q8>S#T/K1HWA9? GA*^N+J3[9JI@+3W?5VZ84,><<#BN_6/:"!W
+MJ">!+BW>&11(I&&3UK/F9+OW/$?@GX:;Q(+CQ'JZ2[9)2D<#D[7![D=.XKH_
+MBWKEOI.H>&K*\GBATN6Z436TJ*1(@XQSVQ7I%K;0:=:+##&L,,8!"CMC_P#5
+M7D/[1?BK2-,T&'2_LO\ :7B'4@T.GQKG<CL.'/(P <?G1:^YHO,^?_%^J:M^
+MT;\48(=&AN9O#NF7 #1AB N$]%_WAWK[2\-^&['PU916]C;16B%1N6- "S8Y
+M)]37*_!GX6P_#3P?;V9\IM2E!DNKB+.'8GMGV 'X5W\<;(>6W #@GK1L)R;T
+M'D48]Z-IHVFF3RH9)'O8' ; ((^M-M+2&RC$4"+'&,_*HQR3FIL#.:, 4ABT
+M444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 57D);S%7"2=CZ
+MBK%>:_&_QY=_#WP;>:I9Q"6[9A C,V @) SC!SU- "_$'XHIX:M)XM+1+W4D
+MS&$[>9T4'ZFN9^$OPONUUVX\<>+YEU#Q-?#,*'#1V4>1@+R<'"IW'0UE_!#P
+MI/XHCAUC5]1^W.V)VB: #<Q&02<\X->]&%((UCC157@8 ZT%N2:L2VZ!(54,
+0S8[MU-24E+00%%%% '__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0001213900-25-005025.txt : 20250121
+<SEC-HEADER>0001213900-25-005025.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121162533
+ACCESSION NUMBER:		0001213900-25-005025
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aclarion, Inc.
+		CENTRAL INDEX KEY:			0001635077
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MEDICAL LABORATORIES [8071]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				473324725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93897
+		FILM NUMBER:		25542777
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8181 ARISTA PLACE
+		STREET 2:		STE 100
+		CITY:			BROOMFIELD
+		STATE:			CO
+		ZIP:			80021
+		BUSINESS PHONE:		833 275 2266
+
+	MAIL ADDRESS:	
+		STREET 1:		8181 ARISTA PLACE
+		STREET 2:		STE 100
+		CITY:			BROOMFIELD
+		STATE:			CO
+		ZIP:			80021
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nocimed, Inc.
+		DATE OF NAME CHANGE:	20150226
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEG Opportunity Fund, LLC
+		CENTRAL INDEX KEY:			0002041952
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 SYCAMORE DRIVE
+		CITY:			ROSLYN
+		STATE:			NY
+		ZIP:			11576
+		BUSINESS PHONE:		(516) 521-1354
+
+	MAIL ADDRESS:	
+		STREET 1:		135 SYCAMORE DRIVE
+		CITY:			ROSLYN
+		STATE:			NY
+		ZIP:			11576
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SEG Opportunity Fund, LLC -->
+          <cik>0002041952</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $0.00001 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/15/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001635077</issuerCik>
+        <issuerName>Aclarion Inc.</issuerName>
+        <issuerCusip>655187201</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>8181 Arista Place Suite 100</com:street1>
+          <com:city>Broomfield,</com:city>
+          <com:stateOrCountry>CO</com:stateOrCountry>
+          <com:zipCode>80021</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>SEG Opportunity Fund, LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4400000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4400000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4400000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.9</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+      <comments>(1) Based on 44,200,008 shares of Common Stock of the Issuer outstanding after the closing of the Public Offering of shares of Common Stock and Warrants of the Issuer on January 16, 2024.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Aclarion Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>8181 Arista Place Suite 100 Broomfield, Colorado 80021</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by SEG Opportunity Fund, LLC, a New York limited liability company.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of SEG Opportunity Fund, LLC is 135 Sycamore Drive Roslyn, NY 11576.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>SEG Opportunity Fund, LLC is a New York limited liability company.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>See Item 9 on the cover pages(s) hereto.</amountBeneficiallyOwned>
+        <classPercent>See Item 11 on the cover page(s) hereto.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Item 5 on the cover pages hereto.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Item 6 on the cover pages hereto.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Item 7 on the cover pages  hereto.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Item 8 on the cover  pages hereto.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>SEG Opportunity Fund, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Joseph Reda</signature>
+        <title>Joseph Reda/Manager</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

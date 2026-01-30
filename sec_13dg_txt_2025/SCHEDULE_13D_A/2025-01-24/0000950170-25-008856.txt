@@ -1,0 +1,602 @@
+<SEC-DOCUMENT>0000950170-25-008856.txt : 20250124
+<SEC-HEADER>0000950170-25-008856.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124165125
+ACCESSION NUMBER:		0000950170-25-008856
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250124
+DATE AS OF CHANGE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			P10, Inc.
+		CENTRAL INDEX KEY:			0001841968
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93016
+		FILM NUMBER:		25554775
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4514 COLE AVENUE, SUITE 1600
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75205
+		BUSINESS PHONE:		(214) 999-6063
+
+	MAIL ADDRESS:	
+		STREET 1:		4514 COLE AVENUE, SUITE 1600
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75205
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			210 Capital, LLC
+		CENTRAL INDEX KEY:			0001694780
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				814684598
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4514 COLE AVENUE
+		STREET 2:		SUITE 1600
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75205
+		BUSINESS PHONE:		21479996082
+
+	MAIL ADDRESS:	
+		STREET 1:		4514 COLE AVENUE
+		STREET 2:		SUITE 1600
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75205
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001193125-23-300038</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001694780</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>10</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <dateOfEvent>01/21/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001841968</issuerCIK>
+        <issuerCUSIP>69376K106</issuerCUSIP>
+        <issuerName>P10, Inc.</issuerName>
+        <address>
+          <street1 xmlns="http://www.sec.gov/edgar/common">4514 Cole Avenue</street1>
+          <street2 xmlns="http://www.sec.gov/edgar/common">Suite 1600</street2>
+          <city xmlns="http://www.sec.gov/edgar/common">Dallas</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">TX</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">75205</zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Adam W. Finerman, Esq.</personName>
+          <personPhoneNum>(212) 589-4233</personPhoneNum>
+          <personAddress>
+            <street1 xmlns="http://www.sec.gov/edgar/common">BakerHostetler</street1>
+            <street2 xmlns="http://www.sec.gov/edgar/common">45 Rockefeller Plaza</street2>
+            <city xmlns="http://www.sec.gov/edgar/common">New York</city>
+            <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+            <zipCode xmlns="http://www.sec.gov/edgar/common">10111</zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001694780</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>210 Capital, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>2996537</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>(1) These shares include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(2) The percentage is based on 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001706438</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>210/P10 Acquisition Partners, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>2996537</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>(1) These shares include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(2) The percentage is based on 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>CCW/LAW Holdings, LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>2996537</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>(1) These shares include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(2) The percentage is based on 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Covenant RHA Partners, L.P.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>2996537</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>(1) These shares include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(2) The percentage is based on 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025.
+</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>RHA Investments, Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>2996537</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.3</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>(1) These shares include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(2) The percentage is based on 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Robert Alpert</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>425093</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>425093</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>3421630</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.9</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>(1) The sole amounts include 425,093 shares of Class A common stock underlying stock options held by the Reporting Person that are exercisable within 60 days of the date hereof.
+(2) The shared amounts include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(3) The percentage is based on the sum of (i) 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025, plus (ii) 425,093 shares of Class A common stock underlying stock options held by Mr. Alpert that are exercisable as of the date hereof.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>C. Clark Webb</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>425093</soleVotingPower>
+        <sharedVotingPower>2996537</sharedVotingPower>
+        <soleDispositivePower>425093</soleDispositivePower>
+        <sharedDispositivePower>2996537</sharedDispositivePower>
+        <aggregateAmountOwned>3421630</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.9</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>(1) The sole amounts include 425,093 shares of Class A common stock underlying stock options held by the Reporting Person that are exercisable within 60 days of the date hereof.
+(2) The shared amounts include only shares of Class A common stock, all of which may be deemed to be beneficially owned by each Reporting Person.
+(3) The percentage is based on the sum of (i) 69,128,856 shares of Class A common stock outstanding as of January 13, 2025, as reported on the Issuer's Post-Effective Amendment No. 1 to Form S-1 on Form S-3, filed on January 22, 2025, plus (ii) 425,093 shares of Class A common stock underlying stock options held by Mr. Webb that are exercisable as of the date hereof.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, par value $0.001 per share</securityTitle>
+        <issuerName>P10, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <street1 xmlns="http://www.sec.gov/edgar/common">4514 Cole Avenue</street1>
+          <street2 xmlns="http://www.sec.gov/edgar/common">Suite 1600</street2>
+          <city xmlns="http://www.sec.gov/edgar/common">Dallas</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">TX</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">75205</zipCode>
+        </issuerPrincipalAddress>
+        <commentText>EXPLANATORY NOTE
+This Amendment No. 10 to Schedule 13D (this "Amendment") amends the items included herein that were contained in the Schedule 13D filed on December 20, 2023, as amended by Amendment No. 1 filed October 8, 2024, Amendment No. 2 filed November 12, 2024, Amendment No. 3 filed November 22, 2024, Amendment No. 4 filed November 27, 2024, Amendment No. 5 filed December 5, 2024, Amendment No. 6 filed December 13, 2024, Amendment No. 7 filed December 20, 2024, Amendment No. 8 filed January 10, 2025, and Amendmen No. 9 filed January 23, 2025 (the "Original Schedule 13D", and together with this Amendment, this "Schedule 13D") relating to shares of Class A common stock, par value $0.001 per shares, and shares of Class B common stock, par value $0.001 per shares, of P10, Inc., a Delaware corporation (the "Issuer"), filed by: (i) 210/P10 Acquisition Partners, LLC, a Texas limited liability company ("210/P10"); (ii) 210 Capital, LLC, a Delaware limited liability company ("210 Capital"); (iii) Covenant RHA Partners, L.P., a Texas limited partnership ("RHA Partners"); (iv) CCW/LAW Holdings, LLC, a Texas limited liability company ("CCW Holdings"); (v) RHA Investments, Inc., a Texas corporation ("RHA Investments"); (vi) Robert Alpert; and (vii) C. Clark Webb (each, a "Reporting Person" and collectively, the "Reporting Persons").
+
+On January 24, 2025, the Reporting Persons effected transactions that, in the aggregate, resulted in each of the Reporting Persons beneficially owning less than five percent of the outstanding shares Class A common stock of the Issuer. Therefore, this Amendment represents the final amendment to the Schedule 13D and constitutes an exit filing for the Reporting Persons.
+
+Except as specifically provided herein, this Amendment does not modify any of the information previously reported in the Original Schedule 13D. Capitalized terms used but not defined in this Amendment shall have the same meanings ascribed to them in the Original Schedule 13D.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The information contained in rows 7, 8, 9, 10, 11 and 13 on the cover pages of this Schedule 13D (including the footnotes thereto) is incorporated by reference herein.
+
+210/P10 is the direct beneficial holder of 2,996,537 shares of Class A common stock that may be deemed to be beneficially owned by each Reporting Person. 210/P10 is managed by its sole member, 210 Capital, which is managed by its members RHA Partners and CCW Holdings. Mr. Webb has the power to direct the affairs of CCW Holdings as its sole manager. In addition, RHA Partners is managed by its general partner RHA Investments, and Mr. Alpert has the power to direct the affairs of RHA Investments as its President and sole shareholder. Accordingly, each of 210 Capital, RHA Partners, CCW Holdings, RHA Investments, Mr. Alpert and Mr. Webb may be deemed to beneficially own such shares of common stock held by 210/P10. In addition, (i) Mr. Alpert may be deemed to beneficially own 425,093 shares of Class A common stock issuable upon exercise of exercisable stock options; and (ii) Mr. Webb may be deemed to beneficially own 425,093 shares of Class A common stock issuable upon exercise of exercisable stock options.
+
+However, each Reporting Person declares that neither the filing of this Schedule 13D nor anything herein shall be construed as an admission that such person is, for the purposes of Section 13(d) or 13(g) of the Exchange Act of 1934, as amended, the beneficial owner of any securities or rights to acquire securities directly held by any other Reporting Person covered by this Schedule 13D.</percentageOfClassSecurities>
+        <numberOfShares>The information contained in subsection (a) of this Item 5 is incorporated by reference herein.</numberOfShares>
+        <transactionDesc>Except as described herein and on Appendix A attached as Exhibit 9 to this Schedule 13D, none of the Reporting Persons have effected any transactions with respect to shares of Class A common stock or Class B common stock of the Issuer during the past 60 days or since the filing of the Original Schedule 13D, whichever is less.</transactionDesc>
+        <listOfShareholders>No person other than the Reporting Persons is known to have the right to receive, or the power to direct the receipt of dividends from, or proceeds from the sale of, the shares of the Class A common stock of the Issuer held by the Reporting Persons.</listOfShareholders>
+        <date5PercentOwnership>On January 24, 2025, the Reporting Persons ceased to be the beneficial owners of more than five percent of the outstanding Class A common stock of the Issuer. Accordingly, this Amendment represents the final amendment to the Schedule 13D and constitutes an exit filing for the Reporting Persons.</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Item 7 of the Original Schedule 13D is hereby amended and supplemented as follows:
+Exhibit No.           Name
+9.                           Appendix A - Schedule of Transactions for Item 5(c)</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>210 Capital, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Alpert</signature>
+          <title>Authorized Signatory</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>210/P10 Acquisition Partners, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Alpert</signature>
+          <title>Authorized Signatory of 210 Capital, LLC, its Member</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CCW/LAW Holdings, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ C. Clark Webb</signature>
+          <title>Authorized Signatory</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Covenant RHA Partners, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Alpert</signature>
+          <title>Authorized Signatory of RHA Investments, Inc., its Member</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>RHA Investments, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Alpert</signature>
+          <title>Authorized Signatory</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Robert Alpert</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Alpert</signature>
+          <title>Robert Alpert</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>C. Clark Webb</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ C. Clark Webb</signature>
+          <title>C. Clark Webb</title>
+          <date>01/24/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.9
+<SEQUENCE>2
+<FILENAME>ck0001669811-ex99_9.pdf
+<DESCRIPTION>EX-99.9
+<TEXT>
+<PDF>
+begin 644 ck0001669811-ex99_9.pdf
+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
+M+U1R=654>7!E+TYA;64O1C(O0F%S949O;G0O5&EM97-.97=2;VUA;E!3350O
+M16YC;V1I;F<O5VEN06YS:45N8V]D:6YG+T9O;G1$97-C<FEP=&]R(#$P(# @
+M4B]&:7)S=$-H87(@,S(O3&%S=$-H87(@,3(Q+U=I9'1H<R U-R P(%(^/@T*
+M96YD;V)J#0HQ," P(&]B:@T*/#PO5'EP92]&;VYT1&5S8W)I<'1O<B]&;VYT
+M3F%M92]4:6UE<TYE=U)O;6%N4%--5"]&;&%G<R S,B])=&%L:6-!;F=L92 P
+M+T%S8V5N=" X.3$O1&5S8V5N=" M,C$V+T-A<$AE:6=H=" V.3,O079G5VED
+M=&@@-# Q+TUA>%=I9'1H(#(V,30O1F]N=%=E:6=H=" T,# O6$AE:6=H=" R
+M-3 O3&5A9&EN9R T,B]3=&5M5B T,"]&;VYT0D)O>%L@+34V." M,C$V(#(P
+M-#8@-CDS72 ^/@T*96YD;V)J#0HQ,2 P(&]B:@T*/#PO075T:&]R*$ME:71H
+M(%9A;&]R*2 O0W)E871O<BC^_P!- &D 8P!R &\ <P!O &8 = "N "  5P!O
+M '( 9  @ &8 ;P!R "  30!I &, <@!O ', ;P!F '0 (  S #8 -2D@+T-R
+M96%T:6]N1&%T92A$.C(P,C4P,3(T,34Q,S,R+3 U)S P)RD@+TUO9$1A=&4H
+M1#HR,#(U,#$R-#$U,3,S,BTP-2<P,"<I("]0<F]D=6-E<BC^_P!- &D 8P!R
+M &\ <P!O &8 = "N "  5P!O '( 9  @ &8 ;P!R "  30!I &, <@!O ',
+M;P!F '0 (  S #8 -2D@/CX-"F5N9&]B:@T*,3D@,"!O8FH-"CP\+U1Y<&4O
+M3V)J4W1M+TX@-#,O1FER<W0@,S(S+T9I;'1E<B]&;&%T941E8V]D92],96YG
+M=&@@-S<R/CX-"G-T<F5A;0T*>)R=5MMJXS 0?2_T'^8/;%UMPU+H]D*7TA"2
+MP#Z4?7 3;6*:6,5UH/W[/8J5-"R2LIL\1-9H9L[,Z&@D5E!./"?%B#-B.2>N
+MB2E!7$$LB9<08*T@P3B)G(2NB%<D82,XR<(MD(*:D*1*14*0%AIJI"M!0E$A
+M)8F2RIR1**A40)!4Y? B@)>7<(51P27P\2/H,Z8AQSH'C$1 '#A2$1,.NL18
+M:F 3D_"L<HR5(EDA< B!P#1"1TI,*TT*_@HF"$FQ0D,/^B5',M"OD#0^654B
+M"9>Q$VJ,%8P1*2M@A&)P#2>HADN404\YYRB-TIJ^?<O&SBBG23;-QMGL\\UD
+MT[[;SON[M=EDC\^4_Z)LO"3A=*ZN+B_^P83]OPD/F6 ?$R8B:"*]R>PA"+,+
+M(FA8I+#D.5AE%*M*8:DSL$#N"!88GL#2YV#Q*)9(817G8,DH5I(;Y3E846Z(
+M)#>J<[#BW-C7<#8)DFJ7MF>K)Y+?8U]^7QD?=!""'V(S]2*(XLM^,)%)%K%@
+MCY!YL@0R2B.9I!$+=I<OL-L@6)1',LDC%NQ+I\"B1)))(K%@1SL%%F623'89
+M%FQI)\!4M,VH-$&"/>T46)0@*DV08%,[!19O-/LRA@_D<#(\9SV;_#[['?"U
+M\5&G#^1WN_@,HD0+?[A69_7+V@0/LV\+U5]G^L0='FS7;!_IK9UO-Z;MPZ9#
+M<\J'8<A^R-$]5(ZC.+*>=<9,K.VSB5V;I_K-O5T<UKCN@.-6W2O&279[O*_'
+M875D/OI'\TG,N[Z'K];V)ANYO[MV\3690?7%?F13,^\SUP---WP[F_WWCW;=
+MM&:ZJEV$3G#=PD/=-[;U\ZYO?M?XV,U^VN[UQ=K7K\HXR?O*F-X%V6=/];RS
+M1_.;%?Z/YK=-O;;+(\%TW2S,D>Z  [5E5V^R^V:Y[9!*TV/7'UAV8S<.];J=
+MKRPR>*M;7X?1=O..5YQ[\AU7?E1OS/OS,(UMF1Z&<N#/L#;<_OYB]G>FO\Y\
+M2_?-UK=!WZ!\Z_"'VA^W QLN+_X "[$)X T*96YD<W1R96%M#0IE;F1O8FH-
+M"C4V(# @;V)J#0I;(#(U," P(# @," P(# @," P(#,S,R S,S,@," P(# @
+M," P(# @," P(# @," P(# @," P(# @-3 P(# @," P(# @," P(# @-S(R
+M(# @-S(R(#<R,B V-C<@," P(#<W." P(# @," P(# @-S(R(# @-C$Q(# @
+M-S(R(#4U-B V-C<@," P(#$P,# @," P(# @," P(# @," P(# @-3 P(#4U
+M-B T-#0@-34V(#0T-" S,S,@-3 P(#4U-B R-S@@," U-38@,C<X(#@S,R U
+M-38@-3 P(#4U-B U-38@-#0T(#,X.2 S,S,@-34V(# @-S(R(#4P," U,#!=
+M( T*96YD;V)J#0HU-R P(&]B:@T*6R R-3 @," P(# @-3 P(# @," P(#,S
+M,R S,S,@," P(#(U," P(#(U," R-S@@-3 P(#4P," U,# @-3 P(#4P," U
+M,# @-3 P(# @," P(# @," P(# @," P(# @-S(R(#8V-R V-C<@-S(R(# @
+M-34V(#<R,B P(#,S,R S.#D@," P(# @-S(R(#<R,B U-38@," V-C<@-34V
+M(# @," P(# @," P(# @," P(# @," P(# @-#0T(#4P," T-#0@-3 P(#0T
+M-" S,S,@-3 P(#4P," R-S@@," U,# @,C<X(#<W." U,# @-3 P(#4P," U
+M,# @,S,S(#,X.2 R-S@@-3 P(#4P," W,C(@," U,#!=( T*96YD;V)J#0HU
+M." P(&]B:@T*/#PO5'EP92]-971A9&%T82]3=6)T>7!E+UA-3"],96YG=&@@
+M,S X-SX^#0IS=')E86T-"CP_>'!A8VME="!B96=I;CTB[[N_(B!I9#TB5S5-
+M,$UP0V5H:4AZ<F53>DY48WIK8SED(C\^/'@Z>&UP;65T82!X;6QN<SIX/2)A
+M9&]B93IN<SIM971A+R(@>#IX;7!T:STB,RXQ+3<P,2(^"CQR9&8Z4D1&('AM
+M;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR9&8M<WEN
+M=&%X+6YS(R(^"CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2(B("!X;6QN
+M<SIP9&8](FAT=' Z+R]N<RYA9&]B92YC;VTO<&1F+S$N,R\B/@H\<&1F.E!R
+M;V1U8V5R/DUI8W)O<V]F=,*N(%=O<F0@9F]R($UI8W)O<V]F=" S-C4\+W!D
+M9CI0<F]D=6-E<CX\+W)D9CI$97-C<FEP=&EO;CX*/')D9CI$97-C<FEP=&EO
+M;B!R9&8Z86)O=70](B(@('AM;&YS.F1C/2)H='1P.B\O<'5R;"YO<F<O9&,O
+M96QE;65N=',O,2XQ+R(^"CQD8SIC<F5A=&]R/CQR9&8Z4V5Q/CQR9&8Z;&D^
+M2V5I=&@@5F%L;W(\+W)D9CIL:3X\+W)D9CI397$^/"]D8SIC<F5A=&]R/CPO
+M<F1F.D1E<V-R:7!T:6]N/@H\<F1F.D1E<V-R:7!T:6]N(')D9CIA8F]U=#TB
+M(B @>&UL;G,Z>&UP/2)H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O(CX*
+M/'AM<#I#<F5A=&]R5&]O;#Y-:6-R;W-O9G3"KB!7;W)D(&9O<B!-:6-R;W-O
+M9G0@,S8U/"]X;7 Z0W)E871O<E1O;VP^/'AM<#I#<F5A=&5$871E/C(P,C4M
+M,#$M,C14,34Z,3,Z,S(M,#4Z,# \+WAM<#I#<F5A=&5$871E/CQX;7 Z36]D
+M:69Y1&%T93XR,#(U+3 Q+3(T5#$U.C$S.C,R+3 U.C P/"]X;7 Z36]D:69Y
+M1&%T93X\+W)D9CI$97-C<FEP=&EO;CX*/')D9CI$97-C<FEP=&EO;B!R9&8Z
+M86)O=70](B(@('AM;&YS.GAM<$U-/2)H='1P.B\O;G,N861O8F4N8V]M+WAA
+M<"\Q+C O;6TO(CX*/'AM<$U-.D1O8W5M96YT240^=75I9#HX,#<P1D$U."TR
+M,$5&+31!1C8M0CDR,RTQ-S,Y0S(W0D,P,D0\+WAM<$U-.D1O8W5M96YT240^
+M/'AM<$U-.DEN<W1A;F-E240^=75I9#HX,#<P1D$U."TR,$5&+31!1C8M0CDR
+M,RTQ-S,Y0S(W0D,P,D0\+WAM<$U-.DEN<W1A;F-E240^/"]R9&8Z1&5S8W)I
+M<'1I;VX^"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M( H\+W)D9CI21$8^/"]X.GAM<&UE=&$^/#]X<&%C:V5T(&5N9#TB=R(_/@T*
+M96YD<W1R96%M#0IE;F1O8FH-"C4Y(# @;V)J#0H\/"]$:7-P;&%Y1&]C5&ET
+M;&4@=')U93X^#0IE;F1O8FH-"C8P(# @;V)J#0H\/"]4>7!E+UA2968O4VEZ
+M92 V,"]76R Q(#0@,ET@+U)O;W0@,2 P(%(O26YF;R Q,2 P(%(O241;/#4X
+M1D$W,#@P148R,$8V-$%".3(S,3<S.4,R-T)#,#)$/CPU.$9!-S X,$5&,C!&
+M-C1!0CDR,S$W,SE#,C="0S R1#Y=("]&:6QT97(O1FQA=&5$96-O9&4O3&5N
+M9W1H(#$U-SX^#0IS=')E86T-"GB<-="Y#<)@#(9A)]SD)@?WE7"/PU9(#$"'
+M$"M0LP@+4- Q0/CQ"R[\R)*_YA,Q4Y:6V9'(ERL\%.NE.$_%/2G> >[P5ORS
+M$AQ%;!./905KV, 6EO#[W)E<>/E?%MA00 <BJ$(%ZE"#)C2@#2UPP0$?/ @A
+M@!SFD$ ,&:30@RX,H \C&,($QC"#*2Q,!8FC#::%DNV5_";R 2XG$Q\-"F5N
+M9'-T<F5A;0T*96YD;V)J#0IX<F5F#0HP(#8Q#0HP,# P,# P,#$R(#8U-3,U
+M(&8-"C P,# P,# P,3<@,# P,# @;@T*,# P,# P,#$V,R P,# P,"!N#0HP
+M,# P,# P,C$Y(# P,# P(&X-"C P,# P,# T.3(@,# P,# @;@T*,# P,# P
+M,S T." P,# P,"!N#0HP,# P,# S,C(T(# P,# P(&X-"C P,# P,#,T-C4@
+M,# P,# @;@T*,# P,# P,S4Q." P,# P,"!N#0HP,# P,# S-3<Q(# P,# P
+M(&X-"C P,# P,#,W-#,@,# P,# @;@T*,# P,# P,SDX," P,# P,"!N#0HP
+M,# P,# P,#$S(#8U-3,U(&8-"C P,# P,# P,30@-C4U,S4@9@T*,# P,# P
+M,# Q-2 V-34S-2!F#0HP,# P,# P,#$V(#8U-3,U(&8-"C P,# P,# P,3<@
+M-C4U,S4@9@T*,# P,# P,# Q." V-34S-2!F#0HP,# P,# P,#$Y(#8U-3,U
+M(&8-"C P,# P,# P,C @-C4U,S4@9@T*,# P,# P,# R,2 V-34S-2!F#0HP
+M,# P,# P,#(R(#8U-3,U(&8-"C P,# P,# P,C,@-C4U,S4@9@T*,# P,# P
+M,# R-" V-34S-2!F#0HP,# P,# P,#(U(#8U-3,U(&8-"C P,# P,# P,C8@
+M-C4U,S4@9@T*,# P,# P,# R-R V-34S-2!F#0HP,# P,# P,#(X(#8U-3,U
+M(&8-"C P,# P,# P,CD@-C4U,S4@9@T*,# P,# P,# S," V-34S-2!F#0HP
+M,# P,# P,#,Q(#8U-3,U(&8-"C P,# P,# P,S(@-C4U,S4@9@T*,# P,# P
+M,# S,R V-34S-2!F#0HP,# P,# P,#,T(#8U-3,U(&8-"C P,# P,# P,S4@
+M-C4U,S4@9@T*,# P,# P,# S-B V-34S-2!F#0HP,# P,# P,#,W(#8U-3,U
+M(&8-"C P,# P,# P,S@@-C4U,S4@9@T*,# P,# P,# S.2 V-34S-2!F#0HP
+M,# P,# P,#0P(#8U-3,U(&8-"C P,# P,# P-#$@-C4U,S4@9@T*,# P,# P
+M,# T,B V-34S-2!F#0HP,# P,# P,#0S(#8U-3,U(&8-"C P,# P,# P-#0@
+M-C4U,S4@9@T*,# P,# P,# T-2 V-34S-2!F#0HP,# P,# P,#0V(#8U-3,U
+M(&8-"C P,# P,# P-#<@-C4U,S4@9@T*,# P,# P,# T." V-34S-2!F#0HP
+M,# P,# P,#0Y(#8U-3,U(&8-"C P,# P,# P-3 @-C4U,S4@9@T*,# P,# P
+M,# U,2 V-34S-2!F#0HP,# P,# P,#4R(#8U-3,U(&8-"C P,# P,# P-3,@
+M-C4U,S4@9@T*,# P,# P,# U-" V-34S-2!F#0HP,# P,# P,#4U(#8U-3,U
+M(&8-"C P,# P,# P,# @-C4U,S4@9@T*,# P,# P-3$S,2 P,# P,"!N#0HP
+M,# P,# U-#$Q(# P,# P(&X-"C P,# P,#4W,30@,# P,# @;@T*,# P,# P
+M.#@X-" P,# P,"!N#0HP,# P,# X.3(Y(# P,# P(&X-"G1R86EL97(-"CP\
+M+U-I>F4@-C$O4F]O=" Q(# @4B]);F9O(#$Q(# @4B])1%L\-3A&03<P.#!%
+M1C(P1C8T04(Y,C,Q-S,Y0S(W0D,P,D0^/#4X1D$W,#@P148R,$8V-$%".3(S
+M,3<S.4,R-T)#,#)$/ET@/CX-"G-T87)T>')E9@T*.3(X-PT*)25%3T8-"GAR
+M968-"C @, T*=')A:6QE<@T*/#PO4VEZ92 V,2]2;V]T(#$@,"!2+TEN9F\@
+M,3$@,"!2+TE$6SPU.$9!-S X,$5&,C!&-C1!0CDR,S$W,SE#,C="0S R1#X\
+M-3A&03<P.#!%1C(P1C8T04(Y,C,Q-S,Y0S(W0D,P,D0^72 O4')E=B Y,C@W
+H+UA29693=&T@.#DR.3X^#0IS=&%R='AR968-"C$P-C8S#0HE)45/1@$!
+
+end
+</PDF>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

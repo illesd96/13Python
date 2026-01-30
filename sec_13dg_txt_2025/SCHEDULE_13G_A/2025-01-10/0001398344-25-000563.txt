@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001398344-25-000563.txt : 20250110
+<SEC-HEADER>0001398344-25-000563.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110155635
+ACCESSION NUMBER:		0001398344-25-000563
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bellevue Life Sciences Acquisition Corp.
+		CENTRAL INDEX KEY:			0001840425
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				845052822
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93996
+		FILM NUMBER:		25522775
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10900 NE 4TH STREET, SUITE 2300
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+		BUSINESS PHONE:		425-635-7700
+
+	MAIL ADDRESS:	
+		STREET 1:		10900 NE 4TH STREET, SUITE 2300
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RIVERNORTH CAPITAL MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001447578
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				271560688
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		360 S. ROSEMARY AVE
+		STREET 2:		SUITE 1420
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+		BUSINESS PHONE:		561-484-7185
+
+	MAIL ADDRESS:	
+		STREET 1:		360 S. ROSEMARY AVE
+		STREET 2:		SUITE 1420
+		CITY:			WEST PALM BEACH
+		STATE:			FL
+		ZIP:			33401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RIVERNORTH CAPITAL MANAGEMENT, INC.
+		DATE OF NAME CHANGE:	20081009
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001398344-24-020896</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: RIVERNORTH CAPITAL MANAGEMENT, LLC -->
+          <cik>0001447578</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001840425</issuerCik>
+        <issuerName>Bellevue Life Sciences Acquisition Corp.</issuerName>
+        <issuerCusip>079174108</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>10900 NE 4TH STREET</com:street1>
+          <com:street2>SUITE 2300</com:street2>
+          <com:city>BELLEVUE</com:city>
+          <com:stateOrCountry>WA</com:stateOrCountry>
+          <com:zipCode>98004</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>RIVERNORTH CAPITAL MANAGEMENT, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Bellevue Life Sciences Acquisition Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>10900 NE 4th Street, Suite 2300, Bellevue, Washington, 98004</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>RiverNorth Capital Management, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>360 S. Rosemary Avenue, Ste. 1420
+West Palm Beach, Florida 33401</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>0</amountBeneficiallyOwned>
+        <classPercent>0</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>RIVERNORTH CAPITAL MANAGEMENT, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Marcus Collins</signature>
+        <title>Marcus Collins, General Counsel and Chief Compliance Officer</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

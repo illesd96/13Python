@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001398344-25-001005.txt : 20250124
+<SEC-HEADER>0001398344-25-001005.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124090015
+ACCESSION NUMBER:		0001398344-25-001005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FLEXIBLE SOLUTIONS INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0001069394
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS CHEMICAL PRODUCTS [2890]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				911922863
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78201
+		FILM NUMBER:		25551733
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2614 QUEENSWOOD DR
+		CITY:			VICTORIA B C
+		STATE:			A1
+		ZIP:			V8N 1X5
+		BUSINESS PHONE:		2504779969
+
+	MAIL ADDRESS:	
+		STREET 1:		2614 QUEENSWOOD DR
+		CITY:			VICTORIA BC CANADA
+		STATE:			A1
+		ZIP:			V8N 1X5
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMPREHENSIVE FINANCIAL PLANNING INC
+		CENTRAL INDEX KEY:			0001287075
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				582033955
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	MAIL ADDRESS:	
+		STREET 1:		3883 ROGERS BRIDGE ROAD
+		STREET 2:		SUITE 303-A
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30097
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001398344-19-002270</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: COMPREHENSIVE FINANCIAL PLANNING INC -->
+          <cik>0001287075</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>7</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001069394</issuerCik>
+        <issuerName>Flexible Solutions International Inc.</issuerName>
+        <issuerCusip>33938T104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>6001 54 Ave</com:street1>
+          <com:city>Taber</com:city>
+          <com:stateOrCountry>A0</com:stateOrCountry>
+          <com:zipCode>T1G 1X4</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Comprehensive Financial Planning, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>GA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1258521.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1258521.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1258521.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>10.1</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Flexible Solutions International Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>6001 54 Ave, Taber, Alberta, Canada T1G 1X4</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>(1) Comprehensive Financial Planning, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>3554 Mill Road, Gainesville, GA  30504</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Georgia Corporation</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,258,521</amountBeneficiallyOwned>
+        <classPercent>10.10</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,258,521</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>None</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>None</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1,258,521</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the reported shares of Common Stock set forth in Item 4 are owned by investment advisory clients of Comprehensive Financial Planning, Inc., which is deemed to be a beneficial owner of those shares pursuant to Rule 13d-3 under the Securities Exchange Act of 1934, due to its discretionary power to make investment decisions over such shares for its clients and its ability to vote such shares.  In all cases, persons other than Comprehensive Financial Planning, Inc. have the right to receive, or the power to direct the receipt of, dividends from, or the proceeds from the sale of the shares. No investment advisory client of Comprehensive Financial Planning, Inc. is known to have the right to receive, or the power to direct the receipt of dividends from, or the proceeds from the sale of, more than five percent of the Issuer's Common Stock.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Comprehensive Financial Planning, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Raymond L. Howe</signature>
+        <title>Raymond L. Howe, President</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

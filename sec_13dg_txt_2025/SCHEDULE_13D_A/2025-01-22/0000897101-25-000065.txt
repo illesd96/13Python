@@ -1,0 +1,336 @@
+<SEC-DOCUMENT>0000897101-25-000065.txt : 20250122
+<SEC-HEADER>0000897101-25-000065.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122123849
+ACCESSION NUMBER:		0000897101-25-000065
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUVEEN PENNSYLVANIA QUALITY MUNICIPAL INCOME FUND
+		CENTRAL INDEX KEY:			0000870780
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				363743025
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-84374
+		FILM NUMBER:		25544760
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 W WACKER DRIVE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3129178200
+
+	MAIL ADDRESS:	
+		STREET 1:		333 W WACKER
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NUVEEN PENNSYLVANIA INVESTMENT QUALITY MUNICIPAL FUND
+		DATE OF NAME CHANGE:	20121022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NUVEEN PENNSYLVANIA INVESTMENT QUALITY MUNICIPAL FUND INC
+		DATE OF NAME CHANGE:	19920803
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SIT INVESTMENT ASSOCIATES INC
+		CENTRAL INDEX KEY:			0000769317
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				411404829
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3300 IDS CENTER
+		STREET 2:		80 SOUTH EIGHTH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+		BUSINESS PHONE:		6123323223
+
+	MAIL ADDRESS:	
+		STREET 1:		3300 IDS CENTER
+		STREET 2:		80 SOUTH EIGHTH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000897101-24-000224</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SIT INVESTMENT ASSOCIATES INC -->
+          <cik>0000769317</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/21/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000870780</issuerCIK>
+        <issuerCUSIP>670972108</issuerCUSIP>
+        <issuerName>Nuveen Pennsylvania Quality Municipal Income Fund</issuerName>
+        <address>
+          <com:street1>333 West Wacker Drive</com:street1>
+          <com:city>Chicago</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60606</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Paul E. Rasmussen</personName>
+          <personPhoneNum>612-332-3223</personPhoneNum>
+          <personAddress>
+            <com:street1>80 South Eighth Street</com:street1>
+            <com:street2>Suite 3300</com:street2>
+            <com:city>Minneapolis</com:city>
+            <com:stateOrCountry>MN</com:stateOrCountry>
+            <com:zipCode>55402-4130</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000769317</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sit Investment Associates, Inc.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>MN</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1852867.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1852867.00</sharedDispositivePower>
+        <aggregateAmountOwned>1852867.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.9</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001053046</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sit Fixed Income Advisors II, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1852867.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1852867.00</sharedDispositivePower>
+        <aggregateAmountOwned>1852867.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.9</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>Nuveen Pennsylvania Quality Municipal Income Fund</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>333 West Wacker Drive</com:street1>
+          <com:city>Chicago</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60606</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 2 ("Amendment") amends and supplements the statement on Schedule 13D filed on June 5, 2024, and amended by Amendment No. 1 filed on January 15, 2025 (as amended, the "Original Schedule 13D" and, as amended by this Amendment, the "Schedule 13D"), relating to the shares of Common Stock ("Shares)" of Nuveen New Jersey Quality Municipal Income Fund (the "Issuer").  Capitalized terms used but not otherwise defined herein have the meanings set forth in the Original Schedule 13D.  Except as specifically provided herein, each Item of the Original Schedule 13D remains unchanged.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The aggregate percentage of Shares reported owned by Sit Entities herein is based upon 37,217,802 Shares outstanding as of August 31, 2024, which is the total number of Shares outstanding as reported in the Issuer's Report on Form N-CSR filed with the Securities Exchange Commission.
+
+As of the date hereof, the Sit Entities may be deemed to be the beneficial owner of 1,852,867 Shares held in client accounts which represent 4.9% of the Issuer's outstanding Shares.</percentageOfClassSecurities>
+        <numberOfShares>Each of the Sit Entities may be deemed to have shared power to vote and dispose of such Shares.  However, none of SIA's or SFI's directors or executive officers own Shares directly.</numberOfShares>
+        <transactionDesc>Transactions in Shares by the Sit Entities on behalf of their clients in the last 60 days are set forth in Exhibit A.</transactionDesc>
+        <listOfShareholders>The clients of SIA and SFI have the right to participate in the receipt of dividends from, or proceeds from the sales of, the Shares held for their respective accounts</listOfShareholders>
+        <date5PercentOwnership>January 21, 2025</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Exhibit A:  Schedule of Transactions in Shares by Sit Entities in the last 60 days</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Sit Investment Associates, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roger J. Sit</signature>
+          <title>Roger J. Sit, Chairman &amp; CEO</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Sit Fixed Income Advisors II, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roger J. Sit</signature>
+          <title>Roger J. Sit, Chairman &amp; CEO</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>sit250029_ex-a.htm
+<DESCRIPTION>EXHIBIT A
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 10.5pt Consolas; margin: 0; text-align: right"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">EXHIBIT A</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Schedule of Transactions in Shares by Sit Entities in the last 60 days:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; width: 23%; border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">Date of Transaction</TD>
+    <TD STYLE="white-space: nowrap; width: 23%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">Transaction</TD>
+    <TD STYLE="white-space: nowrap; width: 29%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">Shares of Common Stock</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">Price Per Share</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">11/29/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">BUY</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">10,000 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">12.03 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/05/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">BUY</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">10,000 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">12.09 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/06/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">BUY</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">4,078 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">12.07 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/09/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">BUY</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">2,500 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">12.07 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/13/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">29,181 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.74 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/18/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">5,590 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.57 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/20/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">BUY</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">10,000 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.27 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/23/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">16,474 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.13 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">12/24/2024</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">22,136 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.15 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">01/13/2025</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">16,592 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.16 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">01/14/2025</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">4,876 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.17 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">01/15/2025</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">12,106 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.18 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">01/16/2025</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">22,884 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.20 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">01/17/2025</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">35,000 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.26 </TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">01/21/2025</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">SELL</TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">5,866 </TD>
+    <TD STYLE="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: right">11.34 </TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

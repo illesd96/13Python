@@ -1,0 +1,436 @@
+<SEC-DOCUMENT>0000935836-25-000060.txt : 20250113
+<SEC-HEADER>0000935836-25-000060.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113191817
+ACCESSION NUMBER:		0000935836-25-000060
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250113
+DATE AS OF CHANGE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Zymeworks Inc.
+		CENTRAL INDEX KEY:			0001937653
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93790
+		FILM NUMBER:		25527408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		108 PATRIOT DRIVE, SUITE A
+		CITY:			MIDDLETOWN
+		STATE:			DE
+		ZIP:			19709
+		BUSINESS PHONE:		302-274-8744
+
+	MAIL ADDRESS:	
+		STREET 1:		108 PATRIOT DRIVE, SUITE A
+		CITY:			MIDDLETOWN
+		STATE:			DE
+		ZIP:			19709
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Zymeworks Delaware Inc.
+		DATE OF NAME CHANGE:	20220712
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EcoR1 Capital, LLC
+		CENTRAL INDEX KEY:			0001587114
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		357 TEHAMA STREET #3
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		415-448-6534
+
+	MAIL ADDRESS:	
+		STREET 1:		357 TEHAMA STREET #3
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000935836-24-000244</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: EcoR1 Capital, LLC -->
+          <cik>0001587114</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/10/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001937653</issuerCIK>
+        <issuerCUSIP>98985Y108</issuerCUSIP>
+        <issuerName>Zymeworks Inc.</issuerName>
+        <address>
+          <com:street1>108 Patriot Drive, Suite A</com:street1>
+          <com:city>Middletown</com:city>
+          <com:stateOrCountry>DE</com:stateOrCountry>
+          <com:zipCode>19709</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Anthony J. Caldwell, Esq.</personName>
+          <personPhoneNum>415-421-6500</personPhoneNum>
+          <personAddress>
+            <com:street1>Shartsis Friese, LLP</com:street1>
+            <com:street2>425 Market Street, 11th Floor</com:street2>
+            <com:city>San Francisco</com:city>
+            <com:stateOrCountry>CA</com:stateOrCountry>
+            <com:zipCode>94105</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001587114</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>EcoR1 Capital, LLC</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>15411078.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>15411078.00</sharedDispositivePower>
+        <aggregateAmountOwned>15411078.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>22.4</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Percentage calculated based on 68,877,526 shares of Common Stock outstanding on October 30, 2024, as reported in the Form 10-Q filed by the Issuer for the quarter ended September 30, 2024.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001454385</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Oleg Nodelman</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>15411078.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>15411078.00</sharedDispositivePower>
+        <aggregateAmountOwned>15411078.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>22.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <commentContent>Percentage calculated based on 68,877,526 shares of Common Stock outstanding on October 30, 2024, as reported in the Form 10-Q filed by the Issuer for the quarter ended September 30, 2024.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001598292</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>EcoR1 Capital Fund Qualified, L.P.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>14442664.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>14442664.00</sharedDispositivePower>
+        <aggregateAmountOwned>14442664.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>Percentage calculated based on 68,877,526 shares of Common Stock outstanding on October 30, 2024, as reported in the Form 10-Q filed by the Issuer for the quarter ended September 30, 2024.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>Zymeworks Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>108 Patriot Drive, Suite A</com:street1>
+          <com:city>Middletown</com:city>
+          <com:stateOrCountry>DE</com:stateOrCountry>
+          <com:zipCode>19709</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>The reporting persons are:
+
+EcoR1 Capital, LLC, a Delaware limited liability company ("EcoR1")
+
+EcoR1 Capital Fund Qualified, L.P., a Delaware limited partnership ("Qualified Fund")
+
+Oleg Nodelman
+
+Qualified Fund is filing this statement jointly with the other reporting persons, but not as a member of a group, and it expressly disclaims membership in a group.  In addition, the filing of this Schedule 13D on behalf of Qualified Fund should not be construed as an admission that it is, and it disclaims that it is, a beneficial owner, as defined in Rule 13d-3 under the Act, of any securities covered by this Schedule 13D.  Each reporting person also disclaims beneficial ownership of the securities reported herein except to the extent of that person's pecuniary interest therein.</filingPersonName>
+        <principalBusinessAddress>357 Tehama Street #3, San Francisco, CA 94103</principalBusinessAddress>
+        <principalJob>EcoR1 is an investment adviser to investment funds, including Qualified Fund (collectively, the "Funds").  EcoR1 is the general partner of the Funds.  Mr. Nodelman is the manager and control person of EcoR1.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the reporting persons has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the reporting persons was a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>For citizenship of the reporting persons, see Item 6 of each reporting person's cover page.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>TThe Funds used their working capital to purchase the Issuer's Common Stock and Pre-Funded Warrants to purchase the Issuer's Common Stock.
+
+The amount of funds used in purchasing the Issuer's Common Stock were as follows:
+
+EcoR1 Capital Fund Qualified, L.P.:  $117,035,093.68
+
+EcoR1 Capital Fund, L.P.:  $8,362,904.44
+
+The source amount of funds used in purchasing Pre-Funded Warrants to purchase the Issuer's Common Stock were as follows:
+
+EcoR1 Capital Fund Qualified, L.P.:  $47,364,999.62
+
+EcoR1 Capital Fund, L.P.:  $2,634,993.17</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The reporting persons are filing this Schedule 13D because one of EcoR1's employees, Scott Platshon, is on the Issuer's board of directors.  The reporting persons acquired the Stock for investment purposes based on their belief that the Issuer's Common Stock, when purchased, was undervalued and represented an attractive investment opportunity.  The reporting persons will routinely monitor the Issuer regarding a wide variety of factors that affect their investment considerations, including, current and anticipated future trading prices of the Common Stock and other securities, the Issuer's operations, assets, prospects, financial position, and business development, Issuer's management, Issuer-related competitive and strategic matters, general economic, financial market and industry conditions, and other investment considerations. Depending on their evaluation of various factors, the reporting persons may take such actions regarding their holdings of the Issuer's securities as they deem appropriate in light of circumstances existing from time to time. Such actions may include purchasing additional Common Stock in the open market, through privately negotiated transactions with third parties or otherwise,  and selling at any time, in the open market, through privately negotiated transactions with third parties or otherwise, all or part of the Common Stock that they now own or hereafter acquire. The reporting persons also may from time to time enter into or unwind hedging or other derivative transactions with respect to the Common Stock or pledge their interests in the Common Stock to obtain liquidity. In addition, from time to time the reporting persons and their representatives and advisers may communicate with other stockholders, industry participants and other interested parties about the Issuer.
+
+The reporting persons have no present plan or proposal that relates to or would result in any of the actions specified in clauses (a) through (j) of Item 4 of Schedule 13D.  However, the reporting persons may recommend action to the Issuer's management, board of directors and stockholders. Any such actions could involve one or more of the events referred to in clauses (a) through (j) of Item 4 of Schedule 13D, including, potentially, one or more mergers, consolidations, sales or acquisitions of assets, changes in control, issuances, purchases, dispositions or pledges of securities or other changes in capitalization.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Aggregate number of shares beneficially owned by the reporting persons:
+
+EcoR1:  15,411,078
+
+Oleg Nodelman:  15,411,078
+
+Qualified Fund:  14,442,664
+
+Aggregate percentage of the class of Common Stock beneficially owned by the reporting persons:
+
+EcoR1:  22.4%
+
+Oleg Nodelman:  22.4%
+
+Qualified Fund:  21.0%
+
+These numbers exclude 5,086,521 shares of Common Stock issuable on exercise of Pre-Funded Warrants held by the reporting persons, because those Pre-Funded Warrants are subject to a 19.99% beneficial ownership limitation and may not be exercised at this time.</percentageOfClassSecurities>
+        <numberOfShares>Number of shares as to which each reporting person has:
+i) Sole power to vote or to direct the vote:
+
+EcoR1:  0
+
+Oleg Nodelman:  0
+
+Qualified Fund:  0
+
+(ii) Shared power to vote or to direct the vote:
+
+EcoR1:  15,411,078
+
+Oleg Nodelman:  15,411,078
+
+Qualified Fund:  14,442,664
+
+(iii) Sole power to dispose or to direct the disposition of:
+
+EcoR1:  0
+
+Oleg Nodelman:  0
+
+Qualified Fund:  0
+
+(iv) Shared power to dispose or to direct the disposition of:
+
+EcoR1:  15,411,078
+
+Oleg Nodelman:  15,411,078
+
+Qualified Fund:  14,442,664</numberOfShares>
+        <transactionDesc>The reporting persons engaged in the following transactions in the Issuer's Common Stock in the 60 days preceding the date of this Schedule 13D:
+
+On 12/24/2024, the Funds purchased 11,958 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.1241 per share.  Qualified Fund purchased 11,254 of these shares.
+
+On 12/26/2024, the Funds purchased 16,692 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.3804 per share.  Qualified Fund purchased 15,707 of these shares.
+
+On 12/27/2024, the Funds purchased 101,659 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.4914 per share.  Qualified Fund purchased 95,672 of these shares.
+
+On 12/30/2024, the Funds purchased 58,988 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.4661 per share.  Qualified Fund purchased 55,513 of these shares.
+
+On 12/31/2024, the Funds purchased 146,501 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.5695 per share.  Qualified Fund purchased 61,501 of these shares.
+
+On 1/2/2025, the Funds purchased 157,880 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.7796 per share.  Qualified Fund purchased 152,346 of these shares.
+
+On 1/8/2025, the Funds purchased 21,021 shares of the Issuer's Common Stock for a dollar-weighted average price of $14.073 per share.  Qualified Fund purchased 19,752 of these shares.
+
+On 1/10/2025, the Funds purchased 204,098 shares of the Issuer's Common Stock for a dollar-weighted average price of $13.126 per share.  Qualified Fund purchased 191,791 of these shares.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>EcoR1 is the investment adviser to its clients pursuant to investment management agreements or limited partnership agreements providing to EcoR1 the authority, among other things, to invest the funds of such clients in Stock, to vote and dispose of Stock and to file this statement on behalf of such clients. Pursuant to such limited partnership agreements, EcoR1 is entitled to allocations based on assets under management and realized and unrealized gains.  Pursuant to such investment management agreements, EcoR1 is entitled to fees based on assets under management and realized and unrealized gains.
+
+Securities Purchase Agreement
+
+On December 23, 2023, the reporting persons entered into a securities purchase agreement (the "Securities Purchase Agreement") for a private placement with the Issuer. Pursuant to the Securities Purchase Agreement, the reporting persons purchased 5,086,521 pre-funded warrants (the "Pre-Funded Warrants") to purchase 5,086,521 shares of Common Stock of the Issuer (the "Warrant Shares").  In addition, the Issuer agreed that EcoR1 will have the right to nominate one of its partners as a member of the board of directors of the Issuer, subject to specified conditions. Such nomination right terminated upon the effective date of the appointment of Scott Platshon to the Issuer's board of directors.
+
+Pre-Funded Warrants
+
+The Pre-Funded Warrants will be exercisable at an exercise price equal to $0.0001 per share, subject to adjustments as provided under the terms of the Pre-Funded Warrants. The Pre-Funded Warrants are exercisable at any time, except that the Pre-Funded Warrants cannot be exercised if, after giving effect or immediately prior to such exercise, the reporting persons, together with their affiliates and any other persons whose beneficial ownership of shares of Common Stock would be aggregated with the reporting persons for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), would beneficially own more than 19.99% (the "Maximum Percentage") of the total number of issued and outstanding shares of Common Stock or voting power of the Issuer following such exercise. The Maximum Percentage may be increased or decreased by the reporting persons with 61 days' written notice to the Issuer; provided, however, that such percentage may in no event exceed 19.99%.
+
+Registration Rights Agreement
+
+The reporting persons also entered into a registration rights agreement (the "Registration Rights Agreement") with the Issuer on December 23, 2023, requiring the Issuer to register the resale of the Warrant Shares (the "Registrable Securities"). Under the Registration Rights Agreement, the Issuer agreed to file a registration statement covering the resale by the reporting persons of their Registrable Securities upon the earlier of March 15, 2024 and the first business day following the date that the Issuer files it Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the "Filing Deadline").
+
+The Issuer agreed to use commercially reasonable efforts to cause such registration statement or final prospectus, as applicable, to be declared effective as soon as practicable, but no later than the later of April 29, 2024 and the 123rd calendar day following the closing date (the "Effectiveness Deadline"), and to keep such registration statement effective for a period that will terminate upon the earliest of (i) the date that all Registrable Securities covered by such registration statement or final prospectus, as applicable, have been sold, (ii) the date that all Registrable Securities covered by such registration statement or final prospectus, as applicable, may be sold without the requirement for the Issuer to be in compliance with the current public information required under Rule 144 as to such Registrable Securities and without volume or manner-of-sale restrictions and (iii) two (2) years after the date of the Securities Purchase Agreement. The Issuer agreed to be responsible for all reasonable expenses in connection with the filing of any registration statement or final prospectus, as applicable. For the avoidance of doubt, the fees and expenses of the reporting persons' counsel shall be the responsibility of the reporting persons, and not the Issuer.
+
+In the event (i) the registration statement or final prospectus, as applicable, covering the Registrable Securities has not been filed with the Securities and Exchange Commission (the "SEC") on or prior to the Filing Deadline, (ii) the registration statement or final prospectus, as applicable, covering the Registrable Securities is not declared effective by the SEC prior to the earlier of (a) ten (10) business days after the date on which the Issuer is notified by the SEC that the registration statement or final prospectus, as applicable, will not be reviewed by the SEC or is not subject to further comment by the SEC and (b) the Effectiveness Deadline, or (iii) after the registration statement or final prospectus, as applicable, has been declared effective by the SEC, sales cannot be made pursuant to the registration statement or final prospectus, as applicable, for any reason, subject to certain limited exceptions, then the Issuer has agreed to make pro rata payments to each reporting person as liquidated damages and not as a penalty, in an amount equal to one percent (1%) of the aggregate purchase price paid by such Issuer pursuant to the Securities Purchase Agreement for any shares of Common Stock held by such Issuer pursuant to the exercise of Pre-Funded Warrants but not for any unissued shares of Common Stock issuable upon exercise of the Pre-Funded Warrants for each 30-day period or pro rata for any portion thereof (a) following the Filing Deadline for which no registration statement or final prospectus, as applicable, is filed with respect to the Registrable Securities or (b) during which such registration statement or final prospectus, as applicable, is unavailable, as applicable. Payment of such liquidated damages shall be the reporting persons' exclusive remedy for such events. In addition, (i) the aggregate amount of liquidated damages payable to a reporting person shall not exceed, in the aggregate, six percent (6%) of the aggregate purchase price paid by such reporting person and (ii) the Issuer shall not be liable in any thirty (30) day period for liquidated damages in excess of one percent (1%) of the aggregate purchase price paid by the  reporting person.
+
+The Issuer has granted the reporting persons customary indemnification rights in connection with the registration statement. The reporting persons have also granted the Issuer customary indemnification rights in connection with the registration statement.
+
+The foregoing description of the material terms of the Securities Purchase Agreement, the Registration Rights Agreement  and the Form of Pre-Funded Warrant to purchase shares of Common Stock is qualified in its entirety by reference to those documents, each of which is referenced in Exhibits B, C and D hereto, respectively, and is incorporated by reference herein.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1 - Agreement Regarding Joint Filing of Statement on Schedule 13D or 13G.
+
+Exhibit 99.2 - Securities Purchase Agreement, dated December 23, 2023, by and among the Issuer and the reporting persons, attached as Exhibit 10.1 to the Issuer's Form 8-K filed on December 26, 2023.
+
+Exhibit 99.3 - Registration Rights Agreement, dated December 23, 2023, by and among the Issuer and the reporting persons, attached as Exhibit 10.2 to the Issuer's Form 8-K filed on December 26, 2023.
+
+Exhibit 99.4 - Form of Pre-Funded Warrant, attached as Exhibit 10.3 to the Issuer's Form 8-K filed on December 26, 2023.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>EcoR1 Capital, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Oleg Nodelman</signature>
+          <title>Manager</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Oleg Nodelman</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Oleg Nodelman</signature>
+          <title>Reporting person</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>EcoR1 Capital Fund Qualified, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Oleg Nodelman</signature>
+          <title>Manager of the General Partner, EcoR1 Capital, LLC</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1 AGREEMENT
+<SEQUENCE>2
+<FILENAME>zyme13da2.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">EXHIBIT 99.1</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">AGREEMENT REGARDING JOINT FILING</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">OF STATEMENT ON SCHEDULE 13D OR 13G</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The undersigned agree to file jointly with the Securities
+and Exchange Commission (the &ldquo;SEC&rdquo;) any and all statements on Schedule 13D or Schedule 13G or Forms 3, 4 or 5(and any amendments
+or supplements thereto) required under section 13(d) and 16(a) of the Securities Exchange Act of 1934, as amended, in connection with
+purchases by the undersigned of the securities of any issuer. For that purpose, the undersigned hereby constitute and appoint EcoR1 Capital,
+LLC, a Delaware limited liability company, as their true and lawful agent and attorney-in-fact, with full power and authority for and
+on behalf of the undersigned to prepare or cause to be prepared, sign, file with the SEC and furnish to any other person all certificates,
+instruments, agreements and documents necessary to comply with section 13(d) and section 16(a) of the Securities Exchange Act of 1934,
+as amended, in connection with said purchases, and to do and perform every act necessary and proper to be done incident to the exercise
+of the foregoing power, as fully as the undersigned might or could do if personally present.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Dated:&#9;January 13, 2025</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 47%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 53%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"><B>ECOR1 CAPITAL, LLC</B><BR>
+    <BR>
+    <BR>
+    By:&#9;<I><U>/s/ Oleg Nodelman&#9;&#9;&#9;</U></I><BR>
+    &#9;Oleg Nodelman<BR>
+    &#9;Manager</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt">&nbsp;</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"><B>ECOR1 CAPITAL FUND QUALIFIED, L.P.<BR>
+    <BR>
+    </B>By:&#9;EcoR1 Capital, LLC,<BR>
+    &#9;General Partner<BR>
+    <BR>
+    By:&#9;<U>/s/ <I>Oleg Nodelman&#9;&#9;&#9;</I></U><BR>
+    &#9;Oleg Nodelman<BR>
+    &#9;Manager</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 12pt Times New Roman, Times, Serif; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0"><I><U>/s/ Oleg Nodelman&#9;&#9;&#9;&#9;</U></I></P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Oleg Nodelman</P></TD></TR>
+  </TABLE>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

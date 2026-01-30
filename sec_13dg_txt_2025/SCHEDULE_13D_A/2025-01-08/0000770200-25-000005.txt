@@ -1,0 +1,1487 @@
+<SEC-DOCUMENT>0000770200-25-000005.txt : 20250108
+<SEC-HEADER>0000770200-25-000005.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108122000
+ACCESSION NUMBER:		0000770200-25-000005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250108
+DATE AS OF CHANGE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEXIL INVESTMENT TRUST
+		CENTRAL INDEX KEY:			0001059213
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				510382212
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-86564
+		FILM NUMBER:		25517367
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2255 BUFFALO ROAD
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14624
+		BUSINESS PHONE:		2127850900
+
+	MAIL ADDRESS:	
+		STREET 1:		2255 BUFFALO ROAD
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14624
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIVIDEND & INCOME FUND
+		DATE OF NAME CHANGE:	20120523
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIVIDEND & INCOME FUND, INC.
+		DATE OF NAME CHANGE:	20110210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHARTWELL DIVIDEND & INCOME FUND INC
+		DATE OF NAME CHANGE:	19980406
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bexil Securities LLC
+		CENTRAL INDEX KEY:			0001510001
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				272302496
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2255 BUFFALO ROAD
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14624
+		BUSINESS PHONE:		212-785-0900
+
+	MAIL ADDRESS:	
+		STREET 1:		2255 BUFFALO ROAD
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001510001-12-000003</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001510001</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>10</amendmentNo>
+<securitiesClassTitle>Shares of Beneficial Interest</securitiesClassTitle>
+<dateOfEvent>12/31/2024</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001059213</issuerCIK>
+<issuerCUSIP>25538A204</issuerCUSIP>
+<issuerName>Bexil Investment Trust</issuerName>
+<address>
+<com:street1>2255 Buffalo Road</com:street1>
+<com:city>Rochester</com:city>
+<com:stateOrCountry>NY</com:stateOrCountry>
+<com:zipCode>14624</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Russell L. Kamerman, Esq.</personName>
+<personPhoneNum>212-785-0900</personPhoneNum>
+<personAddress>
+<com:street1>2255 Buffalo Road</com:street1>
+<com:city>Rochester</com:city>
+<com:stateOrCountry>NY</com:stateOrCountry>
+<com:zipCode>14624</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001510001</reportingPersonCIK>
+<reportingPersonName>Bexil Securities LLC</reportingPersonName>
+<fundType>WC</fundType>
+<citizenshipOrOrganization>MD</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>879274.6</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>879274.6</sharedDispositivePower>
+<aggregateAmountOwned>879274.6</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>6.8</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001520629</reportingPersonCIK>
+<reportingPersonName>Bexil Advisers LLC</reportingPersonName>
+<fundType>WC</fundType>
+<citizenshipOrOrganization>MD</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>684699.31</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>684699.31</sharedDispositivePower>
+<aggregateAmountOwned>684699.31</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>5.3</percentOfClass>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001023714</reportingPersonCIK>
+<reportingPersonName>Bexil Corporation</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>MD</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1589351.71</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1589351.71</sharedDispositivePower>
+<aggregateAmountOwned>1589351.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>12.3</percentOfClass>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001141394</reportingPersonCIK>
+<reportingPersonName>Midas Securities Group, Inc.</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1651603.71</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1651603.71</sharedDispositivePower>
+<aggregateAmountOwned>1651603.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>12.8</percentOfClass>
+<typeOfReportingPerson>BD</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0000052234</reportingPersonCIK>
+<reportingPersonName>Winmill &amp; Co. Incorporated</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1806376.71</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1806376.71</sharedDispositivePower>
+<aggregateAmountOwned>1806376.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>14</percentOfClass>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Winmill Family Trust</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>NH</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1806376.71</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1806376.71</sharedDispositivePower>
+<aggregateAmountOwned>1806376.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>14</percentOfClass>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001019264</reportingPersonCIK>
+<reportingPersonName>Mark Campbell Winmill</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1806376.71</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1806376.71</sharedDispositivePower>
+<aggregateAmountOwned>1806376.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>14</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001018500</reportingPersonCIK>
+<reportingPersonName>Thomas Bassett Winmill</reportingPersonName>
+<fundType>AF</fundType>
+<fundType>PF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>51078</soleVotingPower>
+<sharedVotingPower>1806376.71</sharedVotingPower>
+<soleDispositivePower>51078</soleDispositivePower>
+<sharedDispositivePower>1806376.71</sharedDispositivePower>
+<aggregateAmountOwned>1857454.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>14.4</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001733616</reportingPersonCIK>
+<reportingPersonName>William M. Winmill</reportingPersonName>
+<fundType>AF</fundType>
+<fundType>PF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>7700</soleVotingPower>
+<sharedVotingPower>1806376.71</sharedVotingPower>
+<soleDispositivePower>7700</soleDispositivePower>
+<sharedDispositivePower>1806376.71</sharedDispositivePower>
+<aggregateAmountOwned>1814076.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>14</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0002050757</reportingPersonCIK>
+<reportingPersonName>Woodworth Borst Winmill</reportingPersonName>
+<fundType>AF</fundType>
+<fundType>PF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>12400</soleVotingPower>
+<sharedVotingPower>1806376.71</sharedVotingPower>
+<soleDispositivePower>12400</soleDispositivePower>
+<sharedDispositivePower>1806376.71</sharedDispositivePower>
+<aggregateAmountOwned>1818776.71</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>14.1</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Shares of Beneficial Interest</securityTitle>
+<issuerName>Bexil Investment Trust</issuerName>
+<issuerPrincipalAddress>
+<com:street1>2255 Buffalo Road</com:street1>
+<com:city>Rochester</com:city>
+<com:stateOrCountry>NY</com:stateOrCountry>
+<com:zipCode>14624</com:zipCode>
+</issuerPrincipalAddress>
+</item1>
+<item2>
+<filingPersonName>(a) - (c) This Schedule 13D is being filed by the following (collectively, the "Reporting Persons"): &#13;
+&#13;
+Bexil Securities LLC ("BSL")&#13;
+Maryland limited liability company&#13;
+Business services&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Bexil Advisers LLC ("BAL")&#13;
+Maryland limited liability company&#13;
+Investment adviser&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Bexil Corporation ("BXLC")&#13;
+Maryland corporation&#13;
+Holding company&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Midas Securities Group, Inc. ("MSG")&#13;
+Delaware corporation &#13;
+Broker/dealer&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Winmill &amp; Co. Incorporated ("WCI")&#13;
+Delaware corporation&#13;
+Holding company&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Winmill Family Trust (the "Trust"), &#13;
+New Hampshire trust &#13;
+Holding company&#13;
+PO Box 1198, Walpole, NH 03608&#13;
+&#13;
+Mark C. Winmill&#13;
+3814 Route 44, Millbrook, NY 12545&#13;
+&#13;
+Thomas B. Winmill &#13;
+PO Box 4, Walpole, NH 03608&#13;
+&#13;
+William M. Winmill&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Woodworth B. Winmill&#13;
+2255 Buffalo Road, Rochester, NY 14624&#13;
+&#13;
+Additional information regarding the Reporting Persons filing this Schedule 13D is attached hereto as Exhibit A.</filingPersonName>
+<principalBusinessAddress>See Item 2(a).</principalBusinessAddress>
+<principalJob>See Item 2(a).</principalJob>
+<hasBeenConvicted>None.</hasBeenConvicted>
+<convictionDescription>None.</convictionDescription>
+<citizenship>Mark C. Winmill, Thomas B. Winmill, William M. Winmill, and Woodworth B. Winmill are citizens of the U.S.A.</citizenship>
+</item2>
+<item3>
+<fundsSource>BSL and BXLC used working capital to acquire Shares. Each of Thomas B. Winmill, William M. Winmill, and Woodworth B. Winmill used personal funds to acquire his directly owned Shares. BXLC, MSG, WCI, the Trust, Thomas B. Winmill, Mark C. Winmill, William M. Winmill and Woodworth B. Winmill may be deemed to have indirect beneficial ownership of Shares held by BSL and BAL, which each of them disclaim.</fundsSource>
+</item3>
+<item4>
+<transactionPurpose>This amendment relates to the acquisition of Shares by the Reporting Persons for investment purposes.   &#13;
+ &#13;
+Notwithstanding any of the foregoing, the Reporting Persons may at any time modify, change, abandon, or replace, some or all of the foregoing purposes and plans and discussions relating thereto or discontinue or re-continue such modifications, changes, abandonments, or replacements at any time.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>Incorporated by reference to Items (7) - (11) and (13) of the cover page relating to each Reporting Person. BSL, BAL, BXLC, MSG, WCI, the Trust, Mark C. Winmill William M. Winmill, and Woodworth B. Winmill disclaim beneficial ownership of the Shares held by Thomas B. Winmill. BXLC, MSG, WCI, the Trust, Mark C. Winmill, Thomas B. Winmill William M. Winmill, and Woodworth B. Winmill disclaim beneficial ownership of the Shares held by BSL and BAL. BSL disclaims beneficial ownership of the Shares held by BAL. BAL disclaims beneficial ownership of the Shares held by BSL.</percentageOfClassSecurities>
+<numberOfShares>Power to vote and to dispose of the Shares resides with the Reporting Persons as and to the extent described in the separate reporting page for each Reporting Person.</numberOfShares>
+<transactionDesc>During the last sixty days, the following transactions were effected in the Shares by the Reporting Persons:&#13;
+&#13;
+Reporting Person: BSL&#13;
+Date: 12/31/2024&#13;
+Transaction: Dividend Distribution Reinvestment&#13;
+Number of Shares: 21,896.33	&#13;
+Price per Share: $12.53&#13;
+Where and How Transaction Effected: Issuer Dividend Reinvestment Plan&#13;
+&#13;
+Reporting Person: BAL&#13;
+Date: 12/31/2024&#13;
+Transaction: Dividend Distribution Reinvestment&#13;
+Number of Shares: 17,050.88&#13;
+Price per Share: $12.53&#13;
+Where and How Transaction Effected: Issuer Dividend Reinvestment Plan&#13;
+&#13;
+Reporting Person: BXLC&#13;
+Date: 12/31/2024&#13;
+Transaction: Dividend Distribution Reinvestment&#13;
+Number of Shares: 631.98&#13;
+Price per Share: $12.53&#13;
+Where and How Transaction Effected: Issuer Dividend Reinvestment Plan</transactionDesc>
+<listOfShareholders>None.</listOfShareholders>
+<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+</item5>
+<item6>
+<contractDescription>BXLC is the sole member of BSL and BAL, the investment manager of the Issuer. BXLC is a holding company. Thomas B. Winmill is a director of BXLC.  MSG owns approximately 21% of the outstanding shares of BXLC. MSG, a registered broker/dealer, is a wholly owned subsidiary of WCI. WCI is also a holding company. The Trust owns all of the voting stock of WCI. The Trust has four trustees, including Thomas B. Winmill, Mark C. Winmill, William M. Winmill, and Woodworth B. Winmill each with equal voting rights, meaning that a majority of the trustees must agree with respect to voting and investment decisions. &#13;
+ &#13;
+BAL is the investment manager of the Issuer.  Pursuant to an investment management agreement effective September 19, 2012 ("IMA"), BAL receives a fee payable monthly for investment advisory services at an annual rate of 0.95% of the Issuer's managed assets. "Managed assets" means the average weekly value of the Issuer's total assets minus the sum of the Issuer's liabilities, which liabilities exclude debt relating to leverage, short term debt, and the aggregate liquidation preference of any outstanding preferred stock. &#13;
+ &#13;
+Additionally, pursuant to the IMA, the Issuer reimburses BAL for providing at cost certain administrative services comprised of compliance and accounting services.&#13;
+ &#13;
+Certain officers and directors of the Issuer are officers, directors, trustees, and managers of the Reporting Persons.&#13;
+ &#13;
+Each of Mark C. Winmill, William M. Winmill, and Woodworth B. Winmill, a Reporting Person, may be deemed to be a controlling person of WCI and MSG. Each of Thomas B. Winmill, Mark C. Winmill, William M. Winmill, Woodworth B. Winmill Russell Kamerman, Donald Klimoski II, and Thomas O'Malley are directors, managers, and/or officers of one or more of WCI, MSG, BXLC, BSL, BAL, and the Issuer. The Issuer has standing audit, nominating, and governance committees comprised of independent directors Roger A. Atkinson, Jon Tomasson, and Peter K. Werner. The function of the audit committee is to routinely review financial statements and other audit-related matters as they arise throughout the year. The nominating committee, among other things, nominates candidates to the Board of Trustees. The primary purpose of the governance committee is to assist the Board of Trustees in serving its oversight role on behalf of the interests of the Issuer and all of its shareholders in respect to the governing documents of the issuer. The Issuer also has an executive committee comprised of Thomas B. Winmill.</contractDescription>
+</item6>
+<item7>
+<filedExhibits>Exhibit A:	Certain information concerning the Reporting Persons.&#13;
+Exhibit B:	Agreement to file SC 13D jointly.</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Bexil Securities LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Russell Kamerman</signature>
+<title>Russell Kamerman/General Counsel</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Bexil Advisers LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Russell Kamerman</signature>
+<title>Russell Kamerman/General Counsel</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Bexil Corporation</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Russell Kamerman</signature>
+<title>Russell Kamerman/General Counsel</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Midas Securities Group, Inc.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Russell Kamerman</signature>
+<title>Russell Kamerman/General Counsel</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Winmill &amp; Co. Incorporated</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Donald Klimoski II</signature>
+<title>Donald Klimoski II/General Counsel</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Winmill Family Trust</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Thomas Winmill</signature>
+<title>Thomas Winmill/Trustee</title>
+<date>01/08/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Mark C. Winmill</signature>
+<title>Mark C. Winmill/Trustee</title>
+<date>01/08/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ William M. Winmill</signature>
+<title>William M. Winmill/Trustee</title>
+<date>01/08/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Woodworth B. Winmill</signature>
+<title>Woodworth B. Winmill/Trustee</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Mark Campbell Winmill</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Mark C. Winmill</signature>
+<title>Mark C. Winmill</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Thomas Bassett Winmill</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Thomas B. Winmill</signature>
+<title>Thomas B. Winmill</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>William M. Winmill</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ William M. Winmill</signature>
+<title>William M. Winmill</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Woodworth Borst Winmill</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Woodworth B. Winmill</signature>
+<title>Woodworth B. Winmill</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>exhibita.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Midas Management Corporation
+         Document created using Broadridge PROfile 24.12.1.5274
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <div style="text-align: center; font-weight: bold;">EXHIBIT A</div>
+    <div>&#160;&#160;&#160;&#160;&#160;</div>
+    <div>&#160;&#160;&#160;&#160;The business address for all those listed in Exhibit A (except the Winmill Family Trust (the &#8220;Trust&#8221;) and Thomas B. Winmill) is 2255 Buffalo Road, Rochester, NY 14624. The Trust's business address is PO Box 1198, Walpole, NH 03608.&#160; Thomas B.
+      Winmill's business address is PO Box 4, Walpole, NH 03608.</div>
+    <div>&#160;</div>
+    <div>&#160;&#160;&#160;&#160;The managers of Bexil Securities LLC (&#8220;BSL&#8221;) and Bexil Advisers LLC (&#8220;BAL&#8221;) are Thomas B. Winmill and Thomas O&#8217;Malley. The directors of Bexil Corporation (&#8220;BXLC&#8221;) are Philip Kadinsky-Cade,&#160;John C. Hitchcock, Thomas B. Winmill, William M.
+      Winmill, and Woodworth B. Winmill. The directors of Midas Securities Group, Inc. (&#8220;MSG&#8221;) are Thomas O&#8217;Malley and Thomas B. Winmill. The directors of Winmill &amp; Co. Incorporated (&#8220;WCI&#8221;) are&#160;Mark C. Winmill, Thomas B. Winmill, William M. Winmill,
+      Woodworth B. Winmill, John Arbolino,&#160;Mark Hansen, and North Sturtevant. The directors of the Issuer are Roger A. Atkinson, Jon Tomasson, Peter K. Werner, William M. Winmill, and Thomas B. Winmill. The trustees of the Trust&#160;are Mark C. Winmill, Thomas
+      B. Winmill, William M. Winmill, and Woodworth B. Winmill.</div>
+    <div><br>
+    </div>
+    <div style="text-indent: 36pt;">The executive officers of MSG, and WCI, and Issuer, are Thomas B. Winmill, Mark C. Winmill, Thomas O&#8217;Malley, Donald Klimoski II, Heidi Keating, and Louis Soulios.&#160; The executive officers of BSL, BAL, BXLC include all of
+      the foregoing executive officers and Mark C. Winmill.&#160; The Trust does not have any executive officers.</div>
+    <div>&#160;</div>
+    <div style="font-weight: bold;">Issuer, BSL, BAL, BXLC, MSG, and&#160;WCI</div>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z41521905f3d84ba8bbf47be782a618c0">
+
+        <tr>
+          <td style="width: 26%; vertical-align: bottom; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+            <div style="margin-left: 18pt; font-weight: bold;">Name</div>
+          </td>
+          <td style="width: 74%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt; font-weight: bold;">Present principal occupation or employment and the name, principal business and address of any corporation or other organization in which such employment is conducted</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Philip Kadinsky-Cade</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Director of BXLC.&#160;&#160;Independent trader since 2007. Previously, Mr. Kadinsky-Cade was a founder and Managing Member of Bluehaven Management Group, LLC and co-organizer/manager of Grey Owl Partners, LP.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 9pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;John C. Hitchcock</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Director of BXLC.&#160;&#160;Managing Director &amp; Vice President, Energy Intelligence</div>
+            <div style="margin-left: 18pt;">Group. Mr. Hitchcock is an officer of a 60-plus-year-old company whose core lines include web-based newsletters, conferences and research. Direct reports have included general counsel, circulation and billing,
+              compliance and sales and marketing. He previously held editorial and executive positions with Dow Jones &amp; Co. and Institutional Investor Inc.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Thomas B. Winmill</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">President, Chief Executive Officer, Chief Legal Officer, and a Director or Trustee of the Issuer, Foxby Corp., and Midas Series Trust (&#8220;MST&#8221;) (collectively, the &#8220;Funds&#8221;),&#160;BAL and Midas Management Corporation
+              (registered investment advisers, collectively, the &#8220;Advisers&#8221;), BSL and MSG (registered broker-dealer, the &#8220;Broker Dealer&#8221;), BXLC, and WCI. He is also a Director of Global Self Storage, Inc. (&#8220;SELF&#8221;).</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>William M. Winmill</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Trustee of the issuer.&#160; Director of BXLC and WCI since 2021 and Investor at Chester Holdings, a family investment office in Greenwich, CT, 2021 &#8211; present. Previously, he served as Vice President and/or in such
+              other capacities of BXLC, WCI, its affiliates, and the Issuer, from 2014 &#8211; 2019.&#160; He graduated from Columbia University Graduate School of Business in 2021.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>Woodworth B. Winmill</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Associate at Labaton Keller Sucharow LLP from 2024 &#8211; present, director of Foxby Corp. 2024 &#8211; present director of WCI 2021 &#8211; present, and director of BXLC 2023 &#8211; present. Previously, he served in various
+              employment or other capacities of the BXLC, WCI, its affiliates, and the Issuer, from 2016 &#8211; 2017.&#160; He graduated from Columbia Law School in 2021.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>John Arbolino</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Director of WCI. Mr. Arbolino has also served as Vice President of Corporate Development at Solomon Page Group, LLC, 2014 &#8211; 2017 and is principal at Boothroyd &amp; Co, 2017 &#8211; present.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>Mark Hansen</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Director of WCI. Mr. Hansen also serves as Diocesan Missioner for Latino Ministry and Ecumenical Officer, 2022 - present.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>North Sturtevant</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Director of WCI. Mr. Sturtevant also serves as Principal/CEO of JSA Inc. Architects.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>Roger Atkinson</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Trustee of the Issuer. Since 2007, Mr. Atkinson has served as a manager with Cell-Mark Inc., a pulp and paper trading company. His responsibilities include directing trading activity, acquisitions, and risk
+              management.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>Peter K. Werner</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Trustee of the Issuer.&#160; Retired. Previously Mr. Werner taught, directed, and coached many programs at The Governor&#8217;s Academy of Byfield, MA. He also previously held the position of Vice President in the Fixed
+              Income Departments of Lehman Brothers and First Boston. His responsibilities included trading sovereign debt instruments, currency arbitrage, syndication, medium term note trading, and money market trading.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>Jon Tomasson</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Trustee of the Issuer. Mr. Tomasson serves as Chief Executive Officer of Vinland Capital Investments, LLC (since 2002), a real estate investment company that he founded, and Chief Investment Officer of NRE
+              Capital Partners LLC (since 2019), a private real estate lending company. Prior to starting Vinland, Mr. Tomasson was a principal with Cardinal Capital Partners, a leading investor in single-tenant net-leased property, and served as a Vice
+              President at Citigroup in the Global Real Estate Equity and Structured Finance group, part of the Real Estate Investment Bank, with both transactional and various management responsibilities.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Mark C. Winmill</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">President, Chief Executive Officer, and a Director of SELF and Tuxis Corporation (&#8220;TUXS&#8221;). Executive Vice President and a Director of WCI. Vice President of the Funds and Midas Management Corporation.&#160;&#160;He is a
+              principal of MSG.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Thomas O&#8217;Malley</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Chief Accounting Officer, Chief Financial Officer, Vice President, and Treasurer of the Funds, the Advisers, the Broker-Dealer, BXLC, BSL, WCI, SELF, and TUXS.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Donald Klimoski II</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 17.25pt;">Assistant Secretary, Assistant General Counsel, and Assistant Chief Compliance Officer of the Funds, the Advisers, the Broker-Dealer, BXLC, and BSL. Chief Compliance Officer, Secretary, and General Counsel of
+              SELF, and TUXS. He is Chief Compliance Officer, Secretary, and Co-General Counsel of WCI.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Heidi Keating</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 18pt;">Vice President of the Funds, the Advisers, the Broker Dealer, BXLC, BSL, WCI, SELF, and TUXS.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Russell L. Kamerman</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 17.25pt;">Chief Compliance Officer, General Counsel, and Secretary of&#160;the Funds,&#160;the Advisers, the Broker-Dealer, BXLC, and BAL. He is Assistant Chief Compliance Officer, Assistant General Counsel, and Assistant
+              Secretary of SELF and TUXS.&#160; He is Co-General Counsel, Assistant Chief Compliance Officer, and Assistant Secretary of WCI.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;Louis Soulios</div>
+          </td>
+          <td style="width: 74%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); padding-left: 3px; padding-right: 3px;">
+            <div style="margin-left: 17.25pt;">Vice President, Finance, of the Funds, the Advisers, the Broker-Dealer, BXLC, SELF, TUXS, and WCI. He is a certified public accountant.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <div> <br>
+    </div>
+    <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div class="BRPFPageBreak" style="page-break-after: always;">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div> <br>
+    </div>
+    <div>&#160;<font style="font-weight: bold;">Trust</font></div>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z14e1871c2eb24901848c930e515f2dea">
+
+        <tr>
+          <td style="width: 26.16%; vertical-align: bottom; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);">
+            <div style="margin-left: 18pt; font-weight: bold;">Name</div>
+          </td>
+          <td style="width: 73.84%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0); border-top: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt; font-weight: bold;">Present principal occupation or employment and the name, principal business and address of any corporation or other organization in which such employment is conducted</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Thomas B. Winmill</div>
+          </td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Trustee.&#160;&#160;See biographical information above.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div>&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Mark C. Winmill</div>
+          </td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Trustee.&#160;&#160;See biographical information above.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">William M. Winmill</div>
+          </td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Trustee.&#160;&#160;See biographical information above.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 26.16%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Woodworth B. Winmill</div>
+          </td>
+          <td style="width: 73.84%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0);">
+            <div style="margin-left: 18pt;">Trustee.&#160;&#160;See biographical information above.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <div style="text-indent: 36pt; font-weight: bold;">To the best of the Reporting Persons&#8217; knowledge and information, during the past five years,&#160;&#160;none of the individuals named above have been convicted in a criminal proceeding (excluding traffic
+      violations or similar misdemeanors) and none of the individuals named above were a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree
+      or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</div>
+    <div>&#160;</div>
+    <div style="text-indent: 36pt; font-weight: bold;">To the best of the Reporting Persons&#8217; knowledge and information, each individual named above is a citizen of the United States.</div>
+    <div>&#160;</div>
+    <div style="text-indent: 36pt;">The following table presents certain information regarding the direct and/or indirect beneficial ownership of the Issuer's shares as of December 31, 2024 by each foregoing officers and directors, provided, however: BSL,
+      BAL, BXLC, MSG, WCI, the Trust, William M. Winmill, Woodworth B. Winmill, and Mark C. Winmill disclaim beneficial ownership of the Shares held by Thomas B. Winmill; BXLC, MSG, WCI, the Trust, Thomas B. Winmill, William M. Winmill, Woodworth B.
+      Winmill, and Mark C. Winmill disclaim beneficial ownership of the Shares held by BSL and BAL; BSL disclaims beneficial ownership of the Shares held by BAL; and, BAL disclaims beneficial ownership of the Shares held by BSL.</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;" id="z77fecb7904c742289fc7d6bdb458fe79">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name of Officer or Director</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="text-align: right;">Number of Shares</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Philip Kadinsky-Cade</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>John C. Hitchcock</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Thomas B. Winmill</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">1,857,454.71</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>William M. Winmill</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">1,814,076.71</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Woodworth B. Winmill</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">1,818,776.71</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>John Arbolino</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Mark Hansen</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>North Sturtevant</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Roger Atkinson</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">20,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Peter K. Werner</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">1,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Jon Tomasson</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Mark C. Winmill</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">1,806,376.71</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Thomas O&#8217;Malley</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">5,000</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Donald Klimoski II</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">100</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Heidi Keating</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Russell Kamerman</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Louis Soulios</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: right;">0</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="margin-bottom: 8pt;"><br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>3
+<FILENAME>exhibitb.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Midas Management Corporation
+         Document created using Broadridge PROfile 24.12.1.5274
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <div style="text-align: center;"><font style="font-size: 8pt;">&#160;</font><font style="font-weight: bold;">EXHIBIT B</font></div>
+    <div style="text-align: center; font-weight: bold;">&#160;</div>
+    <div style="text-align: center; font-weight: bold;">AGREEMENT</div>
+    <div style="text-indent: 27pt;">&#160;</div>
+    <div style="text-indent: 27pt;">AGREEMENT dated as of January 7, 2025 among Bexil Securities LLC, a Maryland limited liability company ("BSL"), Bexil Advisers LLC, a
+      Maryland limited liability company (&#8220;BAL&#8221;), Bexil Corporation ("BXLC"), a Maryland corporation, Midas Securities Group, Inc., a Delaware corporation ("MSG"), Winmill &amp; Co. Incorporated, a Delaware corporation ("WCI"), the Winmill Family Trust, a
+      New Hampshire trust (the "Trust"), Mark C. Winmill, William M. Winmill, Woodworth B. Winmill, and Thomas B. Winmill.</div>
+    <div style="text-indent: 27pt;">&#160;</div>
+    <div style="text-indent: 27pt;">WHEREAS, pursuant to paragraph (k) of Rule 13d-1 promulgated under Subsection 13(d)(1) of the Securities Exchange Act of 1934, as amended
+      (the "1934 Act"), the parties hereto have decided to satisfy their filing obligations under the 1934 Act by a single joint filing:</div>
+    <div style="text-indent: 27pt;">&#160;</div>
+    <div style="text-indent: 27pt;">NOW, THEREFORE, the undersigned hereby agree as follows:</div>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z3fab9f19ad804d6c982adb2a432e8fd5" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 7.13%; vertical-align: top;">
+            <div style="text-align: right;">1.&#160;&#160;&#160;&#160;</div>
+          </td>
+          <td style="width: 92.87%; vertical-align: top;">
+            <div>The Schedule 13D and all amendments thereto with respect to Bexil Investment Trust to which this is attached as Exhibit B are filed on behalf of BSL,
+              BAL, BXLC, MSG, WCI, the Trust, Mark C. Winmill, William M. Winmill, Woodworth B. Winmill, and Thomas B. Winmill.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z7f60392069854836b07d5117e518a3cf" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 7.12%; vertical-align: top;">
+            <div style="text-align: right;">2.&#160;&#160;&#160;&#160;</div>
+          </td>
+          <td style="width: 92.88%; vertical-align: top;">
+            <div>Each of BSL, BAL, BXLC, MSG, WCI, the Trust, Mark C. Winmill, William M. Winmill, Woodworth B. Winmill, and Thomas B. Winmill is responsible for the
+              completeness and accuracy of the information concerning such person contained therein; provided that each person is not responsible for the completeness or accuracy of the information concerning any other person making such filing, unless
+              such person knows or has reason to believe that such information is inaccurate.</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-indent: 27pt;">&#160;</div>
+    <div style="text-indent: 27pt;">IN WITNESS WHEREOF, the undersigned hereunto set their hands as of the date first above written.</div>
+    <div><br>
+    </div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: center;">SIGNATURE</div>
+    <div style="text-align: center;">&#160;</div>
+    <div style="text-align: center;">&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z24d5d419054e4c0987d5bb736ac58f48" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="font-weight: bold;">Bexil Securities LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">&#160;</td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: General Counsel</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">Bexil Advisers LLC</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>By: /s/Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: General Counsel</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+            <div>&#160;</div>
+            <div style="font-weight: bold;">Bexil Corporation</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: General Counsel</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <div>&#160;&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z76d4272e709c45ffbd1eafda17571899" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="font-weight: bold;">Midas Securities Group, Inc.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Russell Kamerman</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: General Counsel</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <div> <br>
+    </div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+      <div style="page-break-after: always;" class="BRPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div> <br>
+    </div>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="zb49f9aaffe2444a7b82ef55ef5af25c1" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="font-weight: bold;">Winmill &amp; Co. Incorporated</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Donald Klimoski II</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Donald Klimoski II</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: Co-General Counsel</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="zd32a77005b5f48c3b890325b48698b6b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="font-weight: bold;">Winmill Family Trust</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Thomas B. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Thomas B. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: Trustee</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z3baa004b91ff4bf3b554f2c76da67e9c" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Mark C. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Mark C. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: Trustee</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z5c126bbaa122448096bc6282ad6e2687" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/ William M. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: William M. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: Trustee</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z6314473a2661491a8cffe2d73929516a" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/ Woodworth B. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Woodworth B. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div>Title: Trustee</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z10adef55f0794740a4a7ab3b485aa059" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div style="font-weight: bold;">Individuals</div>
+            <div>By: /s/Mark C. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Mark C. Winmill</div>
+          </td>
+        </tr>
+
+    </table>
+    <div>&#160;&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z1a3db78fbf2b470dbb2dd1bef7035d44" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Thomas B. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Thomas B. Winmill</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="font-size: 8pt;">&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z6d9aa513e2c345cdbd504be1b1fcdd0b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/William M. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: William M. Winmill</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="zfe3ab8cbd6c44f21b390ca53c12dc00c" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>By: /s/Woodworth B. Winmill</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; vertical-align: top;">
+            <div>&#160;</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: #000000 2px solid;">
+            <div>Name: Woodworth B. Winmill</div>
+          </td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: center; font-size: 8pt;">&#160;</div>
+    <div><br>
+    </div>
+    <div style="text-align: right; font-size: 8pt;">&#160;</div>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

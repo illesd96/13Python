@@ -1,0 +1,427 @@
+<SEC-DOCUMENT>0000921895-25-000180.txt : 20250128
+<SEC-HEADER>0000921895-25-000180.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128181723
+ACCESSION NUMBER:		0000921895-25-000180
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250128
+DATE AS OF CHANGE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SLM Corp
+		CENTRAL INDEX KEY:			0001032033
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERSONAL CREDIT INSTITUTIONS [6141]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				522013874
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-51535
+		FILM NUMBER:		25566055
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CONTINENTAL DRIVE
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+		BUSINESS PHONE:		(302) 283-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CONTINENTAL DRIVE
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19713
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SLM CORP
+		DATE OF NAME CHANGE:	20030326
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SALLIE MAE
+		DATE OF NAME CHANGE:	20020517
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	USA EDUCATION INC
+		DATE OF NAME CHANGE:	20000801
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Impactive Capital LP
+		CENTRAL INDEX KEY:			0001786767
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		450 WEST 14 STREET
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK CITY
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		(212) 218-8810
+
+	MAIL ADDRESS:	
+		STREET 1:		450 WEST 14 STREET
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK CITY
+		STATE:			NY
+		ZIP:			10014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-22-000821</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Impactive Capital LP -->
+          <cik>0001786767</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.20 per share</securitiesClassTitle>
+      <dateOfEvent>01/24/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001032033</issuerCIK>
+        <issuerCUSIP>78442P106</issuerCUSIP>
+        <issuerName>SLM Corp</issuerName>
+        <address>
+          <com:street1>300 CONTINENTAL DRIVE</com:street1>
+          <com:city>NEWARK</com:city>
+          <com:stateOrCountry>DE</com:stateOrCountry>
+          <com:zipCode>19713</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>CHRISTIAN ASMAR</personName>
+          <personPhoneNum>212-218-8810</personPhoneNum>
+          <personAddress>
+            <com:street1>IMPACTIVE CAPITAL LP</com:street1>
+            <com:street2>450 West 14th Street, 12th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10014</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>LAUREN TAYLOR WOLFE</personName>
+          <personPhoneNum>212-218-8810</personPhoneNum>
+          <personAddress>
+            <com:street1>IMPACTIVE CAPITAL LP</com:street1>
+            <com:street2>450 West 14th Street, 12th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10014</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>ANDREW FREEDMAN, ESQ.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>OLSHAN FROME WOLOSKY LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001786767</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Impactive Capital LP</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11532399.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11532399.00</sharedDispositivePower>
+        <aggregateAmountOwned>11532399.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.4</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001786731</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Impactive Capital LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11532399.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11532399.00</sharedDispositivePower>
+        <aggregateAmountOwned>11532399.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001699118</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Wolfe Lauren Taylor</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11532399.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11532399.00</sharedDispositivePower>
+        <aggregateAmountOwned>11532399.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001787532</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Asmar Christian</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>11532399.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11532399.00</sharedDispositivePower>
+        <aggregateAmountOwned>11532399.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.20 per share</securityTitle>
+        <issuerName>SLM Corp</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>300 CONTINENTAL DRIVE</com:street1>
+          <com:city>NEWARK</com:city>
+          <com:stateOrCountry>DE</com:stateOrCountry>
+          <com:zipCode>19713</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and restated as follows:
+
+The 11,532,399 Shares beneficially owned by the Impactive Funds were purchased with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases. The aggregate purchase price of the 11,532,399 Shares beneficially owned by the Impactive Funds is approximately $150,633,937, including brokerage commissions.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is hereby amended to add the following:
+
+The sales of the securities reported herein were undertaken for the purposes of effectuating a portfolio rebalancing and are not an indication of the Reporting Persons' view on the future prospects of the Issuer.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) is hereby amended and restated as follows:
+
+The aggregate percentage of Shares reported owned by each person named herein is based upon 212,330,467 Shares outstanding as of September 30, 2024, which is the total number of Shares outstanding as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on October 23, 2024.
+
+A. Impactive Capital
+As of the date hereof, Impactive Capital beneficially owned 11,532,399 Shares held by the Impactive Funds.
+
+Percentage: Approximately 5.4%
+
+B. Impactive Capital GP
+As the general partner of Impactive Capital, Impactive Capital GP may be deemed to beneficially own the 11,532,399 Shares held by the Impactive Funds.
+
+Percentage: Approximately 5.4%
+
+C. Ms. Taylor Wolfe and Mr. Asmar
+Each of Ms. Taylor Wolfe and Mr. Asmar, as Managing Members of Impactive Capital GP, may be deemed to beneficially own the 11,532,399 Shares held by the Impactive Funds.
+
+Percentage: Approximately 5.4%</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) is hereby amended and restated as follows:
+
+A. Impactive Capital
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 11,532,399
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 11,532,399
+
+B. Impactive Capital GP
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 11,532,399
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 11,532,399
+
+C. Ms. Taylor Wolfe and Mr. Asmar
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 11,532,399
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 11,532,399</numberOfShares>
+        <transactionDesc>Item 5(c) is hereby amended and restated as follows:
+
+A. Impactive Capital
+The transactions in the Shares by Impactive Capital through the Impactive Funds during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+B. Impactive Capital GP
+Impactive Capital GP has not entered into any transactions in the Shares during the past sixty days. The transactions in the Shares by Impactive Capital through the Impactive Funds during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+C. Ms. Taylor Wolfe and Mr. Asmar
+Each of Ms. Taylor Wolfe and Mr. Asmar have not entered into any transactions in the Shares during the past sixty days. The transactions in the Shares by Impactive Capital through the Impactive Funds during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended to add the following:
+
+As previously disclosed, Impactive Capital entered into certain cash-settled total return swap agreements (the "Swap Agreements"), which provided Impactive Capital with economic results that were comparable to the economic results of ownership but did not provide it with the power to vote or direct the voting or dispose of or direct the disposition of the Shares that were the subject of the Swap Agreements. Impactive Capital has exited its swap position and is no longer a party to the Swap Agreements.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 is hereby amended to add the following exhibit:
+
+1 - Transactions in Securities</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Impactive Capital LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Lauren Taylor Wolfe</signature>
+          <title>Lauren Taylor Wolfe, Managing Member of Impactive Capital LLC, its General Partner</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Impactive Capital LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Lauren Taylor Wolfe</signature>
+          <title>Lauren Taylor Wolfe, Managing Member</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Wolfe Lauren Taylor</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Lauren Taylor Wolfe</signature>
+          <title>Lauren Taylor Wolfe</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Asmar Christian</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Christian Asmar</signature>
+          <title>Christian Asmar</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da512236005_012825.htm
+<DESCRIPTION>TRANSACTIONS IN SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>Transaction in the Shares of the Issuer
+during the past Sixty Days</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-indent: 0in; text-align: center"><U>Nature of Transaction</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; text-indent: 0in">Amount of Shares<BR>
+<U>(Sold)</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; text-indent: 0in">Price per<U><BR>
+Share ($)</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center; text-indent: 0in">Date of<U><BR>
+Sale</U></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>IMPACTIVE CAPITAL LP<BR>
+(through the Impactive Funds)</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(224,075)</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">28.2449</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/15/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(244,048)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">28.1202</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/16/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(236,415)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">28.1521</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/17/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(561,097)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">28.5362</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/21/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(630,223)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">29.0536</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/22/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(179,142)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">29.2951</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/23/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(1,267,582)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">29.9755</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/24/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(405,623)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">28.6538</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/27/2025</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(63,348)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">28.5705</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/28/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

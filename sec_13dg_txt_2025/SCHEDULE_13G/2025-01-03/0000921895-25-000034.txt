@@ -1,0 +1,348 @@
+<SEC-DOCUMENT>0000921895-25-000034.txt : 20250103
+<SEC-HEADER>0000921895-25-000034.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103180213
+ACCESSION NUMBER:		0000921895-25-000034
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MGO Global Inc.
+		CENTRAL INDEX KEY:			0001902794
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				873929852
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93866
+		FILM NUMBER:		25508293
+
+	BUSINESS ADDRESS:	
+		STREET 1:		813 NE 17TH TERRACE,
+		STREET 2:		UNIT A
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33304
+		BUSINESS PHONE:		347-913-3316
+
+	MAIL ADDRESS:	
+		STREET 1:		813 NE 17TH TERRACE,
+		STREET 2:		UNIT A
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33304
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIGGER CAPITAL FUND L P
+		CENTRAL INDEX KEY:			0001288478
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				900131165
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		159 JENNINGS RD
+		CITY:			COLD SPRING HARBOR
+		STATE:			NY
+		ZIP:			11724
+		BUSINESS PHONE:		631-987-0235
+
+	MAIL ADDRESS:	
+		STREET 1:		159 JENNINGS RD
+		CITY:			COLD SPRING HARBOR
+		STATE:			NY
+		ZIP:			11724
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BIGGER CAPITAL FUND L P -->
+          <cik>0001288478</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $.00001 par value</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/23/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001902794</issuerCik>
+        <issuerName>MGO Global Inc.</issuerName>
+        <issuerCusip>55317F207</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>813 NE 17TH TERRACE,</com:street1>
+          <com:street2>UNIT A</com:street2>
+          <com:city>FORT LAUDERDALE</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33304</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BIGGER CAPITAL FUND L P</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>921000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>921000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>921000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.99</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bigger Capital Fund GP, LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>921000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>921000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>921000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.99</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bigger Michael</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>921000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>921000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>921000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.99</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>MGO Global Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1515 SE 17th Street, Suite 121 #460236, Fort Lauderdale, FL 33346</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Bigger Capital Fund, LP ("Bigger Capital")
+
+Bigger Capital Fund GP, LLC ("Bigger GP")
+
+Michael Bigger
+
+Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons."</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Bigger Capital Fund, LP
+2250 Red Springs Drive
+Las Vegas, NV 89135
+
+Bigger Capital Fund GP, LLC
+2250 Red Springs Drive
+Las Vegas, NV 89135
+
+Michael Bigger
+2250 Red Springs Drive
+Las Vegas, NV 89135</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Bigger Capital Fund, LP
+Citizenship: Delaware
+
+Bigger Capital Fund GP, LLC
+Citizenship: Delaware
+
+Michael Bigger
+Citizenship: United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>As of December 23, 2024, Bigger Capital beneficially owned 521,000 shares of Common Stock and 421,000 shares of the Issuer's Common Stock issuable upon the exercise of Pre-Funded Warrants exercisable within 60 days. The amounts do not include 339,000 shares of the Issuer's common stock issuable upon the exercise of Pre-Funded Warrants nor 1,260,000 warrants, which are subject to a 9.99% beneficial ownership limitation. The percentage set forth on Row (11) of the cover page for the reporting person is based on 9,219,001 shares of common stock outstanding after the offering upon the Issuer's Prospectus Supplement filed under Rule 424(b)(4) with the Securities and Exchange Commission on December 26, 2024.
+
+Bigger GP, as the general partner of Bigger Capital, may be deemed to beneficially own the Issuer's securities described herein.
+
+Mr. Bigger, as the managing member of Bigger GP may be deemed to beneficially own the Issuer's securities described herein.
+
+The foregoing should not be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of any shares of Common Stock owned by another Reporting Person. Each of Bigger GP and Mr. Bigger disclaims beneficial ownership of the shares of Common Stock beneficially owned by Bigger Capital. The filing of this statement shall not be construed as an admission that any such person or entity is the beneficial owner of any such securities.
+
+Regarding Item 5 below, subsequent to December 23, 2024, the Reporting Person sold their entire position in the Issuer and accordingly, the Reporting Person as of January 2, 2025 does not own any securities of the Issuer and will not be amending this Schedule 13G.</amountBeneficiallyOwned>
+        <classPercent>As of the close of business on December 23, 2024, each of Bigger Capital, Bigger GP, and Mr. Bigger may be deemed to beneficially own approximately 9.99% of the outstanding shares of Common Stock.
+
+Pursuant to the terms of the Warrants, the Reporting Persons cannot exercise the Pre-Funded Warrants and the Warrants to the extent the Reporting Persons or affiliates of the Reporting Persons would beneficially own, after any such exercise, more than 9.99% of the outstanding shares of Common Stock (the "Blockers"), and the percentage set forth in Row 11 of the cover page for each Reporting Person as well in this Item 4(b) gives effect to the Blockers.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Cover Pages Items 5-9.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Cover Pages Items 5-9.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Cover Pages Items 5-9.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Cover Pages Items 5-9.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>See Exhibit 99.1.</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>BIGGER CAPITAL FUND L P</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michael Bigger</signature>
+        <title>Michael Bigger, Managing Member of Bigger Capital Fund GP, LLC, its general partner</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Bigger Capital Fund GP, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michael Bigger</signature>
+        <title>Michael Bigger, Managing Member</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Bigger Michael</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michael Bigger</signature>
+        <title>Michael Bigger</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex991to13g10022002_010325.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 99.1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><B><U>Joint Filing Agreement</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned hereby
+agree that the Statement on Schedule 13G dated January 2, 2025 with respect to the shares of Common Stock of MGO Global Inc. and any further
+amendments thereto executed by each and any of the undersigned shall be filed on behalf of each of the undersigned pursuant to and in
+accordance with the provisions of Rule 13d-1(k)(1) under the Securities Exchange Act of 1934, as amended.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">BIGGER CAPITAL FUND L P</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt; font: 10pt Times New Roman, Times, Serif">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Michael Bigger</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">Michael Bigger, Managing Member of Bigger Capital Fund GP, LLC, its general partner</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">01/02/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Bigger Capital Fund GP, LLC</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Michael Bigger</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Michael Bigger, Managing Member</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/02/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Bigger Michael</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Michael Bigger</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Michael Bigger</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/02/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

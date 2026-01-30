@@ -1,0 +1,230 @@
+<SEC-DOCUMENT>0001493152-25-001951.txt : 20250113
+<SEC-HEADER>0001493152-25-001951.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113163530
+ACCESSION NUMBER:		0001493152-25-001951
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250113
+DATE AS OF CHANGE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Finance of America Companies Inc.
+		CENTRAL INDEX KEY:			0001828937
+		STANDARD INDUSTRIAL CLASSIFICATION:	MORTGAGE BANKERS & LOAN CORRESPONDENTS [6162]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				853474065
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92461
+		FILM NUMBER:		25526756
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5830 GRANITE PARKWAY
+		STREET 2:		SUITE 400
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+		BUSINESS PHONE:		877-202-2666
+
+	MAIL ADDRESS:	
+		STREET 1:		5830 GRANITE PARKWAY
+		STREET 2:		SUITE 400
+		CITY:			PLANO
+		STATE:			TX
+		ZIP:			75024
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bloom Retirement Holdings Inc.
+		CENTRAL INDEX KEY:			0001466992
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				201832276
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3800 W. CHAPMAN AVENUE, THIRD FLOOR
+		CITY:			ORANGE
+		STATE:			CA
+		ZIP:			92868
+		BUSINESS PHONE:		866-948-0003
+
+	MAIL ADDRESS:	
+		STREET 1:		3800 W. CHAPMAN AVENUE, THIRD FLOOR
+		CITY:			ORANGE
+		STATE:			CA
+		ZIP:			92868
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Advisors Group
+		DATE OF NAME CHANGE:	20090624
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001193125-23-096522</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Bloom Retirement Holdings Inc. -->
+          <cik>0001466992</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>6</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/08/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001828937</issuerCIK>
+        <issuerCUSIP>31738L107</issuerCUSIP>
+        <issuerName>Finance of America Companies Inc.</issuerName>
+        <address>
+          <com:street1>5830 Granite Parkway</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>Plano</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75024</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Reza Jahangiri</personName>
+          <personPhoneNum>866-948-0003</personPhoneNum>
+          <personAddress>
+            <com:street1>895 Dove Street, Suite 300</com:street1>
+            <com:city>Newport Beach</com:city>
+            <com:stateOrCountry>CA</com:stateOrCountry>
+            <com:zipCode>92660</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001466992</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Bloom Retirement Holdings Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2753868.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2753868.00</sharedDispositivePower>
+        <aggregateAmountOwned>2753868.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.49</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001971548</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Reza Jahangiri</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2753868.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2753868.00</sharedDispositivePower>
+        <aggregateAmountOwned>2753868.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.49</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock</securityTitle>
+        <issuerName>Finance of America Companies Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>5830 Granite Parkway</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>Plano</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75024</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 6 to Schedule 13D ("Amendment No. 6") amends and supplements the Schedule 13D originally filed with the United States Securities and Exchange Commission on April 10, 2023 (as amended to date, the "Schedule 13D"), relating to the shares of Class A common stock, par value $0.0001 per share (the "Class A Common Stock"), of Finance of America Companies Inc., a Delaware corporation (the "Issuer"). Capitalized terms used herein without definition shall have the meanings set forth in the Schedule 13D.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The information contained on the cover pages is incorporated by reference to this Item 5.
+
+The ownership information set forth herein represents beneficial ownership of Class A Common Stock as of the date of this Schedule 13D, the aggregate number of shares of Class A Common Stock and percentage of Class A Common Stock beneficially owned by each of the Reporting Persons as of the date hereof, based on 9,926,412 shares of Class A Common Stock outstanding as of November 5, 2024, as set forth in the Issuer's Quarterly Report on Form 10-Q filed by the Issuer on November 8, 2024.</percentageOfClassSecurities>
+        <numberOfShares>The information contained on the cover pages is incorporated by reference to this Item 5.
+
+Bloom Retirement Holdings Inc. is the record holder of 179,261 shares of Class A Common Stock and 2,574,607 FOAEC Units, as reported herein. Mr. Jahangiri is the majority shareholder of Bloom Retirement Holdings Inc. and may be deemed to share voting and dispositive power over the securities held by Bloom Retirement Holdings Inc. The percent of class beneficially owned as reported above gives effect to the Conversion Agreement as previously disclosed in Item 4.
+
+The FOAEC Units reported above represent the maximum number of FOAEC Units that may be issued pursuant to the Asset Purchase Agreement. Under the Asset Purchase Agreement, Bloom Retirement Holdings Inc. will be issued FOAEC Units only to the extent that its ownership does not exceed 9.49% of the outstanding shares of Class A Common Stock (giving effect to the deemed exchange of all outstanding FOAEC Units) until, among other conditions, certain consents, approvals, authorizations and waivers are satisfied (the "Control Condition"). Each FOAEC Unit is exchangeable into Class A Common Stock on a one-for-one basis at the option of the holder.</numberOfShares>
+        <transactionDesc>Since the Reporting Persons' most recent filing in Schedule 13D, Bloom Retirement Holdings Inc. has disposed of 126,283 shares of Class A Common Stock in a series of open-market transactions. Details by date, listing the number of shares of Class A Common Stock disposed of and the weighted average price per share, are provided below. The Reporting Persons undertake to provide, upon request by the staff of the SEC, the Issuer, or a security holder of the Issuer, full information regarding the number of shares sold at each separate price for each transaction:
+
+December 26, 2024
+-Shares Disposed of: 31,294
+-Weighted Average Price Per Share: $28.4017
+
+December 27, 2024
+-Shares Disposed of: 24,043
+-Weighted Average Price Per Share: $26.8837
+
+January 2, 2025
+-Shares Disposed of: 38,965
+-Weighted Average Price Per Share: $29.6345
+
+January 3, 2025
+-Shares Disposed of: 18,634
+-Weighted Average Price Per Share: $30.0036
+
+January 8, 2025
+-Shares Disposed of: 13,347
+-Weighted Average Price Per Share: $29.7899</transactionDesc>
+        <listOfShareholders>None.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Bloom Retirement Holdings Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Reza Jahangiri</signature>
+          <title>Reza Jahangiri, Majority Shareholder</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Reza Jahangiri</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Reza Jahangiri</signature>
+          <title>Reza Jahangiri</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

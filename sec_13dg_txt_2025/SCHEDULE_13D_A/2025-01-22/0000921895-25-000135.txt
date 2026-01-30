@@ -1,0 +1,318 @@
+<SEC-DOCUMENT>0000921895-25-000135.txt : 20250122
+<SEC-HEADER>0000921895-25-000135.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122190931
+ACCESSION NUMBER:		0000921895-25-000135
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wilhelmina International, Inc.
+		CENTRAL INDEX KEY:			0001013706
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				742781950
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-49151
+		FILM NUMBER:		25547289
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CRESCENT COURT
+		STREET 2:		SUITE 1400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2146617488
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CRESCENT COURT
+		STREET 2:		SUITE 1400
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEW CENTURY EQUITY HOLDINGS CORP
+		DATE OF NAME CHANGE:	20010220
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BILLING CONCEPTS CORP
+		DATE OF NAME CHANGE:	19980814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BILLING INFORMATION CONCEPTS CORP
+		DATE OF NAME CHANGE:	19960722
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Steel Partners, Ltd.
+		CENTRAL INDEX KEY:			0001504325
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		590 MADISON AVENUE, 32ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-520-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		590 MADISON AVENUE, 32ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-24-002823</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Steel Partners, Ltd. -->
+          <cik>0001504325</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value</securitiesClassTitle>
+      <dateOfEvent>01/17/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001013706</issuerCIK>
+        <issuerCUSIP>968235200</issuerCUSIP>
+        <issuerName>Wilhelmina International, Inc.</issuerName>
+        <address>
+          <com:street1>200 CRESCENT COURT</com:street1>
+          <com:street2>SUITE 1400</com:street2>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75201</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Warren G. Lichtenstein</personName>
+          <personPhoneNum>212-520-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Steel Partners, Ltd.</com:street1>
+            <com:street2>590 Madison Avenue, 32nd Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10022</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001504325</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Steel Partners, Ltd.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1580477.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1580477.00</sharedDispositivePower>
+        <aggregateAmountOwned>1580477.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>30.6</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001005784</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>LICHTENSTEIN WARREN G</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1580477.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1580477.00</sharedDispositivePower>
+        <aggregateAmountOwned>1580477.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>30.6</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001144269</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>HOWARD JACK L</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>106.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>106.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>106.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.01 par value</securityTitle>
+        <issuerName>Wilhelmina International, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>200 CRESCENT COURT</com:street1>
+          <com:street2>SUITE 1400</com:street2>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75201</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and restated to read as follows:
+
+The aggregate purchase price of the 1,580,477 Shares owned directly by SPL is approximately $5,738,885, including brokerage commissions. Such Shares were acquired with the working capital of SPL (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business).
+
+The aggregate purchase price of the 106 Shares owned directly by Mr. Howard is approximately $449, including brokerage commissions. Such Shares were acquired with Mr. Howard's personal funds.</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) is hereby amended and restated to read as follows:
+
+The aggregate percentage of Shares reported owned by each person named herein is based upon 5,157,344 Shares outstanding, which is the total number of Shares outstanding as of November 13, 2024 as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on November 13, 2024.
+
+As of the close of business on the date hereof, SPL owned directly 1,580,477 Shares, constituting approximately 30.6% of the Shares outstanding. By virtue of his relationship with SPL, Mr. Lichtenstein may be deemed to beneficially own the Shares owned directly by SPL.
+
+As of the close of business on the date hereof, Mr. Howard owned directly 106 Shares, constituting less than 1% of the Shares outstanding.</percentageOfClassSecurities>
+        <transactionDesc>Item 5(c) is hereby amended and restated to read as follows:
+
+On January 17, 2025, SPL purchased 592,603 Shares for a purchase price of $3.75 per Share from Doron Donat in a private transaction. See Exhibit 1 annexed hereto for all other transactions by the Reporting Persons in the securities of the Issuer since the filing of Amendment No. 1 to the Schedule 13D, which are incorporated herein by reference. All of such transactions were effected in the open market.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended to add the following:
+
+Reference is made to the private transaction discussed in Item 5(c), which is incorporated herein by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 is hereby amended to add the following exhibit:
+
+1 - Transactions in Securities.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Steel Partners, Ltd.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jack L. Howard</signature>
+          <title>Jack L. Howard, President</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>LICHTENSTEIN WARREN G</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Maria Reda</signature>
+          <title>Maria Reda, Attorney-In-Fact for Warren G. Lichtenstein</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>HOWARD JACK L</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jack L. Howard</signature>
+          <title>Jack L. Howard</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da204197004_012225.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>Transactions in the Securities of the
+Issuer Since the Filing of Amendment No. 1 to the Schedule 13D</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><U>Class of Security</U></TD>
+    <TD STYLE="vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Securities</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Purchased </U></P></TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Price ($)</U></P></TD>
+    <TD STYLE="vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Date of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Purchase</U></P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B><U>STEEL
+PARTNERS, LTD.</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Common Stock<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1</SUP></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">4,101</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">3.4000</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/22/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<HR ALIGN="LEFT" SIZE="1" STYLE="width: 33%">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 6pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1</SUP></FONT>
+The price reported is a weighted average price. These Shares were purchased in multiple transactions at prices ranging from $3.3000 to
+$3.4000 per Share. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer or the staff of the Securities
+and Exchange Commission, upon request, full information regarding the number of Shares purchased at each separate price within the range
+set forth in this footnote.</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

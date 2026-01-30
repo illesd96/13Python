@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0001297496-25-000007.txt : 20250116
+<SEC-HEADER>0001297496-25-000007.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116113551
+ACCESSION NUMBER:		0001297496-25-000007
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Enerflex Ltd.
+		CENTRAL INDEX KEY:			0001904856
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				980457703
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93851
+		FILM NUMBER:		25534843
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1331 MACLEOD TRAIL SE
+		STREET 2:		SUITE 904
+		CITY:			CALGARY ALBERTA
+		STATE:			Z4
+		ZIP:			T2G 0K3
+		BUSINESS PHONE:		403-387-6377
+
+	MAIL ADDRESS:	
+		STREET 1:		1331 MACLEOD TRAIL SE
+		STREET 2:		SUITE 904
+		CITY:			CALGARY ALBERTA
+		STATE:			Z4
+		ZIP:			T2G 0K3
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LETKO, BROSSEAU & ASSOCIATES INC
+		CENTRAL INDEX KEY:			0001297496
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A8
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800, MCGILL COLLEGE, SUITE 2510
+		CITY:			MONTREAL
+		STATE:			A8
+		ZIP:			H3A 3J6
+		BUSINESS PHONE:		(514) 499-1200
+
+	MAIL ADDRESS:	
+		STREET 1:		1800, MCGILL COLLEGE, SUITE 2510
+		CITY:			MONTREAL
+		STATE:			A8
+		ZIP:			H3A 3J6
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001297496-23-000005</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001297496</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001904856</issuerCik>
+        <issuerName>Enerflex Ltd.</issuerName>
+        <issuerCusip>29269R105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1331 MACLEOD TRAIL SE</com:street1>
+          <com:street2>1331 MACLEOD TRAIL SE</com:street2>
+          <com:city>CALGARY ALBERTA</com:city>
+          <com:stateOrCountry>Z4</com:stateOrCountry>
+          <com:zipCode>T2G 0K3</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>LETKO, BROSSEAU &amp; ASSOCIATES INC</reportingPersonName>
+      <citizenshipOrOrganization>Z4</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>6415261.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>6415261.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <classPercent>5.2</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Enerflex Ltd.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1331 MACLEOD TRAIL SE, 1331 MACLEOD TRAIL SE, CALGARY ALBERTA, , T2G 0K3.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Letko, Brosseau &amp; Associates Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1800 Mc Gill College Av.
+Suite 2510 Montreal, QC H3A 3J6
+Canada</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Canada</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>6,415,261</amountBeneficiallyOwned>
+        <classPercent>5.2%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>6,415,261</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>6,415,261</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Clients of Letko, Brosseau &amp; Associates Inc. have the right to receive or the power to direct the receipt of dividends from, or the proceeds from sale of, the common shares reported as beneficially owned by Letko, Brosseau &amp; Associates Inc. No clients of Letko, Brosseau &amp; Associates Inc. beneficially owns more than five percent of Issuer's Common Shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>LETKO, BROSSEAU &amp; ASSOCIATES INC</reportingPersonName>
+      <signatureDetails>
+        <signature>Isabelle Godin</signature>
+        <title>Chief Financial Officer and Chief Compliance Officer</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

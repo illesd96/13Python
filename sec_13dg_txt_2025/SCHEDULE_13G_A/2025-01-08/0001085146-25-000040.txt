@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001085146-25-000040.txt : 20250108
+<SEC-HEADER>0001085146-25-000040.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108101915
+ACCESSION NUMBER:		0001085146-25-000040
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Veritone, Inc.
+		CENTRAL INDEX KEY:			0001615165
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				471161641
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90119
+		FILM NUMBER:		25516967
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1615 PLATTE STREET
+		STREET 2:		2ND FLOOR
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		888-507-1737
+
+	MAIL ADDRESS:	
+		STREET 1:		1615 PLATTE STREET
+		STREET 2:		2ND FLOOR
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANTA ASSET MANAGEMENT LP
+		CENTRAL INDEX KEY:			0001426960
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				200875379
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		517 30TH STREET
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92663
+		BUSINESS PHONE:		949-673-9944
+
+	MAIL ADDRESS:	
+		STREET 1:		517 30TH STREET
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92663
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001085146-19-000238</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BANTA ASSET MANAGEMENT LP -->
+          <cik>0001426960</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>10</amendmentNo>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001615165</issuerCik>
+        <issuerName>Veritone, Inc.</issuerName>
+        <issuerCusip>92347M100</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1615 PLATTE STREET</com:street1>
+          <com:street2>2ND FLOOR</com:street2>
+          <com:city>DENVER</com:city>
+          <com:stateOrCountry>CO</com:stateOrCountry>
+          <com:zipCode>80202</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BANTA ASSET MANAGEMENT LP</reportingPersonName>
+      <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2576004.00</soleVotingPower>
+        <sharedVotingPower>848239.00</sharedVotingPower>
+        <soleDispositivePower>2576004.00</soleDispositivePower>
+        <sharedDispositivePower>848239.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3424243.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.52</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Veritone, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1615 PLATTE STREET 2ND FLOOR DENVER, COLORADO 80202</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>BANTA ASSET MANAGEMENT LP</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>517 30TH STREET
+NEWPORT BEACH, California
+92663</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>BANTA ASSET MANAGEMENT LP - CALIFORNIA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>3424243</amountBeneficiallyOwned>
+        <classPercent>8.52</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>BANTA ASSET MANAGEMENT LP - 2576004</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>BANTA ASSET MANAGEMENT LP - 848239</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>BANTA ASSET MANAGEMENT LP - 2576004</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>BANTA ASSET MANAGEMENT LP - 848239</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>BANTA ASSET MANAGEMENT LP</reportingPersonName>
+      <signatureDetails>
+        <signature>Stephen M. Banta</signature>
+        <title>CCO</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

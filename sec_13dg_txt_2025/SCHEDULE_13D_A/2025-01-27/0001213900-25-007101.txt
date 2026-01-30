@@ -1,0 +1,344 @@
+<SEC-DOCUMENT>0001213900-25-007101.txt : 20250127
+<SEC-HEADER>0001213900-25-007101.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127172729
+ACCESSION NUMBER:		0001213900-25-007101
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250127
+DATE AS OF CHANGE:		20250127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tax Free Fund for Puerto Rico Residents, Inc.
+		CENTRAL INDEX KEY:			0001847518
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				660593234
+		STATE OF INCORPORATION:			PR
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93618
+		FILM NUMBER:		25560192
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 MUNOZ RIVERA
+		STREET 2:		TENTH FLOOR
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00918
+		BUSINESS PHONE:		787-250-3600
+
+	MAIL ADDRESS:	
+		STREET 1:		250 MUNOZ RIVERA
+		STREET 2:		TENTH FLOOR
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00918
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tax Free Puerto Rico Fund, Inc.
+		DATE OF NAME CHANGE:	20210223
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ocean Capital LLC
+		CENTRAL INDEX KEY:			0001838395
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				660833476
+		STATE OF INCORPORATION:			PR
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		METRO OFFICE PARK
+		STREET 2:		8 CALLE #1, SUITE 401
+		CITY:			GUAYNABO
+		STATE:			PR
+		ZIP:			00968
+		BUSINESS PHONE:		787-979-2165
+
+	MAIL ADDRESS:	
+		STREET 1:		METRO OFFICE PARK
+		STREET 2:		8 CALLE #1, SUITE 401
+		CITY:			GUAYNABO
+		STATE:			PR
+		ZIP:			00968
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001213900-22-017897</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Ocean Capital LLC -->
+          <cik>0001838395</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>12</amendmentNo>
+      <securitiesClassTitle>Common Shares, $0.01 par value</securitiesClassTitle>
+      <dateOfEvent>01/27/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001847518</issuerCIK>
+        <issuerCUSIP>87675M102</issuerCUSIP>
+        <issuerName>Tax Free Fund for Puerto Rico Residents, Inc.</issuerName>
+        <address>
+          <com:street1>250 MUNOZ RIVERA</com:street1>
+          <com:street2>TENTH FLOOR</com:street2>
+          <com:city>SAN JUAN</com:city>
+          <com:stateOrCountry>PR</com:stateOrCountry>
+          <com:zipCode>00918</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>W. Heath Hawk</personName>
+          <personPhoneNum>(770) 777-9373</personPhoneNum>
+          <personAddress>
+            <com:street1>GAM Tower, 2 Tabonuco St.,</com:street1>
+            <com:street2>Suite 200</com:street2>
+            <com:city>Guaynabo</com:city>
+            <com:stateOrCountry>PR</com:stateOrCountry>
+            <com:zipCode>00968</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001838395</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Ocean Capital LLC</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>PR</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1479364.25</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1479364.25</sharedDispositivePower>
+        <aggregateAmountOwned>1479364.25</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>1 The percentages used herein are based upon 11,128,904 shares of common stock outstanding, which represents the shares of common stock outstanding as of June 30, 2024, according to the Issuer's Semi-Annual Certified Shareholder Report  (the Issuer's "Shareholder Report") filed on form N-CSRS with the Securities and Exchange Commission on September 5, 2024.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>William Heath Hawk</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1479364.25</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1479364.25</sharedDispositivePower>
+        <aggregateAmountOwned>1479364.25</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.3</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>1 The percentages used herein are based upon 11,128,904 shares of common stock outstanding as of June 30, 2024, as disclosed in the Issuer's Shareholder Report.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Ethan A. Danial</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Brent D. Rosenthal</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Jose R. Izquierdo II</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Roxana Cruz-Rivera</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Mojdeh L. Khaghan</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Ian McCarthy</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Shares, $0.01 par value</securityTitle>
+        <issuerName>Tax Free Fund for Puerto Rico Residents, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>250 MUNOZ RIVERA</com:street1>
+          <com:street2>TENTH FLOOR</com:street2>
+          <com:city>SAN JUAN</com:city>
+          <com:stateOrCountry>PR</com:stateOrCountry>
+          <com:zipCode>00918</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>The following constitutes Amendment No. 12 ("Amendment No. 12") to the Schedule 13D filed by the undersigned with the Securities and Exchange Commission (the "SEC") on April 4, 2022, as amended by the Amendment No. 1 filed on April 18, 2022, Amendment No. 2 filed on April 28, 2022, Amendment No. 3 filed on June 7, 2022, Amendment No. 4 filed on March 17, 2023, Amendment No. 5 filed on April 12, 2023, Amendment No. 6 filed on September 14, 2023, Amendment No. 7 filed on December 8, 2023, Amendment No. 8 filed on December 11, 2023, Amendment No. 9 filed on February 9, 2024, Amendment No. 10 filed on March 20, 2024 and Amendment No. 11 filed on April 8, 2024 (collectively, the "Schedule 13D"). This Amendment No. 12 amends the Schedule 13D as specifically set forth herein. Capitalized terms used but not defined herein have the meanings ascribed to them in the Schedule 13D.</commentText>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 is hereby supplemented to add the following paragraph:
+
+Ocean Capital intends to nominate director candidates to stand for election at the Issuer's 2025 annual meeting of stockholders.</transactionPurpose>
+      </item4>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Ocean Capital LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ William Heath Hawk</signature>
+          <title>William Heath Hawk/Managing Member</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>William Heath Hawk</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ William Heath Hawk</signature>
+          <title>William Heath Hawk</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Ethan A. Danial</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ethan A. Danial</signature>
+          <title>Ethan A. Danial</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Brent D. Rosenthal</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Brent D. Rosenthal</signature>
+          <title>Brent D. Rosenthal</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Jose R. Izquierdo II</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jose R. Izquierdo II</signature>
+          <title>Jose R. Izquierdo II</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Roxana Cruz-Rivera</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roxana Cruz-Rivera</signature>
+          <title>Roxana Cruz-Rivera</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Mojdeh L. Khaghan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Mojdeh L. Khaghan</signature>
+          <title>Mojdeh L. Khaghan</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Ian McCarthy</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ian McCarthy</signature>
+          <title>Ian McCarthy</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

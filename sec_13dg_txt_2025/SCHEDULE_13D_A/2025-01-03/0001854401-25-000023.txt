@@ -1,0 +1,454 @@
+<SEC-DOCUMENT>0001854401-25-000023.txt : 20250103
+<SEC-HEADER>0001854401-25-000023.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103161756
+ACCESSION NUMBER:		0001854401-25-000023
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bridge Investment Group Holdings Inc.
+		CENTRAL INDEX KEY:			0001854401
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92709
+		FILM NUMBER:		25506497
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 EAST SEGO LILY DRIVE
+		STREET 2:		SUITE 400
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84070
+		BUSINESS PHONE:		(801) 506-1463
+
+	MAIL ADDRESS:	
+		STREET 1:		111 EAST SEGO LILY DRIVE
+		STREET 2:		SUITE 400
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84070
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Morse Robert Randolph
+		CENTRAL INDEX KEY:			0001569086
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 PARK AVENUE, APT 3
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10028
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001193125-21-231502</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001569086</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/01/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001854401</issuerCIK>
+        <issuerCUSIP>10806B100</issuerCUSIP>
+        <issuerName>Bridge Investment Group Holdings Inc.</issuerName>
+        <address>
+          <com:street1>111 E. Sego Lily Drive</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>Salt Lake City</com:city>
+          <com:stateOrCountry>UT</com:stateOrCountry>
+          <com:zipCode>84070</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Robert R. Morse</personName>
+          <personPhoneNum>801-716-4500</personPhoneNum>
+          <personAddress>
+            <com:street1>111 E. Sego Lily Drive, Suite 400</com:street1>
+            <com:city>Salt Lake City</com:city>
+            <com:stateOrCountry>UT</com:stateOrCountry>
+            <com:zipCode>84070</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001569086</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Robert Randolph Morse</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>3294419.00</soleVotingPower>
+        <sharedVotingPower>35086776.00</sharedVotingPower>
+        <soleDispositivePower>3294419.00</soleDispositivePower>
+        <sharedDispositivePower>35086776.00</sharedDispositivePower>
+        <aggregateAmountOwned>38381195.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>48.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>FLM Holdings, LLC</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>33635780.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>33635780.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>33635780.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>43.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Limited Liability  Company</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001870998</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Jonathan Slager</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>973884.00</soleVotingPower>
+        <sharedVotingPower>19912816.00</sharedVotingPower>
+        <soleDispositivePower>973884.00</soleDispositivePower>
+        <sharedDispositivePower>6163840.00</sharedDispositivePower>
+        <aggregateAmountOwned>20886700.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>32.9</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>SF Intentional Irrevocable Trust Dated December 30, 2019</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>2374838.00</soleVotingPower>
+        <sharedVotingPower>17537978.00</sharedVotingPower>
+        <soleDispositivePower>2374838.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>19912816.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>31.1</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>J.P. Slager, LLC</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>3468512.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3468512.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>3468512.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001870917</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Adam O'Farrell</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>558167.00</soleVotingPower>
+        <sharedVotingPower>16985764.00</sharedVotingPower>
+        <soleDispositivePower>558167.00</soleDispositivePower>
+        <sharedDispositivePower>2926699.00</sharedDispositivePower>
+        <aggregateAmountOwned>17543931.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>28.8</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Adam B. O'Farrell and Tracy K. O'Farrell Trust dtd May 9, 2019</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>1465749.00</soleVotingPower>
+        <sharedVotingPower>15520015.00</sharedVotingPower>
+        <soleDispositivePower>1465749.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>16985764.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>27.8</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001870999</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Dean Allara</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>6997855.00</soleVotingPower>
+        <sharedVotingPower>12252717.00</sharedVotingPower>
+        <soleDispositivePower>6997855.00</soleDispositivePower>
+        <sharedDispositivePower>1558632.00</sharedDispositivePower>
+        <aggregateAmountOwned>19250572.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>30.7</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock</securityTitle>
+        <issuerName>Bridge Investment Group Holdings Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>111 E. Sego Lily Drive</com:street1>
+          <com:street2>Suite 400</com:street2>
+          <com:city>Salt Lake City</com:city>
+          <com:stateOrCountry>UT</com:stateOrCountry>
+          <com:zipCode>84070</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 5 to Schedule 13D ("Amendment No. 5") amends and supplements the Schedule 13D filed with the United States Securities and Exchange Commission on July 30, 2021, as amended by Amendment No. 1 to Schedule 13D filed on January 7, 2022, Amendment No. 2 to Schedule 13D filed on January 10, 2023, Amendment No. 3 to Schedule 13D filed on July 5, 2023 and Amendment No. 4 to Schedule 13D filed on January 5, 2024  (as amended, the "Schedule 13D") relating to the Class A Common Stock, par value $0.01 per share (the "Class A Common Stock"), of Bridge Investment Group Holdings Inc., a Delaware corporation (the "Issuer"). Capitalized terms used herein without definition shall have the meaning set forth in the Schedule 13D.</commentText>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 of the Schedule 13D is hereby amended and supplemented with the following:
+
+Award of restricted shares of Class A Common Stock
+
+On January 1, 2025, Messrs. Morse, Slager, O'Farrell and Allara received from the Issuer an award of 740,000, 200,000, 110,000 and 150,000 restricted shares of Class A Common Stock, respectively, as employee compensation.</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>Item 5 of the Schedule 13D is hereby amended and replaced in its entirety as follows:
+
+(a) - (b)
+
+The following sets forth, as of January 1, 2025, the aggregate number of shares of Class A Common Stock and percentage of Class A Common Stock beneficially owned by each of the Reporting Persons, as well as the number of shares of Class A Common Stock as to which each Reporting Person has the sole power to vote or to direct the vote, shared power to vote or to direct the vote, sole power to dispose or to direct the disposition of, or shared power to dispose or to direct the disposition of, as of January 1, 2025, based on 44,190,628 shares of Class A Common Stock outstanding as of January 1, 2025:
+
+Robert Randolph Morse
+Amount beneficially owned: 38,381,195
+Percent of Class: 48.4%
+
+FLM Holdings, LLC
+Amount beneficially owned: 33,635,780
+Percent of Class: 43.2%
+
+Jonathan Slager
+Amount beneficially owned: 20,886,700
+Percent of Class: 32.9%
+
+SF International Irrevocable Trust Dated December 30, 2019
+Amount beneficially owned: 19,912,816
+Percent of Class: 31.1%
+
+J.P Slager, LLC
+Amount beneficially owned: 3,468,512
+Percent of Class: 7.3%
+
+Adam O'Farrell
+Amount beneficially owned: 17,543,931
+Percent of Class: 28.8%
+
+Adam B. O'Farrell and Tracy K. O'Farrell Trust dtd May 9, 2019
+Amount beneficially owned: 16,985,764
+Percent of Class: 27.8%
+
+Dean Allara
+Amount beneficially owned: 19,250,572
+Percent of Class: 30.7%</percentageOfClassSecurities>
+        <numberOfShares>Robert Randolph Morse
+Sole power to vote or to direct the vote: 3,294,419
+Shared power to vote or to direct the vote: 35,086,776
+Sole power to dispose or to direct the disposition: 3,294,419
+Shared power to dispose or to direct the disposition: 35,086,776
+
+FLM Holdings, LLC
+Sole power to vote or to direct the vote: 33,635,780
+Shared power to vote or to direct the vote: 0
+Sole power to dispose or to direct the disposition: 33,635,780
+Shared power to dispose or to direct the disposition: 0
+
+Jonathan Slager
+Sole power to vote or to direct the vote: 973,884
+Shared power to vote or to direct the vote: 19,912,816
+Sole power to dispose or to direct the disposition: 973,884
+Shared power to dispose or to direct the disposition: 6,163,840
+
+SF International Irrevocable Trust Dated December 30, 2019
+Sole power to vote or to direct the vote: 2,374,838
+Shared power to vote or to direct the vote: 17,537,978
+Sole power to dispose or to direct the disposition:2,374,838
+Shared power to dispose or to direct the disposition: 0
+
+J.P Slager, LLC
+Sole power to vote or to direct the vote: 3,468,512
+Shared power to vote or to direct the vote:  0
+Sole power to dispose or to direct the disposition 3,468,512:
+Shared power to dispose or to direct the disposition: 0
+
+Adam O'Farrell
+Sole power to vote or to direct the vote: 558,167
+Shared power to vote or to direct the vote: 16,985,764
+Sole power to dispose or to direct the disposition: 558,167
+Shared power to dispose or to direct the disposition: 2,926,699
+
+Adam B. O'Farrell and Tracy K. O'Farrell Trust dtd May 9, 2019
+Sole power to vote or to direct the vote: 1,465,749
+Shared power to vote or to direct the vote: 15,520,015
+Sole power to dispose or to direct the disposition: 1,465,749
+Shared power to dispose or to direct the disposition: 0
+
+Dean Allara
+Sole power to vote or to direct the vote: 6,997,855
+Shared power to vote or to direct the vote: 12,252,717
+Sole power to dispose or to direct the disposition: 6,997,855
+Shared power to dispose or to direct the disposition: 1,558,632
+
+Mr. Morse is (i) the record holder of 3,294,419 shares of Class A Common Stock; (ii) the manager of FLM Holdings, LLC, which is the record holder of 33,635,780 Class A Units; and (iii) the manager of FLM Management LLC, which is the trustee of various family trusts that are the record holders of an aggregate of 1,450,996 Class A Units. As a result, Mr. Morse may be deemed to share beneficial ownership of the securities held of record by FLM Holdings, LLC and the various family trusts.
+
+Mr. Slager is (i) the record holder of 973,884 shares of Class A Common Stock; (ii) the grantor of the SF Intentional Irrevocable Trust, which is the record holder of 2,374,838 Class A Units; (iii) the manager of J.P. Slager, LLC, which is the record holder of 3,468,512 Class A Units; and (iv) the manager of The Christmas, LLC, which is the general partner of the Slager Family Limited Partnership which is the record holder of 2,374,838 Class A Units. As a result, Mr. Slager may be deemed to share beneficial ownership of the securities held of record by the SF Intentional Irrevocable Trust, J.P. Slager, LLC and the Slager Family Limited Partnership. In addition, certain parties to the Stockholders Agreement have granted an irrevocable proxy to the SF Intentional Irrevocable Trust to vote 13,748,976 shares of Class A Common Stock and Class A Units in the aggregate. As a result, Mr. Slager may be deemed share beneficial ownership of the securities subject to the irrevocable proxy.
+
+Mr. O'Farrell is (i) the record holder of 558,167 shares of Class A Common Stock and may be deemed to share beneficial ownership of 1,460,950 Class A Units held of record by the O'Farrell Irrevocable Trust, of which Mr. O'Farrell is trustee; and (ii) the trustee of the O'Farrell Trust, which is the record holder of 1,465,749 Class A Units. As a result, Mr. O'Farrell may be deemed to share beneficial ownership of the securities held of record by the O'Farrell Trust and the O'Farrell Irrevocable Trust. In addition, certain parties to the Stockholders Agreement have granted an irrevocable proxy to the O'Farrell Trust to vote 14,059,065 shares of Class A Common Stock and Class A Units in the aggregate. As a result, Mr. O'Farrell may be deemed share beneficial ownership of the securities subject to the irrevocable proxy.
+
+Mr. Allara is (i) the record holder of 6,997,855 shares in the aggregate of Class A Common Stock and Class A Units and may be deemed to share beneficial ownership of (a) 500,000 Class A Units held of record by the Dean Allara Family Legacy Trust, of which Mr. Allara is trustee, and (b) 500,000 Class A Units held of record by the Stacey Allara Family Legacy Trust, of which Mr. Allara is trustee; and (ii) the manager of Rockridge Investments, LLC, which is the record holder of 558,632 Class A Units. As a result, Mr. Allara may be deemed to share beneficial ownership of the securities held of record by the Dean Allara Family Legacy Trust, the Stacey Allara Family Legacy Trust and Rockridge Investments, LLC. In addition, certain parties to the Stockholders Agreement have granted an irrevocable proxy to Dean Allara to vote 10,694,085 shares of Class A Common Stock and Class A Units in the aggregate. As a result, Mr. Allara may be deemed share beneficial ownership of the securities subject to the irrevocable proxy.
+
+Each Class A Unit may be redeemed at any time for shares of Class A Common Stock on a 1-to-1 basis. As such, each of the individuals and entities noted above may be deemed to beneficially own the shares of Class A Common Stock issuable upon redemption of the Class A Units.</numberOfShares>
+        <transactionDesc>None</transactionDesc>
+        <listOfShareholders>None</listOfShareholders>
+        <date5PercentOwnership>None</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Exhibit 1: Joint Filing Agreement</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Robert Randolph Morse</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Randolph Morse</signature>
+          <title>Robert Randolph Morse</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>FLM Holdings, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Robert Randolph Morse</signature>
+          <title>Robert Randolph Morse, Manager</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Jonathan Slager</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jonathan Slager</signature>
+          <title>Jonathan Slager</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SF Intentional Irrevocable Trust Dated December 30, 2019</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jonathan Slager</signature>
+          <title>Jonathan Slager, Trustee</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>J.P. Slager, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jonathan Slager</signature>
+          <title>Jonathan Slager, Manager</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Adam O'Farrell</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Adam O'Farrell</signature>
+          <title>Adam O'Farrell</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Adam B. O'Farrell and Tracy K. O'Farrell Trust dtd May 9, 2019</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Adam O'Farrell</signature>
+          <title>Adam O'Farrell, Trustee</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Dean Allara</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Dean Allara</signature>
+          <title>Dean Allara</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1jointfilingagmt012025.htm
+<DESCRIPTION>EX-1
+<TEXT>
+<html><head>
+<!-- Document created using Wdesk -->
+<!-- Copyright 2025 Workiva -->
+<title>Document</title></head><body><div id="ib257bf2807b14086a662b421822cd45c_1"></div><div style="min-height:72pt;width:100%"><div><font><br></font></div><div style="text-align:right"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:120%">Exhibit 1</font></div></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:120%">JOINT FILING AGREEMENT</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The undersigned hereby agree that they are filing this statement jointly pursuant to Rule 13d-1(k)(1). Each of them is responsible for the timely filing of such Schedule 13D and any amendments thereto, and for the completeness and accuracy of the information concerning such person contained therein&#59; but none of them is responsible for the completeness or accuracy of the information concerning the other persons making the filing, unless such person knows or has reason to believe that such information is inaccurate.</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">In accordance with Rule 13d-1(k)(1) promulgated under the Securities Exchange Act of 1934, as amended, the undersigned hereby agree to the joint filing with each other on behalf of each of them of such a statement on Schedule 13D with respect to the Class A common stock of Bridge Investment Group Holdings Inc. beneficially owned by each of them. This Joint Filing Agreement shall be included as an exhibit to such Schedule 13D.</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">IN WITNESS WHEREOF, the undersigned hereby execute this Joint Filing Agreement as of the 3rd day of January, 2025.</font></div><div style="text-align:right"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:400;line-height:120%"> </font><table style="border-collapse:collapse;display:inline-table;margin-bottom:5pt;vertical-align:text-bottom;width:59.455%"><tr><td style="width:1.0%"></td><td style="width:98.900%"></td><td style="width:0.1%"></td></tr><tr><td colspan="3" style="padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">&#47;s&#47; Robert Randolph Morse</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Robert Randolph Morse</font></td></tr><tr style="height:8pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">FLM Holdings, LLC</font></td></tr><tr style="height:3pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">By&#58; &#47;s&#47; Robert Randolph Morse</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Robert Randolph Morse</font></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Title&#58; Manager</font></td></tr><tr style="height:9pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">&#47;s&#47; Jonathan Slager</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt 2px 1.02pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Jonathan Slager</font></td></tr><tr style="height:9pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">SF Intentional Irrevocable Trust dated December 30, 2019</font></td></tr><tr style="height:3pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">By&#58; &#47;s&#47; Jonathan Slager</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Jonathan Slager</font></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Title&#58; Trustee</font></td></tr><tr style="height:9pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">J.P. Slager, LLC</font></td></tr><tr style="height:3pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">By&#58; &#47;s&#47; Jonathan Slager</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Jonathan Slager</font></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Title&#58; Manager</font></td></tr><tr style="height:9pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">&#47;s&#47; Adam O&#8217;Farrell</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Adam O&#8217;Farrell</font></td></tr><tr style="height:9pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">Adam B. O&#8217;Farrell and Tracy K. O&#8217;Farrell Trust dtd May 9, 2019</font></td></tr><tr style="height:3pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">By&#58; &#47;s&#47; Adam O&#8217;Farrell</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Adam O&#8217;Farrell</font></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Title&#58; Trustee</font></td></tr><tr style="height:9pt"><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">&#47;s&#47; Dean Allara</font></td></tr><tr><td colspan="3" style="border-top:1pt solid #000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58; Dean Allara</font></td></tr></table></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div></body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

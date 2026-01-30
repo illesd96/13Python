@@ -1,0 +1,237 @@
+<SEC-DOCUMENT>0000950170-25-004429.txt : 20250110
+<SEC-HEADER>0000950170-25-004429.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110193951
+ACCESSION NUMBER:		0000950170-25-004429
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+DATE AS OF CHANGE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALLURION TECHNOLOGIES, INC.
+		CENTRAL INDEX KEY:			0001964979
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94138
+		FILM NUMBER:		25524386
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 HURON DR STE 200
+		CITY:			NATICK
+		STATE:			MA
+		ZIP:			01760
+		BUSINESS PHONE:		508-647-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		11 HURON DR STE 200
+		CITY:			NATICK
+		STATE:			MA
+		ZIP:			01760
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLURION TECHNOLOGIES HOLDINGS, INC.
+		DATE OF NAME CHANGE:	20230207
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RTW INVESTMENTS, LP
+		CENTRAL INDEX KEY:			0001493215
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 10TH AVENUE
+		STREET 2:		7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		646-597-6980
+
+	MAIL ADDRESS:	
+		STREET 1:		40 10TH AVENUE
+		STREET 2:		7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RTW INVESTMENTS, LLC
+		DATE OF NAME CHANGE:	20100602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0000902664-23-004381</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001493215</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>4</amendmentNo>
+<securitiesClassTitle>Common Stock, $0.0001 par value per share</securitiesClassTitle>
+<dateOfEvent>01/07/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001964979</issuerCIK>
+<issuerCUSIP>02008G201</issuerCUSIP>
+<issuerName>ALLURION TECHNOLOGIES, INC.</issuerName>
+<address>
+<street1 xmlns="http://www.sec.gov/edgar/common">11 HURON DR STE 200</street1>
+<city xmlns="http://www.sec.gov/edgar/common">NATICK</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">MA</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">01760</zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Roderick Wong, M.D.</personName>
+<personPhoneNum>(646)597-6980</personPhoneNum>
+<personAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">RTW Investments, LP, 40 10th Avenue</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">Floor 7</street2>
+<city xmlns="http://www.sec.gov/edgar/common">New York</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">10014</zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001493215</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>RTW Investments, LP</reportingPersonName>
+<fundType>AF</fundType>
+<legalProceedings>Y</legalProceedings>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>277797</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>277797</sharedDispositivePower>
+<aggregateAmountOwned>277797</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.99</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Roderick Wong, M.D.</reportingPersonName>
+<fundType>AF</fundType>
+<legalProceedings>Y</legalProceedings>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>277797</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>277797</sharedDispositivePower>
+<aggregateAmountOwned>277797</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.99</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Stock, $0.0001 par value per share</securityTitle>
+<issuerName>ALLURION TECHNOLOGIES, INC.</issuerName>
+<issuerPrincipalAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">11 HURON DR STE 200</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">Floor 7</street2>
+<city xmlns="http://www.sec.gov/edgar/common">NATICK</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">MA</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">01760</zipCode>
+</issuerPrincipalAddress>
+</item1>
+<item2>
+<convictionDescription>Item 2 of the Schedule 13D is hereby amended and supplemented as follows:
+
+During the last five years, none of the Reporting Persons has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree of final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws, other than the previously announced settlement order entered into by RTW Investments, L.P. with the SEC dated May 30, 2023 (File No. 3-21473) (the "Settlement"). Pursuant to the Settlement, the SEC found violations of Sections 206(2) and 206(4) of the Investment Advisors Act of 1940 and Rule 206(4)-7 thereunder, and Section 13(d) of the Exchange Act and Rules 13d-1 and 13d-2 thereunder, relating to conflicts of interest disclosure and beneficial ownership reporting, respectively. Under the terms of the settlement, RTW Investments agreed to a cease-and-desist order, a censure, and a civil penalty of $1.4 million.</convictionDescription>
+</item2>
+<item4>
+<transactionPurpose>Item 4 of the Schedule 13D is hereby amended and supplemented as follows:
+
+The Reporting Persons continuously evaluate their investment in the Issuer, and, from time to time, engage in discussions with the Issuer's management with respect to the Issuer's strategic direction, business opportunities, financing, and other matters. On December 30, 2024, upon the recommendation of the Reporting Persons, the Issuer appointed Jason Richey to serve on the Issuer's board of directors (the "Board"), effective as of December 30, 2024. The appointment was made in anticipation of the Omnibus Amendment between the Issuer, RTW Investments, and the other parties thereto, dated as of January 7, 2025 (as described below in Item 6 of this Amendment No. 4). The Reporting Persons believe that Mr. Richey's significant experience in the medical device industry, knowledge and experience with respect to leading medical device companies, financing and strategic initiatives, will provide valuable leadership and strategic guidance to the Board and the Issuer's management. Mr. Richey currently serves as a consultant to RTW Investments.
+
+Item 6 of the Schedule 13D is hereby incorporated by reference.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>Items 5 of the Schedule 13D is hereby amended and supplemented as follows:
+
+The aggregate percentage of Shares reported to be beneficially owned by the Reporting Persons is based upon approximately 2,711,263 Shares reported to be outstanding as of January 3, 2025, as disclosed in the Issuer's registration statement on Form S-1 filed with the Securities and Exchange Commission on January 8, 2025, after giving effect to the Issuer's reverse stock split effectuated on January 3, 2025 (the "Reverse Stock Split"), and assumes the conversion of the Notes into an aggregate of 69,488 Shares and no exercise of the Public Warrants or the Private Warrants. The Notes held by the RTW Funds are subject to a beneficial ownership conversion limitation such that the RTW Funds cannot convert Notes to the extent it would result in the RTW Funds and their affiliates beneficially owning more than 9.99% of the Issuer's Shares. The Public Warrants and the Private Warrants held by the RTW Funds are subject to a Blocker (as defined in Item 4 of Amendment No. 2), which is currently set at 4.99% and can be increased to 9.99% upon 61 days' prior notice by RTW.</percentageOfClassSecurities>
+<numberOfShares>See rows (7) through (10) of the cover page to this Amendment No. 4 for the number of Shares as to which each Reporting Person has the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition.</numberOfShares>
+<transactionDesc>On December 19, 2024, shares of Series A Preferred Stock held by the Reporting Persons automatically converted into 90,407 Shares, after giving effect to the Reverse Stock Split.</transactionDesc>
+</item5>
+<item6>
+<contractDescription>Item 6 of the Schedule 13D is hereby amended and supplemented as follows:
+
+Amendment to Note Purchase Agreement and RIFAs
+
+As previously disclosed, on April 14, 2024, RTW Investments and the other purchasers thereto entered into a note purchase agreement with the Issuer and Acquiom Agency Services LLC, as collateral agent for the purchasers (the "Purchasers"), pursuant to which, among other things, the Issuer issued and sold $48 million of convertible senior secured notes (the "Notes") to RTW Investments and the Purchasers in a private placement. In addition, on February 9, 2023, Allurion Technologies, LLC ("Allurion Opco") entered into a Revenue Interest Financing Agreement (as amended, the "First RIFA") with certain entities which have engaged RTW Investments as investment manager (the "First RIFA Investors"), pursuant to which, among other things, Allurion Opco secured a $40 million investment from the First RIFA Investors. On October 30, 2024, Allurion Opco entered into a Revenue Interest Financing Agreement (as amended, the "Second RIFA" and, together with the First RIFA, the "RIFAs") (the RIFAs collectively with the Note Purchase Agreement, the "Existing Documents") with certain entities that have engaged RTW investments as investment manager (the "Second RIFA Investors" and, together with the First RIFA Investors, the "Investors"), pursuant to which, among other things, the Second RIFA Investors purchased a $7.5 million  synthetic royalty interest.
+
+On January 7, 2025, the Issuer, RTW Investments, and the other parties thereto entered in an Omnibus Amendment (the "Omnibus Amendment") to the Note Purchase Agreement and the RIFAs. The Omnibus Amendment requires, among other things, (i) the Issuer and Allurion Opco to maintain certain minimum balances of unrestricted cash in controlled accounts in the U.S. in the amounts corresponding to the calculations set forth therein, and (ii) the Issuer to receive minimum trailing twelve-month consolidated Revenue (as defined in the Note Purchase Agreement) in amounts set forth therein, tested quarterly beginning with the twelve-month period ending September 30, 2025. The Omnibus Amendment also requires that (i) Allurion France shall have successfully regained marketing authorization from the Agence Nationale de Securite du Medicament et des Produits de Sante to resume the Commercialization (as defined in the Existing Documents) of the Product (as defined in the Existing Documents) in France on or prior to December 31, 2025 and (ii) Allurion OpCo shall have received Marketing Authorization from the U.S. Food &amp; Drug Administration for the Commercialization of the Product in the United States no later than June 30, 2026.
+
+Pursuant to the Omnibus Amendment, the Investors and the Purchasers will receive a number of shares of the Issuer's Shares representing in the aggregate five percent (5%) of the fully-diluted shares outstanding immediately after the closing of the offering and sale of Additional Shares (as defined in the Existing Documents) to be consummated no later than February 15, 2025, in connection with which the Issuer shall have raised at least $12 million aggregate net proceeds (the "Amendment Fee"); provided that, in the event the Issuer cannot issue Shares to the Investors and the Purchasers due to applicable law or New York Stock Exchange listing rules, the Issuer will instead issue an equivalent (as-converted) number of shares of a newly created series of Series A-1 non-voting preferred stock (the "Series A-1 Preferred Stock") and the Issuer shall include a proposal in a definitive proxy statement on Schedule 14A seeking stockholder approval no later than December 31, 2025 to allow the conversion of Series A-1 Preferred Stock into Shares; provided further that, each share of Series A-1 Preferred Stock outstanding on December 31, 2026 (the "Redemption Date") will, except to the extent prohibited by Delaware law governing distributions to stockholders (including the Delaware General Corporation Law), be redeemed by the Issuer for cash in an amount equal to the as-converted value of the underlying common stock.
+
+The Omnibus Amendment also provides that the Issuer will ensure that RTW Investments and the Investors have the right to designate one director to the Board of Issuer, which director is currently Nicholas Lewin, and, as of the Amendment Effective Date (as defined in the Omnibus Amendment), also have the right to designate a second director to the Board, which additional director will initially be Jason Richey.
+
+The foregoing description is qualified in its entirety by reference to the Omnibus Amendment, a copy of which is included as Exhibit 99.18 hereto.</contractDescription>
+</item6>
+<item7>
+<filedExhibits>Item 7 of the Schedule 13D is hereby amended and supplemented as follows:
+
+Exhibit 99.18	Omnibus Amendment, dated January 7, 2025, by and among Allurion Technologies, Inc., Allurion Technologies, LLC, Allurion Australia Pty Ltd, Allurion France, RTW Master Fund, Ltd., RTW Innovation Master Fund, Ltd., RTW Biotech Opportunities Operating Ltd., and RTW Investments, LP. (incorporated by reference to Exhibit 10.49 to Allurion Technologies, Inc.'s Registration Statement on Form S-1 Filed with the SEC on January 8, 2025)</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>RTW Investments, LP</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Roderick Wong, M.D.</signature>
+<title>Managing Partner</title>
+<date>01/10/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Roderick Wong, M.D.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Roderick Wong, M.D.</signature>
+<title>Roderick Wong, M.D.</title>
+<date>01/10/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

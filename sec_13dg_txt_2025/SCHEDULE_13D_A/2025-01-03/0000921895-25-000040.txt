@@ -1,0 +1,404 @@
+<SEC-DOCUMENT>0000921895-25-000040.txt : 20250103
+<SEC-HEADER>0000921895-25-000040.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103195117
+ACCESSION NUMBER:		0000921895-25-000040
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cardlytics, Inc.
+		CENTRAL INDEX KEY:			0001666071
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				263039436
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90631
+		FILM NUMBER:		25508682
+
+	BUSINESS ADDRESS:	
+		STREET 1:		675 PONCE DE LEON AVENUE, NE
+		STREET 2:		SUITE 4100
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		888-798-5802
+
+	MAIL ADDRESS:	
+		STREET 1:		675 PONCE DE LEON AVENUE, NE
+		STREET 2:		SUITE 4100
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAS Investment Partners, LLC
+		CENTRAL INDEX KEY:			0001697591
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				460901365
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8 WRIGHT STREET
+		STREET 2:		FLOOR 1
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		212-804-7660
+
+	MAIL ADDRESS:	
+		STREET 1:		8 WRIGHT STREET
+		STREET 2:		FLOOR 1
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-23-001570</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: CAS Investment Partners, LLC -->
+          <cik>0001697591</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.0001</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001666071</issuerCIK>
+        <issuerCUSIP>14161W105</issuerCUSIP>
+        <issuerName>Cardlytics, Inc.</issuerName>
+        <address>
+          <com:street1>675 PONCE DE LEON AVENUE, NE</com:street1>
+          <com:street2>SUITE 4100</com:street2>
+          <com:city>ATLANTA</com:city>
+          <com:stateOrCountry>GA</com:stateOrCountry>
+          <com:zipCode>30308</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>CLIFFORD SOSIN</personName>
+          <personPhoneNum>212-804-7660</personPhoneNum>
+          <personAddress>
+            <com:street1>CAS INVESTMENT PARTNERS, LLC</com:street1>
+            <com:street2>8 Wright Street, Suite 107</com:street2>
+            <com:city>Westport</com:city>
+            <com:stateOrCountry>CT</com:stateOrCountry>
+            <com:zipCode>06880</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001697591</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CAS Investment Partners, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5614878.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5614878.00</sharedDispositivePower>
+        <aggregateAmountOwned>5614878.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>11.0</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>1</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>SOSIN MASTER, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3425395.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3425395.00</sharedDispositivePower>
+        <aggregateAmountOwned>3425395.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.7</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>1</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>CSWR PARTNERS, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2189483.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2189483.00</sharedDispositivePower>
+        <aggregateAmountOwned>2189483.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.3</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>1</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>SOSIN LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5614878.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5614878.00</sharedDispositivePower>
+        <aggregateAmountOwned>5614878.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>11.0</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>1</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001697919</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>SOSIN CLIFFORD</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5614878.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5614878.00</sharedDispositivePower>
+        <aggregateAmountOwned>5614878.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>11.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Item 1. Security and Issuer</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.0001</securityTitle>
+        <issuerName>Cardlytics, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>675 PONCE DE LEON AVENUE, NE</com:street1>
+          <com:street2>SUITE 4100</com:street2>
+          <com:city>ATLANTA</com:city>
+          <com:stateOrCountry>GA</com:stateOrCountry>
+          <com:zipCode>30308</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) is hereby amended and restated to read as follows:
+
+The aggregate percentage of Shares reported owned by each person named herein is based upon 50,822,443 Shares outstanding, which is the total number of Shares outstanding as of October 31, 2024, as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on November 6, 2024.
+
+The filing of this Schedule 13D shall not be deemed an admission that the Reporting Persons are, for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended, the beneficial owners of any securities of the Issuer that he or it does not directly own. Each of the Reporting Persons specifically disclaims beneficial ownership of the securities reported herein that he or it does not directly own.
+
+A. Sosin Master
+As of the close of business on January 3, 2025, Sosin Master directly beneficially owned 3,425,395 Shares. Percentage: Approximately 6.7%
+
+B. CSWR
+As of the close of business on January 3, 2025, CSWR directly beneficially owned 2,189,483 Shares. Percentage: Approximately 4.3%
+
+C. CAS Investment
+As the investment manager of Sosin Master and CSWR, CAS Investment may be deemed the beneficial owner of the (i) 3,425,395 Shares owned by Sosin Master and (ii) 2,189,483 Shares owned by CSWR. Percentage: Approximately 11.0%
+
+D. Sosin LLC
+Sosin LLC, as the general partner of Sosin Master and CSWR, may be deemed the beneficial owner of the (i) 3,425,395 Shares owned by Sosin Master and (ii) 2,189,483 Shares owned by CSWR. Percentage: Approximately 11.0%
+
+E. Mr. Sosin
+Mr. Sosin, as the managing member of CAS Investment, may be deemed the beneficial owner of the (i) 3,425,395 Shares owned by Sosin Master and (ii) 2,189,483 Shares owned by CSWR. Percentage: Approximately 11.0%</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) is hereby amended and restated to read as follows:
+
+A. Sosin Master
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 3,425,395
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 3,425,395
+
+B. CSWR
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 2,189,483
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 2,189,483
+
+C. CAS Investment
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 5,614,878
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 5,614,878
+
+D. Sosin LLC
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 5,614,878
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 5,614,878
+
+E. Mr. Sosin
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 5,614,878
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 5,614,878</numberOfShares>
+        <transactionDesc>Item 5(c) is hereby amended and restated to read as follows:
+
+A. Sosin Master
+The open market transactions in the Shares by Sosin Master during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference. On December 19, 2024, Sosin Master sold a portion of its Notes, as discussed in further detail in Item 6. Effective December 31, 2024, Sosin Master engaged in a pro rata distribution of 754,032 Shares to its partners for no consideration.
+
+B. CSWR
+CSWR has not entered into any transactions in the Shares during the past sixty days.
+
+C. CAS Investment
+CAS Investment has not entered into any transactions in the Shares during the past sixty days. Reference is made to Item 5(c)(A) for a description of the transactions in the securities of the Issuer on behalf of Sosin Master during the past sixty days.
+
+D. Sosin LLC
+Sosin LLC has not entered into any transactions in the Shares during the past sixty days. Reference is made to Item 5(c)(A) for a description of the transactions in the securities of the Issuer on behalf of Sosin Master during the past sixty days.
+
+E. Mr. Sosin
+Mr. Sosin has not entered into any transactions in the Shares during the past sixty days. Reference is made to Item 5(c)(A) for a description of the transactions in the securities of the Issuer on behalf of Sosin Master during the past sixty days.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended to add the following:
+
+On December 19, 2024, Sosin Master sold $2,700,000 principal amount of the Issuer's 4.25% convertible senior notes due 2029 (the "Notes") for $1,518,750. Accordingly, Sosin Master directly holds $13,798,366 principal amount of the Notes and CSWR directly holds $7,501,634 principal amount of the Notes. As the Issuer has the option, at its sole discretion, to settle conversions of the Notes in cash, Shares or a combination of cash and Shares, the Reporting Persons are not deemed to be beneficial owners of any Shares underlying the Notes as the Reporting Persons do not have the right to acquire such underlying Shares.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>1 - Transactions in Securities</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>CAS Investment Partners, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Clifford Sosin</signature>
+          <title>Clifford Sosin, Managing Member</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SOSIN MASTER, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Clifford Sosin</signature>
+          <title>Clifford Sosin, Managing Member of CAS Investment Partners, LLC, Investment Adviser of Sosin Master, LP</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CSWR PARTNERS, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Clifford Sosin</signature>
+          <title>Clifford Sosin, Managing Member of CAS Investment Partners, LLC, Investment Adviser of CSWR Partners, LP</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SOSIN LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Clifford Sosin</signature>
+          <title>Clifford Sosin, Managing Member of CAS Investment Partners, LLC, Investment Adviser of Sosin Master, LP and CSWR Partners, LP</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>SOSIN CLIFFORD</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Clifford Sosin</signature>
+          <title>Clifford Sosin</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da512609002_010325.htm
+<DESCRIPTION>TRANSACTIONS IN SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>Transactions in the Shares of the Issuer During
+the Past Sixty Days</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><U>Nature of Transaction</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Amount of Securities<U><BR>
+Purchased/(Sold)</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><U>Price per Share ($)</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><U>Date of Purchase/Sale</U></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>SOSIN MASTER, LP</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(19,523)</TD>
+    <TD STYLE="vertical-align: top; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">3.9530</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/03/2024</TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(15,650)</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">3.7784</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/30/2024</TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(15,650)</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">3.7661</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/31/2024</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

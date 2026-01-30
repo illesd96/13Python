@@ -1,0 +1,234 @@
+<SEC-DOCUMENT>0001214659-25-000603.txt : 20250115
+<SEC-HEADER>0001214659-25-000603.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115105423
+ACCESSION NUMBER:		0001214659-25-000603
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			First Foundation Inc.
+		CENTRAL INDEX KEY:			0001413837
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-87992
+		FILM NUMBER:		25531600
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18101 VON KARMAN AVE
+		STREET 2:		SUITE 700
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+		BUSINESS PHONE:		949-222-2030
+
+	MAIL ADDRESS:	
+		STREET 1:		18101 VON KARMAN AVE
+		STREET 2:		SUITE 700
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92612
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KELLER FINANCIAL GROUP
+		DATE OF NAME CHANGE:	20071001
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			North Reef Capital Management LP
+		CENTRAL INDEX KEY:			0001867831
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				852858118
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1833 SOUTH COAST HIGHWAY, SUITE 210
+		CITY:			LAGUNA BEACH
+		STATE:			CA
+		ZIP:			92651
+		BUSINESS PHONE:		949-482-2121
+
+	MAIL ADDRESS:	
+		STREET 1:		1833 SOUTH COAST HIGHWAY, SUITE 210
+		CITY:			LAGUNA BEACH
+		STATE:			CA
+		ZIP:			92651
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: North Reef Capital Management LP -->
+          <cik>0001867831</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001413837</issuerCik>
+        <issuerName>First Foundation, Inc.</issuerName>
+        <issuerCusip>32026V104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>200 Cresent Court</com:street1>
+          <com:street2>Suite 1400</com:street2>
+          <com:city>Dallas</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75201</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>North Reef Capital Management L.P.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4386861.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4386861.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4386861.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>North Reef Capital Management GP LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4386861.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4386861.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4386861.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>James Hanna</reportingPersonName>
+      <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4386861.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4386861.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4386861.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>First Foundation, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>200 Cresent Court, Suite 1400, Dallas, TEXAS, 75201</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>North Reef Capital Management L.P.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1833 South Coast Highway, Suite 210
+ Laguna Beach, California 92651</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>4,386,861</amountBeneficiallyOwned>
+        <classPercent>5.3</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>4,386,861</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>4,386,861</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>North Reef Capital Management L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Daniel Locasto</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>North Reef Capital Management GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James Hanna</signature>
+        <title>Managing Member</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>James Hanna</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ James Hanna</signature>
+        <title>James Hanna</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

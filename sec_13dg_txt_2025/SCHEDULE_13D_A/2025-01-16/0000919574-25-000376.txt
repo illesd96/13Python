@@ -1,0 +1,567 @@
+<SEC-DOCUMENT>0000919574-25-000376.txt : 20250116
+<SEC-HEADER>0000919574-25-000376.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116200740
+ACCESSION NUMBER:		0000919574-25-000376
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250116
+DATE AS OF CHANGE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NN INC
+		CENTRAL INDEX KEY:			0000918541
+		STANDARD INDUSTRIAL CLASSIFICATION:	METALWORKING MACHINERY & EQUIPMENT [3540]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				621096725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-49851
+		FILM NUMBER:		25536777
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6210 ARDREY KELL ROAD
+		STREET 2:		SUITE 120
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+		BUSINESS PHONE:		980-264-4300
+
+	MAIL ADDRESS:	
+		STREET 1:		6210 ARDREY KELL ROAD
+		STREET 2:		SUITE 120
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NN BALL & ROLLER INC
+		DATE OF NAME CHANGE:	19940203
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Corre Partners Management, LLC
+		CENTRAL INDEX KEY:			0001537323
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				264570258
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12 EAST 49TH STREET
+		STREET 2:		SUITE 4003
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		646 863 7150
+
+	MAIL ADDRESS:	
+		STREET 1:		12 EAST 49TH STREET
+		STREET 2:		SUITE 4003
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000919574-21-003639</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Corre Partners Management, LLC -->
+          <cik>0001537323</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <dateOfEvent>01/14/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000918541</issuerCIK>
+        <issuerCUSIP>629337106</issuerCUSIP>
+        <issuerName>NN INC</issuerName>
+        <address>
+          <com:street1>6210 Ardrey Kell Road</com:street1>
+          <com:street2>Suite 120</com:street2>
+          <com:city>Charlotte</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>28277</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>John Barrett</personName>
+          <personPhoneNum>646-863-7152</personPhoneNum>
+          <personAddress>
+            <com:street1>12 East 49th Street</com:street1>
+            <com:street2>40th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10017</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001601971</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Corre Opportunities Qualified Master Fund, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5395064.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5395064.00</sharedDispositivePower>
+        <aggregateAmountOwned>5395064.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>10.8</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001884680</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Corre Partners Advisors LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6205631.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6205631.00</sharedDispositivePower>
+        <aggregateAmountOwned>6205631.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>12.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001537323</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Corre Partners Management, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6205631.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6205631.00</sharedDispositivePower>
+        <aggregateAmountOwned>6205631.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>12.4</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001858308</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>John Barrett</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6205631.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6205631.00</sharedDispositivePower>
+        <aggregateAmountOwned>6205631.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>12.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001885532</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Eric Soderlund</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6205631.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6205631.00</sharedDispositivePower>
+        <aggregateAmountOwned>6205631.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>12.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.01 per share</securityTitle>
+        <issuerName>NN INC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>6210 Ardrey Kell Road</com:street1>
+          <com:street2>Suite 120</com:street2>
+          <com:city>Charlotte</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>28277</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>The name of the issuer is NN, Inc., a Delaware corporation (the "Issuer").  The address of the Issuer's principal executive offices is 6210 Ardrey Kell Road, Suite 120, Charlotte, North Carolina 28277.  This Schedule 13D amendment relates to the Issuer's common stock, par value $0.01 per share (the "Shares").</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D amendment is being filed jointly by (i) Corre Opportunities Qualified Master Fund, LP, a Cayman Islands exempted limited partnership (the "Fund"); (ii) Corre Partners Advisors, LLC, a Delaware limited liability company (the "General Partner"), which serves as the general partner of the Fund; (iii) Corre Partners Management, LLC, a Delaware limited liability company (the "Investment Adviser"), which has been delegated investment authority over the assets of the Fund by the General Partner; (iv) Mr. John Barrett, who serves as a managing member of the General Partner and the Investment Adviser; and (v) Mr. Eric Soderlund, who serves as a managing member of the General Partner and the Investment Adviser (each, a "Reporting Person" and collectively, the "Reporting Persons").</filingPersonName>
+        <principalBusinessAddress>The Fund is principally engaged in the business of investing in securities.  The principal business address of the Fund is 12 East 49th Street, 40th Floor, New York, NY 10017.
+
+The General Partner is principally engaged in the business of serving as general partner and/or managing member to private investment vehicles, including the Fund. The principal business address of the General Partner is 12 East 49th Street, 40th Floor, New York, NY 10017.</principalBusinessAddress>
+        <principalJob>The Investment Adviser is an investment adviser registered with the Securities and Exchange Commission (the "SEC") that is principally engaged in the business of providing investment management services to private investment vehicles, including the Fund. The principal business address of the Investment Adviser is 12 East 49th Street, 40th Floor, New York, NY 10017.
+
+Mr. Barrett and Mr. Soderlund are the co-owners and managing members of the General Partner and the Investment Adviser.  The business address of each of Mr. Barrett and Mr. Soderlund is 12 East 49th Street, 40th Floor, New York, NY 10017.</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons have, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons have, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Mr. Barrett and Mr. Soderlund are citizens of the United States.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The funds for the purchase of the 5,395,064 Shares beneficially owned by the Fund came from the working capital of the Fund, which is the direct owner of the Shares.  The funds for the purchase of the 6,205,631 Shares beneficially owned by the other Reporting Persons (which include the 5,395,064 Shares directly owned by the Fund) came from the working capital of the Fund and other private investment vehicles managed by the Investment Adviser, which are the direct owners of such Shares.  No borrowed funds were used to purchase the Shares, other than any borrowed funds used for working capital purposes (including certain leverage arrangements) in the ordinary course of business.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Persons originally acquired the Shares for investment purposes.  The Reporting Persons have had discussions with certain representatives of the Issuer and management of the Issuer.
+
+The Reporting Persons intend to review their investment in the Issuer on a continuing basis. Depending on various factors, including the Issuer's financial position and strategic direction, actions taken by the Board, price levels of the Shares, other investment opportunities available to the Reporting Persons, conditions in the securities market and general economic and industry conditions, the Reporting Persons may take such actions with respect to their investment in the Issuer as they deem appropriate including, without limitation, purchasing additional Shares, other securities or derivative instruments related thereto or selling some or all of their Shares, other securities or derivative instruments, engaging in hedging or similar transactions with respect to the Shares and, alone or with others, may engage in communications with directors and officers of the Issuer, other stockholders of the Issuer or other third parties or may take steps to implement a course of action, including, without limitation, engaging advisors, including legal, financial, regulatory, technical and/or industry advisors, to assist in any review.  Such discussions and other actions may relate to various alternative courses of action, including, without limitation, those related to an extraordinary corporate transaction (including, but not limited to a merger, reorganization or liquidation) involving the Issuer or any of its subsidiaries; business combinations involving the Issuer or its subsidiaries, a sale or transfer of a material amount of assets of the Issuer or any of its subsidiaries; material asset purchases; the formation of joint ventures with the Issuer or its subsidiaries or the entry into other material projects; changes in the present business, operations, strategy, future plans or prospects of the Issuer, financial or governance matters; changes to the Board (including Board composition) or management of the Issuer; acting as a participant in debt financings of the Issuer or its subsidiaries; changes to the capitalization, ownership structure, dividend policy, business or corporate structure or governance documents of the Issuer; de-listing or de-registration of the Issuer's securities, or any action similar to those enumerated above.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>As of the date hereof (i) the Fund may be deemed to be the beneficial owner of 5,395,064 Shares, constituting 10.8% of the Shares in the aggregate and (ii) each of the General Partner, the Investment Adviser, Mr. Barrett and Mr. Soderlund may be deemed to be the beneficial owner of 6,205,631 Shares, constituting 12.4% of the Shares in the aggregate, in each case based upon 49,946,337 Shares outstanding at October 21, 2024, as determined based on reports by the Issuer.</percentageOfClassSecurities>
+        <numberOfShares>The Fund has the sole power to vote or direct the vote of 0 Shares; has the shared power to vote or direct the vote of 5,395,064 Shares; has the sole power to dispose or direct the disposition of 0 Shares; and has the shared power to dispose or direct the disposition of 5,395,064 Shares.
+
+The General Partner has the sole power to vote or direct the vote of 0 Shares; has the shared power to vote or direct the vote of 6,205,631 Shares; has the sole power to dispose or direct the disposition of 0 Shares; and has the shared power to dispose or direct the disposition of 6,205,631 Shares.
+
+The Investment Adviser has the sole power to vote or direct the vote of 0 Shares; has the shared power to vote or direct the vote of 6,205,631 Shares; has the sole power to dispose or direct the disposition of 0 Shares; and has the shared power to dispose or direct the disposition of 6,205,631 Shares.
+
+Mr. Barrett has the sole power to vote or direct the vote of 0 Shares; has the shared power to vote or direct the vote of 6,205,631 Shares; has the sole power to dispose or direct the disposition of 0 Shares; and has the shared power to dispose or direct the disposition of 6,205,631 Shares.
+
+Mr. Soderlund has the sole power to vote or direct the vote of 0 Shares; has the shared power to vote or direct the vote of 6,205,631 Shares; has the sole power to dispose or direct the disposition of 0 Shares; and has the shared power to dispose or direct the disposition of 6,205,631 Shares.</numberOfShares>
+        <transactionDesc>The transactions by the Reporting Persons in the securities of the Issuer during the past sixty days are set forth in Exhibit B.  All such transactions were carried out in open market transactions.</transactionDesc>
+        <listOfShareholders>Except as set forth in this Schedule 13D, no person has the right to receive or the power to direct receipt of dividends from, or the proceeds of sale of, securities covered by Schedule 13D</listOfShareholders>
+        <date5PercentOwnership>N/A</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>The Fund and other private investment vehicles managed by the Investment Adviser (the "Corre Holders") hold common stock purchase warrants of the Issuer (the "Warrants"), pursuant to the terms of that certain Securities Purchase Agreement, dated December 5, 2019 (the "Purchase Agreement"). See Exhibit C for the Purchase Agreement.
+
+The Warrants are exercisable, in full or in part, at any time prior to the seventh anniversary of their issuance, at an exercise price of $11.03 per share, subject to customary anti-dilution adjustments in the event of future below market issuances, stock splits, stock dividends, combinations or similar events set forth in the Warrants.  The Warrants held by the Reporting Persons are subject to limitations on the right to exercise to the extent that after giving effect to such issuance after exercise, the Reporting Persons (together with the Reporting Persons' affiliates, any other accounts managed by or over which the Investment Adviser or one of its affiliates has discretionary investment authority, or any other person or entity whose beneficial ownership of Shares would be aggregated with such persons' beneficial ownership for purposes of Section 13(d) or Section 16 of the Securities Exchange Act of 1934), would beneficially own Shares in excess of 9.99% of the number of Shares outstanding (measured after giving effect to the issuance of Shares issuable upon exercise of the Warrants).  See Exhibit D for the Warrants.
+
+In connection with the issuance of certain Series B Convertible Preferred Stock of the Issuer, par value $0.01 per share (the "Preferred Stock"), previously held by the Corre Holders, all of which has been redeemed by the Issuer for cash, the Issuer entered into a registration rights agreement with the purchasers to provide certain customary demand registration rights exercisable beginning on March 31, 2021, with respect to their shares of common stock, including those underlying the Preferred Stock and Warrants, shares of Preferred Stock, and the Warrants.  See Exhibit E for the Registration Rights Agreement.
+
+The Reporting Persons do not have any contract, arrangement, understanding or relationship with any person with respect to securities of the Issuer that is not described above and/or incorporated herein by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit A: Joint Filing Agreement
+
+Exhibit B: Schedule of Transactions in Shares
+
+Exhibit C: Securities Purchase Agreement (incorporated by reference to Exhibit 10.1 to the Form 8-K filed with the SEC by the Issuer on December 11, 2019)
+
+Exhibit D: Common Stock Purchase Warrant (incorporated by reference to Exhibit 4.1 to the Form 8-K filed with the SEC by the Issuer on December 11, 2019)
+
+Exhibit E: Registration Rights Agreement (incorporated by reference to Exhibit 10.2 to the
+Form 8-K filed with the SEC by the Issuer on December 11, 2019)</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Corre Opportunities Qualified Master Fund, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Corre Opportunities Qualified Master Fund, LP*, By: Corre Partners Advisors, LLC, its general partner, /s/ Eric Soderlund</signature>
+          <title>Eric Soderlund/Managing Member</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Corre Partners Advisors LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Corre Partners Advisors, LLC*, /s/ Eric Soderlund</signature>
+          <title>Eric Soderlund/Managing Member</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Corre Partners Management, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Corre Partners Management, LLC*, /s/ Eric Soderlund</signature>
+          <title>Eric Soderlund/Managing Member</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>John Barrett</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ John Barrett*</signature>
+          <title>John Barrett</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Eric Soderlund</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Eric Soderlund*</signature>
+          <title>Eric Soderlund</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>* The Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his or its pecuniary interests therein, and this report shall not be deemed an admission that such person is the beneficial owner of these securities for purposes of Section 16 of the U.S. Securities Exchange Act of 1934, as amended, or for any other purpose.
+
+
+
+Attention: Intentional misstatements or omissions of fact constitute Federal criminal violations (see 18 U.S.C. 1001).</commentText>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11576998_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">Exhibit A</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>AGREEMENT</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">The undersigned agree that this Schedule 13D amendment,
+dated January 16, 2025, relating to the common stock, par value $0.01 per share, of NN, Inc. shall be filed on behalf of the undersigned.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 35%; padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="width: 21%; border-bottom: Black 1pt solid; padding-right: 0.5pt; padding-left: 0.5pt">January 16, 2025</TD>
+    <TD STYLE="width: 44%; padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">(Date)</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 35%; padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="width: 65%; padding-right: 0.5pt; padding-left: 0.5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Corre Opportunities Qualified Master Fund, LP</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.25in">By: Corre Partners Advisors, LLC, its general partner</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">By:&nbsp;&nbsp;/<U>s/ Eric Soderlund</U></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Name: Eric Soderlund</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Title: Managing Member</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">Corre Partners Advisors, LLC</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">By:&nbsp;&nbsp;<U>/s/ Eric Soderlund</U></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Name: Eric Soderlund</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Title: Managing Member</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">Corre Partners Management, LLC</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">By:&nbsp;&nbsp;<U>/s/ Eric Soderlund</U></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Name: Eric Soderlund</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Title: Managing Member</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">John Barrett</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt"><U>/s/ John Barrett</U></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Eric Soderlund</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.5pt; padding-left: 0.5pt"><U>/s/ Eric Soderlund</U></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>d11576998_ex99-b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">Exhibit B</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Schedule of Transactions in Shares</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 1%; border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="width: 16%; border-bottom: Black 1pt solid; text-align: right">Date of Transaction</TD><TD STYLE="width: 1%; padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="width: 3%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; width: 21%; text-align: center">Title of Class</TD><TD STYLE="width: 1%; padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; width: 15%; text-align: center">Number of Shares Acquired</TD><TD STYLE="width: 1%; padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="width: 1%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 2%; border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; width: 14%; text-align: center">Number of Shares Disposed</TD><TD STYLE="width: 2%; padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="width: 2%; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 2%; border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; width: 12%; text-align: center">Price Per Share</TD><TD STYLE="width: 1%; padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">1/14/2025</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">Common Stock, par value $0.01 per share</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">274,379 (1)</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">$3.7599 (3)</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">1/14/2025</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">Common Stock, par value $0.01 per share</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">78,542 (2)</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">$3.7599 (3)</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">1/14/2025</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">Common Stock, par value $0.01 per share</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">58,083 (1)</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">$4.4145 (4)</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">1/14/2025</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: left">Common Stock, par value $0.01 per share</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">16,626 (2)</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">$4.4145 (4)</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(1) The reported securities are directly owned by the Fund.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(2) The reported securities are directly owned by other clients of the
+Investment Adviser.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(3) The price reported is a weighted average price. These Shares were sold
+in multiple transactions within the range of $3.26 to $4.26. The Reporting Persons undertake to provide to the Issuer, any security holder
+of the Issuer or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within
+the range set forth in this footnote.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(4) The price reported is a weighted average price. These Shares were sold
+in multiple transactions within the range of $4.28 to $4.58. The Reporting Persons undertake to provide to the Issuer, any security holder
+of the Issuer or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within
+the range set forth in this footnote.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

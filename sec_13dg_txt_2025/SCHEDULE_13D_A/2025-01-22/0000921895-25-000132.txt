@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0000921895-25-000132.txt : 20250122
+<SEC-HEADER>0000921895-25-000132.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122173757
+ACCESSION NUMBER:		0000921895-25-000132
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DESTINATION XL GROUP, INC.
+		CENTRAL INDEX KEY:			0000813298
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-FAMILY CLOTHING STORES [5651]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				042623104
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0203
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-38923
+		FILM NUMBER:		25547006
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 TURNPIKE STREET
+		CITY:			CANTON
+		STATE:			MA
+		ZIP:			02021
+		BUSINESS PHONE:		7818289300
+
+	MAIL ADDRESS:	
+		STREET 1:		555 TURNPIKE STREET
+		CITY:			CANTON
+		STATE:			MA
+		ZIP:			02021
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CASUAL MALE RETAIL GROUP INC
+		DATE OF NAME CHANGE:	20020821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DESIGNS INC
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fund 1 Investments, LLC
+		CENTRAL INDEX KEY:			0001959730
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CARR 115
+		STREET 2:		UNIT 1900
+		CITY:			RINCON
+		STATE:			PR
+		ZIP:			00677
+		BUSINESS PHONE:		804-363-4458
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CARR 115
+		STREET 2:		UNIT 1900
+		CITY:			RINCON
+		STATE:			PR
+		ZIP:			00677
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-24-001466</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Fund 1 Investments, LLC -->
+          <cik>0001959730</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>5</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <dateOfEvent>01/17/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000813298</issuerCIK>
+        <issuerCUSIP>25065K104</issuerCUSIP>
+        <issuerName>DESTINATION XL GROUP, INC.</issuerName>
+        <address>
+          <com:street1>555 TURNPIKE STREET</com:street1>
+          <com:city>CANTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02021</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Kenneth Mantel, Esq.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>Olshan Frome Wolosky LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001959730</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Fund 1 Investments, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>5758261.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>5758261.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>5758261.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>10.6</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.01 per share</securityTitle>
+        <issuerName>DESTINATION XL GROUP, INC.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>555 TURNPIKE STREET</com:street1>
+          <com:city>CANTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02021</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 is hereby amended to add the following:
+
+On January 17, 2025, the Reporting Person entered into a Confidentiality and Non-Disclosure Agreement (the "Confidentiality Agreement") with the Issuer to enable further discussions with respect to the Issuer and a possible business relationship or transaction between the parties. The Confidentiality Agreement includes customary standstill provisions, including but not limited to restrictions on the Reporting Person acquiring additional equity securities of the Issuer, effective for eight months from the date of the Confidentiality Agreement or until the earlier termination of the Confidentiality Agreement in accordance with its terms.</transactionPurpose>
+      </item4>
+      <item6>
+        <contractDescription>Item 6 is hereby amended to add the following:
+
+On January 17, 2025, the Reporting Person entered into the Confidentiality Agreement with the Issuer, as defined and described in Item 4 above.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Fund 1 Investments, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Benjamin C. Cable</signature>
+          <title>Benjamin C. Cable, Chief Operating Officer</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

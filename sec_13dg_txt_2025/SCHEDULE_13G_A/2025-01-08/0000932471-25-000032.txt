@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0000932471-25-000032.txt : 20250108
+<SEC-HEADER>0000932471-25-000032.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108112936
+ACCESSION NUMBER:		0000932471-25-000032
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KIMBERLY CLARK CORP
+		CENTRAL INDEX KEY:			0000055785
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				390394230
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-17596
+		FILM NUMBER:		25517192
+
+	BUSINESS ADDRESS:	
+		STREET 1:		351 PHELPS DRIVE
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75038
+		BUSINESS PHONE:		9722811200
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 619100
+		STREET 2:		DFW AIRPORT STATION
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75261-9100
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VANGUARD GROUP INC
+		CENTRAL INDEX KEY:			0000102909
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				231945930
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 VANGUARD BLVD
+		CITY:			MALVERN
+		STATE:			PA
+		ZIP:			19355
+		BUSINESS PHONE:		6106691000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 2600
+		STREET 2:		V26
+		CITY:			VALLEY FORGE
+		STATE:			PA
+		ZIP:			19482-2600
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13G/A</submissionType>
+<previousAccessionNumber>0000932471-14-003586</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0000102909</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>11</amendmentNo>
+<securitiesClassTitle>Common Stock</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0000055785</issuerCik>
+<issuerName>Kimberly-Clark Corp</issuerName>
+<issuerCusip>494368103</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<com:street1>PO Box 619100</com:street1>
+<com:city>Dallas</com:city>
+<com:stateOrCountry>TX</com:stateOrCountry>
+<com:zipCode>75261-9100</com:zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+<reportingPersonName>The Vanguard Group</reportingPersonName>
+<memberGroup>b</memberGroup>
+<citizenshipOrOrganization>PA</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>417006</sharedVotingPower>
+<soleDispositivePower>33554273</soleDispositivePower>
+<sharedDispositivePower>1579533</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>35133806</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<classPercent>10.53</classPercent>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>Kimberly-Clark Corp</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>PO Box 619100, Dallas, TX, 75261-9100</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>The Vanguard Group</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>100 Vanguard Blvd,, Malvern, PA, 19355</principalBusinessOfficeOrResidenceAddress>
+<citizenship>PA</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>N</notApplicableFlag>
+<typeOfPersonFiling>IA</typeOfPersonFiling>
+</item3>
+<item4>
+<amountBeneficiallyOwned>35133806</amountBeneficiallyOwned>
+<classPercent>10.53</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>417006</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>33554273</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>1579533</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>Y</notApplicableFlag>
+</item5>
+<item6>
+<notApplicableFlag>N</notApplicableFlag>
+<ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The Vanguard Group, Inc.'s clients, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities reported herein.
+
+No one other person's interest in the securities reported herein is more than 5%.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+</item6>
+<item7>
+<notApplicableFlag>Y</notApplicableFlag>
+</item7>
+<item8>
+<notApplicableFlag>Y</notApplicableFlag>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>The Vanguard Group</reportingPersonName>
+<signatureDetails>
+<signature>Ashley Grim</signature>
+<title>Head of Global Fund Administration</title>
+<date>01/08/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

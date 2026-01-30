@@ -1,0 +1,256 @@
+<SEC-DOCUMENT>0000895345-25-000001.txt : 20250102
+<SEC-HEADER>0000895345-25-000001.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102070707
+ACCESSION NUMBER:		0000895345-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+DATE AS OF CHANGE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tango Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001819133
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92241
+		FILM NUMBER:		25500211
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 BROOKLINE AVENUE
+		STREET 2:		SUITE 901
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02215
+		BUSINESS PHONE:		(857) 320-4900
+
+	MAIL ADDRESS:	
+		STREET 1:		201 BROOKLINE AVENUE
+		STREET 2:		SUITE 901
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BCTG Acquisition Corp.
+		DATE OF NAME CHANGE:	20200723
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BCTG Holdings, LLC
+		CENTRAL INDEX KEY:			0001823427
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11682 EL CAMINO REAL, SUITE 320
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+		BUSINESS PHONE:		(858) 400-3115
+
+	MAIL ADDRESS:	
+		STREET 1:		11682 EL CAMINO REAL, SUITE 320
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92130
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001193125-21-252792</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001823427</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>7</amendmentNo>
+<securitiesClassTitle>Common Stock, $0.001 par value per share</securitiesClassTitle>
+<dateOfEvent>12/30/2024</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001819133</issuerCIK>
+<issuerCUSIP>87583X109</issuerCUSIP>
+<issuerName>Tango Therapeutics, Inc.</issuerName>
+<address>
+<com:street1>201 BROOKLINE AVENUE</com:street1>
+<com:street2>SUITE 901</com:street2>
+<com:city>BOSTON</com:city>
+<com:stateOrCountry>MA</com:stateOrCountry>
+<com:zipCode>02215</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Josh La Grange</personName>
+<personPhoneNum>202-639-7497</personPhoneNum>
+<personAddress>
+<com:street1>Fried, Frank, Harris, Shriver &amp; Jacobson</com:street1>
+<com:street2>801 17th Street, NW</com:street2>
+<com:city>Washington</com:city>
+<com:stateOrCountry>DC</com:stateOrCountry>
+<com:zipCode>20006</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001823427</reportingPersonCIK>
+<reportingPersonName>BCTG Holdings, LLC</reportingPersonName>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>0</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>0</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001468223</reportingPersonCIK>
+<reportingPersonName>MVA Investors, LLC</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>326886</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>326886</sharedDispositivePower>
+<aggregateAmountOwned>326886</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>0.3</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001465914</reportingPersonCIK>
+<reportingPersonName>Davis Aaron I.</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>32500</soleVotingPower>
+<sharedVotingPower>10707885</sharedVotingPower>
+<soleDispositivePower>32500</soleDispositivePower>
+<sharedDispositivePower>10707885</sharedDispositivePower>
+<aggregateAmountOwned>10740385</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>10</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0002018299</reportingPersonCIK>
+<reportingPersonName>Boxer Capital Management, LLC</reportingPersonName>
+<memberOfGroup>b</memberOfGroup>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>10380999</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>10380999</sharedDispositivePower>
+<aggregateAmountOwned>10380999</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.7</percentOfClass>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Stock, $0.001 par value per share</securityTitle>
+<issuerName>Tango Therapeutics, Inc.</issuerName>
+<issuerPrincipalAddress>
+<com:street1>201 BROOKLINE AVENUE</com:street1>
+<com:street2>SUITE 901</com:street2>
+<com:city>BOSTON</com:city>
+<com:stateOrCountry>MA</com:stateOrCountry>
+<com:zipCode>02215</com:zipCode>
+</issuerPrincipalAddress>
+<commentText>With respect to Boxer Capital Management, LLC ("BCM"), BCTG Holdings, LLC ("BCTG Holdings"), MVA Investors, LLC ("MVA Investors") and Aaron I. Davis (together with BCM, BCTG Holdings and MVA Investors, the "Reporting Persons"), this amendment (this "Amendment No. 7") further amends and supplements the statement on Schedule 13D filed on August 20, 2021 (the "Original Filing") by BCTG Holdings, MVA Investors, Mr. Davis and certain other persons with respect to the Common Stock, par value $0.001 (the "Common Stock") of Tango Therapeutics, Inc. (the "Issuer"), as previously amended and filed on January 4, 2022 ("Amendment No. 1"), August 16, 2023 ("Amendment No. 2"), October 18, 2023 ("Amendment No. 3"), October 15, 2024 ("Amendment No. 4"), October 28, 2024 (Amendment No. 5), and November 7, 2024 ("Amendment No. 6"). Capitalized terms used herein but not defined herein shall have the respective meanings defined in the Original Filing, as previously amended. The Original Filing, as previously amended, is further amended hereby only as specifically set forth herein, provided that with respect to any Item amended herein, if such Item is incorporated by reference into any other Item in the Original Filing, as previously amended, such incorporation by reference is also amended hereby. BCTG Holdings reports herein that it has ceased to beneficially own more than 5% of the outstanding shares of Common Stock.</commentText>
+</item1>
+<item3>
+<fundsSource>Item 3 is hereby amended by the addition of the following:&#13;
+&#13;
+On December 30, 2024, BCTG Holdings distributed 6,770,357 shares of Common Stock to an account managed by BCM and 218,093 shares of Common Stock to MVA Investors, for no consideration. Consequently, BCTG Holdings has ceased to beneficially own any shares of Common Stock of the Issuer.</fundsSource>
+</item3>
+<item4>
+<transactionPurpose>Item 4 is hereby amended by the addition of the following:&#13;
+&#13;
+The disclosure set forth above in Item 3 is hereby incorporated herein.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>For information regarding beneficial ownership, see the information presented on the cover pages. All percentages are based on 107,450,318 shares of the Issuer's Common Stock outstanding, which is (i) 107,417,818 shares of the Issuer's Common Stock outstanding as of November 1, 2024 as set forth in the Issuer's 10-Q filed with the Securities and Exchange Commission on November 6, 2024, plus (ii) 32,500 shares of Common Stock subject to options to purchase shares of Common Stock, held by Mr. Davis, exercisable in the next 60 days. The Reporting Persons may be deemed to beneficially own, in the aggregate, 10,740,385 shares of Common Stock, representing beneficial ownership of 9.996% of the outstanding shares of Common Stock.</percentageOfClassSecurities>
+<numberOfShares>For information regarding beneficial ownership, see the information presented on the cover pages. All percentages are based on 107,450,318 shares of the Issuer's Common Stock outstanding, which is (i) 107,417,818 shares of the Issuer's Common Stock outstanding as of November 1, 2024 as set forth in the Issuer's 10-Q filed with the Securities and Exchange Commission on November 6, 2024, plus (ii) 32,500 shares of Common Stock subject to options to purchase shares of Common Stock, held by Mr. Davis, exercisable in the next 60 days. The Reporting Persons may be deemed to beneficially own, in the aggregate, 10,740,385 shares of Common Stock, representing beneficial ownership of 9.996% of the outstanding shares of Common Stock.</numberOfShares>
+<transactionDesc>Other than as described herein in Item 4 or transactions previously reported on Form 4, the Reporting Persons have not engaged in any transactions in the Common Stock since Amendment No.6.</transactionDesc>
+<listOfShareholders>Other than as described herein and except as may result from indirect interests of investors in MVA Investors or BCM, no persons other than the Reporting Persons have the right to receive or the power to direct the receipt of dividends, or proceeds of sale of such securities outlined in this report.</listOfShareholders>
+<date5PercentOwnership>As described in Item 3 above, as of December 30, 2024, BCTG Holdings ceased to beneficially own more than 5% of the outstanding shares of Common Stock.</date5PercentOwnership>
+</item5>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>BCTG Holdings, LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Aaron I. Davis</signature>
+<title>Aaron I. Davis, Manager</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>MVA Investors, LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Aaron I. Davis</signature>
+<title>Aaron I. Davis, Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Davis Aaron I.</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Aaron I. Davis</signature>
+<title>Aaron I. Davis, Individually</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Boxer Capital Management, LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Aaron I. Davis</signature>
+<title>Aaron I. Davis, Managing Member</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

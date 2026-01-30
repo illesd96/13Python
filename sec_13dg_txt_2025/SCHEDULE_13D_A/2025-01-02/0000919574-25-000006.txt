@@ -1,0 +1,304 @@
+<SEC-DOCUMENT>0000919574-25-000006.txt : 20250102
+<SEC-HEADER>0000919574-25-000006.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102095508
+ACCESSION NUMBER:		0000919574-25-000006
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250102
+DATE AS OF CHANGE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Constitution Capital Access Fund, LLC
+		CENTRAL INDEX KEY:			0001918767
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				881036085
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93782
+		FILM NUMBER:		25500563
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 BRICKSTONE SQUARE
+		STREET 2:		7TH FLOOR
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+		BUSINESS PHONE:		978-749-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		300 BRICKSTONE SQUARE
+		STREET 2:		7TH FLOOR
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Constitution Capital Private Markets Fund, LLC
+		DATE OF NAME CHANGE:	20220324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Constitution Capital Private Markets Fund
+		DATE OF NAME CHANGE:	20220322
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Universities Superannuation Scheme Ltd as sole corporate trustee for Universities Superannuation Scheme
+		CENTRAL INDEX KEY:			0001523591
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				980076631
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROYAL LIVER BUILDING
+		CITY:			LIVERPOOL
+		STATE:			X0
+		ZIP:			L3 1PY
+		BUSINESS PHONE:		44 0 151 2274711
+
+	MAIL ADDRESS:	
+		STREET 1:		ROYAL LIVER BUILDING
+		CITY:			LIVERPOOL
+		STATE:			X0
+		ZIP:			L3 1PY
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Universities Superannuation Scheme Ltd as trustee for Universities Superannuation Scheme
+		DATE OF NAME CHANGE:	20110616
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000919574-24-006181</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Universities Superannuation Scheme Ltd as sole corporate trustee for Universities Superannuation Scheme -->
+          <cik>0001523591</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>6</amendmentNo>
+      <securitiesClassTitle>Class I Shares</securitiesClassTitle>
+      <dateOfEvent>11/30/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001918767</issuerCIK>
+        <issuerCUSIP>21039R309</issuerCUSIP>
+        <issuerName>Constitution Capital Access Fund, LLC</issuerName>
+        <address>
+          <com:street1>300 Brickstone Square</com:street1>
+          <com:street2>10th Floor</com:street2>
+          <com:city>Adnover</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>01810</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Sally McCarthy</personName>
+          <personPhoneNum>44-0-7950-430354</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Universities Superannuation Scheme L</com:street1>
+            <com:street2>60 Threadneedle Street</com:street2>
+            <com:city>London</com:city>
+            <com:stateOrCountry>X0</com:stateOrCountry>
+            <com:zipCode>EC2R 8HP</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Michael King, Esq.</personName>
+          <personPhoneNum>212-574-1207</personPhoneNum>
+          <personAddress>
+            <com:street1>Seward &amp; Kissel LLP</com:street1>
+            <com:street2>One Battery Park Plaza</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10004</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001523591</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Universities Superannuation Scheme Ltd as sole corporate trustee for Universities Superannuation Scheme</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X0</citizenshipOrOrganization>
+        <soleVotingPower>51059705.34</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>51059705.34</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>51059705.34</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>86.8</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Calculated based on 58,853,743 Class I Shares issued and outstanding as of November 30, 2024, based on information received from the Issuer.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class I Shares</securityTitle>
+        <issuerName>Constitution Capital Access Fund, LLC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>300 Brickstone Square</com:street1>
+          <com:street2>10th Floor</com:street2>
+          <com:city>Adnover</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>01810</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being filed by Universities Superannuation Scheme Limited as the sole corporate trustee of the Universities Superannuation Scheme (the "Reporting Person"). L8 Investment Holdings LP ("L8"), an indirect and wholly-owned subsidiary of USSL, is the direct holder of the reported securities.</filingPersonName>
+        <principalBusinessAddress>The address and principal office of the Reporting Person is 60 Threadneedle Street, London EC2R 8HP.</principalBusinessAddress>
+        <principalJob>The Reporting Person is the sole corporate trustee of the Universities Superannuation Scheme, which is a defined benefit occupational pension scheme established under English law.</principalJob>
+        <hasBeenConvicted>The Reporting Person has not, during the last five years been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>The Reporting Person has not, during the last five years been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>The Reporting Person is organized in the United Kingdom.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>L8 acquired the Class I Shares from the Issuer in connection with the reorganization of U/C Seed Partnership Fund, L.P. with and into the Issuer.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Person acquired the Class I Shares subject to this Schedule 13D for investment purposes. Subject and pursuant to the terms of the Agreement (as described and defined below), L8 has requested, and will continue to request, to tender its Class I Shares of the Fund in each repurchase offer conducted by the Fund. Other than the foregoing, the Reporting Person has no present plans or proposals that relate to or would result in any additional actions described in subparagraphs (a) through (j) of Item 4 of Schedule 13D.
+
+On December 31, 2023, the Reporting Person elected to receive income distribution from the Issuer in the form Class I Shares rather than cash.
+
+As of November 30, 2024, the Reporting Person disposed of a portion of its Class I Shares as part of its quarterly tender process.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The 51,059,705.34 Class I Shares reported in this statement are directly held by L8. The Reporting Person indirectly owns 100% of L8 Investment Holdings LP, the general partner of L8, and is the sole limited partner of L8. Accordingly, the Reporting Person may be deemed to have voting and dispositive control of the Class I Shares as set forth in rows 7 through 13 of the previous page of this statement. The 51,059,705.34 Class I Shares reported in this statement represent 86.8% of the 58,853,743 Class I Shares outstanding as of November 30, 2024, based on information received from the Issuer. The information set forth in Items 7 through 13 of the previous page hereto is incorporated herein by reference. The filing of this statement shall not be construed as an admission that the Reporting Person is, for the purpose of Section 13(d) or 13(g) of the Exchange Act, the beneficial owner of any securities covered by this statement.</percentageOfClassSecurities>
+        <numberOfShares>The 51,059,705.34 Class I Shares reported in this statement are directly held by L8. The Reporting Person indirectly owns 100% of L8 Investment Holdings LP, the general partner of L8, and is the sole limited partner of L8. Accordingly, the Reporting Person may be deemed to have voting and dispositive control of the Class I Shares as set forth in rows 7 through 13 of the previous page of this statement. The 51,059,705.34 Class I Shares reported in this statement represent 86.8% of the 58,853,743 Class I Shares outstanding as of November 30, 2024, based on information received from the Issuer. The information set forth in Items 7 through 13 of the previous page hereto is incorporated herein by reference. The filing of this statement shall not be construed as an admission that the Reporting Person is, for the purpose of Section 13(d) or 13(g) of the Exchange Act, the beneficial owner of any securities covered by this statement.</numberOfShares>
+        <transactionDesc>Please see Exhibit A for a list of transactions effected since the date of the Reporting Person's last 13D filing with respect to the Issuer.</transactionDesc>
+        <listOfShareholders>Except as set forth in this Schedule 13D, no person has the right to receive or the power to direct receipt of dividends from, or the proceeds of sale of, securities covered by Schedule 13D</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Tender Offer Participation
+
+Regarding L8's participation in tender offers by the Issuer, an Agreement, dated as of September 30, 2022, between L8 and Constitution Capital PM, LP, as investment adviser to the Issuer (the "Agreement"), was previously filed as  Exhibit 99.1 to the Reporting Person's initial Schedule 13D. Pursuant to the terms of the Agreement, L8 has agreed that, to the extent permissible under the U.S. federal securities laws and subject to a determination that it would be advisable under the circumstances, L8 will request to tender Class I Shares of the Fund in each repurchase offer conducted by the Fund as set forth in the Agreement. The Agreement will terminate automatically upon the date as of which L8 no longer owns any Shares of the Fund. The foregoing description of the Agreement does not purport to be complete and is qualified in its entirety by reference to the Agreement.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1 Agreement, dated as of September 30, 2022, by and between L8 Investment Holdings LP and Constitution Capital PM, LP. was previously filed as an exhibit to the Reporting Persons' initial Schedule 13D.
+
+Exhibit A: Schedule of Transactions in Class I Shares.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Universities Superannuation Scheme Ltd as sole corporate trustee for Universities Superannuation Scheme</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sally McCarthy</signature>
+          <title>Sally McCarthy, Deputy Head of Group Compliance, USS Investment Management Limited</title>
+          <date>01/02/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11560123_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B><U>Exhibit A</U></B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Schedule of Transactions in Class I Shares</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>Date of Transaction</U></P></TD>
+    <TD STYLE="width: 29%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>Title of Class</U></P></TD>
+    <TD STYLE="width: 22%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 12pt"><U>Number of Shares Acquired</U></FONT></TD>
+    <TD STYLE="width: 12%; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 12pt"><U>Number of Shares Disposed</U></FONT></TD>
+    <TD STYLE="width: 12%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>Price Per </U></P>
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>Share</U></P>
+    <P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 12pt">11/30/2024 (1)</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 11pt; background-color: white">Class I Shares</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 12pt">845,745</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 12pt">$11.82</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><SUP>1. </SUP>The Reporting Person was notified of
+the transaction on December 27, 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

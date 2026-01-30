@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0000950170-25-011961.txt : 20250131
+<SEC-HEADER>0000950170-25-011961.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131210627
+ACCESSION NUMBER:		0000950170-25-011961
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+DATE AS OF CHANGE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nautilus Biotechnology, Inc.
+		CENTRAL INDEX KEY:			0001808805
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				981541723
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91615
+		FILM NUMBER:		25580245
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2701 EASTLAKE AVE EAST
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+		BUSINESS PHONE:		206-333-2001
+
+	MAIL ADDRESS:	
+		STREET 1:		2701 EASTLAKE AVE EAST
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ARYA Sciences Acquisition Corp III
+		DATE OF NAME CHANGE:	20200408
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PERCEPTIVE ADVISORS LLC
+		CENTRAL INDEX KEY:			0001224962
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		51 ASTOR PLACE, 10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+		BUSINESS PHONE:		646-205-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		51 ASTOR PLACE, 10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10003
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001193125-21-195221</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001224962</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>01/31/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001808805</issuerCIK>
+        <issuerCUSIP>63909J108</issuerCUSIP>
+        <issuerName>Nautilus Biotechnology, Inc.</issuerName>
+        <address>
+          <street1 xmlns="http://www.sec.gov/edgar/common">2701 Eastlake Avenue</street1>
+          <city xmlns="http://www.sec.gov/edgar/common">East Seattle</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">WA</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">98102</zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Alexander Rakitin</personName>
+          <personPhoneNum>(646) 205-5340</personPhoneNum>
+          <personAddress>
+            <street1 xmlns="http://www.sec.gov/edgar/common">Perceptive Advisors LLC</street1>
+            <street2 xmlns="http://www.sec.gov/edgar/common">51 Astor Place, 10th Floor</street2>
+            <city xmlns="http://www.sec.gov/edgar/common">New York</city>
+            <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+            <zipCode xmlns="http://www.sec.gov/edgar/common">10003</zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001224962</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Perceptive Advisors LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>Y</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>12594211</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>12594211</sharedDispositivePower>
+        <aggregateAmountOwned>12594211</aggregateAmountOwned>
+        <isAggregateExcludeShares>Y</isAggregateExcludeShares>
+        <percentOfClass>10</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001164426</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Joseph Edelman</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>Y</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>12594211</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>12594211</sharedDispositivePower>
+        <aggregateAmountOwned>12594211</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>10</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001249675</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Perceptive Life Sciences Master Fund, Ltd.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>Y</legalProceedings>
+        <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>12428351</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>12428351</sharedDispositivePower>
+        <aggregateAmountOwned>12428351</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.9</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>Nautilus Biotechnology, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <street1 xmlns="http://www.sec.gov/edgar/common">2701 Eastlake Avenue</street1>
+          <city xmlns="http://www.sec.gov/edgar/common">East Seattle</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">WA</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">98102</zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 of the Schedule 13D is hereby amended and supplemented as follows:
+
+On January 28, 2025, Michael Altman, a Managing Director of Perceptive Advisors who has served on the Issuer's board of directors (the "Board") since June 2021, informed the Issuer that he will not stand for reelection to the Board at the Issuer's 2025 Annual Meeting of Stockholders (the "Annual Meeting"). Mr. Altman will remain a member of the Board until the conclusion of the Annual Meeting.</transactionPurpose>
+      </item4>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Perceptive Advisors LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Joseph Edelman</signature>
+          <title>Joseph Edelman, Managing Member</title>
+          <date>01/31/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Joseph Edelman</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Joseph Edelman</signature>
+          <title>Joseph Edelman</title>
+          <date>01/31/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Perceptive Life Sciences Master Fund, Ltd.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Joseph Edelman</signature>
+          <title>By Perceptive Advisors LLC, by Joseph Edelman, Managing Member</title>
+          <date>01/31/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

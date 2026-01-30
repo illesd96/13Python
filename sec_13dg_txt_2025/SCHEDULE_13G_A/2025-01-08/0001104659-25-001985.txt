@@ -1,0 +1,247 @@
+<SEC-DOCUMENT>0001104659-25-001985.txt : 20250108
+<SEC-HEADER>0001104659-25-001985.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108145429
+ACCESSION NUMBER:		0001104659-25-001985
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Golub Capital BDC 4, Inc.
+		CENTRAL INDEX KEY:			0001901612
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93935
+		FILM NUMBER:		25518172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+		BUSINESS PHONE:		212-750-6060
+
+	MAIL ADDRESS:	
+		STREET 1:		200 PARK AVENUE
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Golub Capital BDC 4 LLC
+		DATE OF NAME CHANGE:	20211228
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cliffwater Corporate Lending Fund
+		CENTRAL INDEX KEY:			0001735964
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				824960854
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O UMB FUND SERVICES, INC.
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53212
+		BUSINESS PHONE:		414-299-2200
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O UMB FUND SERVICES, INC.
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53212
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cliffwater Direct Lending Fund
+		DATE OF NAME CHANGE:	20180329
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001104659-23-018070</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Cliffwater Corporate Lending Fund -->
+          <cik>0001735964</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/23/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001901612</issuerCik>
+        <issuerName>Golub Capital BDC 4, Inc.</issuerName>
+        <issuerCusip>000000000</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>200 Park Avenue</com:street1>
+          <com:street2>25th Floor</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10166</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Cliffwater Corporate Lending Fund</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2513853.50</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11460121.40</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>11460121.40</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>22.8</classPercent>
+      <typeOfReportingPerson>IV</typeOfReportingPerson>
+      <comments>1 The Reporting Person has waived voting rights above 4.99 percent.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Cliffwater LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2513853.50</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11460121.40</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>11460121.40</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>22.8</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Stephen Nesbitt</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2513853.50</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>11460121.40</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>11460121.40</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>22.8</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Golub Capital BDC 4, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>200 Park Avenue, 25th Floor, New York, NY, 10166</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13G is being filed on behalf of the following:
+(i) Cliffwater Corporate Lending Fund, a Delaware statutory trust (the "Fund");
+(ii) Cliffwater LLC, a Delaware limited liability company (the "Adviser"); and
+(iii) Stephen Nesbitt ("Mr. Nesbitt"), a U.S. citizen.
+The Fund, the Adviser and Mr. Nesbitt are collectively referred to as the "Reporting Persons." The Fund is the direct holder of the securities of the Issuer. The Adviser is the investment adviser of the Fund. Mr. Nesbitt is the Chief Executive Officer of the Adviser.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>c/o UMB Fund Services, Inc., 235 West Galena Street, Milwaukee, WI 53212</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>See Item 2(a).</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IV</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>11,460,121.4 shares</amountBeneficiallyOwned>
+        <classPercent>22.8% (Based on 50,277,070.8 shares outstanding as of December 23, 2024 based on information provided by the Issuer.)</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>2,513,853.5 shares. The Reporting Person has waived voting rights above 4.99%</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>11,460,121.4 shares</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Cliffwater LLC, a registered investment adviser.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Cliffwater Corporate Lending Fund</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Stephen Nesbitt</signature>
+        <title>Stephen Nesbitt/Chief Executive Officer</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cliffwater LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Stephen Nesbitt</signature>
+        <title>Stephen Nesbitt/Chief Executive Officer</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Stephen Nesbitt</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Stephen Nesbitt</signature>
+        <title>Stephen Nesbitt</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,282 @@
+<SEC-DOCUMENT>0000950170-25-005935.txt : 20250115
+<SEC-HEADER>0000950170-25-005935.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115173726
+ACCESSION NUMBER:		0000950170-25-005935
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250115
+DATE AS OF CHANGE:		20250115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hess Midstream LP
+		CENTRAL INDEX KEY:			0001789832
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91247
+		FILM NUMBER:		25533824
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1501 MCKINNEY STREET
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77010
+		BUSINESS PHONE:		2125368039
+
+	MAIL ADDRESS:	
+		STREET 1:		1501 MCKINNEY STREET
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77010
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Global Infrastructure Investors II, LLC
+		CENTRAL INDEX KEY:			0001552830
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O GLOBAL INFRASTRUCTURE PARTNERS
+		STREET 2:		12 E. 49TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(212) 315-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O GLOBAL INFRASTRUCTURE PARTNERS
+		STREET 2:		12 E. 49TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001193125-19-316308</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001552830</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>21</amendmentNo>
+<securitiesClassTitle>Class A Shares </securitiesClassTitle>
+<dateOfEvent>01/13/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001789832</issuerCIK>
+<issuerCUSIP>428103105</issuerCUSIP>
+<issuerName>Hess Midstream LP</issuerName>
+<address>
+<street1 xmlns="http://www.sec.gov/edgar/common">1501 MCKINNEY STREET</street1>
+<city xmlns="http://www.sec.gov/edgar/common">HOUSTON</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">TX</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">77010</zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Julie Ashworth</personName>
+<personPhoneNum>(212) 315-8100</personPhoneNum>
+<personAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">Global Infrastructure Management LLC</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">1345 Avenue of the Americas 30th Floor</street2>
+<city xmlns="http://www.sec.gov/edgar/common">New York</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">10105</zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001877329</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>GIP II Blue Holding, L.P.</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>31234403</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>31234403</sharedDispositivePower>
+<aggregateAmountOwned>31234403</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>23.2</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001702754</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>GIP Blue Holding GP, LLC</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>31234403</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>31234403</sharedDispositivePower>
+<aggregateAmountOwned>31234403</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>23.2</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001552829</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Global Infrastructure GP II, L.P.</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>31234403</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>31234403</sharedDispositivePower>
+<aggregateAmountOwned>31234403</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>23.2</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001552830</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Global Infrastructure Investors II, LLC</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>31234403</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>31234403</sharedDispositivePower>
+<aggregateAmountOwned>31234403</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>23.2</percentOfClass>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Class A Shares </securityTitle>
+<issuerName>Hess Midstream LP</issuerName>
+<issuerPrincipalAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">1501 MCKINNEY STREET</street1>
+<city xmlns="http://www.sec.gov/edgar/common">HOUSTON</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">TX</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">77010</zipCode>
+</issuerPrincipalAddress>
+<commentText>This Amendment No. 21 to Schedule 13D amends and supplements the statement on Schedule 13D originally filed with the United States Securities and Exchange Commission on December 17, 2019 (as amended, the "Statement"), relating to the Class A Shares representing limited partner interests (the "Class A Shares") of Hess Midstream LP, a Delaware limited partnership (the "Issuer"). Capitalized terms used herein without definition shall have the meaning set forth in the Statement.</commentText>
+</item1>
+<item4>
+<transactionPurpose>Item 4 of the Statement is hereby amended and supplemented as follows:
+
+January 2025 Repurchase Agreement
+
+On January 13, 2025, the Issuer, HESM Opco, Hess Investments and Blue Holding entered into a Unit Repurchase Agreement (the "January 2025 Repurchase Agreement"), pursuant to which HESM Opco agreed to purchase from Hess Investments and Blue Holding 967,541 and 1,605,136 Opco Class B Units, respectively (the "Repurchased Units"), for an aggregate purchase price of approximately $100 million, or $38.87 per unit (the "January 2025 Repurchase Transaction").
+
+On January 15, 2025, pursuant to the terms of the January 2025 Repurchase Agreement, the January 2025 Repurchase Transaction closed. As a result, HESM Opco purchased and cancelled the Repurchased Units, and the Issuer cancelled, for no consideration, an equal number of Class B Shares held by Hess Investments and Blue Holding, respectively, in accordance with Section 5.5(e) of the Amended Opco Partnership Agreement.
+
+Class B Share Distribution Agreement
+
+In connection with the January 2025 Repurchase Transaction, on January 15, 2025, New HESM GP LP, New HESM GP LLC, HIP GP LLC, Hess Investments and Blue Holding, L.P. entered into a distribution agreement (the "January 2025 Distribution Agreement") pursuant to which New HESM GP LP distributed 3,210,272 Class B Shares to HIP GP LLC. HIP GP LLC then immediately distributed 1,605,136 Class B Shares to each of Hess Investments and Blue Holding.
+
+The above description of the January 2025 Repurchase Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of such agreement, which is filed as an exhibit hereto and incorporated herein by reference.
+</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>The information contained on the cover pages is incorporated by reference to this Item 5.
+
+The information on the cover pages sets forth the aggregate number of Class A Shares and percentage of Class A Shares outstanding beneficially owned by each of the Reporting Persons, based on 104,086,900 Class A Shares outstanding as of January 13, 2025.
+</percentageOfClassSecurities>
+<numberOfShares>The information contained on the cover pages is incorporated by reference to this Item 5.
+
+New HESM GP LP is the record holder of 898,000 Class A Shares. HIP GP LLC is the sole member of New HESM GP LLC, which is the general partner of New HESM GP LP. HIP GP LLC is a 50/50 joint venture between Hess Investments and Blue Holding. As such, each of the foregoing entities may be deemed to beneficially own the securities held of record by New HESM GP LP.
+
+In addition, Blue Holding is the record holder of 30,336,403 Opco Class B Units, which may be redeemed for Class A Shares on a one-for-one basis at the option of the holder.
+
+Blue Holding GP is the general partner of Blue Holding and Blue Holding Partnership. Global GP is the sole member of Blue Holding GP. Global Investors is the sole general partner of Global GP. As a result, each of Blue Holding GP, Global GP and Global Investors may be deemed to share beneficial ownership of the Opco Class B Units held of record by Blue Holding.
+</numberOfShares>
+<transactionDesc>Except as described in Item 4, none of the Reporting Persons nor Related Persons has effected any transactions in the Class A Shares or Opco Class B Units during the past 60 days.</transactionDesc>
+<listOfShareholders>None.</listOfShareholders>
+<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+</item5>
+<item6>
+<contractDescription>Item 6 of the Statement is hereby amended and supplemented as follows:
+
+Item 4 above summarizes certain provisions of the January 2025 Repurchase Agreement and is incorporated herein by reference. A copy of such agreement is attached as an exhibit hereto and incorporated herein by reference.
+
+Except as set forth herein, none of the Reporting Persons or Related Persons has any contracts, arrangements, understandings or relationships (legal or otherwise) with any person with respect to any securities of the Issuer, including, but not limited to, any contracts, arrangements, understandings or relationships concerning the transfer or voting of such securities, finder's fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or losses, or the giving or withholding of proxies.</contractDescription>
+</item6>
+<item7>
+<filedExhibits>Exhibit 21: Unit Repurchase Agreement, dated as of January 13, 2025, by and among Hess Midstream Operations LP, Hess Midstream LP, Hess Investments North Dakota LLC and GIP II Blue Holding, L.P. (incorporated by reference to Exhibit 10.1 to the Issuer's Current Report on Form 8-K filed on January 15, 2025).
+
+</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>GIP II Blue Holding, L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>GIP Blue Holding GP, LLC, its general partner, /s/ William Brilliant</signature>
+<title>William Brilliant, Manager</title>
+<date>01/15/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>GIP Blue Holding GP, LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ William Brilliant</signature>
+<title>William Brilliant, Manager</title>
+<date>01/15/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Global Infrastructure GP II, L.P.</signatureReportingPerson>
+<signatureDetails>
+<signature>Global Infrastructure Investors II, LLC, its general partner, /s/ Gregg Myers</signature>
+<title>Gregg Myers, Chief Financial Officer</title>
+<date>01/15/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Global Infrastructure Investors II, LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Gregg Myers</signature>
+<title>Gregg Myers, Chief Financial Officer</title>
+<date>01/15/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

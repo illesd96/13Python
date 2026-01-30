@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001085146-25-000130.txt : 20250110
+<SEC-HEADER>0001085146-25-000130.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110131107
+ACCESSION NUMBER:		0001085146-25-000130
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Simulations Plus, Inc.
+		CENTRAL INDEX KEY:			0001023459
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				954595609
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-83764
+		FILM NUMBER:		25522020
+
+	BUSINESS ADDRESS:	
+		STREET 1:		800 PARK OFFICES DRIVE, SUITE 401
+		CITY:			RESEARCH TRIANGLE PARK
+		STATE:			NC
+		ZIP:			27709
+		BUSINESS PHONE:		661-723-7723
+
+	MAIL ADDRESS:	
+		STREET 1:		800 PARK OFFICES DRIVE, SUITE 401
+		CITY:			RESEARCH TRIANGLE PARK
+		STATE:			NC
+		ZIP:			27709
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SIMULATIONS PLUS INC
+		DATE OF NAME CHANGE:	19960923
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Conestoga Capital Advisors, LLC
+		CENTRAL INDEX KEY:			0001163744
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				233072906
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		550 E. SWEDESFORD ROAD
+		STREET 2:		SUITE 120
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		484-654-1380
+
+	MAIL ADDRESS:	
+		STREET 1:		550 E. SWEDESFORD ROAD
+		STREET 2:		SUITE 120
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONESTOGA CAPITAL ADVISORS LLC
+		DATE OF NAME CHANGE:	20011217
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Conestoga Capital Advisors, LLC -->
+          <cik>0001163744</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001023459</issuerCik>
+        <issuerName>Simulations Plus, Inc.</issuerName>
+        <issuerCusip>829214105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>42505 10th Street West</com:street1>
+          <com:city>Lancaster</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>93534-7059</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Conestoga Capital Advisors</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2226261.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2398875.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2398875.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>11.95</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>CONESTOGA FUNDS</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1579380.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1579380.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1579380.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.87</classPercent>
+      <typeOfReportingPerson>IV</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Simulations Plus, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>42505 10th Street West Lancaster, CALIFORNIA 93534-7059</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Conestoga Capital Advisors
+
+CONESTOGA FUNDS</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>550 E. SWEDESFORD ROAD
+SUITE 120
+WAYNE, Pennsylvania
+19087</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Conestoga Capital Advisors - DELAWARE
+
+CONESTOGA FUNDS - DELAWARE</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IV</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Conestoga Capital Advisors 2,398,875
+Conestoga Small Cap Fund 1,579,380</amountBeneficiallyOwned>
+        <classPercent>11.95</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Conestoga Capital Advisors - 2226261
+
+CONESTOGA FUNDS - 1579380</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Conestoga Capital Advisors - 0
+
+CONESTOGA FUNDS - 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Conestoga Capital Advisors - 2398875
+
+CONESTOGA FUNDS - 1579380</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Conestoga Capital Advisors - 0
+
+CONESTOGA FUNDS - 0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Conestoga Capital Advisors</reportingPersonName>
+      <signatureDetails>
+        <signature>Duane R. D'Orazio</signature>
+        <title>Managing Partner</title>
+        <date>01/09/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>CONESTOGA FUNDS</reportingPersonName>
+      <signatureDetails>
+        <signature>Duane R. D'Orazio</signature>
+        <title>Managing Partner</title>
+        <date>01/09/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

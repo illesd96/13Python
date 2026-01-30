@@ -1,0 +1,494 @@
+<SEC-DOCUMENT>0001104659-26-004599.txt : 20260116
+<SEC-HEADER>0001104659-26-004599.hdr.sgml : 20260116
+<ACCEPTANCE-DATETIME>20260116170030
+ACCESSION NUMBER:		0001104659-26-004599
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20260116
+DATE AS OF CHANGE:		20260116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Redwire Corp
+		CENTRAL INDEX KEY:			0001819810
+		STANDARD INDUSTRIAL CLASSIFICATION:	GUIDED MISSILES & SPACE VEHICLES & PARTS [3760]
+		ORGANIZATION NAME:           	04 Manufacturing
+		EIN:				881818410
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91869
+		FILM NUMBER:		26540263
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8226 PHILIPS HIGHWAY, SUITE 101
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32256
+		BUSINESS PHONE:		650 701-7722
+
+	MAIL ADDRESS:	
+		STREET 1:		8226 PHILIPS HIGHWAY, SUITE 101
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32256
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Genesis Park Acquisition Corp.
+		DATE OF NAME CHANGE:	20200731
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AE RED HOLDINGS, LLC
+		CENTRAL INDEX KEY:			0001880796
+		ORGANIZATION NAME:           	
+		EIN:				844731110
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 N. MILITARY TRAIL, SUITE 470
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+		BUSINESS PHONE:		561-372-7820
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 N. MILITARY TRAIL, SUITE 470
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33431
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-21-115571</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: AE RED HOLDINGS, LLC -->
+          <cik>0001880796</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>12</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>01/14/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001819810</issuerCIK>
+        <issuerCUSIP>75776W103</issuerCUSIP>
+        <issuerName>Redwire Corp</issuerName>
+        <address>
+          <com:street1>6700 Broken Sound Parkway NW</com:street1>
+          <com:city>Boca Raton</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33487</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>AE Red Holdings, LLC</personName>
+          <personPhoneNum>(561) 372-7820</personPhoneNum>
+          <personAddress>
+            <com:street1>6700 Broken Sound Parkway NW</com:street1>
+            <com:city>Boca Raton</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>33487</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001880796</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AE RED HOLDINGS, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>27740033.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>27740033.00</sharedDispositivePower>
+        <aggregateAmountOwned>27740033.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>15.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 25,740,033 shares of Common Stock and (ii) 2,000,000 shares of Common Stock issuable upon the exercise of 2,000,000 warrants to acquire one share of Common Stock ("Warrants").
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002074087</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Edge Autonomy Ultimate Holdings, LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>35801170.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>35801170.00</sharedDispositivePower>
+        <aggregateAmountOwned>35801170.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>19.6</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent 35,801,170 shares of Common Stock issued in accordance with the Amended Merger Agreement on June 13, 2025.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001881294</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Michael Robert Greene</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>78788789.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>78788789.00</sharedDispositivePower>
+        <aggregateAmountOwned>78788789.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>43.2</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 61,541,203 shares of Common Stock, (ii) 2,000,000 shares of Common Stock issuable upon the exercise of Warrants and (iii) 15,247,586 shares of Common Stock issuable upon conversion of 46,505.13 shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001880788</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>David H Rowe</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>78788789.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>78788789.00</sharedDispositivePower>
+        <aggregateAmountOwned>78788789.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>43.2</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 61,541,203 shares of Common Stock, (ii) 2,000,000 shares of Common Stock issuable upon the exercise of Warrants and (iii) 15,247,586  shares of Common Stock issuable upon conversion of 46,505.13  shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001732535</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AE INDUSTRIAL PARTNERS FUND II-B, LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>63556453.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>63556453.00</sharedDispositivePower>
+        <aggregateAmountOwned>63556453.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>34.8</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 61,541,203 shares of Common Stock, (ii) 2,000,000 shares of Common Stock issuable upon the exercise of Warrants and (iii) 15,250 shares of Common Stock issuable upon conversion of 46.51 shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001732533</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AE INDUSTRIAL PARTNERS FUND II, LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>69729181.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>69729181.00</sharedDispositivePower>
+        <aggregateAmountOwned>69729181.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>38.2</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 61,541,203 shares of Common Stock, (ii) 2,000,000 shares of Common Stock issuable upon the exercise of Warrants and (iii) 6,187,978 shares of Common Stock issuable upon conversion of 18,873.33 shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001732534</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AE INDUSTRIAL PARTNERS FUND II-A, LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>67503033.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>67503033.00</sharedDispositivePower>
+        <aggregateAmountOwned>67503033.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>37.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 61,541,203 shares of Common Stock, (ii) 2,000,000 shares of Common Stock issuable upon the exercise of Warrants and (iii) 3,961,830 shares of Common Stock issuable upon conversion of 12,083.58 shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001804072</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AE INDUSTRIAL PARTNERS STRUCTURED SOLUTIONS I, LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5082528.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5082528.00</sharedDispositivePower>
+        <aggregateAmountOwned>5082528.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>2.8</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent 5,082,528 shares of Common Stock issuable upon conversion of 15,501.71 shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001880792</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AEROEQUITY GP, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>78788789.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>78788789.00</sharedDispositivePower>
+        <aggregateAmountOwned>78788789.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>43.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Rows 8, 10 and 11 each represent (i) 61,541,203 shares of Common Stock, (ii) 2,000,000 shares of Common Stock issuable upon the exercise of Warrants and (iii) 15,247,586  shares of Common Stock issuable upon conversion of 46,505.13  shares of Series A Convertible Preferred Stock.
+
+The calculation for Row 13 is based upon 165,150,783 shares of Common Stock of the Issuer issued and outstanding as of October 31, 2025, as reported on the Issuer's most recent Form 10-Q, filed on November 6, 2025 plus (i) 2,000,000 shares of Common Stock underlying 2,000,000 Warrants and (ii) 15,247,586 shares of Common Stock issuable upon the conversion of 46,505.13 shares of Series A Convertible Preferred Stock.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>Redwire Corp</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>6700 Broken Sound Parkway NW</com:street1>
+          <com:city>Boca Raton</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33487</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Explanatory Note.
+
+The information set forth in response to each separate Item below shall be deemed to be a response to all Items where such information is relevant. The Schedule 13D filed with the Commission on September 2, 2021, as amended by Amendment No. 1 filed on October 5, 2022, Amendment No. 2 filed on November 10, 2022, Amendment No. 3 filed on May 23, 2023, Amendment No. 4 filed on September 1, 2023, Amendment No. 5 filed on January 21, 2025, Amendment No. 6 filed on June 5, 2025, Amendment No. 7 filed on June 10, 2025, Amendment No. 8 filed on June 17, 2025, Amendment No. 9 filed on November 10, 2026, Amendment No. 10 filed on January 9, 2026 and Amendment No. 11 filed on January 13, 2026 (collectively, the "Existing 13D"), is hereby amended in this Amendment No. 12 as set forth below (the "Amendment"). Except as set forth herein, the Existing 13D is unmodified and remains in full force and effect. Capitalized terms not defined herein have the meanings ascribed to them in the Existing 13D.
+
+The Amendment is being filed to report changes in the beneficial ownership of the Reporting Persons with respect to shares of the Company's Common Stock, par value $0.0001 per share (the "Common Stock"), and reflects a reduction in reported beneficial ownership due to sales of Common Stock made by the Reporting Persons in open market transactions.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>The information set forth in rows 7 through 13 (and related footnotes) of each of the cover pages of this Amendment No. 12 are incorporated herein by reference. The following information is as of the date hereof and assumes there are 182,398,369 shares of Common Stock outstanding, based on (i) 165,150,783 shares of Common Stock outstanding as of October 31, 2025, as reflected in the Issuer's most recent Form 10-Q for the fiscal quarter ended September 30, 2025 and (ii) 17,247,586 shares of Common Stock issuable upon exercise of the Warrants or conversion of the Series A Convertible Preferred Stock beneficially owned by the Reporting Persons.
+
+Holdings is the direct beneficial owner of 25,632,564 shares of Common Stock and 2,000,000 Warrants and indirect beneficial owner of 107,469 shares of Common Stock held by AE Industrial Partners LP, a wholly-owned indirect subsidiary of Holdings.
+
+Seller is the direct beneficial owner of 35,801,170 shares of Common Stock.
+
+AE Fund II-B is the indirect beneficial owner of 27,740,033 shares of Common Stock directly and indirectly held by Holdings and 35,801,170 shares of Common Stock directly held by Seller and the direct beneficial owner of 46.51 shares of Series A Convertible Preferred Stock which are convertible into 15,250 shares of Common Stock, based on $1,000 per share initial value and an initial conversion price of $3.05 (the "Conversion Method").
+
+AE Fund II LP is the indirect beneficial owner of 27,740,033 shares of Common Stock directly and indirectly held by Holdings and 35,801,170 shares of Common Stock directly held by Seller and the direct beneficial owner of 18,873.33 shares of Series A Convertible Preferred Stock which are convertible into 6,187,978 shares of Common Stock, based on the Conversion Method.
+
+AE Fund II-A is the indirect beneficial owner of 27,740,033 shares of Common Stock directly and indirectly held by Holdings and 35,801,170 shares of Common Stock directly held by Seller and the direct beneficial owner of 12,083.58 shares of Series A Convertible Preferred Stock which are convertible into 3,961,830 shares of Common Stock, based on the Conversion Method.
+
+AE Solutions I is the direct beneficial owner of 15,501.71 shares of Series A Convertible Preferred Stock, which is convertible into 5,082,528 shares of Common Stock, based on the Conversion Method.
+
+Michael Greene and David H. Rowe exercise voting and dispositive power with respect to (i) the shares of Common Stock, Warrants and shares of Series A Convertible Preferred Stock directly held by each of Holdings, Seller, the AE Funds and AE Solutions I and (ii) 107,469 shares of Common Stock directly held by AE Industrial Partners LP, an affiliate of the Reporting Persons, which together constitute an aggregate beneficial ownership of 78,788,789 shares of Common Stock or 43.2% of the Issuer's Common Stock.</percentageOfClassSecurities>
+        <numberOfShares>By virtue of the relationship among the Reporting Persons described in Item 2, each such Reporting Person may be deemed to share the power to vote or direct the vote and to share the power to dispose of or direct the disposition of the 78,788,789  shares of Common Stock as set forth in rows 7 through 13 of the cover pages of this Statement.</numberOfShares>
+        <transactionDesc>Schedule A annexed hereto lists all transactions by the Reporting Persons in the Common Stock during the past sixty (60) days. All of such transactions were effected in the open market. Except as otherwise set forth herein or in the Existing 13D, none of the Reporting Persons has effected any transactions in the Common Stock during the past 60 days.</transactionDesc>
+      </item5>
+      <item7>
+        <filedExhibits>Exhibit 1 Joint Filing Agreement among the Reporting Persons, dated as of June 17, 2025 (incorporated by reference to Exhibit 1 to the Amendment No. 8 to Schedule 13D filed with the SEC by the Reporting Persons on June 17, 2025).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>AE RED HOLDINGS, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/Vice President and Assistant Treasurer</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Edge Autonomy Ultimate Holdings, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/ Vice President</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Michael Robert Greene</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>David H Rowe</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ David H Rowe</signature>
+          <title>David H Rowe</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>AE INDUSTRIAL PARTNERS FUND II-B, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/Managing Member</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>AE INDUSTRIAL PARTNERS FUND II, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/Managing Member</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>AE INDUSTRIAL PARTNERS FUND II-A, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/Vice President and Assistant Treasurer</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>AE INDUSTRIAL PARTNERS STRUCTURED SOLUTIONS I, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/Managing Member</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>AEROEQUITY GP, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Robert Greene</signature>
+          <title>Michael Robert Greene/Managing Member</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.(A)
+<SEQUENCE>2
+<FILENAME>tm263380d1_ex99-a.htm
+<DESCRIPTION>SCHEDULE A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>Schedule A </U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>Transactions in the Shares During the Past
+60 Days</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 34%; border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>Shares of Common Stock Sold</B></TD>
+    <TD STYLE="width: 33%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>Price per Share ($)<SUP>(1)</SUP></B></TD>
+    <TD STYLE="width: 33%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>Date of Purchase / Sale</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">1,662,484</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">10.34<SUP>(2)</SUP></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/13/2026</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">2,156,683</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">10.49<SUP>(3)</SUP></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/14/2026</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">10,500,000</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">10.52<SUP>(4)</SUP></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/14/2026</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">1. Except as otherwise noted, the prices reported in this column are a weighted average prices.
+The Reporting Person undertakes to provide the Issuer and any security holder of the Issuer, or the staff of the Securities and Exchange
+Commission, upon request, full information regarding the number of shares sold at each separate price such shares were sold.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">2. These shares were sold in multiple transactions at prices ranging
+from $10.00 to $11.08, inclusive.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">3. These shares were sold in multiple transactions at prices ranging
+from $10.00 to $11.07, inclusive.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">4. These shares were sold in single transaction at a price of $10.52.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="margin: 0pt">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

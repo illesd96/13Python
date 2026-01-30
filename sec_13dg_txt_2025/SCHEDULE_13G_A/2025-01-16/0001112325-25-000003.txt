@@ -1,0 +1,182 @@
+<SEC-DOCUMENT>0001112325-25-000003.txt : 20250116
+<SEC-HEADER>0001112325-25-000003.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116160254
+ACCESSION NUMBER:		0001112325-25-000003
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Grand Canyon Education, Inc.
+		CENTRAL INDEX KEY:			0001434588
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EDUCATIONAL SERVICES [8200]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				203356009
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-84307
+		FILM NUMBER:		25535734
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2600 W. CAMELBACK ROAD
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85017
+		BUSINESS PHONE:		602-247-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		2600 W. CAMELBACK ROAD
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85017
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RIVERBRIDGE PARTNERS LLC
+		CENTRAL INDEX KEY:			0001112325
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				411930193
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 SOUTH 8TH STREET, SUITE 1500
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+		BUSINESS PHONE:		55402
+
+	MAIL ADDRESS:	
+		STREET 1:		80 SOUTH 8TH STREET, SUITE 1500
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001112325-13-000011</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001112325</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>10</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001434588</issuerCik>
+        <issuerName>Grand Canyon Education, Inc.</issuerName>
+        <issuerCusip>38526M106</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2600 W. CAMELBACK ROAD</com:street1>
+          <com:city>PHOENIX</com:city>
+          <com:stateOrCountry>AZ</com:stateOrCountry>
+          <com:zipCode>85017</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>RIVERBRIDGE PARTNERS LLC</reportingPersonName>
+      <citizenshipOrOrganization>MN</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1181518.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1428922.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1428922.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>4.9</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Grand Canyon Education, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2600 W. CAMELBACK ROAD, PHOENIX, ARIZONA, 85017.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Riverbridge Partners, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>80 South 8th Street, Suite 1500, Minneapolis, MN 55402</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Minnesota Corporation</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,428,922</amountBeneficiallyOwned>
+        <classPercent>4.90</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,181,518</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1,428,922</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>RIVERBRIDGE PARTNERS LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Ross Johnson</signature>
+        <title>Chief Investment Officer</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>N/A</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

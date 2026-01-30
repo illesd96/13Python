@@ -1,0 +1,467 @@
+<SEC-DOCUMENT>0000921895-25-000079.txt : 20250106
+<SEC-HEADER>0000921895-25-000079.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106200649
+ACCESSION NUMBER:		0000921895-25-000079
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TheRealReal, Inc.
+		CENTRAL INDEX KEY:			0001573221
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				451234222
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91236
+		FILM NUMBER:		25513163
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 FRANCISCO STREET
+		STREET 2:		SUITE 400
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94133
+		BUSINESS PHONE:		800-215-0566
+
+	MAIL ADDRESS:	
+		STREET 1:		55 FRANCISCO STREET
+		STREET 2:		SUITE 400
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94133
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Philotimo Fund, LP
+		CENTRAL INDEX KEY:			0001688522
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5850 CORAL RIDGE DRIVE, SUITE 309
+		CITY:			CORAL SPRINGS
+		STATE:			FL
+		ZIP:			33076
+		BUSINESS PHONE:		631-863-3100
+
+	MAIL ADDRESS:	
+		STREET 1:		5850 CORAL RIDGE DRIVE, SUITE 309
+		CITY:			CORAL SPRINGS
+		STATE:			FL
+		ZIP:			33076
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-24-002415</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Philotimo Fund, LP -->
+          <cik>0001688522</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common stock, par value $0.00001</securitiesClassTitle>
+      <dateOfEvent>01/02/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001573221</issuerCIK>
+        <issuerCUSIP>88339P101</issuerCUSIP>
+        <issuerName>TheRealReal, Inc.</issuerName>
+        <address>
+          <com:street1>55 FRANCISCO STREET</com:street1>
+          <com:street2>SUITE 400</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94133</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>MR. DAVID L. KANEN</personName>
+          <personPhoneNum>631-863-3100</personPhoneNum>
+          <personAddress>
+            <com:street1>KANEN WEALTH MANAGEMENT, LLC</com:street1>
+            <com:street2>6810 Lyons Technology Circle, Suite 160</com:street2>
+            <com:city>Coconut Creek</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>33073</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001688522</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Philotimo Fund, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3495965.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3495965.00</sharedDispositivePower>
+        <aggregateAmountOwned>3495965.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>3.2</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001962162</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Philotimo Focused Growth &amp; Income Fund</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1941860.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1941860.00</sharedDispositivePower>
+        <aggregateAmountOwned>1941860.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.8</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001681614</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Kanen Wealth Management LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>FL</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6308323.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6308323.00</sharedDispositivePower>
+        <aggregateAmountOwned>6308323.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.8</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001681743</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Kanen David</reportingPersonName>
+        <fundType>PF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>22194.00</soleVotingPower>
+        <sharedVotingPower>6308323.00</sharedVotingPower>
+        <soleDispositivePower>22194.00</soleDispositivePower>
+        <sharedDispositivePower>6308323.00</sharedDispositivePower>
+        <aggregateAmountOwned>6330517.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.8</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common stock, par value $0.00001</securityTitle>
+        <issuerName>TheRealReal, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>55 FRANCISCO STREET</com:street1>
+          <com:street2>SUITE 400</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94133</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item3>
+        <fundsSource>The Shares purchased by Philotimo were purchased with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market transactions. The Shares purchased by PHLOX were purchased with the funds for the accounts of its customers (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market transactions. The Shares purchased by KWM were purchased with the funds for the accounts of its customers (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market transactions. The aggregate purchase price of the 3,495,965 Shares beneficially owned by Philotimo is approximately $10,758,084, including brokerage commissions. The aggregate purchase price of the 1,941,860 Shares beneficially owned by PHLOX is approximately $5,611,162, including brokerage commissions. The aggregate purchase price of the 870,498 Shares held in the Managed Accounts is approximately $2,308,583, including brokerage commissions. The aggregate purchase price of the 22,194 Shares beneficially owned by Mr. Kanen is approximately $54,448, including brokerage commissions.</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>The aggregate percentage of Shares reported owned by each person named herein is based upon 109,691,196 Shares outstanding as of October 30, 2024 as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission (SEC) on November 4, 2024.
+
+A. Philotimo
+
+As of the close of business on January 6, 2025, Philotimo beneficially owned 3,495,965 Shares. Percentage: Approximately 3.2%
+
+B. PHLOX
+As of the close of business on January 6, 2025, PHLOX beneficially owned 1,941,860 Shares. Percentage: Approximately 1.8%
+
+C. KWM
+As of the close of business on January 6, 2025, KWM beneficially owned 6,308,323 Shares, consisting of (i) the 3,495,965 Shares owned directly by Philotimo, which KWM may be deemed to beneficially own as the general partner of Philotimo, (ii) the 1,941,860 Shares owned directly by PHLOX, which KWM may be deemed to beneficially own as the investment manager of PHLOX and (iii) 870,498 Shares held in the Managed Accounts. Percentage: Approximately 5.8%
+
+D. Mr. Kanen
+
+As of the close of business on January 6, 2025, Mr. Kanen may be deemed to beneficially own 6,330,517 Shares, consisting of (i) 22,194 Shares owned directly by Mr. Kanen and (ii) the 6,308,323 Shares beneficially owned by KWM, which Mr. Kanen may be deemed to beneficially own as the managing member of KWM. Percentage: Approximately 5.8%</percentageOfClassSecurities>
+        <numberOfShares>A. Philotimo
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 3,495,965
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 3,495,965
+
+B. PHLOX
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 1,941,860
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 1,941,860
+
+C. KWM
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 6,308,323
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 6,308,323
+
+D. Mr. Kanen
+1. Sole power to vote or direct vote: 22,194
+2. Shared power to vote or direct vote: 6,308,323
+3. Sole power to dispose or direct the disposition: 22,194
+4. Shared power to dispose or direct the disposition: 6,308,323</numberOfShares>
+        <transactionDesc>A. Philotimo
+The transactions in the Shares by Philotimo during the past 60 days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+B. PHLOX
+The transactions in the Shares by PHLOX during the past 60 days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+C. KWM
+The transactions in the Shares by KWM during the past 60 days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+D. Mr. Kanen
+The transactions in the Shares by Mr. Kanen during the past 60 days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+KWM, in its role as investment manager to the Managed Accounts, to which it furnishes investment advice, and Mr. Kanen, as the managing member of KWM, may each be deemed to beneficially own shares of the Issuer's Shares held in the Managed Accounts.</transactionDesc>
+      </item5>
+      <item7>
+        <filedExhibits>1 - Transactions in Securities</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Philotimo Fund, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ David L. Kanen</signature>
+          <title>David L. Kanen, Managing Member of Kanen Wealth Management, LLC, its general partner</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Philotimo Focused Growth &amp; Income Fund</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ David L. Kanen</signature>
+          <title>David L. Kanen, Managing Member of Kanen Wealth Management, LLC, its investment adviser</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Kanen Wealth Management LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ David L. Kanen</signature>
+          <title>David L. Kanen, Managing Member</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Kanen David</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ David L. Kanen</signature>
+          <title>David L. Kanen</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da111527real_01062025.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><B><U>Transactions in the Securities of the
+Issuer in the Past Sixty Days</U></B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><U>Nature of the Transaction</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Amount of Securities</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Purchased/(Sold)</U></P></TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; font: 10pt Times New Roman, Times, Serif; text-align: center"><U>Price ($)</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Date of</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>Purchase/Sale</U></P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B><U>PHILOTIMO
+FUND, LP</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(28,378)</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11.0215</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/02/2025</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(15,963)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11.0215</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/03/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B><U>KANEN
+WEALTH MANAGEMENT, llC (</U></B></FONT><B><U><FONT STYLE="font-family: Times New Roman, Times, Serif">through the Managed Accounts</FONT><FONT STYLE="text-transform: uppercase">)</FONT></U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(9,000)</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">4.9329</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/25/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(500)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">5.2727</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/26/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,375)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">6.1700</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/05/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,477)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">6.5050</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/06/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(54,881)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.5501<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1</SUP></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/18/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(410,315)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.2763<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>2</SUP></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/20/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(1,950)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">10.7976</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/30/2024</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B><U>PHILOTIMO
+FOCUSED GROWTH &amp; INCOME FUND</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(427,000)</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.4000</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/23/2024</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B><U>DAVID
+L. KANEN</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(100,000)</TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.3163<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>3</SUP></FONT></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/16/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,537)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.5501<SUP>1</SUP></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/18/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(18,967)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.2763<SUP>2</SUP></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/20/2024</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Sale of Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(400)</TD>
+    <TD STYLE="white-space: nowrap; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.4101</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/24/2024</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+
+
+
+<HR ALIGN="LEFT" SIZE="1" STYLE="width: 33%">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1</SUP></FONT>
+The reported price represents a weighted average sale price. The range of prices at which common stock was sold was $9.50 to $9.57 per
+share. The Reporting Person undertakes to provide to the Staff, the Issuer or a security holder full information regarding the number
+of shares sold at each separate price.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>2</SUP></FONT>
+The reported price represents a weighted average sale price. The range of prices at which common stock was sold was $9.20 to $9.41 per
+share. The Reporting Person undertakes to provide to the Staff, the Issuer or a security holder full information regarding the number
+of shares sold at each separate price.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>3</SUP></FONT>
+The reported price represents a weighted average sale price. The range of prices at which common stock was sold was $9.28 to $9.35 per
+share. The Reporting Person undertakes to provide to the Staff, the Issuer or a security holder full information regarding the number
+of shares sold at each separate price.</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

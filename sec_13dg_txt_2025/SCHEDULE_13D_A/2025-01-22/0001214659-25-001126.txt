@@ -1,0 +1,952 @@
+<SEC-DOCUMENT>0001214659-25-001126.txt : 20250122
+<SEC-HEADER>0001214659-25-001126.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122160251
+ACCESSION NUMBER:		0001214659-25-001126
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fluent, Inc.
+		CENTRAL INDEX KEY:			0001460329
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				770688094
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-85074
+		FILM NUMBER:		25545916
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 VESEY STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		6466697272
+
+	MAIL ADDRESS:	
+		STREET 1:		300 VESEY STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cogint, Inc.
+		DATE OF NAME CHANGE:	20160923
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IDI, Inc.
+		DATE OF NAME CHANGE:	20150520
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tiger Media, Inc.
+		DATE OF NAME CHANGE:	20121231
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GLOBAL VALUE INVESTMENT CORP.
+		CENTRAL INDEX KEY:			0001569866
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				260585642
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1433 N WATER STREET
+		STREET 2:		SUITE 549
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		262-478-0640
+
+	MAIL ADDRESS:	
+		STREET 1:		1433 N WATER STREET
+		STREET 2:		SUITE 549
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILWAUKEE PRIVATE WEALTH MANAGEMENT, INC.
+		DATE OF NAME CHANGE:	20130215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001214659-23-015271</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: GLOBAL VALUE INVESTMENT CORP. -->
+          <cik>0001569866</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.0005 par value per share</securitiesClassTitle>
+      <dateOfEvent>01/17/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001460329</issuerCIK>
+        <issuerCUSIP>34380C201</issuerCUSIP>
+        <issuerName>Fluent, Inc.</issuerName>
+        <address>
+          <com:street1>300 VESEY STREET</com:street1>
+          <com:street2>9TH FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10282</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Global Value Investment Corp.</personName>
+          <personPhoneNum>(262) 478-0640</personPhoneNum>
+          <personAddress>
+            <com:street1>1433 N. Water Street, Suite 400</com:street1>
+            <com:city>Milwaukee</com:city>
+            <com:stateOrCountry>WI</com:stateOrCountry>
+            <com:zipCode>53202</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001569866</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Global Value Investment Corporation</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3075788.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3075788.00</sharedDispositivePower>
+        <aggregateAmountOwned>3075788.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.97</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <commentContent>* Percentage calculated is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of Fluent, Inc.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001733547</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Jeffrey R. Geygan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3075788.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3075788.00</sharedDispositivePower>
+        <aggregateAmountOwned>3075788.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.97</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Percentage calculated is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of Fluent, Inc.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001734726</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>James P. Geygan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3075788.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3075788.00</sharedDispositivePower>
+        <aggregateAmountOwned>3075788.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.97</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Percentage calculated is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of Fluent, Inc.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001865363</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Stacy A. Wilke</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3075788.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3075788.00</sharedDispositivePower>
+        <aggregateAmountOwned>3075788.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.97</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Percentage calculated is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of Fluent, Inc.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001865425</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Kathleen M. Geygan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3075788.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3075788.00</sharedDispositivePower>
+        <aggregateAmountOwned>3075788.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.97</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Percentage calculated is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of Fluent, Inc.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002007274</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Shawn G. Rice</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3075788.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3075788.00</sharedDispositivePower>
+        <aggregateAmountOwned>3075788.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.97</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Percentage calculated is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of Fluent, Inc.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.0005 par value per share</securityTitle>
+        <issuerName>Fluent, Inc.</issuerName>
+        <commentText>This Amendment No. 4 (this "Amendment") amends and supplements the Schedule 13D filed on November 16, 2023, as amended on December 28, 2023, June 7, 2024, and December 3, 2024 (as amended, the "Schedule 13D"), by the Reporting Persons relating to the Common Stock of the Issuer. Information reported in the Schedule 13D remains in effect except to the extent that it is amended, restated, or superseded by information contained in this Amendment. Capitalized terms used but not defined in this Amendment have the respective meanings set forth in the Schedule 13D.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>Item 2 is amended and restated as follows:
+
+This Statement is filed by:
+
+(i)    Global Value Investment Corporation, a Delaware corporation ("GVIC");
+(ii)   Jeffrey R. Geygan, who serves as a director of GVIC, and is the controlling person of GVIC;
+(iii)  James P. Geygan, who serves as the interim chief executive officer and a director of GVIC;
+(iv)  Stacy A. Wilke, who serves as the chief financial officer of GVIC;
+(v)   Kathleen M. Geygan, who serves as a director of GVIC; and
+(vi)  Shawn G. Rice, who serves as a director of GVIC.
+
+Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons."
+
+GVIC serves as investment adviser to managed accounts (collectively, the "Accounts"), and may be deemed to have beneficial ownership over the Common Stock held for the Accounts.
+
+GVIC owns 9,385 shares of Common Stock in its corporate capacity. Mr. Jeffrey Geygan, Mr. James Geygan, Ms. Wilke, Ms. Geygan, and Mr. Rice each own shares of Common Stock in their individual capacities. These shares may be deemed to be indirectly beneficial owned by GVIC. Mr. Jeffrey Geygan owns 54,584 shares in his individual capacity. Mr. James Geygan owns 8,599 shares in his individual capacity. Ms. Wilke owns 3,869 shares in her individual capacity. Ms. Geygan owns 9,875 shares in her individual capacity. Mr. Rice owns 13,459 shares in his individual capacity.
+
+Mr. Jeffrey Geygan, Mr. James Geygan, Ms. Geygan, and Mr. Rice are the directors of GVIC. Mr. James Geygan and Ms. Wilke are the executive officers of GVIC. As a result of his ownership interest in GVIC, Mr. Jeffrey Geygan is the controlling person of GVIC. As each of the Reporting Persons, directly or indirectly, share the power to vote, or direct the voting of, the Common Stock held for the Accounts, and the power to dispose, or to direct the disposition of, the Common Stock held for the Accounts, each may be deemed to have beneficial ownership over the Common Stock held for the Accounts.</filingPersonName>
+        <principalBusinessAddress>The address of the principal business and principal office of each of the Reporting Persons is 1433 N. Water Street, Suite 400, Milwaukee, WI 53202.</principalBusinessAddress>
+        <principalJob>The principal business of GVIC is acting as an investment manager.
+
+The principal occupation of Jeffrey R. Geygan is acting as a director of GVIC.
+
+The principal occupation of James P. Geygan is acting as the interim chief executive officer of GVIC.
+
+The principal occupation of Stacy A. Wilke is acting as the chief financial officer of GVIC.
+
+The principal occupation of Kathleen M. Geygan is acting as a director of GVIC.
+
+The principal occupation of Shawn G. Rice is acting as an attorney.</principalJob>
+        <hasBeenConvicted>During the past five years, none of the Reporting Persons has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the past five years, none of the Reporting Persons has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding such person was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Mr. Jeffrey Geygan, Mr. James Geygan, Ms. Wilke, Ms. Geygan, and Mr. Rice are citizens of the United States of America. GVIC is a Delaware corporation.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Item 3 is amended and restated as follows:
+
+All of the shares of Common Stock to which this Statement relates were purchased on behalf of the Reporting Persons using the investment capital of the Reporting Persons. Such shares of Common Stock are or may be held from time to time in margin accounts established with their respective brokers or banks, and a portion of the purchase price for the Common Stock may have been obtained through margin borrowing. Common Stock positions held in margin accounts may be pledged as collateral security for the repayment of debit balances in the margin accounts. The aggregate purchase price of the 3,075,788 shares of Common Stock acquired was approximately $11,499,838.59 (excluding commissions).</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is amended and restated as follows:
+
+The Reporting Persons purchased the shares of Common Stock for investment purposes, and such purchases have been made in the ordinary course of business of the Reporting Persons.
+
+In pursuing such investment purposes, the Reporting Persons may further purchase, hold, vote, trade, dispose, or otherwise deal in the Common Stock at times, and in such manner, as they deem advisable to benefit from, among other things, (1) changes in the market prices of the shares of Common Stock; (2) changes in the Issuer's operations, business strategy, or prospects; or (3) from the sale or merger of the Issuer. To evaluate such alternatives, the Reporting Persons will closely monitor the Issuer's operations, prospects, business development, management, competitive and strategic matters, capital structure, and prevailing market conditions, as well as other economic, securities markets, and investment considerations. Consistent with their investment research methods and evaluation criteria, the Reporting Persons have in the past discussed, and may in the future discuss, such matters with the management or Board of Directors of the Issuer (the "Board"), other stockholders, industry analysts, existing or potential strategic partners or competitors, investment and financing professionals, sources of credit, and other investors. Such evaluations and discussions may materially affect, and result in, among other things, the Reporting Persons (1) modifying their ownership of the Common Stock; (2) exchanging information with the Issuer pursuant to appropriate confidentiality or similar agreements; (3) proposing changes in the Issuer's operations, governance, or capitalization; or (4) pursuing one or more of the other actions described in subsections (a) through (j) of Item 4 of Schedule 13D.
+
+In addition to the information disclosed in this Statement, the Reporting Persons reserve the right to (1) formulate other plans and proposals; (2) take any actions with respect to their investment in the Issuer, including any or all of the actions set forth in subsections (a) through (j) of Item 4 of Schedule 13D; and (3) acquire additional shares of Common Stock or dispose of some or all of the shares of Common Stock beneficially owned by them, in each case in the open market, through privately negotiated transactions, or otherwise.
+
+On January 17, 2025, the Issuer announced the appointment of Mr. James Geygan to its Board of Directors.
+
+On January 17, 2025, GVIC issued a press release concerning the appointment of Mr. James Geygan to the Issuer's Board of Directors. The press release is attached as Exhibit 3 and is incorporated into this Item 4 by reference.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5 is amended and restated as follows:
+
+(a) and (b) The responses of the Reporting Persons to rows 7, 8, 9, 10, 11 and 13 on the cover pages of this Statement are incorporated herein by reference. As of 4:00 p.m., Eastern time, on January 22, 2025, the Reporting Persons beneficially owned 3,075,788 shares of Common Stock, representing approximately 14.97% of the outstanding shares of Common Stock. The percentage in this paragraph relating to beneficial ownership of Common Stock is based on 20,548,162 shares of Common Stock (upon full exercise of pre-funded warrants), $0.0005 par value per share outstanding as of December 2, 2024, as reported in the Form 10-Q for the fiscal quarter ended September 30, 2024, and the Form 8-K filed December 2, 2024, of the Issuer.</percentageOfClassSecurities>
+        <transactionDesc>Except as set forth in Schedule A, none of the Reporting Persons has effected any transactions in the Common Stock in the 60 days prior to the date of this Statement.</transactionDesc>
+        <listOfShareholders>No other person is known to the Reporting Persons to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the shares of Common Stock covered by this Statement.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Exhibit 2 - Schedule A
+Exhibit 3 - Press Release, dated January 17, 2025</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Global Value Investment Corporation</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ James P. Geygan</signature>
+          <title>Interim Chief Executive Officer and President</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Jeffrey R. Geygan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey R. Geygan</signature>
+          <title>Jeffrey R. Geygan</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>James P. Geygan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ James P. Geygan</signature>
+          <title>James P. Geygan</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Stacy A. Wilke</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Stacy A. Wilke</signature>
+          <title>Stacy A. Wilke</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Kathleen M. Geygan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kathleen M. Geygan</signature>
+          <title>Kathleen M. Geygan</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Shawn G. Rice</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Shawn G. Rice</signature>
+          <title>Shawn G. Rice</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>2
+<FILENAME>ex2.htm
+<DESCRIPTION>EXHIBIT 2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin-top: 0; margin-bottom: 0"> <B>Exhibit 2</B> </P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Schedule A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Transactions by the Reporting Persons in the
+Past 60 Days</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> The following table sets forth all unreported transactions with
+respect to the Common Stock effected in the last 60 days by or on behalf of the Reporting Persons, inclusive of any transactions effected
+through 4:00 p.m., Eastern time, on January 22, 2025. Unless otherwise indicated, all such transactions were effected in the open market. </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="white-space: nowrap; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">Person Effecting <BR> the
+    Transaction</TD><TD STYLE="font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">Transaction <BR> Date</TD><TD STYLE="font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">Nature of Transaction</TD><TD STYLE="font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">Securities <BR> Transacted</TD><TD STYLE="font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="white-space: nowrap; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">Price per <BR> Share</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 22%; text-align: center">Clients of GVIC</TD><TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 13%; text-align: center">11/29/2024</TD><TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 31%; text-align: center">Purchase of Common Stock</TD><TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 13%; text-align: center">1,888,291</TD><TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 13%; text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">GVIC</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">11/29/2024</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">Purchase of Common Stock</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">5,738</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">Mr. Jeffrey Geygan</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">11/29/2024</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">Purchase of Common Stock</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">33,886</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">Mr. James Geygan</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">11/29/2024</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">Purchase of Common Stock</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">2,570</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">Ms. Wilke</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">11/29/2024</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">Purchase of Common Stock</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">1,570</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">Ms. Geygan</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">11/29/2024</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">Purchase of Common Stock</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">3,306</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">Mr. Rice</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">11/29/2024</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">Purchase of Common Stock</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">8,315</TD><TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">$2.3152<SUP>(1)</SUP></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center"> Clients of GVIC </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 12/03/2024 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> Disposal of Common Stock<SUP>(2)</SUP> </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 1,518 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> N/A<SUP>(2)</SUP> </TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center"> Clients of GVIC </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 12/04/2024 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> Purchase of Common Stock </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 5,045 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> $2.7406<SUP>(3)</SUP> </TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center"> Clients of GVIC </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 12/05/2024 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> Purchase of Common Stock </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 14,337 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> $2.6891<SUP>(3)</SUP> </TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center"> Mr. James Geygan </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 01/17/2024 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> Common Stock Grant<SUP>(4)</SUP> </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> 10,000 </TD><TD> &nbsp; </TD>
+    <TD> &nbsp; </TD>
+    <TD STYLE="text-align: center"> N/A<SUP>(4)</SUP> </TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><SUP>(1)</SUP> On November 29, 2024, GVIC entered into a securities
+purchase agreement with the Issuer pursuant to which the Issuer agreed to sell to GVIC 1,943,676 shares of Common Stock at a price of
+$2.3152 per share. The shares of Common Stock were offered by the Issuer pursuant to its shelf registration statement on Form S-3 (File
+No. 333-281805), which was declared effective by the Securities and Exchange Commission on September 9, 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <SUP>(2)</SUP> As of December 3, 2024, certain separately managed
+accounts terminated their relationship with, and are no longer advised by, GVIC. The positions held in such accounts are therefore no
+longer included herein. No price per share was associated with this disposal. </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><SUP>(3)</SUP> This purchase price represents the weighted average
+purchase price of the shares purchased. Upon request by the staff of the Securities and Exchange Commission, the Issuer, or a security
+holder of the Issuer, the Reporting Persons will provide full information regarding the number of shares purchased at each separate price
+within the range set forth in this Statement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <SUP>(4)</SUP> Represents restricted stock units (&ldquo;RSUs&rdquo;)
+granted to Mr. James Geygan on January 17, 2025, in connection with his appointment to the Board. Such RSUs will vest in three equal
+annual installments beginning on the first anniversary of the grant date, subject to accelerated vesting in certain circumstances. No
+purchase price is associated with the grant. </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 2px solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>3
+<FILENAME>ex3.htm
+<DESCRIPTION>EXHIBIT 3
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin-top: 0; margin-bottom: 0"> <B>Exhibit 3</B> </P>
+
+<P STYLE="margin: 0"> &nbsp; </P>
+
+<P STYLE="margin: 0"> <IMG SRC="gviclogo.jpg" ALT=""> </P>
+
+<P STYLE="margin: 0"> <BR> </P>
+
+<P STYLE="margin: 0"> <BR> </P>
+
+<P STYLE="margin: 0"> <BR>
+<B>FOR IMMEDIATE RELEASE</B> </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <B>Global Value Investment Corporation&rsquo;s Interim CEO and
+President JP Geygan Appointed to Fluent, Inc.&rsquo;s Board of Directors</B>&nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> Milwaukee, WI &ndash; January 17, 2025 &ndash; Global Value Investment
+Corporation (GVIC), an investment firm specializing in disciplined, value-oriented investing, announces Interim CEO and President JP
+Geygan's appointment to the Board of Directors of Fluent, Inc. (NASDAQ: FLNT), a leading commerce media solutions company. </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> GVIC beneficially owns approximately 15% of Fluent, Inc.&rsquo;s
+common stock, underscoring its commitment to the company's growth and development. Geygan&rsquo;s experience in corporate governance
+and capital allocation along with a track record of proven success in growing GVIC&rsquo;s assets under management makes this appointment
+a strong addition to the board, demonstrating an ability to drive financial performance while mitigating risk. </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &quot;We are excited to continue to deepen our engagement with
+a portfolio company and we are enthusiastic about the future of Fluent,&quot; says Geygan. &quot;I look forward to contributing to Fluent&rsquo;s
+innovative journey and supporting its mission to deliver exceptional value to its clients and shareholders.&quot; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> Fluent, Inc.'s data-driven performance marketing solutions empower
+brands to connect with consumers and drive business growth. Geygan&rsquo;s addition to the board is expected to enhance the company&rsquo;s
+strategic direction and foster long-term value creation.<BR>
+<BR>
+<B><U>About Fluent, Inc.</U></B><BR>
+Fluent, Inc. (NASDAQ: FLNT) has been a leader in performance marketing since 2010, offering customer acquisition and partner monetization
+solutions that exceed client expectations. Leveraging untapped channels and diverse ad inventory across partner ecosystems and owned
+sites, Fluent connects brands with consumers at the most optimal moment, ensuring impactful engagement when it matters most. Constantly
+innovating and optimizing for performance, Fluent unlocks additional revenue streams for partners and empowers advertisers to acquire
+their most valuable customers at scale. For more insights visit https://www.fluentco.com/.<BR> </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 8pt; margin-bottom: 6pt; border-bottom: Black 2px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 8pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: left; width: 100%"><FONT STYLE="font-size: 8pt">&nbsp;</FONT></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp;<BR>
+<B><U>About GVIC</U></B><BR>
+GVIC is an investment management firm that deploys patient capital to build generational wealth. The firm was founded in 2007 in Milwaukee,
+Wisconsin as a fundamental value manager with a long-term investment horizon. GVIC provides portfolio management services to individual
+and institutional clients, primarily registered investment advisors and broker-dealers, through separately managed accounts and private
+fund investments. As the firm has evolved, its commitment to disciplined, value-oriented investment principles has continued to anchor
+its philosophy and reward its stakeholders. The firm is 100% employee-owned. For more information about GVIC and its investment strategies,
+please visit www.gvi-corp.com/. </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <B>Media Contact:</B> <BR>
+Kristin Mastantuono, <I>Marketing Director</I><BR>
+Global Value Investment Corporation<BR>
+Email: Kristin.Mastantuono@gvi-corp.com <BR>
+Phone: (262)<FONT STYLE="font-family: Times New Roman, Times, Serif">&#8239;</FONT>478-0656 </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> &nbsp; </P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> &nbsp; </P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 2px solid; width: 100%"> &nbsp; </DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"> &nbsp; </P>
+
+<P STYLE="margin: 0"> &nbsp; </P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>gviclogo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 gviclogo.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X0!F17AI9@  34T *@    @ ! $:  4
+M   !    /@$;  4    !    1@$H  ,    !  (   $Q  (    0    3@
+M      !@     0   &     !<&%I;G0N;F5T(#0N,"XU /_; $,  0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! ?_; $,! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! ?_  !$( #@
+MH ,!(@ "$0$#$0'_Q  ?   !!0$! 0$! 0           0(#! 4&!P@)"@O_
+MQ "U$  " 0,# @0#!04$!    7T! @, !!$%$B$Q008346$'(G$4,H&1H0@C
+M0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U-C<X.3I#1$5&1TA)2E-45597
+M6%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJ
+MLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7V-G:X>+CY.7FY^CIZO'R\_3U]O?X
+M^?K_Q  ? 0 # 0$! 0$! 0$!         0(#! 4&!P@)"@O_Q "U$0 " 0($
+M! ,$!P4$!  ! G<  0(#$00%(3$&$D%1!V%Q$R(R@0@40I&AL<$)(S-2\!5B
+M<M$*%B0TX27Q%Q@9&B8G*"DJ-38W.#DZ0T1%1D=(24I35%565UA96F-D969G
+M:&EJ<W1U=G=X>7J"@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>X
+MN;K"P\3%QL?(R<K2T]35UM?8V=KBX^3EYN?HZ>KR\_3U]O?X^?K_V@ , P$
+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
+M_J6G:1K%WX(\97GBK69/%2^';O4XKN=-:\*^#GU#0[6_U"$6M_#;Z/=^@?\
+M!IE^TCXG\$?MI?%/]FBXU2^D^'_QQ^$&L^+8-"\W?8VWQ)^&&H:5?:7K<4,@
+M;[-)<>"M3\9:=J$EL8FOS'HJW?GKIEI]G\C$87"5*$\1@I:4FU*'OVDE:\OW
+MGO)V=][/9*Y[];#X>=&=;#-VIOWE[UFDE?XKR36ZULUZ']RG[7'[4O@?]D+X
+M/S_%3QI;WFLWNI^*O"GPZ^'?@C2+'Q)J?B/XE_%#QWJL>C^#/A[X6TWPCX8\
+M9>(;[Q#XCO6E2P@T_P -ZFP6WFEFCC@BEFC\9_9:_P""B_P0_:U\7^%_!_PT
+MN3+?:_\ L_7?QVU);NW\7Z5>^&O["^+>O?!3QCX/U?3/%?@?PK<6>H^%?'GA
+MG6M*O9=2;3-3G:S^UP^'ETFXM-4N/F+_ (+=WT7AGX)?L=_$S5[R30O _P '
+M/^"EW[%_Q2^)OC9K&:^TKX=?#_PYXUU>WUOQWXA6*&<6^A:#<:GIYO+B9#!Y
+MEQ;P-EIT5OQ<_P""6/[5WP^^%G[17PR\:?M0_$_X;?#Z[^-_[#?Q:\'?##Q0
+M_P -?!7P&T'XQZMK/_!1+XSQ>$-;\/>!OA]X4\*^%H-3^(.G68\1_;K?2(IM
+M>FO9=7OM0U&ZNY+^XXZ>'4\-*JE-S3DK+5:*]N7E>R5V^:]F_=M9KFA1C.C*
+M>KFG*R5^D;V44NF[=]$UI:[7[%P_\%T?V7-1\)_'/Q=H=CK.JZ?\-M'\/^-_
+MA46T'XOZ='^T3\*=;^.VA_LY3?$SX:RWWP4C;6-#L/BSX@T_PB8?"4'C>6YU
+MB1H!+#:17-_!W7Q#_P""RG[.7PQ_92\._M2^,+/4_#>GW?[0]Y^S%XU\"^*M
+M*^)_A3Q3\.?BSHVG>(M;\3>&/$NC:U\)+?QG9ZIX;T#P^=8U2+4O ^D:?;VU
+MV@FU6%TC^T?QL:'JUAJO[,7@O0K?6=6\-:G^S)_P3@\*?";]H75QH][9W_P
+M^)>H_P#!;?X3^*+'P[XQ.M:9]@T7QI;^&H9_%NGZ%J<4T]QIEBVH/93V$<S5
+M]/?%N/6_C?\ LX^)/@Q\*[+QM^V597/[0O\ P5^_:!\/_&'3!X8\/>(/C/X;
+MT#]G_P"&7@+0?VHO%W_"6:YX.\/ZM9:#XO\ CMK_ (:EF\!VD<FL6W@.:W\&
+M^#[[5+>2W?J>"HWC?VD5[2497E%-*$8O5RBH)O66][/1.-F=#PM-/7F24VG=
+MM:**>KY8Q5_B7O)M/1-)M?V[?"/]I;P=\8?C/^TS\%O#T:?V]^S%XE^&WAKQ
+M=<QSZC,EW=?$SX=:9\2-&D5;K0].L(U&CZI JG2=6\0PR+B2XN;&X+64?TA7
+M\OW_  1N_;-^!VK_ +5O[5>@^.?BKX8T+XO_ +5'AG_@G9XU^&W@?6-0$7B?
+MQW=R?\$^_A;KOB?^R+5(F6ZN-)FFNAJ0+Q^3+%*N,KBOZ@:\^O2=*:@XM?NZ
+M4M;ZN5.,I-/JN=R2MII;H<=6#IS4;->Y3EKWE3C)V\N9M?(****Q,C\1?^#C
+M;_E#/^V/_P!V]?\ K5/P.K^4_P#X-+_^4EWQ(_[,]^)WY?\ "U?@7_\ 6K^K
+M#_@XV_Y0S_MC_P#=O7_K5/P.K^4[_@TO_P"4E_Q(_P"S//B?_P"K6^!5>SA?
+M^17B_P#'/_TBD>E0_P!PQ/\ B?Y4C^I?_@X$_8,_:(_X*&?L?_##X-_LTZ+X
+M<USQQX7_ &D?"OQ+U>U\3^*--\)6$7A72?AE\6O"]Y<1:CJ9$$]VNK>+]%C2
+MRC_?20RSSCY+=Z\6_P"#=W_@FK^U/_P3C\#_ +46A?M/^'_">@ZA\5/%?PNU
+M?P@GA7QEI7B^.YLO"ND>,[/5VO9=+)6QDBGUJQ$,<W,ZR.R?ZM\?C-_P48_X
+M.*/^"BO[,7[<O[3W[/WPPO/@DGP^^$WQ7U_P=X237_AA)J^M+H^G>1]F&I:D
+M/$EJ+VZ'F-OG%O#OX^08Y_:S_@WN_P""G'[3O_!2GP1^T[K_ .TK/X!FO_A/
+MXJ^&.D>$CX$\)-X5A6S\5Z3XRO-6_M*-M4U/[9*9]#L?LSAHO)02KA_,RN4Z
+M>+I8#EDJ7U>7).Z;]I^\E"4>W7EW6U[,B=/$4\+:2I^RERS_ +[YW%KR=FU?
+M>VNI_ 7^WAX*O/@5^WW^UKX)TEIM+G^&_P"U/\9+3PY<6ZM;RVUEI/Q,UZZ\
+M+ZA:@#,1;31IM];8X4/'@[0#7^J-\>?CS;6'_!.KXO?M+V]S'90K^QKXW^,^
+MG7"2B-$FNO@OJ/C'2EMY0?\ 62W,UK#:E"2\LD03+,*_SF_^#ASX;_\ "MO^
+M"NO[5T,, @T[QM??#CXDZ:R@CS_^$R^%G@R_UJ?'J?%2:_&2.&,9;^(BOZ;O
+MVJ_VEY?^(53X<^,+6_;^W/'W[-/[.7[/L-UN7==W>E>+?"/PR\:Q2E<AI+KP
+MWX*\7)-T8R,^\!MP'3BXNO3RV6[FZ<'Y^TC2TNMK<K\]7V-\2G6A@GNY.$;Z
+M_;C3TZ[<K?7J?S)_\&\GPKN/BI_P5O\ V6(_LQN-+^'UYX^^*>MR^69%M+?P
+M5\.O$]WHERX4;4#>,;CPS:H[;42:YB()?8C?VW?\%2O^2O\ @#_LFL/_ *E/
+MB&OYO/\ @T.^&B:Y^V'^TU\6)K19XOAY^SS8^#K:Y<%A8ZI\3/B#H.H0R1]E
+MN)M,^'6L6ZO][R);I. [9_I#_P""I7_)7_ '_9-8?_4I\0U]_P"'4W+Q&RF/
+M_/O#8Z'I_P )V*GKY^_Z]SX#Q5E?AK,(VMR/+8V\WC\//[WS'I_[*7_*/?\
+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
+M#\;^#-)TF[\0VJG2+S6?$-WX^NKJ/3M-N[VYTVTT">35DL/M^F"]^F?^#/\
+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
++445SF 4444 ?_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,238 @@
+<SEC-DOCUMENT>0001009012-25-000008.txt : 20250124
+<SEC-HEADER>0001009012-25-000008.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124145425
+ACCESSION NUMBER:		0001009012-25-000008
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			URBAN ONE, INC.
+		CENTRAL INDEX KEY:			0001041657
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO BROADCASTING STATIONS [4832]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				521166660
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-57255
+		FILM NUMBER:		25553709
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1010 WAYNE AVENUE
+		STREET 2:		14TH FL
+		CITY:			SILVER SPRING
+		STATE:			MD
+		ZIP:			20910
+		BUSINESS PHONE:		3014293200
+
+	MAIL ADDRESS:	
+		STREET 1:		1010 WAYNE AVENUE
+		STREET 2:		14TH FL
+		CITY:			SILVER SPRING
+		STATE:			MD
+		ZIP:			20910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RADIO ONE, INC.
+		DATE OF NAME CHANGE:	20091203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RADIO ONE INC
+		DATE OF NAME CHANGE:	19970626
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZAZOVE ASSOCIATES LLC
+		CENTRAL INDEX KEY:			0001009012
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				363984373
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 TAHOE BLVD.
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+		BUSINESS PHONE:		77529897500
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 TAHOE BLVD.
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001009012</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001041657</issuerCik>
+        <issuerName>URBAN ONE, INC.</issuerName>
+        <issuerCusip>91705J105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1010 WAYNE AVENUE</com:street1>
+          <com:street2>14TH FL</com:street2>
+          <com:city>SILVER SPRING</com:city>
+          <com:stateOrCountry>MD</com:stateOrCountry>
+          <com:zipCode>20910</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>ZAZOVE ASSOCIATES LLC</reportingPersonName>
+      <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>752693.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>752693.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>752693.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>9.2</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Zazove Associates, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>752693.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>752693.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>752693.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>9.2</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Gene T. Pretti</reportingPersonName>
+      <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>752693.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>752693.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>752693.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>9.2</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>URBAN ONE, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1010 WAYNE AVENUE, 14TH FL, SILVER SPRING, MARYLAND, 20910</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13G is being filed by Zazove Associates, LLC, a Delaware limited liability company; Zazove Associates, Inc., an Illinois corporation and Gene T. Pretti (referred to collectively as the "Reporting Persons").</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The principal address of the Reporting Persons is 1001 Tahoe Blvd., Incline Village, NV 89451</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Zazove Associates, LLC is organized under the laws of Delaware. Zazove Associates, Inc. is organized under the laws of Illinois. Gene T. Pretti is a citizen of the United States.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>752693</amountBeneficiallyOwned>
+        <classPercent>9.2</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>752693</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>752693</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>ZAZOVE ASSOCIATES LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Sam Ginocchio</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Zazove Associates, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>Ryan Shelby</signature>
+        <title>Secretary</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Gene T. Pretti</reportingPersonName>
+      <signatureDetails>
+        <signature>Gene T. Pretti</signature>
+        <title>Individual</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,330 @@
+<SEC-DOCUMENT>0000902664-25-000259.txt : 20250116
+<SEC-HEADER>0000902664-25-000259.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116093101
+ACCESSION NUMBER:		0000902664-25-000259
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sidus Space Inc.
+		CENTRAL INDEX KEY:			0001879726
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO TELEPHONE COMMUNICATIONS [4812]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				460628183
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93909
+		FILM NUMBER:		25534484
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 IMPERIAL BLVD.
+		CITY:			CAPE CANAVERAL
+		STATE:			FL
+		ZIP:			32920
+		BUSINESS PHONE:		321-613-5620
+
+	MAIL ADDRESS:	
+		STREET 1:		150 N. SYKES CREEK PKWY,
+		STREET 2:		SUITE 200
+		CITY:			MERRITT ISLAND
+		STATE:			FL
+		ZIP:			32953
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Empery Asset Management, LP
+		CENTRAL INDEX KEY:			0001469336
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				262107121
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA, SUITE 1205
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		212-608-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA, SUITE 1205
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Empery Asset Management, LP -->
+          <cik>0001469336</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $0.0001 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001879726</issuerCik>
+        <issuerName>Sidus Space Inc.</issuerName>
+        <issuerCusip>826165201</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>175 Imperial Blvd.</com:street1>
+          <com:city>Cape Canaveral</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>32920</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>EMPERY ASSET MANAGEMENT, LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>483092.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>483092.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>483092.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.62</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>RYAN M. LANE</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>483092.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>483092.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>483092.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.62</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>MARTIN D. HOE</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>483092.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>483092.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>483092.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.62</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Sidus Space Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>175 Imperial Blvd., Cape Canaveral FL, 32920</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by the entities and persons listed below, who are collectively referred to herein as "Reporting Persons," with respect to Common Stock, par value $0.0001 per share (the "Common Stock") of Sidus Space Inc., a Delaware corporation (the "Company"):
+
+(i) Empery Asset Management, LP (the "Investment Manager"), with respect to the Common Stock held by funds to which the Investment Manager serves as investment manager (the "Empery Funds");
+
+(ii) Mr. Ryan M. Lane ("Mr. Lane"), with respect to the Common Stock held by the Empery Funds; and
+
+(iii) Mr. Martin D. Hoe ("Mr. Hoe"), with respect to the Common Stock held by the Empery Funds.
+
+The Investment Manager serves as the investment manager to each of the Empery Funds. Each of Mr. Lane and Mr. Hoe (the "Reporting Individuals") is a Managing Member of Empery AM GP, LLC (the "General Partner"), the general partner of the Investment Manager.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of the business office of each of the Reporting Persons is:
+
+1 Rockefeller Plaza, Suite 1205
+New York, New York 10020</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Citizenship is set forth in Row 4 of the cover page for each Reporting Person hereto and is incorporated herein by reference for each such Reporting Person.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by Item 4(a) is set forth in Row 9 of the cover page for each of the Reporting Persons and is incorporated herein by reference.
+
+The percentage set forth in this Schedule 13G is calculated based upon an aggregate of 8,601,344 of Common Stock outstanding as of November 13, 2024, comprised of (i) 4,081,344 shares of Common Stock reported as outstanding as of November 12, 2024 and (ii) 4,520,000 shares of Common Stock offered by the Company, in each case as reported in the Company's Prospectus Supplement on Form 424(b)(5) filed with the Securities and Exchange Commission on November 13, 2024.
+
+
+The Investment Manager, which serves as the investment manager to the Empery Funds, may be deemed to be the beneficial owner of all of the Common Stock held by the Empery Funds.  Each of the Reporting Individuals, as Managing Members of the General Partner of the Investment Manager with the power to exercise investment discretion, may be deemed to be the beneficial owner of all of the Common Stock held by the Empery Funds.  The foregoing should not be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of the Common Stock owned by another Reporting Person.  Each of the Empery Funds and the Reporting Individuals hereby disclaims any beneficial ownership of any such Common Stock.</amountBeneficiallyOwned>
+        <classPercent>5.62</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>The information required by Item 4(c)(i) is set forth in Row 5 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>The information required by Item 4(c)(ii) is set forth in Row 6 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>The information required by Item 4(c)(iii) is set forth in Row 7 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>The information required by Item 4(c)(iv) is set forth in Row 8 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>See Item 2(a) above.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit 99.1: Joint Filing Agreement</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>EMPERY ASSET MANAGEMENT, LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Ryan M. Lane</signature>
+        <title>By: Empery AM GP, LLC, its General Partner, By: Ryan M. Lane, its Managing Member</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>RYAN M. LANE</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Ryan M. Lane</signature>
+        <title>Ryan M. Lane, individually</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>MARTIN D. HOE</reportingPersonName>
+      <signatureDetails>
+        <signature>Martin D. Hoe, individually</signature>
+        <title>Martin D. Hoe, individually</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1 JOINT FILER
+<SEQUENCE>2
+<FILENAME>p25-0129exh99_1.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">EXHIBIT 99.1</P>
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">JOINT ACQUISITION STATEMENT<BR>
+PURSUANT TO RULE 13d-1(k)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned acknowledge
+and agree that the foregoing statement on Schedule 13G is filed on behalf of each of the undersigned and that all subsequent amendments
+to this statement on Schedule 13G shall be filed on behalf of each of the undersigned without the necessity of filing additional joint
+acquisition statements. The undersigned acknowledge that each shall be responsible for the timely filing of such amendments, and for the
+completeness and accuracy of the information concerning him or it contained therein, but shall not be responsible for the completeness
+and accuracy of the information concerning the others, except to the extent that he or it knows or has reason to believe that such information
+is inaccurate.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DATED: 01/16/2025</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse"><TR STYLE="vertical-align: top"><TD COLSPAN="2"></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">EMPERY ASSET MANAGEMENT, LP</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">By: EMPERY AM GP, LLC, its General Partner</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 3%; text-align: justify">By: </TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 47%; text-align: justify">/s/ Ryan M. Lane</TD>
+    <TD STYLE="width: 50%; text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">Name:&nbsp;&nbsp;Ryan M. Lane</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">Title:&nbsp;&nbsp;Managing Member</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; text-align: justify">/s/ Ryan M. Lane</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">RYAN M. LANE</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid; text-align: justify">/s/ Martin D. Hoe</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify">MARTIN D. HOE</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR></TABLE>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

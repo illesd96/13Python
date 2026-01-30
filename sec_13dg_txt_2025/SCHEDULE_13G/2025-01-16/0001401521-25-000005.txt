@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001401521-25-000005.txt : 20250116
+<SEC-HEADER>0001401521-25-000005.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116162740
+ACCESSION NUMBER:		0001401521-25-000005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Muzinich Corporate Lending Income Fund, Inc.
+		CENTRAL INDEX KEY:			0001985375
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94465
+		FILM NUMBER:		25535973
+
+	BUSINESS ADDRESS:	
+		STREET 1:		450 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-888-3413
+
+	MAIL ADDRESS:	
+		STREET 1:		450 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Muzinich Direct Lending Income Fund, Inc.
+		DATE OF NAME CHANGE:	20230713
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN COASTAL INSURANCE Corp
+		CENTRAL INDEX KEY:			0001401521
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				753241967
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		570 CARILLON PARKWAY
+		STREET 2:		SUITE 100
+		CITY:			SAINT PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+		BUSINESS PHONE:		727-633-0851
+
+	MAIL ADDRESS:	
+		STREET 1:		570 CARILLON PARKWAY
+		STREET 2:		SUITE 100
+		CITY:			SAINT PETERSBURG
+		STATE:			FL
+		ZIP:			33716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED INSURANCE HOLDINGS CORP.
+		DATE OF NAME CHANGE:	20081002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FMG ACQUISITION CORP
+		DATE OF NAME CHANGE:	20070531
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001401521</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>10/01/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001985375</issuerCik>
+        <issuerName>Muzinich Corporate Lending Income Fund, Inc.</issuerName>
+        <issuerCusip>627930100</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>450 PARK AVENUE</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>AMERICAN COASTAL INSURANCE Corp</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>4927.61</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>4927.61</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4927.61</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.4</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Muzinich Corporate Lending Income Fund, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>450 PARK AVENUE, NEW YORK, NEW YORK, 10022</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>American Coastal Insurance Corporation</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>570 Carillon Parkway, Suite 100, Saint Petersburg, FL 33716</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>4,927.61 shares of common stock</amountBeneficiallyOwned>
+        <classPercent>5.37%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>4,927.61 shares of common stock</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>4,927.61 shares of common stock</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Owned by the reporting person's wholly-owned subsidiary, American Coastal Insurance Company.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>AMERICAN COASTAL INSURANCE Corp</reportingPersonName>
+      <signatureDetails>
+        <signature>Svetlana Castle</signature>
+        <title>Chief Financial Officer</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

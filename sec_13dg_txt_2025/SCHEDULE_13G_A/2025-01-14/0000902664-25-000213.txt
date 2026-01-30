@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0000902664-25-000213.txt : 20250114
+<SEC-HEADER>0000902664-25-000213.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114102106
+ACCESSION NUMBER:		0000902664-25-000213
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Guild Holdings Co
+		CENTRAL INDEX KEY:			0001821160
+		STANDARD INDUSTRIAL CLASSIFICATION:	MORTGAGE BANKERS & LOAN CORRESPONDENTS [6162]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				852453154
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91864
+		FILM NUMBER:		25528051
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5887 COPLEY DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92111
+		BUSINESS PHONE:		8585606330
+
+	MAIL ADDRESS:	
+		STREET 1:		5887 COPLEY DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92111
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bayview Asset Management, LLC
+		CENTRAL INDEX KEY:			0001767366
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4425 PONCE DE LEON BLVD.
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33146
+		BUSINESS PHONE:		(305) 854-8880
+
+	MAIL ADDRESS:	
+		STREET 1:		4425 PONCE DE LEON BLVD.
+		CITY:			CORAL GABLES
+		STATE:			FL
+		ZIP:			33146
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000902664-24-000481</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Bayview Asset Management, LLC -->
+          <cik>0001767366</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>09/30/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001821160</issuerCik>
+        <issuerName>Guild Holdings Co</issuerName>
+        <issuerCusip>40172N107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>5887 COPLEY DRIVE</com:street1>
+          <com:city>SAN DIEGO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92111</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bayview MSR Opportunity Master Fund, L.P.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1362320.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1362320.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1362320.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.5</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bayview Asset Management, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1500517.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1500517.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1500517.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.1</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Guild Holdings Co</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>5887 COPLEY DRIVE, SAN DIEGO CA 92111</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by Bayview MSR Opportunity Master Fund, L.P. and Bayview Asset Management, LLC with respect to the shares of Class A common stock, par value $0.01 per share ("Class A Common Stock") of Guild Holdings Co (the "Company").
+
+The reported securities are held in the account of Bayview MSR Opportunity Master Fund and Ivalo Fund, L.P. (the "Investment Vehicles").
+
+Bayview Asset Management, LLC may be deemed to beneficially own the securities held by the Investment Vehicles by virtue of Bayview Fund Management LLC's, a wholly owned subsidiary of Bayview Asset Management, LLC, position as investment manager of each of the Investment Vehicles. None of the foregoing should be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of the securities reported herein.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Bayview MSR Opportunity Master Fund, L.P.
+c/o Bayview Asset Management, LLC
+4425 Ponce de Leon Blvd.
+Coral Gables, FL 33146
+
+Bayview Asset Management, LLC
+4425 Ponce de Leon Blvd.
+Coral Gables, FL 33146</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Bayview MSR Opportunity Master Fund, L.P. - Cayman Islands
+
+Bayview Asset Management, LLC - Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by Item 4(a) is set forth in Row 9 of the cover page for each of the Reporting Persons and is incorporated herein by reference.
+
+The percentages set forth in this Schedule 13G are calculated based upon an aggregate of 21,053,279  shares of Class A Common Stock outstanding as of August 1, 2024, as reported in the Company's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2024, filed with the Securities and Exchange Commission on August 8, 2024.</amountBeneficiallyOwned>
+        <classPercent>7.1</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>The information required by Item 4(c)(i) is set forth in Row 5 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>The information required by Item 4(c)(ii) is set forth in Row 6 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>The information required by Item 4(c)(iii) is set forth in Row 7 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>The information required by Item 4(c)(iv) is set forth in Row 8 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>See Item 2(a).  Each of the Investment Vehicles has the right to receive and the power to direct the receipt of dividends from, and the proceeds from the sale of, more than 5% of the shares of Class A Common Stock.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Bayview MSR Opportunity Master Fund, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Carlos M. Portugal</signature>
+        <title>By: Bayview Capital GP MSR, LLC, its General Partner, By: Carlos M. Portugal, Senior Vice President</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Bayview Asset Management, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Carlos M. Portugal</signature>
+        <title>Carlos M. Portugal, Senior Vice President</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

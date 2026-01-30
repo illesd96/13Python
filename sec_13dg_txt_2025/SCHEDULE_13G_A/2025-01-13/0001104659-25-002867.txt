@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0001104659-25-002867.txt : 20250113
+<SEC-HEADER>0001104659-25-002867.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113075907
+ACCESSION NUMBER:		0001104659-25-002867
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GDEV Inc.
+		CENTRAL INDEX KEY:			0001848739
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93469
+		FILM NUMBER:		25524850
+
+	BUSINESS ADDRESS:	
+		STREET 1:		RITTER HOUSE, WICKHAMS CAY II
+		STREET 2:		PO BOX 31
+		CITY:			ROAD TOWN, TORTOLA
+		STATE:			D8
+		ZIP:			VG1110
+		BUSINESS PHONE:		35722580040
+
+	MAIL ADDRESS:	
+		STREET 1:		RITTER HOUSE, WICKHAMS CAY II
+		STREET 2:		PO BOX 31
+		CITY:			ROAD TOWN, TORTOLA
+		STATE:			D8
+		ZIP:			VG1110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nexters Inc.
+		DATE OF NAME CHANGE:	20210302
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gertsovskiy Boris
+		CENTRAL INDEX KEY:			0001921743
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	MAIL ADDRESS:	
+		STREET 1:		55, GRIVA DIGENI 3101
+		CITY:			LIMASSOL
+		STATE:			G4
+		ZIP:			3101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001104659-22-043001</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Gertsovskiy Boris -->
+          <cik>0001921743</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Ordinary shares, no par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/14/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001848739</issuerCik>
+        <issuerName>GDEV Inc.</issuerName>
+        <issuerCusip>G6529J209</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>55, Griva Digeni,</com:street1>
+          <com:city>Limassol</com:city>
+          <com:stateOrCountry>G4</com:stateOrCountry>
+          <com:zipCode>3101</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Boris Gertsovskiy</reportingPersonName>
+      <citizenshipOrOrganization>L3</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2730972.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2730972.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2730972.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.1</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <comments>Reflects the implementation of a one-for-ten (1:10) reverse share split of GDEV Inc.'s ordinary shares effective as of 4:01 p.m. (Eastern Time) on August 28, 2024</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>GDEV Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>55, Griva Digeni, Limassol, G4, 3101</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Boris Gertsovskiy (the "Reporting Person").</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>55, Griva Digeni, 3101, Limassol, Cyprus.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Israel and the Russian Federation</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The Reporting Person is the record holder of 2,730,972 Ordinary Shares.</amountBeneficiallyOwned>
+        <classPercent>15.1</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>2,730,972</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>2,730,972</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Boris Gertsovskiy</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Boris Gertsovskiy</signature>
+        <title>Boris Gertsovskiy</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

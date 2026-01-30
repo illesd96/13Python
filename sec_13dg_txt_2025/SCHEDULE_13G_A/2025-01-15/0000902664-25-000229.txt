@@ -1,0 +1,257 @@
+<SEC-DOCUMENT>0000902664-25-000229.txt : 20250115
+<SEC-HEADER>0000902664-25-000229.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115093013
+ACCESSION NUMBER:		0000902664-25-000229
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Greenlane Holdings, Inc.
+		CENTRAL INDEX KEY:			0001743745
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-DURABLE GOODS, NEC [5099]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				830806637
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90992
+		FILM NUMBER:		25531350
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1095 BROKEN SOUND PARKWAY
+		STREET 2:		SUITE 100
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+		BUSINESS PHONE:		877-292-7660
+
+	MAIL ADDRESS:	
+		STREET 1:		1095 BROKEN SOUND PARKWAY
+		STREET 2:		SUITE 100
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Empery Asset Management, LP
+		CENTRAL INDEX KEY:			0001469336
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				262107121
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA, SUITE 1205
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		212-608-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ROCKEFELLER PLAZA, SUITE 1205
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000902664-24-005848</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Empery Asset Management, LP -->
+          <cik>0001469336</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001743745</issuerCik>
+        <issuerName>Greenlane Holdings, Inc.</issuerName>
+        <issuerCusip>395330400</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1095 BROKEN SOUND PARKWAY, SUITE 100</com:street1>
+          <com:city>BOCA RATON</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33487</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Empery Asset Management, LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>219687.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>219687.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.99</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+      <comments>Includes 66,951 shares of Common Stock issuable upon conversion of the Notes and/or exercise of the Warrants (each as defined in Item 2(a)).</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Ryan M. Lane</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>219687.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>219687.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>219687.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.99</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <comments>Includes 66,951 shares of Common Stock issuable upon conversion of the Notes and/or exercise of the Warrants.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Martin D. Hoe</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>219687.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>219687.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>219687.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.99</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <comments>Includes 66,951 shares of Common Stock issuable upon conversion of the Notes and/or exercise of the Warrants.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Greenlane Holdings, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1095 Broken Sound Parkway Suite 100 Boca Raton FL 33487</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by the entities and persons listed below, who are collectively referred to herein as "Reporting Persons," with respect to the Common Stock, par value $0.01 per share (the "Common Stock"), the Common Stock issuable upon conversion of convertible notes (the "Notes") and Common Stock issuable upon exercise of warrants (the "Warrants") of Greenlane Holdings, Inc., a Delaware corporation (the "Company"):
+
+(i)  Empery Asset Management, LP (the "Investment Manager"), with respect to the Common Stock held by, and the Common Stock issuable upon conversion of the Notes and the exercise of the Warrants held by, funds to which the Investment Manager serves as investment manager (the "Empery Funds");
+
+(ii)  Mr. Ryan M. Lane ("Mr. Lane"), with respect to the Common Stock held by, and the Common Stock issuable upon conversion of the Notes and the exercise of the Warrants held by, the Empery Funds; and
+
+(iii)  Mr. Martin D. Hoe ("Mr. Hoe"), with respect to the Common Stock held by, and the Common Stock issuable upon conversion of the Notes and the exercise of the Warrants held by, the Empery Funds.
+
+The Investment Manager serves as the investment manager to each of the Empery Funds. Each of Mr. Lane and Mr. Hoe (the "Reporting Individuals") is a Managing Member of Empery AM GP, LLC (the "General Partner"), the general partner of the Investment Manager.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of the business office of each of the Reporting Persons is:
+
+1 Rockefeller Plaza, Suite 1205
+New York, New York 10020</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Citizenship is set forth in Row 4 of the cover page for each Reporting Person hereto and is incorporated herein by reference for each such Reporting Person.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by Item 4(a) is set forth in Row 9 of the cover page for each of the Reporting Persons and is incorporated herein by reference.
+
+The percentage set forth in this Schedule 13G/A is calculated based upon an aggregate of 2,132,124 shares of Common Stock, which is the sum of (i) 1,982,124 shares of Common Stock outstanding as of November 25, 2024, as reported in the Company's Amendment No. 2 to the Definitive Proxy Statement on Form 14A, filed with the Securities and Exchange Commission on December 27, 2024 and (ii) 150,000 shares of Common Stock subsequently issued by the Company to the Empery Funds upon prior exercises of warrants of the Company after November 25, 2024 and prior to December 31, 2024, and assumes the conversion of the Notes and the exercise of the Warrants, each subject to the Blockers (as defined below).
+
+Pursuant to the terms of the Notes and the Warrants, the Reporting Persons cannot convert the Notes or exercise the Warrants to the extent the Reporting Persons would beneficially own, after any such conversion or exercise, more than 9.99% of the outstanding shares of Common Stock (the "Blockers"), and the shares of Common Stock listed as beneficially owned in Rows 6, 8 and 9 of the cover page for each Reporting Person and the percentage set forth in Row 11 of the cover page for each Reporting Person give effect to the Blockers.  Consequently, as of the date of the event which requires the filing of this statement, the Reporting Persons were not able to convert all of the Notes or exercise all of the Warrants due to the Blockers.
+
+The Investment Manager, which serves as the investment manager to the Empery Funds, may be deemed to be the beneficial owner of all shares of Common Stock held by, and the shares of Common Stock issuable upon conversion of the Notes and exercise of the Warrants (each subject to the Blockers) held by, the Empery Funds.  Each of the Reporting Individuals, as Managing Members of the General Partner of the Investment Manager with the power to exercise investment discretion, may be deemed to be the beneficial owner of all of the shares of Common Stock held by, and the shares of Common Stock issuable upon conversion of the Notes and the exercise of the Warrants (each subject to the Blockers) held by, the Empery Funds.  The foregoing should not be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of all shares of Common Stock owned by another Reporting Person.  Each of the Empery Funds and the Reporting Individuals hereby disclaims any beneficial ownership of any such shares of Common Stock.</amountBeneficiallyOwned>
+        <classPercent>9.99</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>The information required by Item 4(c)(i) is set forth in Row 5 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>The information required by Item 4(c)(ii) is set forth in Row 6 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>The information required by Item 4(c)(iii) is set forth in Row 7 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>The information required by Item 4(c)(iv) is set forth in Row 8 of the cover page for each of the Reporting Persons and is incorporated herein by reference.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>See Item 2(a) above.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Empery Asset Management, LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Ryan M. Lane</signature>
+        <title>By: Empery AM GP, LLC, its General Partner, By: Ryan M. Lane, its Managing Member</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Ryan M. Lane</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Ryan M. Lane</signature>
+        <title>Ryan M. Lane, individually</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Martin D. Hoe</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Martin D. Hoe</signature>
+        <title>Martin D. Hoe, individually</title>
+        <date>01/15/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

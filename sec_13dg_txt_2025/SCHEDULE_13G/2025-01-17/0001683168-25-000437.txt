@@ -1,0 +1,323 @@
+<SEC-DOCUMENT>0001683168-25-000437.txt : 20250117
+<SEC-HEADER>0001683168-25-000437.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117202802
+ACCESSION NUMBER:		0001683168-25-000437
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuvve Holding Corp.
+		CENTRAL INDEX KEY:			0001836875
+		STANDARD INDUSTRIAL CLASSIFICATION:	POWER, DISTRIBUTION & SPECIALTY TRANSFORMERS [3612]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				861617000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92411
+		FILM NUMBER:		25540132
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2488 HISTORIC DECATUR ROAD
+		STREET 2:		SUITE 230
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92106
+		BUSINESS PHONE:		619-456-5161
+
+	MAIL ADDRESS:	
+		STREET 1:		2488 HISTORIC DECATUR ROAD
+		STREET 2:		SUITE 230
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NB Merger Corp.
+		DATE OF NAME CHANGE:	20201216
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL INVESTMENT FUND LTD
+		CENTRAL INDEX KEY:			0001174866
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		89 NEXUS WAY
+		STREET 2:		CAMANA BAY, PO BOX 311063
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1205
+		BUSINESS PHONE:		(310) 331-8485
+
+	MAIL ADDRESS:	
+		STREET 1:		89 NEXUS WAY
+		STREET 2:		CAMANA BAY, PO BOX 311063
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL INVESTMENT FUND INC
+		DATE OF NAME CHANGE:	20020605
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BRISTOL INVESTMENT FUND LTD -->
+          <cik>0001174866</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/17/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001836875</issuerCik>
+        <issuerName>Nuvve Holding Corp.</issuerName>
+        <issuerCusip>67079Y308</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2488 Historic Decatur Road</com:street1>
+          <com:street2>Ste 230</com:street2>
+          <com:city>San Diego</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92106</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bristol Investment Fund, Ltd.</reportingPersonName>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>46747.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>46747.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>46747.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.34</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bristol Capital, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>60000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>60000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>60000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.56</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Nuvve Holding Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2488 Historic Decatur Road, Ste 230, San Diego, CA 92106</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>(i) Bristol Investment Fund, Ltd.
+(ii) Bristol Capital, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>(i) Citco Trustees (Cayman) Limited, 89 Nexus Way, Camana Bay, PO Box 311063, Grand Cayman KY1-1205, Cayman Islands
+(ii) 1090 Center Drive, Park City, UT 84098</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>(i) Cayman Islands
+(ii) Delaware, USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Bristol Investment Fund, Ltd. - 46,747
+Bristol Capital, LLC - 60,000</amountBeneficiallyOwned>
+        <classPercent>Bristol Investment Fund, Ltd. - 4.34%
+Bristol Capital, LLC - 5.56</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Bristol Investment Fund, Ltd. - 46,747
+Bristol Capital, LLC - 60,000</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Bristol Investment Fund, Ltd. - 0
+Bristol Capital, LLC - 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Bristol Investment Fund, Ltd. - 46,747
+Bristol Capital, LLC - 60,000</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Bristol Investment Fund, Ltd. - 0
+Bristol Capital, LLC - 0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Joint Filing Agreement</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Bristol Investment Fund, Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Paul Kessler</signature>
+        <title>Paul Kessler, Director</title>
+        <date>01/17/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Bristol Capital, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Paul Kessler</signature>
+        <title>Paul Kessler, Manager</title>
+        <date>01/17/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Exhibit 1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">This JOINT FILING AGREEMENT (this &ldquo; Agreement&rdquo;),
+dated as of January 1, 2025, is entered into by and among Bristol Investment Fund, Ltd., a Cayman Islands exempted company (&quot;Bristol
+Fund&quot;) and Bristol Capital, LLC, a Delaware limited liability company (&quot;BC&quot;) (Bristol Fund and BC are collectively referred
+to herein as the &ldquo;Joint Filers&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">WHEREAS, each of the Joint Filers have filed or is
+filing a Schedule 13G under the Securities Exchange Act of 1934 (the &ldquo;Exchange Act&rdquo;) with respect to securities of Nuvve Holding
+Corp. (the &ldquo;Schedule 13D&rdquo;);</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">WHEREAS, each of the Joint Filers is individually eligible
+to file a Schedule 13D;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">WHEREAS, each of the Joint Filers wishes to file an
+amendment to the Schedule 13D jointly and on behalf of each of the Joint Filers, pursuant to Rule 13d-1(k)(1) under the Exchange Act;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">NOW, THEREFORE, in consideration of these premises
+and other good and valuable consideration, the parties hereto agree as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">1. The Joint Filers hereby agree that the Schedule
+13G is, and any amendments thereto will be, filed on behalf of each of the Joint Filers pursuant to Rule 13d-1(k)(1) under the Exchange
+Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">2. Each of the Joint Filers hereby acknowledges that,
+pursuant to Rule 13d-1(k)(1)(ii) under the Exchange Act, it is responsible for the timely filing of the Schedule 13G and any amendments
+thereto, and for the completeness and accuracy of the information concerning it contained therein, and is not responsible for the completeness
+and accuracy of the information concerning any of the other parties contained therein, unless it knows or has reason to know that such
+information is inaccurate.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">3. Each of the Joint Filers hereby agrees that this
+Agreement shall be filed as an Exhibit to the Schedule 13G, pursuant to Rule 13d-1(k)(1)(iii) under the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">4. This Agreement
+may be executed in counterparts, each of which shall be deemed an original and all of which, taken together, shall constitute but one
+and the same instrument, which may be sufficiently evidenced by one counterpart.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">IN WITNESS WHEREOF, the parties hereto have caused
+this Agreement to be executed as of the day and year first above written.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">BRISTOL INVESTMENT FUND, LTD.</FONT></TD>
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">BRISTOL CAPITAL, LLC</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">By: /s/ Paul Kessler</FONT></TD>
+    <TD STYLE="width: 50%; font-size: 10pt"><FONT STYLE="font-size: 10pt">By: /s/ Paul Kessler</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Paul Kessler, Director</FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">Paul Kessler, Manager</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

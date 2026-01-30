@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0001137774-25-000009.txt : 20250108
+<SEC-HEADER>0001137774-25-000009.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108164050
+ACCESSION NUMBER:		0001137774-25-000009
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TORTOISE ENERGY INFRASTRUCTURE CORP
+		CENTRAL INDEX KEY:			0001268533
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-85247
+		FILM NUMBER:		25519028
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5901 COLLEGE BOULEVARD
+		STREET 2:		SUITE 400
+		CITY:			OVERLAND PARK
+		STATE:			KS
+		ZIP:			66211
+		BUSINESS PHONE:		913-981-1020
+
+	MAIL ADDRESS:	
+		STREET 1:		5901 COLLEGE BOULEVARD
+		STREET 2:		SUITE 400
+		CITY:			OVERLAND PARK
+		STATE:			KS
+		ZIP:			66211
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRUDENTIAL FINANCIAL INC
+		CENTRAL INDEX KEY:			0001137774
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				223703799
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		9738026000
+
+	MAIL ADDRESS:	
+		STREET 1:		751 BROAD ST
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001137774</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Mandatory Redeemable Preferred Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001268533</issuerCik>
+        <issuerName>TORTOISE ENERGY INFRASTRUCTURE CORP</issuerName>
+        <issuerCusip>89147LR*3</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>5901 COLLEGE BOULEVARD</com:street1>
+          <com:street2>SUITE 400</com:street2>
+          <com:city>OVERLAND PARK</com:city>
+          <com:stateOrCountry>KS</com:stateOrCountry>
+          <com:zipCode>66211</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>PRUDENTIAL FINANCIAL INC</reportingPersonName>
+      <citizenshipOrOrganization>NJ</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>3800000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3800000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3800000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>97.5</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>TORTOISE ENERGY INFRASTRUCTURE CORP</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>5901 COLLEGE BOULEVARD, SUITE 400, OVERLAND PARK, KANSAS, 66211.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Prudential Financial, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>751 Broad Street
+Newark, New Jersey 07102-3777</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>New Jersey</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>3,800,000</amountBeneficiallyOwned>
+        <classPercent>97.5 of outstanding Mandatory Redeemable Preferred Stock</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>3,800,000</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>3,800,000</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Our clients may have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities which are the subject of this filing.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Subsidiaries		                                                         Number of Shares	Percentage
+The Prudential Insurance Company of America	IC	3,800,000*	        97.5**
+
+*Includes cusip numbers:  89147L4#4, 89147LR*3, 89147LR#9
+**Percentage of class of Mandatory Redeemable Preferred Stock.  3.8 million shares equates to 18.3% of common stock for voting purposes.  </subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>PRUDENTIAL FINANCIAL INC</reportingPersonName>
+      <signatureDetails>
+        <signature>Richard Baker</signature>
+        <title>Second Vice President</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

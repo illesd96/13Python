@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0000820478-25-000007.txt : 20250123
+<SEC-HEADER>0000820478-25-000007.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123110149
+ACCESSION NUMBER:		0000820478-25-000007
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TPG Twin Brook Capital Income Fund
+		CENTRAL INDEX KEY:			0001913724
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				886103622
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93859
+		FILM NUMBER:		25548500
+
+	BUSINESS ADDRESS:	
+		STREET 1:		245 PARK AVENUE, 26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+		BUSINESS PHONE:		(212) 692-8237
+
+	MAIL ADDRESS:	
+		STREET 1:		245 PARK AVENUE, 26TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AG Twin Brook Capital Income Fund
+		DATE OF NAME CHANGE:	20220225
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRS OHIO
+		CENTRAL INDEX KEY:			0000820478
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				311312155
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		275 EAST BROAD STREET
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43215-3771
+		BUSINESS PHONE:		6142272848
+
+	MAIL ADDRESS:	
+		STREET 1:		275 E BROAD ST
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STATE TEACHERS RETIREMENT SYSTEM OF OHIO
+		DATE OF NAME CHANGE:	19970331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000820478-23-000011</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000820478</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>common stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001913724</issuerCik>
+        <issuerName>TPG Twin Brook Capital Income Fund</issuerName>
+        <issuerCusip>00840T100</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>245 PARK AVENUE, 26TH FLOOR</com:street1>
+          <com:street2>245 PARK AVENUE, 26TH FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10167</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>STRS OHIO</reportingPersonName>
+      <citizenshipOrOrganization>OH</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>3963691.07</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3963691.07</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3963691.07</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>6.5</classPercent>
+      <typeOfReportingPerson>EP</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>TPG Twin Brook Capital Income Fund</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>245 PARK AVENUE, 26TH FLOOR, 245 PARK AVENUE, 26TH FLOOR, NEW YORK, NEW YORK, 10167.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>State Teachers Retirement System of Ohio</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>275 East Broad Street
+Columbus, Ohio 43215</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>EP</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>3,963,691.07</amountBeneficiallyOwned>
+        <classPercent>6.5</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>3,963,691.07</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>3,963,691.07</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>STRS OHIO</reportingPersonName>
+      <signatureDetails>
+        <signature>Matthew Worley</signature>
+        <title>Deputy Executive Director, Investments</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

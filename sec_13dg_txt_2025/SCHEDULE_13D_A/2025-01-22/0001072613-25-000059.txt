@@ -1,0 +1,681 @@
+<SEC-DOCUMENT>0001072613-25-000059.txt : 20250122
+<SEC-HEADER>0001072613-25-000059.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122160215
+ACCESSION NUMBER:		0001072613-25-000059
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NUVEEN NEW YORK AMT-FREE QUALITY MUNICIPAL INCOME FUND
+		CENTRAL INDEX KEY:			0001195739
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				030487021
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-84701
+		FILM NUMBER:		25545910
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 WEST WACKER DRIVE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3129178146
+
+	MAIL ADDRESS:	
+		STREET 1:		333 WEST WACKER DRIVE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NUVEEN NEW YORK AMT-FREE MUNICIPAL INCOME FUND
+		DATE OF NAME CHANGE:	20120106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NUVEEN INSURED NEW YORK TAX FREE ADVANTAGE MUNICIPAL FUND
+		DATE OF NAME CHANGE:	20021003
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Karpus Management, Inc.
+		CENTRAL INDEX KEY:			0001048703
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				161290550
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		183 SULLY'S TRAIL
+		CITY:			PITTSFORD
+		STATE:			NY
+		ZIP:			14534
+		BUSINESS PHONE:		5855864680
+
+	MAIL ADDRESS:	
+		STREET 1:		183 SULLY'S TRAIL
+		CITY:			PITTSFORD
+		STATE:			NY
+		ZIP:			14534
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KARPUS MANAGEMENT INC
+		DATE OF NAME CHANGE:	19971029
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001072613-23-000536</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Karpus Management, Inc. -->
+          <cik>0001048703</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>9</amendmentNo>
+      <securitiesClassTitle>Common Shares</securitiesClassTitle>
+      <dateOfEvent>01/17/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001195739</issuerCIK>
+        <issuerCUSIP>670656107</issuerCUSIP>
+        <issuerName>Nuveen New York AMT-Free Quality Municipal Income Fund</issuerName>
+        <address>
+          <com:street1>c/o Nuveen</com:street1>
+          <com:street2>333 West Wacker Drive</com:street2>
+          <com:city>Chicago</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60606-1952</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Daniel L. Lippincott-President</personName>
+          <personPhoneNum>585-586-4680</personPhoneNum>
+          <personAddress>
+            <com:street1>Karpus Management, Inc.</com:street1>
+            <com:street2>183 Sully's Trail</com:street2>
+            <com:city>Pittsford</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>14534</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Adam W. Finerman, Esq.</personName>
+          <personPhoneNum>212-589-4233</personPhoneNum>
+          <personAddress>
+            <com:street1>BakerHostetler</com:street1>
+            <com:street2>45 Rockfeller Plaza</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10111</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001048703</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>KARPUS MANAGEMENT, INC.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>19019342.34</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>19019342.34</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>19019342.34</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.80</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <commentContent>This Amendment No. 9 ("Amendment") amends and supplements the statement on Schedule 13D filed by Karpus Management, Inc., d/b/a Karpus Investment Management ("Karpus"), on November 7, 2023, as amended by Amendment No. 1 filed on December 26, 2023, by Amendment No. 2 filed on January 8, 2024, by Amendment No. 3 filed on March 1, 2024, by Amendment No. 4 filed April 22, 2024, by Amendment No. 5 filed on May 31, 2024, by Amendment No. 6 filed on June 3, 2024, by Amendment No. 7 filed on June 3, 2024, and by Amendment No. 8 filed on October 4, 2024 (collectively, the "Original Schedule 13D" and, as amended by this Amendment, the "Schedule 13D"), relating to the shares of Common Stock of Nuveen New York AMT-Free Quality Municipal Income Fund ("Shares"), a Massachusetts corporation (the "Issuer"). Except as specifically provided herein, each Item of the Original Schedule 13D remains unchanged. Capitalized terms used but not otherwise defined herein have the meanings set forth in the Original Schedule 13D.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Shares</securityTitle>
+        <issuerName>Nuveen New York AMT-Free Quality Municipal Income Fund</issuerName>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 is hereby amended to read as follows:
+
+Karpus an independent registered investment advisor, has accumulated 19,019,342.343 Shares on behalf of accounts managed by Karpus (the "Accounts") under limited powers of attorney. All funds that have been utilized in making such purchases for the Accounts (which are open market purchases unless otherwise noted) are from such Accounts.
+
+The aggregate purchase price of the 19,019,342.343 Shares beneficially owned by Karpus is approximately $203,250,833.92, excluding brokerage commissions. The Shares purchased by Karpus with working capital (which may at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases except as otherwise noted herein.</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>Item 5 is hereby amended to read as follows:
+
+As of the close of business on January 17, 2025, Karpus beneficially owned an aggregate of 19,019,342.343 Shares held in the Accounts, which represents approximately 21.80% of the 87,235,304 Shares outstanding, which is the total number of Shares outstanding as of November 8, 2024 on Form N-CSR filed by the Issuer for the reporting period ended August 31, 2024.</percentageOfClassSecurities>
+        <numberOfShares>Sole voting power and sole dispositive power: 19,019,342.343</numberOfShares>
+        <transactionDesc>The transactions in the Shares by Karpus through the Accounts during the past sixty days are set forth in Schedule B and incorporated herein by reference.</transactionDesc>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>KARPUS MANAGEMENT, INC.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jodi L. Hedberg</signature>
+          <title>Jodi L. Hedberg / Chief Compliance Officer</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>schedules.htm
+<DESCRIPTION>SCHEDULE A AND SCHEDULE B
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+</P>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"></FONT></P>
+
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0pt auto; width: 100%"><DIV STYLE="border-top: Black 1pt solid; font-size: 1pt">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B>SCHEDULE
+A</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; color: rgb(0, 0, 0); text-align: center; text-indent: 0px"><FONT STYLE="font-family: Times New Roman, Times, Serif"><B><U>Executive
+Officers &amp; Directors of Karpus Management, Inc., d/b/a Karpus Investment Management</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; color: rgb(0, 0, 0); text-align: center; text-indent: 0px"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 400 10pt Times New Roman, Times, Serif; color: rgb(0, 0, 0); text-indent: 0px; margin-top: 0; margin-bottom: 0"></P>
+
+<TABLE CELLPADDING="3" CELLSPACING="0" STYLE="font: 10pt times new roman; text-decoration: initial initial; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; width: 100%; background-color: White">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-decoration: underline; width: 25%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Name</U></B></FONT></TD>
+    <TD STYLE="text-decoration: underline; width: 28%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Position
+    &amp; Present Principal Occupation</U></B></FONT></TD>
+    <TD STYLE="text-decoration: underline; width: 25%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Business
+    Address</U></B></FONT></TD>
+    <TD STYLE="text-decoration: underline; width: 22%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B><U>Shares
+    Owned</U></B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Kathleen
+    Finnerty Crane</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief
+                                            Financial Officer</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">183
+    Sully&rsquo;s Trail, Pittsford, New York 14534</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">150
+    Shares</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Daniel
+    Lee Lippincott</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif">President
+                                            and <FONT STYLE="font-size: 10pt; font-style: normal; font-weight: 400; text-transform: none">Chief
+                                            Investment Officer</FONT>&nbsp;</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">183
+    Sully&rsquo;s Trail, Pittsford, New York 14534</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0
+    Shares</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;Jodi
+    Lee Hedberg</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">Chief
+    Compliance Officer</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">183
+    Sully&rsquo;s Trail, Pittsford, New York 14534</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">0
+    Shares</FONT></TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-style: normal; font-weight: 400; text-transform: none">Thomas
+    Wayne Griffith</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">Director</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><P STYLE="font: 10pt Times New Roman, Times, Serif; color: rgb(0, 0, 0)"><FONT STYLE="font-family: Times New Roman, Times, Serif">17
+                                            East Market Street, West Chester, Pennsylvania 19382</FONT></P>
+
+
+</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center">900 Shares</TD></TR>
+<TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-style: normal; font-weight: 400; text-transform: none">Carlos
+    Manuel Yuste</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">Director</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">17
+    East Market Street, West Chester, Pennsylvania 19382</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">0
+    Shares</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 400 10pt Times New Roman, Times, Serif; color: rgb(0, 0, 0); text-indent: 0px; margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="font: 400 10pt Times New Roman, Times, Serif; color: rgb(0, 0, 0); text-indent: 0px; margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="font: 400 10pt Times New Roman, Times, Serif; color: rgb(0, 0, 0); text-indent: 0px; margin-top: 0; margin-bottom: 0"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P></FONT></TD></TR>
+
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt"></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B>SCHEDULE
+B</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; text-transform: none; color: Black; background-color: rgb(255, 255, 255)"><B><U>Transactions
+in the Shares in the past sixty days.</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Calibri, Helvetica, Sans-Serif; width: 100%">
+<TR>
+    <TD STYLE="vertical-align: bottom; width: 25%; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black"><B><U>Nature
+    of the Transaction</U></B></FONT></TD>
+    <TD STYLE="vertical-align: top; width: 25%"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B>Shares</B></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B><U>Purchased/(Sold)</U></B></FONT></P></TD>
+    <TD STYLE="vertical-align: top; width: 25%"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B>Price
+                                            Per</B></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B><U>Share($)</U></B></FONT></P></TD>
+    <TD STYLE="vertical-align: top; width: 25%"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B>Date
+                                            of</B></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B><U>Purchase
+        / Sale</U></B></FONT></P></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt; color: Black"><B><U>KARPUS
+MANAGEMENT, INC., D/B/A/ KARPUS INVESTMENT MANAGEMENT<BR>
+(THROUGH THE ACCOUNTS)</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"></P>
+</FONT></TD></TR>
+
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<TABLE CELLSPACING="2" CELLPADDING="0" STYLE="font: 10pt Calibri, Helvetica, Sans-Serif; width: 100%">
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle; width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (4,003)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center; width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.88</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center; width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11/18/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (1,200)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.90</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11/19/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (2,300)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.92</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11/20/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (8,075)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.90</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11/22/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (3,508)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.00</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11/25/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+    (46,154)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.00</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11/27/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;
+    (46,360)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.08</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/2/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (140)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.08</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/3/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (3,800)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.11</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/4/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    3,064&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.06</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/5/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    10,625&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.04</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/6/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    52,185&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.02</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/9/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (1,800)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.02</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/10/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (12,919)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11.00</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/11/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (4,135)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.93</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/12/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;
+    (72,720)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.70</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/13/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (2,814)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.69</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/16/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (6,813)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.61</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/17/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+    (10,875)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.62</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/18/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    73,158&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.38</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/19/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    5,013&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.27</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/20/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    31,449&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.28</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/23/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;
+    (20,628)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.29</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/24/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+    (11,600)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.42</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/26/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+    (12,389)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.30</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/27/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Purchase
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    11,700&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.38</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/30/2024</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (7,308)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.44</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;
+    (49,750)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.50</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/2/2025</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (3,700)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.54</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/3/2025</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (9,343)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.53</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/6/2025</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (378)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.50</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/7/2025</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (17,154)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.48</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/8/2025</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (2,100)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.39</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/10/2025</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (1,720)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.44</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/13/2025</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;
+    (97,294)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.48</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/15/2025</FONT></TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+    (23,810)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.50</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/16/2025</FONT></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sale
+    of Common Stock&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="text-align: center; vertical-align: middle"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+    (28,415)</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">$10.55</FONT></TD>
+    <TD STYLE="vertical-align: middle; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1/17/2025</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black"></FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black">&nbsp;</FONT></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="border-top: Black 2pt solid; font-size: 1pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: Black">&nbsp;</FONT></DIV></DIV><!-- Field: /Rule-Page -->
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

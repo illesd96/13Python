@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001036325-25-000006.txt : 20250124
+<SEC-HEADER>0001036325-25-000006.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124153941
+ACCESSION NUMBER:		0001036325-25-000006
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Viatris Inc
+		CENTRAL INDEX KEY:			0001792044
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				834364296
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91945
+		FILM NUMBER:		25553944
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 MYLAN BOULEVARD
+		CITY:			CANONSBURG
+		STATE:			PA
+		ZIP:			15317
+		BUSINESS PHONE:		(724) 514-1465
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 MYLAN BOULEVARD
+		CITY:			CANONSBURG
+		STATE:			PA
+		ZIP:			15317
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Upjohn Inc
+		DATE OF NAME CHANGE:	20191023
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DAVIS SELECTED ADVISERS
+		CENTRAL INDEX KEY:			0001036325
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				850360310
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2949 E. ELVIRA ROAD
+		STREET 2:		SUITE 101
+		CITY:			TUCSON
+		STATE:			AZ
+		ZIP:			85756
+		BUSINESS PHONE:		(520)806-7600
+
+	MAIL ADDRESS:	
+		STREET 1:		2949 E. ELVIRA ROAD
+		STREET 2:		SUITE 101
+		CITY:			TUCSON
+		STATE:			AZ
+		ZIP:			85756
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001036325</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001792044</issuerCik>
+        <issuerName>Viatris, Inc.</issuerName>
+        <issuerCusip>92556V106</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1000 MYLAN BOULEVARD</com:street1>
+          <com:city>CANONSBURG</com:city>
+          <com:stateOrCountry>PA</com:stateOrCountry>
+          <com:zipCode>15317</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>DAVIS SELECTED ADVISERS</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>CO</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>60473941.00</soleVotingPower>
+        <sharedVotingPower>2099621.00</sharedVotingPower>
+        <soleDispositivePower>62573562.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>62573562.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.9</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Viatris, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1000 MYLAN BOULEVARD, CANONSBURG, PENNSYLVANIA, 15317.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Davis Selected Advisers, L.P.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>2949 East Elvira Road, Suite 101 Tucson, Arizona 85756</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>See Item 4 of Cover Page</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>62573562</amountBeneficiallyOwned>
+        <classPercent>5.9</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>60473941</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>2099621</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>62573562</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>DAVIS SELECTED ADVISERS</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michaela McLoughry</signature>
+        <title>Vice President, Chief Compliance Officer</title>
+        <date>01/22/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

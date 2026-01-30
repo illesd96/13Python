@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001214659-25-000318.txt : 20250108
+<SEC-HEADER>0001214659-25-000318.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108060044
+ACCESSION NUMBER:		0001214659-25-000318
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AmpliTech Group, Inc.
+		CENTRAL INDEX KEY:			0001518461
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				274566352
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-87625
+		FILM NUMBER:		25516424
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 PLANT AVENUE
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		631-521-7831
+
+	MAIL ADDRESS:	
+		STREET 1:		155 PLANT AVENUE
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAYVIEW ACQUISITION CORP
+		DATE OF NAME CHANGE:	20110418
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARD ASSOCIATES INC
+		CENTRAL INDEX KEY:			0001105907
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				363452497
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 S. LASALLE ST.
+		STREET 2:		SUITE 3700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+		BUSINESS PHONE:		3127829600
+
+	MAIL ADDRESS:	
+		STREET 1:		135 S. LASALLE STREET
+		STREET 2:		SUITE 3700
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60603
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001105907-24-000026</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BARD ASSOCIATES INC -->
+          <cik>0001105907</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common, Warrants</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/07/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001518461</issuerCik>
+        <issuerName>AmpliTech Group, Inc.</issuerName>
+        <issuerCusip>03211Q200</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>155 PLANT AVENUE</com:street1>
+          <com:city>HAUPPAUGE</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11788</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Bard Associates, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>98883.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>98883.00</soleDispositivePower>
+        <sharedDispositivePower>1642136.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1741019.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.8</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>AmpliTech Group, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>155 PLANT AVENUE, HAUPPAUGE, NEW YORK, 11788</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Bard Associates, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>135 South LaSalle Street, Suite 3700, Chicago, IL  60603</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,741,019 (Based on 1,657,154 Common Shares and 83,865 Warrants)</amountBeneficiallyOwned>
+        <classPercent>8.8</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>98,883 (Based on 84,938 Common Shares and 13,945 Warrants)</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>98,883 (Based on 84,938 Common Shares and 13,945 Warrants)</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1,642,136 (Based on 1,572,216 Common Shares and 69,920 Warrants)</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Bard Associates, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michael Y. Demaray</signature>
+        <title>President</title>
+        <date>01/07/2024</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

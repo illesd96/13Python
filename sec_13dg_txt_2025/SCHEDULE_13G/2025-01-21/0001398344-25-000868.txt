@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001398344-25-000868.txt : 20250121
+<SEC-HEADER>0001398344-25-000868.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121160502
+ACCESSION NUMBER:		0001398344-25-000868
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SURO CAPITAL CORP.
+		CENTRAL INDEX KEY:			0001509470
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				274443543
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-87175
+		FILM NUMBER:		25542510
+
+	BUSINESS ADDRESS:	
+		STREET 1:		640 FIFTH AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		(650) 235-4769
+
+	MAIL ADDRESS:	
+		STREET 1:		640 FIFTH AVENUE
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUTTER ROCK CAPITAL CORP.
+		DATE OF NAME CHANGE:	20190731
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GSV Capital Corp.
+		DATE OF NAME CHANGE:	20110531
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NeXt Innovation Corp.
+		DATE OF NAME CHANGE:	20110331
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Thomas J. Herzfeld Advisors, Inc.
+		CENTRAL INDEX KEY:			0001509510
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				592414380
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 WASHINGTON AVENUE, SUITE 504
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+		BUSINESS PHONE:		305-271-1900
+
+	MAIL ADDRESS:	
+		STREET 1:		119 WASHINGTON AVENUE, SUITE 504
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33139
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Thomas J. Herzfeld Advisors, Inc. -->
+          <cik>0001509510</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>10/25/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001509470</issuerCik>
+        <issuerName>SuRo Capital Corp.</issuerName>
+        <issuerCusip>86887Q109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>640 Fifth Avenue</com:street1>
+          <com:street2>12th Floor</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10019</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Thomas J. Herzfeld Advisors, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>FL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1359008.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1359008.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1359008.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.81</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>SuRo Capital Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>640 Fifth Avenue, 12th Floor, New York, New York, 10019</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Thomas J. Herzfeld Advisors, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>119 Washington Ave, Suite 504, Miami Beach, FL 33139</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>A Florida Corporation</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,359,008</amountBeneficiallyOwned>
+        <classPercent>5.81</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,359,008</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1,359,008</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Not applicable.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>Not applicable.</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Thomas J. Herzfeld Advisors, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Erik M. Herzfeld</signature>
+        <title>Erik M. Herzfeld, President</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

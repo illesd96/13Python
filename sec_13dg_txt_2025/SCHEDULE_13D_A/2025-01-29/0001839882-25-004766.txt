@@ -1,0 +1,792 @@
+<SEC-DOCUMENT>0001839882-25-004766.txt : 20250129
+<SEC-HEADER>0001839882-25-004766.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129170607
+ACCESSION NUMBER:		0001839882-25-004766
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250129
+DATE AS OF CHANGE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ranpak Holdings Corp.
+		CENTRAL INDEX KEY:			0001712463
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90267
+		FILM NUMBER:		25570238
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7990 AUBURN ROAD
+		CITY:			CONCORD TOWNSHIP
+		STATE:			OH
+		ZIP:			44077
+		BUSINESS PHONE:		440-354-4445
+
+	MAIL ADDRESS:	
+		STREET 1:		7990 AUBURN ROAD
+		CITY:			CONCORD TOWNSHIP
+		STATE:			OH
+		ZIP:			44077
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	One Madison Corp
+		DATE OF NAME CHANGE:	20170720
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JS Capital Management LLC
+		CENTRAL INDEX KEY:			0001562668
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				455021204
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		888 SEVENTH AVENUE
+		STREET 2:		40TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10106
+		BUSINESS PHONE:		212.655.7160
+
+	MAIL ADDRESS:	
+		STREET 1:		888 SEVENTH AVENUE
+		STREET 2:		40TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001387131-19-004418</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: JS Capital Management LLC -->
+          <cik>0001562668</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>6</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>01/28/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001712463</issuerCIK>
+        <issuerCUSIP>75321W103</issuerCUSIP>
+        <issuerName>Ranpak Holdings Corp.</issuerName>
+        <address>
+          <com:street1>7990 Auburn Road</com:street1>
+          <com:city>Concord Township</com:city>
+          <com:stateOrCountry>OH</com:stateOrCountry>
+          <com:zipCode>44077</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Elizabeth Locher</personName>
+          <personPhoneNum>(212) 655-7189</personPhoneNum>
+          <personAddress>
+            <com:street1>JS Capital Management LLC</com:street1>
+            <com:street2>888 Seventh Avenue, 40th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10106</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001562668</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>JS Capital Management LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>30530897.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>30530897.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>30530897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>36.7</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001387590</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Jonathan Soros</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>30530897.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>30530897.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>30530897.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>36.7</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>Ranpak Holdings Corp.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>7990 Auburn Road</com:street1>
+          <com:city>Concord Township</com:city>
+          <com:stateOrCountry>OH</com:stateOrCountry>
+          <com:zipCode>44077</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Explanatory Note: Pursuant to Rule 13d-2 under the Securities Exchange Act of 1934, as amended, this Amendment No. 6 to Schedule 13D (the "Sixth Amendment") amends and supplements certain items of the Schedule 13D (the "Original Schedule 13D") filed with the Securities and Exchange Commission (the "SEC") on June 13, 2019 by JS Capital Management LLC ("JSCM") and Jonathan Soros, as amended by Amendment No. 1 to Schedule 13D ("Amendment No. 1") filed with the SEC on December 13, 2019 by JSCM and Mr. Soros, and as further amended by Amendment No. 2 to Schedule 13D ("Amendment No. 2") filed with the SEC by JSCM and Mr. Soros on August 7, 2020, Amendment No. 3 to Schedule 13D ("Amendment No. 3") filed with the SEC by JSCM and Mr. Soros on September 10, 2020, Amendment No. 4 to Schedule 13D ("Amendment No. 4") filed with the SEC by JSCM and Mr. Soros on February 3, 2021 and Amendment No. 5 to Schedule 13D ("Amendment No. 5") filed with the SEC by JSCM and Mr. Soros on September 13, 2024 (the Original Schedule 13D together with Amendment No. 1, Amendment No. 2, Amendment No. 3, Amendment No. 4, and Amendment No. 5, the "Amended Schedule 13D")). Items 5, 6 and 7 of the Amended Schedule 13D hereby are amended to the extent hereinafter expressly set forth.  Except as amended hereby, the original disclosure set forth in the Amended Schedule 13D shall remain unchanged. All capitalized terms contained herein but not otherwise defined shall have the meanings ascribed to such terms in the Amended Schedule 13D.
+
+This Sixth Amendment is filed pursuant to the Joint Filing Agreement as executed by the Reporting Persons listed on the cover pages to this Sixth Amendment.  The Joint Filing Agreement, filed as Exhibit 1 to the Original Schedule 13D, is incorporated herein by reference.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>Item 5 of the Amended Schedule 13D is amended and restated in its entirety, as follows:
+
+The information set forth in Items 4 and 6 hereof, as amended from time to time, is incorporated in this Item 5 by reference, as applicable.
+
+The aggregate number and percentage of shares of Class A Stock to which this Schedule 13D relates is 30,530,897 shares of Class A Stock, constituting approximately 36.7% of the Issuer's outstanding shares of Class A Stock.  The aggregate number and percentage of shares of Class A Stock reported herein are based upon (i) 80,336,268 shares of Class A Stock outstanding as of October 31, 2024, as indicated by the Issuer in its Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, plus (ii) 2,921,099 shares of Class A Stock issued by the Issuer on December 30, 2024 upon conversion of a holder's shares of Class C Common Stock into shares of Class A Stock, as reported in the Issuer's Current Report on Form 8-K filed on December 30, 2024.</percentageOfClassSecurities>
+        <numberOfShares>Each of JSCM and Mr. Soros, as managing member of JSCM, has sole voting and investment power with respect to all shares reported under this Schedule 13D.</numberOfShares>
+        <transactionDesc>The Reporting Persons have not engaged in any transaction during the past 60 days involving shares of common stock of the Issuer.</transactionDesc>
+        <listOfShareholders>The members of JS Capital are entitled to receive, or have the power to direct receipt of, dividends from or the proceeds from the sale of the shares of Class A Stock held for the account of JS Capital.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 of the Amended Schedule 13D is amended and restated in its entirety, as follows:
+
+The information set forth in Items 4 and 5 hereof, as amended from time to time, is incorporated into this Item 6 by reference, as applicable.
+
+From time to time, JS Capital enters into loan facilities with certain bank lenders, which are secured by pledges of portfolios of securities held by JS Capital, including but not limited to shares of Class A Stock. Repayment under such facilities is due at term; however, upon the occurrence of certain events, such payment obligations may be accelerated and the lender could take action with respect to any collateral. Currently, JS Capital is party to one such loan facility pursuant to which it may draw  up to $250 million secured by a pledge of portfolios of securities, including 29,549,512 shares of Class A Stock. JS Capital may also pledge these or additional shares of Class A Stock to lenders under this or other similar facilities.
+
+As reported by the Issuer in its Current Report on Form 8-K filed January 29, 2025, the Issuer has entered into an agreement (the "Amazon Agreement") with Amazon.com, Inc. ("Amazon") pursuant to which, among other things, Issuer has agreed to issue to a subsidiary of Amazon a warrant (the "Amazon Warrant") to purchase  shares of the Issuer's Class A Stock (the "Amazon Warrant Shares"), subject to approval by the Issuer's stockholders of the issuance of the Amazon Warrant and the Amazon Warrant Shares. In connection with the Amazon Agreement, and pursuant to the Support Agreement (the "Support Agreement") dated as of January 28, 2025 by and among the Issuer, Amazon and JS Capital, JS Capital has agreed to vote in favor of the issuance of the Amazon Warrant and the Amazon Warrant Shares at any stockholders' meeting held by the Issuer for the purpose of approving the issuance of the Amazon Warrant and the Amazon Warrant Shares prior to June 30, 2026 (or earlier termination of the Amazon Agreement or the Support Agreement) and has granted to the Issuer an irrevocable proxy to vote the shares of Class A Stock held by JS Capital in connection therewith. In connection with this voting agreement, JS Capital has also agreed not to sell or otherwise transfer or enter into any other voting arrangement with respect to any shares of Class A Stock held by it during this period (subject to limited exceptions). In connection with the Support Agreement, JS Capital also has agreed to waive any right that it might otherwise have under the Registration Rights Agreement described in Item 4 hereof to be included in a registration statement filed by the Issuer in connection with the Amazon Warrant Shares. The Support Agreement is attached to this Schedule 13D as Exhibit 10 and is incorporated by reference herein.
+
+The Reporting Persons are parties to an agreement with respect to the joint filing of this Schedule 13D and any amendments thereto.  A copy of such agreement is attached to this Schedule 13D as Exhibit 1 and is incorporated by reference herein.
+
+Other than as set forth above and the agreements discussed in Items 4 and 5, the Reporting Persons have no contracts, arrangements, understandings or relationships with any persons with respect to securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 of the Amended Schedule 13D is amended by adding the following exhibit:
+
+
+10 - Support Agreement dated as of January 28, 2025 by and among Ranpak Holdings Corp., Amazon.com, Inc. and JS Capital LLC</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>JS Capital Management LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Elizabeth Locher</signature>
+          <title>Elizabeth Locher, Vice President</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Jonathan Soros</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Jonathan Soros</signature>
+          <title>Jonathan Soros</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>ex10.htm
+<DESCRIPTION>SUPPORT AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 10</P>
+
+<P STYLE="text-align: right"><B>Execution Version</B></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">ANNEX B</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">FORM OF SUPPORT AGREEMENT</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: left; text-indent: 0.5in">This <B>SUPPORT
+AGREEMENT</B> (this &ldquo;<U>Agreement</U>&rdquo;), dated as of January 28, 2025, is made by and among Ranpak Holdings Corp., a
+Delaware corporation (the &ldquo;<U>Company</U>&rdquo;), Amazon.com, Inc., a Delaware corporation (&ldquo;<U>Amazon</U>&rdquo;), and
+the undersigned holder (&ldquo;<U>Stockholder</U>&rdquo;) of shares of capital stock (the &ldquo;<U>Shares</U>&rdquo;) of the
+Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: left; text-indent: 0.5in">WHEREAS, pursuant to
+that certain Transaction Agreement, dated as of January 28, 2025 by and between the Company and Amazon (the &ldquo;<U>Transaction
+Agreement</U>&rdquo;), the Company desires to issue to Amazon.com NV Investment Holdings LLC, a wholly owned subsidiary of Amazon
+(&ldquo;<U>Warrantholder</U>&rdquo;) and Warrantholder desires to acquire from the Company, a warrant to purchase a specified number
+of shares of the Company&rsquo;s common stock, $0.00001 par value per share (the &ldquo;<U>Common Stock</U>&rdquo;);</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: left; text-indent: 0.5in">WHEREAS, Stockholder beneficially
+owns and has sole or shared voting power with respect to the number of Shares, and/or holds Equity Securities to acquire the number of
+Shares indicated opposite Stockholder&rsquo;s name on <U>Schedule 1</U> attached hereto;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: left; text-indent: 0.5in">WHEREAS, as an inducement
+and a condition to the willingness of the Company and Amazon to enter into the Transaction Agreement and the issuance of the Warrant to
+Warrantholder, and in consideration of the substantial expenses incurred and to be incurred by them in connection therewith, Stockholder
+has agreed to enter into and perform this Agreement; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: left; text-indent: 0.5in">WHEREAS, all capitalized
+terms used in this Agreement without definition herein shall have the meanings ascribed to them in the Transaction Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: left; text-indent: 0.5in">NOW, THEREFORE, in consideration
+of, and as a condition to, the Company and Amazon entering into the Transaction Agreement and proceeding with the transactions contemplated
+thereby, and in consideration of the substantial expenses incurred and to be incurred by them in connection therewith, Stockholder, the
+Company, and Amazon agree as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">1.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Agreement to Vote Shares</U>. Stockholder irrevocably agrees that, prior to the Expiration Date
+(as defined in <U>Section 2</U> below), at any meeting of the stockholders of Company or any adjournment or postponement thereof, or in
+connection with any written consent of the stockholders of Company, with respect to the NYSE Proposal (defined below), Stockholder shall:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(a)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">appear at such meeting or otherwise cause the Shares and any New Shares (as defined in <U>Section
+3</U> below) to be counted as present thereat for purposes of calculating a quorum;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(b)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">from and after the date hereof until the Expiration Date, vote (or cause to be voted), or, if applicable,
+deliver a written consent (or cause a written consent to be delivered) covering all of the Shares and any New Shares that Stockholder
+shall be entitled to so vote: (i) in favor of the approval of the issuance of the Warrant and all Warrant Shares (for the avoidance of
+doubt, without giving effect to any &ldquo;cashless&rdquo; or &ldquo;net&rdquo; exercise provisions therein) at a price that is less
+than the Minimum Price, if applicable, in each case, for the purpose of complying with NYSE American Section 713(a) and NYSE Rule 312.03(c)
+(the &ldquo;<U>NYSE Proposal</U>&rdquo;); (ii) against any agreement, transaction or other matter that is intended to, or would reasonably
+be expected to, impede, interfere with, delay, postpone, discourage or materially and adversely affect the consummation of the NYSE Proposal;
+and (iii) to approve any proposal to adjourn or postpone the meeting to a later date, if there are not sufficient votes for the approval
+of the NYSE Proposal on the date on which such meeting is held. Stockholder shall not take or commit or agree to take any action inconsistent
+with the foregoing.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">2.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Expiration Date</U>. As used in this Agreement, the term &ldquo;<U>Expiration Date</U>&rdquo;
+shall mean the earliest to occur of (a) the Warrant is no longer outstanding, (b) the Transaction Agreement has been terminated, (c) the
+approval of the NYSE Proposal, (d) June 30, 2026, or (e) upon mutual written agreement of the parties to terminate this Agreement.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">3.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Additional Purchases</U>. Stockholder agrees that any shares of capital stock or other Equity
+Securities of Company that Stockholder purchases or with respect to which Stockholder otherwise acquires sole or shared voting power (including
+any proxy) after the execution of this Agreement and prior to the Expiration Date, whether by the exercise of any Equity Securities or
+otherwise, including, without limitation, by gift, succession, in the event of a stock split or as a dividend or distribution of any Shares
+(&ldquo;<U>New Shares</U>&rdquo;), shall be subject to the terms and conditions of this Agreement to the same extent as if they constituted
+the Shares.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">4.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Share Transfers</U>. From and after the date hereof until the Expiration Date, Stockholder shall
+not, directly or indirectly, (a) sell, assign, transfer, tender, or otherwise dispose of (including, without limitation, by the creation
+of any liens or encumbrances) any Shares or any New Shares acquired, (b) deposit any Shares or New Shares into a voting trust or enter
+into a voting agreement or similar arrangement with respect to such Shares or New Shares or grant any proxy or power of attorney with
+respect thereto (other than this Agreement), (c) enter into any contract, option, commitment or other arrangement or understanding with
+respect to the direct or indirect sale, transfer, assignment or other disposition of (including, without limitation, by the creation
+of any liens or encumbrances) any Shares or New Shares, or (d) take any action that would make any representation or warranty of Stockholder
+contained herein untrue or incorrect or have the effect of preventing or disabling Stockholder from performing Stockholder&rsquo;s obligations
+under this Agreement. Notwithstanding the foregoing, Stockholder may make (1) transfers by will or by operation of law or other transfers
+for estate-planning purposes, in which case this Agreement shall bind the transferee, (2) with respect to Stockholder&rsquo;s Equity
+Securities, which expire on or prior to the Expiration Date, transfers, sale, or other disposition of Shares to Company as payment for
+the (i) exercise price of Stockholder&rsquo;s Equity Securities and (ii) taxes applicable to the exercise of Stockholder&rsquo;s Equity
+Securities, (3) if Stockholder is a partnership or limited liability company, a transfer to one or more partners or members of Stockholder
+or to an Affiliate of Stockholder, or if Stockholder is a trust, a transfer to a beneficiary, <I><U>provided</U></I>, that in each such
+case the applicable transferee has signed a voting agreement in substantially the form hereof and no such transfer will necessitate the
+filing of a Form 4 reporting such transfer, (4) transfers to another holder of the capital stock of the Company that has signed a voting
+agreement in substantially the form hereof, and (5) transfers, sales or other dispositions as Amazon may otherwise agree in writing in
+its sole discretion. If any voluntary or involuntary transfer of any Shares covered hereby shall occur (including a transfer or disposition
+permitted by <U>Section 4(1)</U> through <U>Section 4(5)</U>, sale by a Stockholder&rsquo;s trustee in bankruptcy, or a sale to a purchaser
+at any creditor&rsquo;s or court sale), the transferee (which term, as used herein, shall include any and all transferees and subsequent
+transferees of the initial transferee) shall take and hold such Shares subject to all of the restrictions, liabilities and rights under
+this Agreement, which shall continue in full force and effect, notwithstanding that such transferee is not a Stockholder and has not
+executed a counterpart hereof or joinder hereto. Nothing in this Section 4 shall prevent (i) the Stockholder from maintaining any prime
+brokerage or other lending arrangement with any financial institution on the List of Global Systemically Important Banks, as published
+by The Financial Stability Board from time to time, as a result of which any Shares or any New Shares are pledged as collateral or are
+otherwise encumbered in support of such arrangement (each such arrangement, a &ldquo;<U>Lending Arrangement</U>&rdquo;) or (ii) any party
+to such Lending Arrangement exercising is rights under, or remedies with respect to, such Lending Arrangement. Stockholder covenants
+that, in the event of an actual default or notice of a non-curable event of default under any Lending Arrangement, Stockholder will provide
+prompt written notice (but in any event within three business days) of such default or such notice to both Amazon and the Company, and
+Stockholder will use its commercially reasonable efforts to facilitate, at Amazon&rsquo;s request, one or more meetings with Stockholder,
+the Company, and the applicable Lending Arrangement counterparty or counterparties.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">5.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Representations and Warranties of Stockholder</U>. Stockholder hereby represents and warrants
+to the Company and Amazon as follows:</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(a)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">if Stockholder is an entity: (i) Stockholder is duly organized, validly existing and in good standing
+under the laws of the jurisdiction in which it is incorporated, organized or constituted, (ii) Stockholder has all necessary power and
+authority to execute and deliver this Agreement, to perform Stockholder&rsquo;s obligations hereunder and to consummate the transactions
+contemplated hereby, and (iii) the execution and delivery of this Agreement, performance of Stockholder&rsquo;s obligations hereunder
+and the consummation of the transactions contemplated hereby by Stockholder have been duly authorized by all necessary action on the part
+of Stockholder and no other proceedings on the part of Stockholder are necessary to authorize this Agreement, or to consummate the transactions
+contemplated hereby. If Stockholder is an individual, Stockholder has the legal capacity to execute and deliver this Agreement, to perform
+Stockholder&rsquo;s obligations hereunder and to consummate the transactions contemplated hereby;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(b)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">this Agreement has been duly executed and delivered by or on behalf of Stockholder and, to Stockholder&rsquo;s
+knowledge and assuming this Agreement constitutes a valid and binding agreement of Amazon and the Company, constitutes a valid and binding
+agreement with respect to Stockholder, enforceable against Stockholder in accordance with its terms, except as enforcement may be limited
+by general principles of equity whether applied in a court of law or a court of equity and by bankruptcy, insolvency and similar Applicable
+Laws affecting creditors&rsquo; rights and remedies generally;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(c)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">Stockholder beneficially owns the number of Shares indicated opposite Stockholder&rsquo;s name on
+<U>Schedule 1</U>, and will own any New Shares, free and clear of any liens or encumbrances (other than any Lending Arrangements), and
+has sole or shared, and otherwise unrestricted, voting power with respect to such Shares or New Shares and none of the Shares or New Shares
+is subject to any voting trust or other agreement, arrangement or restriction with respect to the voting of the Shares or the New Shares,
+except as contemplated by this Agreement;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(d)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">to the knowledge of Stockholder, the execution and delivery of this Agreement by Stockholder does
+not, and the performance by Stockholder of his, her, or its obligations hereunder and the compliance by Stockholder with any provisions
+hereof will not, violate or conflict with, result in a material breach of or constitute a default (or an event that with notice or lapse
+of time or both would become a material default) under, or give to others any rights of termination, amendment, acceleration or cancellation
+of, or result in the creation of any liens or encumbrances on any Shares or New Shares pursuant to, any contract or other obligation or
+any order, arbitration award, judgment or decree to which Stockholder is a party or by which Stockholder is bound, or any Applicable Law,
+statute, rule or regulation to which Stockholder is subject or, in the event that Stockholder is a corporation, partnership, trust or
+other entity, any certificate of incorporation, bylaw or similar organizational document of Stockholder; except for any of the foregoing
+as would not reasonably be expected to prevent or delay the performance by Stockholder of his, her, or its obligations under this Agreement
+in any material respect;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(e)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">the execution and delivery of this Agreement by Stockholder does not, and the performance of this
+Agreement by Stockholder does not and will not, require any consent, approval, authorization or permit of, or filing with or notification
+to, any Governmental Entity or regulatory authority by Stockholder except for applicable requirements, if any, of the Exchange Act, and
+except where the failure to obtain such consents, approvals, authorizations or permits, or to make such filings or notifications, would
+not prevent or delay the performance by Stockholder of his, her, or its obligations under this Agreement in any material respect;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(f)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">no investment banker, broker, finder or other intermediary is entitled to a fee or commission from
+the Company or Amazon in respect of this Agreement based upon any contract made by or on behalf of Stockholder; </FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(g)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">as of the date of this Agreement, there is no action pending or, to the knowledge of Stockholder,
+threatened against Stockholder that would reasonably be expected to prevent or delay the performance by Stockholder of his, her, or its
+obligations under this Agreement in any material respect; and </FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 1in"><FONT STYLE="font-size: 10pt">(h)</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt">as of the date hereof, (i) the only liens or encumbrances on the Shares arise from the Lending Arrangements
+and (ii) Stockholder and its Affiliates are not in default and have not received any notice of an event of default under any such Lending
+Arrangements.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">6.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Irrevocable Proxy</U>. Subject to the penultimate sentence of this Section 6, by execution of
+this Agreement, Stockholder does hereby appoint the Company and any of its designees with full power of substitution and resubstitution,
+as Stockholder&rsquo;s true and lawful attorney and irrevocable proxy, to the fullest extent of Stockholder&rsquo;s rights with respect
+to the Shares, to vote and exercise all voting and related rights, including the right to sign Stockholder&rsquo;s name (solely in its
+capacity as a stockholder) to any stockholder consent, if Stockholder is unable to perform or otherwise does not perform his, her, or
+its obligations under this Agreement, with respect to such Shares solely with respect to the matters set forth in Section 1 hereof. Stockholder
+intends this proxy to be irrevocable and coupled with an interest hereunder until the Expiration Date, and1hereby revokes any proxy previously
+granted by Stockholder with respect to the Shares and represents that none of such previously granted proxies are irrevocable. The irrevocable
+proxy and power of attorney granted herein shall survive the death or incapacity of Stockholder and the obligations of Stockholder shall
+be binding on Stockholder&rsquo;s heirs, personal representatives, successors, transferees, and assigns. Stockholder hereby agrees not
+to grant any subsequent powers of attorney or proxies with respect to any Shares with respect to the matters set forth in Section 1 until
+after the Expiration Date. Notwithstanding anything contained herein to the contrary, this irrevocable proxy shall automatically terminate
+upon the Expiration Date.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">7.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Other Remedies; Specific Performance</U>. Except as otherwise provided herein, any and all remedies
+expressly conferred upon a party will be deemed cumulative with, and not exclusive of, any other remedy conferred hereby, or by law or
+equity upon such party, and the exercise by a party of any one remedy will not preclude the exercise of any other remedy. The parties
+hereto agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance
+with their specific terms or were otherwise breached. It is accordingly agreed that the parties shall be entitled to an injunction or
+injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions hereof in the applicable forum
+as agreed in Section 17 hereof, this being in addition to any other remedy to which such party is entitled at law or in equity. Each of
+the parties hereby further waives (a) any defense in any action for specific performance that a remedy at law would be adequate and (b)
+any requirement under any law to post security as a prerequisite to obtaining equitable relief.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">8.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Reserved</U>. </FONT></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">9.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT STYLE="font-size: 10pt"><U>No
+Ownership Interest</U>. Nothing contained in this Agreement shall be deemed to vest in Amazon or Warrantholder any direct or
+indirect ownership or incidence of ownership of or with respect to </FONT>any Shares. All rights, ownership, and economic benefits
+of and relating to the Shares shall remain vested in and belong to Stockholder, and neither Amazon or Warrantholder has authority to
+manage, direct, superintend, restrict, regulate, govern, or administer any of the policies or operations of the Company or exercise
+any power or authority to direct Stockholder in the voting of any of the Shares, except as otherwise provided herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">10.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Termination</U>. This Agreement shall terminate and shall have no further force or effect as of
+the Expiration Date. Notwithstanding the foregoing, upon termination or expiration of this Agreement, no party shall have any further
+obligations or liabilities under this Agreement; <I><U>provided</U></I><U>, <I>however</I></U>, nothing set forth in this <U>Section 10</U>
+or elsewhere in this Agreement shall relieve any party from liability for any fraud or for any willful breach of this Agreement prior
+to termination hereof.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">11.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Further Assurances</U>. Stockholder shall, from time to time, execute and deliver, or cause to
+be executed and delivered, such additional or further consents, documents and other instruments as Amazon or the Company may reasonably
+request for the purpose of effectively carrying out the transactions contemplated by this Agreement and the Transaction Agreement.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">12.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Disclosure</U>. Stockholder hereby agrees that the Company may publish and disclose in any registration
+statement, any prospectus filed with any regulatory authority in connection with the transactions contemplated by this Agreement and the
+Transaction Agreement and any related documents filed with such regulatory authority and as otherwise required by Applicable Law, Stockholder&rsquo;s
+identity and ownership of Shares and the nature of Stockholder&rsquo;s commitments, arrangements and understandings under this Agreement
+and may further file this Agreement as an exhibit to any registration statement or prospectus or in any other filing made by the Company
+as required by Applicable Law or the terms of the Transaction Agreement, including with the Commission or other Governmental Entity, relating
+to the transactions contemplated thereby, all subject to prior review and an opportunity to comment by Stockholder&rsquo;s counsel. Stockholder
+shall not, and shall use its reasonable best efforts to cause its representatives not to, directly or indirectly, make any press release,
+public announcement or other public communication that criticizes or disparages this Agreement or the Transaction Agreement or any of
+the transactions contemplated thereby, without the prior written consent of the Company and Amazon, <I><U>provided</U></I>, that the foregoing
+shall not effect any actions of Stockholder that are or would be prohibited under Applicable Law.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">13.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Notice</U>. All notices and other communications hereunder shall be in writing and shall be deemed
+duly given (a) on the date of delivery if delivered personally or, with respect to the Stockholder or the Company, if by email, upon written
+confirmation of receipt by email or otherwise, (b) on the first Business Day following the date of dispatch if delivered utilizing a next-day
+service by a recognized next-day courier or (c) on the earlier of confirmed receipt or the fifth Business Day following the date of mailing
+if delivered by registered or certified mail, return receipt requested, postage prepaid to Amazon or the Company, as the case may be,
+in accordance with Section 8.6 of the Transaction Agreement and to Stockholder at his, her, or its address or email address (providing
+confirmation of transmission) set forth on <U>Schedule 1</U> attached hereto (or at such other address for a party as shall be specified
+by like notice).</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">14.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Severability</U>. Whenever possible, each provision or portion of any provision of this Agreement
+shall be interpreted in such manner as to be effective and valid under Applicable Law, but if any provision or portion of any provision
+of this Agreement is held to be invalid, illegal or unenforceable in any respect under any Applicable Law or rule in any jurisdiction,
+such invalidity, illegality or unenforceability shall not affect any other provision or portion of any provision in such jurisdiction,
+and this Agreement shall be reformed, construed and enforced in such jurisdiction as if such invalid, illegal or unenforceable provision
+or portion of any provision had never been contained herein.</FONT></P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">15.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT> <FONT STYLE="font-size: 10pt"><U>Assignability</U>. This Agreement shall be binding upon, and shall be enforceable by and inure
+solely to the benefit of, the parties hereto and their respective successors and assigns; <I><U>provided, however</U></I>, that neither
+this Agreement nor any of a party&rsquo;s rights, interests, or obligations hereunder may be assigned or delegated, in whole or in part,
+by operation of law or otherwise, by such party without the prior written consent of the other parties hereto, and any attempted assignment
+or delegation of this Agreement or any of such rights, interests, or obligations by such party without the prior written consent of the
+other parties shall be void and of no effect; <I><U>provided, further</U></I>, that Amazon may transfer or assign, in whole or from time
+to time in part, to one or more of its direct or indirect wholly owned subsidiaries, its rights and/or obligations under this Agreement.
+Nothing in this Agreement, express or implied, is intended to or shall confer upon any Person (other than the parties hereto) any right,
+benefit or remedy of any nature whatsoever under or by reason of this Agreement.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">16.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Waivers</U>. No waivers of any breach of this Agreement extended by Amazon or the Company to Stockholder
+shall be construed as a waiver of any rights or remedies of Amazon or the Company, as applicable, with respect to any other stockholder
+of the Company who has executed an agreement substantially in the form of this Agreement with respect to Shares held or New Shares subsequently
+held by such stockholder or with respect to any subsequent breach of Stockholder or any other stockholder of Company. No failure or delay
+of any party in exercising any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of
+any such right or power, or any abandonment or discontinuance of steps to enforce such right or power, or any course of conduct, preclude
+any other or further exercise thereof or the exercise of any other right or power. The rights and remedies of the parties hereunder are
+cumulative and are not exclusive of any rights or remedies which they would otherwise have hereunder.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">17.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Applicable Law; Jurisdiction</U>. This Agreement shall be governed by, and construed in accordance
+with, the Applicable Laws of the state of Delaware, regardless of the Applicable Laws that might otherwise govern under applicable principles
+of conflicts of laws. Each of the parties irrevocably agrees that any legal action or proceeding arising out of or relating to this Agreement
+brought by any party or its Affiliates against any other party or its Affiliates shall be brought and determined in the Court of Chancery
+of the State of Delaware; <I><U>provided</U></I>, that if jurisdiction is not then available in the Court of Chancery of the State of
+Delaware, then any such legal action or proceeding may be brought in the Federal District Court for Delaware, or if unavailable, any other
+Delaware state court. Each of the parties hereby irrevocably submits to the jurisdiction of the aforesaid courts for itself and with respect
+to its property, generally and unconditionally, with regard to any such action or proceeding arising out of or relating to this Agreement
+and the transactions contemplated hereby. Each of the parties agrees not to commence any action, suit or proceeding relating thereto except
+in the courts described above in Delaware, other than actions in any court of competent jurisdiction to enforce any judgment, decree or
+award rendered by any such court in Delaware as described herein. Each of the parties further agrees that notice as provided herein shall
+constitute sufficient service of process and the parties further waive any argument that such service is insufficient. Each of the parties
+hereby irrevocably and unconditionally waives, and agrees not to assert, by way of motion or as a defense, counterclaim or otherwise,
+in any action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby, (a) any claim that it
+is not personally subject to the jurisdiction of the courts in Delaware as described herein for any reason, (b) that it or its property
+is exempt or immune from jurisdiction of any such court or from any legal process commenced in such courts (whether through service of
+notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment or otherwise) and (c) that (i)
+the suit, action, or proceeding in any such court is brought in an inconvenient forum, (ii) the venue of such suit, action, or proceeding
+is improper or (iii) this Agreement, or the subject matter hereof, may not be enforced in or by such courts.</FONT></P>
+
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">18.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT> <FONT STYLE="font-size: 10pt"><U>Waiver of Jury Trial</U>. EACH OF THE PARTIES TO THIS AGREEMENT HEREBY IRREVOCABLY WAIVES ALL
+RIGHT TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED
+HEREBY.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">19.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>No Agreement Until Executed</U>. Irrespective of negotiations among the parties or the exchanging
+of drafts of this Agreement, this Agreement shall not constitute or be deemed to evidence a contract, agreement, arrangement, or understanding
+between the parties hereto unless and until (a) the Transaction Agreement is executed by all parties thereto, and (b) this Agreement is
+executed by all parties hereto.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">20.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Entire Agreement</U>. This Agreement (including the schedules hereto) and the other agreements
+referred to in this Agreement constitute the entire agreement, and supersede all prior written agreements, arrangements, communications,
+and understandings and all prior and contemporaneous oral agreements, arrangements, communications, and understandings among the parties
+with respect to the subject matter hereof and thereof.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">21.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Counterparts</U>. This Agreement may be executed in two or more counterparts, all of which shall
+be considered one and the same instrument and shall become effective when one or more counterparts have been signed by each of the parties
+and delivered to the other party.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">22.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Facsimile or .pdf Signature</U>. This Agreement may be executed by facsimile or .pdf signature
+and a facsimile or .pdf signature shall constitute an original for all purposes.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">23.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Amendment</U>. This Agreement may not be amended, supplemented or modified, and no provisions
+hereof may be modified or waived, except by an instrument in writing specifically designated as an amendment hereto, signed on behalf
+of each of the parties in interest at the time of the amendment; <I><U>provided, however</U></I>, that the rights or obligations of any
+Stockholder may be waived, amended, or otherwise modified in writing signed by the Company, Amazon, and Stockholder.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">24.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Fees and Expenses</U>. Except as otherwise specifically provided herein, the Transaction Agreement
+or any other agreement contemplated by the Transaction Agreement to which a party hereto is a party, each party hereto shall bear its
+own expenses in connection with this Agreement and the transactions contemplated hereby.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">25.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 10pt"><U>Voluntary Execution of Agreement</U>. This Agreement is executed voluntarily and without any duress
+or undue influence on the part or behalf of the parties. Each of the parties hereby acknowledges, represents and warrants that (a) it
+has read and fully understood this Agreement and the implications and consequences thereof; (b) it has been represented in the preparation,
+negotiation, and execution of this Agreement by legal counsel of its own choice, or it has made a voluntary and informed decision to decline
+to seek such counsel; and (c) it is fully aware of the legal and binding effect of this Agreement.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">26.</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 8pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><FONT STYLE="font-size: 10pt"><U>Construction</U>.
+When a reference is made in this Agreement to a Section or Schedule such reference shall be to a Section or Schedule of this
+Agreement unless otherwise indicated. The headings contained in this Agreement or in any Schedule are for convenience of reference
+purposes only and shall not affect in any way the meaning or interpretation of this Agreement. All words used in this Agreement will
+be construed to be of such gender or number as the circumstances require. Any capitalized terms used in any Schedule but not
+otherwise defined therein shall have the meaning as defined in this Agreement. All Schedules annexed hereto or referred to herein
+are hereby incorporated in and made a part of this Agreement as if set forth herein. The word &ldquo;including&rdquo; and words of
+similar import when used in this </FONT>Agreement will mean &ldquo;including, without limitation,&rdquo; unless otherwise specified.
+The words &ldquo;hereof,&rdquo; &ldquo;herein&rdquo; and &ldquo;hereunder&rdquo; and words of similar import when used in this
+Agreement shall refer to the Agreement as a whole and not to any particular provision in this Agreement. The term &ldquo;or&rdquo;
+is not exclusive. The word &ldquo;will&rdquo; shall be construed to have the same meaning and effect as the word
+&ldquo;shall.&rdquo; References to days mean calendar days unless otherwise specified.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: center">[<I>Remainder of Page has Intentionally Been Left
+Blank</I>]</P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence -->&nbsp;&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt">EXECUTED as of the date first above written.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">JS Capital LLC</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">&nbsp;/s/ </FONT></TD>
+    <TD STYLE="vertical-align: bottom; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Elizabeth Locher</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">Name:&nbsp;&nbsp;Elizabeth Locher</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">Title:&nbsp;&nbsp;Vice President</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font-size: 10pt; text-align: center; margin-top: 0; margin-bottom: 0">Signature Page to Support Agreement</P>
+
+<P STYLE="font-size: 10pt; text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt">EXECUTED as of the date first above written.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase"><B>Ranpak Holdings Corp.</B></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">&nbsp;/s/ </FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Sara Horvath</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="border-top: Black 1pt solid"><FONT STYLE="font-size: 10pt">Name: Sara Horvath</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">Title: Executive Vice President, Chief Legal &amp; HR Officer</FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt"><B>AMAZON.COM, INC.</B></FONT></TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-size: 10pt">&nbsp;/s/</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Torben Severson</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="border-top: Black 1pt solid"><FONT STYLE="font-size: 10pt">Name: Torben Severson</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">Title: Authorized Signatory</FONT></TD></TR>
+</TABLE>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font-size: 10pt; text-align: center; margin-top: 0; margin-bottom: 0">Signature Page to Support Agreement</P>
+
+<P STYLE="font-size: 10pt; text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><B><U>SCHEDULE 1</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0.75pt 0.25in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: #BFBFBF">
+    <TD STYLE="width: 53%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt"><B>Name, Address and Email Address of Stockholder</B></FONT></TD>
+    <TD STYLE="width: 14%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Shares of Common</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Stock</B></P></TD>
+    <TD STYLE="width: 16%; border-top: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Type of Other Equity Security</B></FONT></TD>
+    <TD STYLE="width: 17%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>Amount of Equity Security</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">JS Capital LLC</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">30,530,897</FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">0</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">30,530,897</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt"></P>
+
+<!-- Field: Page; Sequence: 10; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

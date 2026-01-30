@@ -1,0 +1,231 @@
+<SEC-DOCUMENT>0001085146-25-000122.txt : 20250110
+<SEC-HEADER>0001085146-25-000122.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110114732
+ACCESSION NUMBER:		0001085146-25-000122
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIGI INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000854775
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				411532464
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-40655
+		FILM NUMBER:		25521571
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9350 EXCELSIOR BLVD.
+		STREET 2:		SUITE 700
+		CITY:			HOPKINS
+		STATE:			MN
+		ZIP:			55343
+		BUSINESS PHONE:		(952) 912-3444
+
+	MAIL ADDRESS:	
+		STREET 1:		9350 EXCELSIOR BLVD.
+		STREET 2:		SUITE 700
+		CITY:			HOPKINS
+		STATE:			MN
+		ZIP:			55343
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Conestoga Capital Advisors, LLC
+		CENTRAL INDEX KEY:			0001163744
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				233072906
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		550 E. SWEDESFORD ROAD
+		STREET 2:		SUITE 120
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		484-654-1380
+
+	MAIL ADDRESS:	
+		STREET 1:		550 E. SWEDESFORD ROAD
+		STREET 2:		SUITE 120
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONESTOGA CAPITAL ADVISORS LLC
+		DATE OF NAME CHANGE:	20011217
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001085146-23-004076</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Conestoga Capital Advisors, LLC -->
+          <cik>0001163744</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000854775</issuerCik>
+        <issuerName>DIGI INTERNATIONAL INC</issuerName>
+        <issuerCusip>253798102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>9350 Excelsior Blvd.</com:street1>
+          <com:street2>Suite 700</com:street2>
+          <com:city>Hopkins</com:city>
+          <com:stateOrCountry>MN</com:stateOrCountry>
+          <com:zipCode>55343</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Conestoga Capital Advisors</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>3584141.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3859786.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3859786.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>10.55</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>CONESTOGA FUNDS</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2546606.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2546606.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2546606.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.96</classPercent>
+      <typeOfReportingPerson>IV</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>DIGI INTERNATIONAL INC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>9350 Excelsior Blvd. Suite 700 Hopkins, MINNESOTA 55343</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Conestoga Capital Advisors
+
+CONESTOGA FUNDS</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>550 E. SWEDESFORD ROAD
+SUITE 120
+WAYNE, Pennsylvania
+19087</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Conestoga Capital Advisors - DELAWARE
+
+CONESTOGA FUNDS - DELAWARE</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IV</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Conestoga Capital Advisors 3,859,786
+Conestoga Small Cap Fund 3,584,141</amountBeneficiallyOwned>
+        <classPercent>10.55</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Conestoga Capital Advisors - 3584141
+
+CONESTOGA FUNDS - 2546606</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Conestoga Capital Advisors - 0
+
+CONESTOGA FUNDS - 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Conestoga Capital Advisors - 3859786
+
+CONESTOGA FUNDS - 2546606</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Conestoga Capital Advisors - 0
+
+CONESTOGA FUNDS - 0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Conestoga Capital Advisors</reportingPersonName>
+      <signatureDetails>
+        <signature>Duane R. D'Orazio</signature>
+        <title>Managing Partner</title>
+        <date>01/09/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>CONESTOGA FUNDS</reportingPersonName>
+      <signatureDetails>
+        <signature>Duane R. D'Orazio</signature>
+        <title>Managing Partner</title>
+        <date>01/09/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

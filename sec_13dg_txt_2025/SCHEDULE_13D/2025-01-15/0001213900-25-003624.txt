@@ -1,0 +1,408 @@
+<SEC-DOCUMENT>0001213900-25-003624.txt : 20250115
+<SEC-HEADER>0001213900-25-003624.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115081233
+ACCESSION NUMBER:		0001213900-25-003624
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250115
+DATE AS OF CHANGE:		20250115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIX Inc.
+		CENTRAL INDEX KEY:			0001413855
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-83564
+		FILM NUMBER:		25531219
+
+	BUSINESS ADDRESS:	
+		STREET 1:		60/F PEARL RIVER TOWER
+		STREET 2:		NO.15 WEST ZHUJIANG ROAD TIANHE DISTRICT
+		CITY:			GUANGZHOU
+		STATE:			F4
+		ZIP:			510623
+		BUSINESS PHONE:		(86-20) 8388 6888
+
+	MAIL ADDRESS:	
+		STREET 1:		60/F PEARL RIVER TOWER
+		STREET 2:		NO.15 WEST ZHUJIANG ROAD TIANHE DISTRICT
+		CITY:			GUANGZHOU
+		STATE:			F4
+		ZIP:			510623
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FANHUA INC.
+		DATE OF NAME CHANGE:	20161206
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CNINSURE INC.
+		DATE OF NAME CHANGE:	20071001
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Infinew Ltd
+		CENTRAL INDEX KEY:			0002052068
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		OMC CHAMBERS, WICKHAMS CAY 1, ROAD TOWN
+		CITY:			TORTOLA
+		STATE:			D8
+		ZIP:			VG1110
+		BUSINESS PHONE:		852 5787 4399
+
+	MAIL ADDRESS:	
+		STREET 1:		ROOM 5031, 5/F, YAU LEE CENTRE
+		STREET 2:		45 HOI YUEN ROAD, KWUN TONG, KOWLOON
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			999077
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Infinew Ltd -->
+          <cik>0002052068</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A ordinary share, par value $0.001 per share</securitiesClassTitle>
+      <dateOfEvent>01/02/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001413855</issuerCIK>
+        <issuerCUSIP>G3314G102</issuerCUSIP>
+        <issuerName>AIX INC.</issuerName>
+        <address>
+          <com:street1>60F, Pearl River Tower, No. 15</com:street1>
+          <com:street2>West Zhujiang Road, Zhujiang New Town</com:street2>
+          <com:city>Guangzhou, Guangdong</com:city>
+          <com:stateOrCountry>F4</com:stateOrCountry>
+          <com:zipCode>510623</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Infinew Limited</personName>
+          <personPhoneNum>85257874399</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Katherine Wang Room 5031, 5/F,</com:street1>
+            <com:street2>Yau Lee Center No. 45 Hoi Yuen Road</com:street2>
+            <com:city>Kwun Tong, Kowloon</com:city>
+            <com:stateOrCountry>K3</com:stateOrCountry>
+            <com:zipCode>999077</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002052068</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Infinew Limited</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D8</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>490100000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>490100000.00</sharedDispositivePower>
+        <aggregateAmountOwned>490100000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>22.99</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>Note to Row 8, 10, 11: Includes 100,000 Class A ordinary shares and 490,000,000 Class B ordinary shares.
+Note to Row 13: The percentage calculation is based on 2,131,892,484 ordinary shares, including 1,131,892,484 Class A ordinary shares and 1,000,000,000 Class B ordinary shares, of the Issuer outstanding as of January 2, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Katherine Wang</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>S0</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>490100000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>490100000.00</sharedDispositivePower>
+        <aggregateAmountOwned>490100000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>22.99</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Note to Row 8, 10, 11: Includes 100,000 Class A ordinary shares and 490,000,000 Class B ordinary shares.
+Note to Row 13: The percentage calculation is based on 2,131,892,484 ordinary shares, including 1,131,892,484 Class A ordinary shares and 1,000,000,000 Class B ordinary shares, of the Issuer outstanding as of January 2, 2025.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A ordinary share, par value $0.001 per share</securityTitle>
+        <issuerName>AIX INC.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>60F, Pearl River Tower, No. 15</com:street1>
+          <com:street2>West Zhujiang Road, Zhujiang New Town</com:street2>
+          <com:city>Guangzhou, Guangdong</com:city>
+          <com:stateOrCountry>F4</com:stateOrCountry>
+          <com:zipCode>510623</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being filed jointly by Infinew Limited ("Infinew") and Katherine Wang (each, a "Reporting Person" and together, the "Reporting Persons"). Infinew is 100% owned by Katherine Wang.</filingPersonName>
+        <principalBusinessAddress>The registered address of Infinew is OMC Chambers, Wickhams Cay 1, Road Town, Tortola, British Virgin Islands.</principalBusinessAddress>
+        <principalJob>Infinew is a holding company without any substantive operations. Katherine Wang is the director of Infinew.</principalJob>
+        <hasBeenConvicted>During the last five years, the Reporting Persons has not been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, the Reporting Persons has not been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and, as a result of such proceeding, is or was subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such law.</convictionDescription>
+        <citizenship>Infinew is a British Virgin Islands limited liability company. Ms. Katherine Wang is a citizen of the Republic of Guinea-Bissau.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and supplemented in its entirety as follows:
+
+The information set forth in Item 4 and Item 6 is hereby incorporated by reference into this Item 3. On December 30, 2024, Infinew entered into a share subscription agreement (the "Agreement") with the Issuer. Pursuant to the Agreement, the Issuer agreed to issue to Infinew 100,000 Class A ordinary shares and 490,000,000 Class B ordinary shares of the Issuer (the "Subscription Shares"), at a price of US$0.001 per Subscription Share, for a total consideration of US$490,000. The issuance of the Subscription Shares ("Issuance") has been completed on January 2, 2025. Following the Issuance, Infinew beneficially owns 100,000 Class A ordinary shares and 490,000,000 Class B ordinary shares of the Company, representing 22.99% of the total issued and outstanding ordinary shares, and 48.45% of the aggregate voting power, of the Company.   Such transaction was funded by Ms. Katherine with her personal funds.   The Share Subscription Agreement has been filed by the Issuer with the SEC as Exhibit 99.1 to Form 6-K on January 2, 2025, which is hereby incorporated by reference.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is hereby amended and supplemented in its entirety as follows: The Reporting Person acquired beneficial ownership of the Ordinary Shares as described in this Schedule 13D/A for strategic long-term investment purposes. The Reporting Person intends to review their investment in the Issuer on a continuing basis. Each Reporting Person may in the future take such actions with respect to its investment in the Issuer as it deems appropriate, including changing its current intentions, with respect to any or all matters required to be disclosed in this Schedule 13D/A, depending on various factors, including but not limited to the Issuer's business, prospects, financial position and strategic direction, price levels of the ADSs, conditions in the securities markets, and general economic and industry conditions. Consistent with the Reporting Person's investment purposes, the Reporting Person may engage in communications with, without limitation, one or more shareholders of the Issuer, management of the Issuer or one or more members of the board of directors of the Issuer, and may make suggestions concerning the Issuer's operations, prospects, business and financial strategies, strategic direction and transactions, assets and liabilities, business and financing alternatives and such other matters as the Reporting Person may deem relevant to their investment in the Ordinary Shares. The Reporting Person expects that they will, from time to time, review their investment position in the Issuer and may make additional purchases of Ordinary Shares (or other securities convertible or exercisable into Ordinary Shares) in the open market or in privately negotiated transactions, or hold or dispose of all or part of their investments in the Ordinary Shares, depending upon the Reporting Person's evaluation of the Issuer's business, prospects, financial condition and strategic direction, the market for the ADSs, other opportunities available to the Reporting Persons, general economic conditions, stock market conditions and other factors. Except as set forth in this Item 4 or Item 6 below, the Reporting Person has no present plans or proposals that relate to or that would result in any of the actions specified in clauses (a) through (j) of Item 4 of Schedule 13D of the Act.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The responses of the Reporting Person to Rows (7) through (13), including the footnotes thereto, of the cover pages of this Schedule 13D/A are hereby incorporated by reference in this Item 5. The information set forth in Item 2, 3 and 4 above is hereby incorporated by reference.   The aggregate number of ordinary shares beneficially owned by each of the Reporting Persons is 490,100,000, including 100,000 Class A ordinary shares and 490,000,000 Class B ordinary shares of the Issuer. The Reporting Persons' aggregate percentage of beneficial ownership is 22.99%, representing 48.45% of the voting power of the Issuer. Percentage of beneficial ownership of the Reporting Persons is based on 2,131,892,484 Ordinary Shares outstanding as of January 2, 2025, including 1,131,892,484 Class A ordinary shares and 1,000,000,000 Class B ordinary shares. Each Class A ordinary share is entitled to one vote and each Class B ordinary share is entitled to one hundred (100) votes on any and all matters submitted for a vote.</percentageOfClassSecurities>
+        <numberOfShares>The Reporting Persons has shared voting and dispositive power over the ordinary shares of reported in this Schedule 13D.</numberOfShares>
+        <transactionDesc>During the 60 days preceding the filing of this Schedule 13D, none of the Reporting Persons has effected any transactions in the Ordinary Shares except as reported herein.</transactionDesc>
+        <listOfShareholders>To the best knowledge of the Reporting Person, except for the agreement described in this Schedule 13D, no one other than the Reporting Person, or the holders of interests in the Reporting Person, has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the Ordinary Shares or ADSs.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended by incorporating by reference the information set forth in Item 3 above. Except as described above or elsewhere in this Statement or incorporated by reference in this Statement, there are no contracts, arrangements, understandings or relationships (legal or otherwise) among the Reporting Person and between the Reporting Persons and any person with respect to any securities of the Company, including, but not limited to, transfer or voting of any securities, finder's fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or losses, or the giving or withholding of proxies.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 1: Joint Filing Agreement dated January 13, 2024 by and between the Reporting Persons
+
+Exhibit 2: List of directors and executive officers of Infinew Limited. (filed herewith)
+
+Exhibit 3: Share Subscription Agreement dated as of December 30, 2024, entered into between AIX Inc. and Infinew Limited. (incorporation by reference to Exhibit 10.2 to the Form 6-K of the Issuer filed with the Commission on January 2, 2025)</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Infinew Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Katherine Wang</signature>
+          <title>Katherine Wang/Director</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Katherine Wang</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Katherine Wang</signature>
+          <title>Katherine Wang/Director</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ea022735001ex1_aix.htm
+<DESCRIPTION>JOINT FILING AGREEMENT DATED JANUARY 13, 2024 BY AND BETWEEN THE REPORTING PERSONS
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B></B>&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In accordance with Rule 13d-1(k)(1) under the
+Securities Exchange Act of 1934, each of the undersigned parties hereby agrees to file jointly the statement on Schedule 13D (including
+any amendments thereto) with respect to the Ordinary Shares, par value $0.001 per share, of AIX Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">It is understood and agreed that each of the parties
+hereto is responsible for the timely filing of such statement and any amendments thereto, and for the completeness and accuracy of information
+concerning such party contained therein, but such party is not responsible for the completeness and accuracy of information concerning
+another party unless such party knows or has reason to believe such information is inaccurate. It is understood and agreed that a copy
+of this agreement shall be attached as an exhibit to the statement on Schedule 13D, and any amendments thereto, filed on behalf of the
+parties hereto.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This Agreement may be executed in any number of counterparts, all of
+which taken together shall constitute one and the same instrument.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">[Remainder of this page has been left intentionally
+blank.]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Signature Page</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">IN WITNESS WHEREOF, the undersigned hereby execute this Agreement as
+of January 15, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Infinew Limited</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1.5pt solid; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Katherine Wang</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; width: 60%; text-align: justify">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 4%; text-align: justify">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name: </FONT></TD>
+    <TD STYLE="width: 31%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Katherine Wang</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: justify">&nbsp;</TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title: </FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Director&nbsp;</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Katherine Wang</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 36%"><FONT STYLE="font-size: 10pt">/s/ Katherine Wang</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>3
+<FILENAME>ea022735001ex2_aix.htm
+<DESCRIPTION>LIST OF DIRECTORS AND EXECUTIVE OFFICERS OF INFINEW LIMITED
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 2</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>DIRECTORS AND EXECUTIVE OFFICERS OF INFINEW
+LIMITED</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The name, business address, present principal
+employment and citizenship of the sole director of Infinew Limited are set forth below.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 25%; font-weight: bold">Name</TD><TD STYLE="width: 1%; font-weight: bold; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 24%; font-weight: bold; text-align: center">Business Address</TD><TD STYLE="width: 1%; font-weight: bold; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 24%; font-weight: bold; text-align: center">Present Principal Employment</TD><TD STYLE="width: 1%; font-weight: bold; padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; width: 24%; font-weight: bold; text-align: center">Citizenship</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="vertical-align: top; text-align: left">Katherine Wang</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">Room 5031, 5/F, Yau Lee Center, No. 45 Hoi Yuen Road, Kwun Tong, Kowloon, Hong Kong SAR</TD><TD>&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: left">Director of Infinew Limited</TD><TD STYLE="font-style: italic">&nbsp;</TD>
+    <TD STYLE="font-weight: normal; vertical-align: top; font-style: normal; text-align: left">The Republic of Guinea-Bissau</TD></TR>
+  </TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Infinew Limited is 100% owned by Ms. Katherine
+Wang. Ms. Wang is the sole director of Infinew Limited.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

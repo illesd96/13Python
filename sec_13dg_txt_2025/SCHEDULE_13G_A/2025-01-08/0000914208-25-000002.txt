@@ -1,0 +1,205 @@
+<SEC-DOCUMENT>0000914208-25-000002.txt : 20250108
+<SEC-HEADER>0000914208-25-000002.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108090701
+ACCESSION NUMBER:		0000914208-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Invesco DB Precious Metals Fund
+		CENTRAL INDEX KEY:			0001383057
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				870778065
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-87406
+		FILM NUMBER:		25516774
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+		BUSINESS PHONE:		800-983-0903
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PowerShares DB Precious Metals Fund
+		DATE OF NAME CHANGE:	20061208
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Invesco Ltd.
+		CENTRAL INDEX KEY:			0000914208
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				980557567
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1331 SPRING STREET NW
+		STREET 2:		SUITE 2500
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+		BUSINESS PHONE:		404-892-0896
+
+	MAIL ADDRESS:	
+		STREET 1:		1331 SPRING STREET NW
+		STREET 2:		SUITE 2500
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Invesco Asset Management Deutschland GMBH
+		DATE OF NAME CHANGE:	20211102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Invesco Ltd.
+		DATE OF NAME CHANGE:	20080520
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Invesco Ltd
+		DATE OF NAME CHANGE:	20080508
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000914208-23-000200</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000914208</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Exchange Traded Fund</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001383057</issuerCik>
+        <issuerName>Invesco DB Precious Metals Fund</issuerName>
+        <issuerCusip>46140H502</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>3500 Lacey Road</com:street1>
+          <com:street2>Suite 700</com:street2>
+          <com:city>Downers Grove</com:city>
+          <com:stateOrCountry>X1</com:stateOrCountry>
+          <com:zipCode>60515</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Invesco Ltd.</reportingPersonName>
+      <citizenshipOrOrganization>D0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Invesco DB Precious Metals Fund</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3500 Lacey Road, Suite 700, Downers Grove, IL 60515</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Invesco Ltd. ("Invesco Ltd.")</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1331 Spring Street NW, Suite 2500, Atlanta, GA  30309
+</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Bermuda</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Invesco Ltd., in its capacity as a parent holding company to its investment advisers, may be deemed to beneficially own 0 shares of the Issuer which are held of record by clients of Invesco Ltd.</amountBeneficiallyOwned>
+        <classPercent>0.0</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>However, no one individual has greater than 5% economic ownership. The shareholders of the Fund have the right to receive or the power to direct the receipt of dividends and proceeds from the sale of securities listed above.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Invesco Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>Robert R. Leveille</signature>
+        <title>Global Head of Compliance</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

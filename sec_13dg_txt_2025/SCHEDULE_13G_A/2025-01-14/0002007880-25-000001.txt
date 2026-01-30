@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0002007880-25-000001.txt : 20250114
+<SEC-HEADER>0002007880-25-000001.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114114151
+ACCESSION NUMBER:		0002007880-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRANSACT TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001017303
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				061456680
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-51347
+		FILM NUMBER:		25528369
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HAMDEN CENTER
+		STREET 2:		2319 WHITNEY AVENUE, SUITE 3B
+		CITY:			HAMDEN
+		STATE:			CT
+		ZIP:			06518
+		BUSINESS PHONE:		203-859-6800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HAMDEN CENTER
+		STREET 2:		2319 WHITNEY AVENUE, SUITE 3B
+		CITY:			HAMDEN
+		STATE:			CT
+		ZIP:			06518
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Silverberg Bernstein Capital Management LLC
+		CENTRAL INDEX KEY:			0002007880
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				931504393
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4 MILLER CIRCLE
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+		BUSINESS PHONE:		(212) 433 2475
+
+	MAIL ADDRESS:	
+		STREET 1:		4 MILLER CIRCLE
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0002007880-24-000006</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002007880</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/10/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001017303</issuerCik>
+        <issuerName>TRANSACT TECHNOLOGIES INC</issuerName>
+        <issuerCusip>892918103</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>ONE HAMDEN CENTER</com:street1>
+          <com:street2>2319 WHITNEY AVENUE, SUITE 3B</com:street2>
+          <com:city>HAMDEN</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06518</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Silverberg Bernstein Capital Management LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>741960.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>741960.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>741960.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.4</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>TRANSACT TECHNOLOGIES INC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>ONE HAMDEN CENTER, 2319 WHITNEY AVENUE, SUITE 3B, HAMDEN, CONNECTICUT, 06518</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Silverberg Bernstein Capital Management, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>4 Miller Circle, Armonk, NY 10504</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>741,960</amountBeneficiallyOwned>
+        <classPercent> 7.4%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>741,960</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>741,960</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Silverberg Bernstein Capital Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Jeffrey M. Bernstein</signature>
+        <title>Partner</title>
+        <date>01/14/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

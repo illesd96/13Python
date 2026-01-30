@@ -1,0 +1,576 @@
+<SEC-DOCUMENT>0000919574-25-000453.txt : 20250122
+<SEC-HEADER>0000919574-25-000453.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122164044
+ACCESSION NUMBER:		0000919574-25-000453
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			InfuSystem Holdings, Inc
+		CENTRAL INDEX KEY:			0001337013
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				203341405
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-81749
+		FILM NUMBER:		25546431
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3851 WEST HAMLIN ROAD
+		CITY:			ROCHESTER HILLS
+		STATE:			MI
+		ZIP:			48309
+		BUSINESS PHONE:		(248) 291-1210
+
+	MAIL ADDRESS:	
+		STREET 1:		3851 WEST HAMLIN ROAD
+		CITY:			ROCHESTER HILLS
+		STATE:			MI
+		ZIP:			48309
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HAPC, Inc.
+		DATE OF NAME CHANGE:	20060425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Healthcare Acquisition Partners Corp.
+		DATE OF NAME CHANGE:	20050824
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SANSONE ADVISORS, LLC
+		CENTRAL INDEX KEY:			0001588957
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				113839835
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6 EAST 43RD STREET
+		STREET 2:		23RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		914-715-8847
+
+	MAIL ADDRESS:	
+		STREET 1:		6 EAST 43RD STREET
+		STREET 2:		23RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000919574-17-005057</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SANSONE ADVISORS, LLC -->
+          <cik>0001588957</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>01/21/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001337013</issuerCIK>
+        <issuerCUSIP>45685K102</issuerCUSIP>
+        <issuerName>InfuSystem Holdings, Inc</issuerName>
+        <address>
+          <com:street1>3851 West Hamlin Road</com:street1>
+          <com:street2>23rd Floor</com:street2>
+          <com:city>Rochester Hills</com:city>
+          <com:stateOrCountry>MI</com:stateOrCountry>
+          <com:zipCode>48309</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Christopher Sansone</personName>
+          <personPhoneNum>(914) 715-8847</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Sansone Advisors, LLC</com:street1>
+            <com:street2>151 Bodman Place, Suite 100</com:street2>
+            <com:city>Red Bank</com:city>
+            <com:stateOrCountry>NJ</com:stateOrCountry>
+            <com:zipCode>07701</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001588957</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sansone Advisors, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>939294.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>939294.00</sharedDispositivePower>
+        <aggregateAmountOwned>939294.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001710368</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Sansone Capital Management, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>939294.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>939294.00</sharedDispositivePower>
+        <aggregateAmountOwned>939294.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001519525</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Christopher Sansone</reportingPersonName>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>58349.00</soleVotingPower>
+        <sharedVotingPower>939294.00</sharedVotingPower>
+        <soleDispositivePower>58349.00</soleDispositivePower>
+        <sharedDispositivePower>939294.00</sharedDispositivePower>
+        <aggregateAmountOwned>997643.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.7</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>InfuSystem Holdings, Inc</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>3851 West Hamlin Road</com:street1>
+          <com:street2>23rd Floor</com:street2>
+          <com:city>Rochester Hills</com:city>
+          <com:stateOrCountry>MI</com:stateOrCountry>
+          <com:zipCode>48309</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>The name of the issuer is InfuSystem Holdings, Inc., a Delaware corporation (the "Issuer").  The address of the Issuer's principal executive offices is 3851 West Hamlin Road, Rochester Hills, Michigan 48309.  This Amendment No. 4 to Schedule 13D relates to the Issuer's Common Stock, par value $0.0001 per share (the "Shares").</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>(a), (f) The persons filing this statement are: (i) Sansone Advisors, LLC, a Delaware limited liability company ("Sansone Advisors"); (ii) Sansone Capital Management, LLC, a Delaware limited liability company ("Sansone Capital Management"); and (iii) Christopher Sansone, a United States citizen ("Mr. Sansone", and collectively with Sansone Advisors and Sansone Capital Management, the "Reporting Persons").
+
+(b), (c) Sansone Advisors is principally engaged in the business of providing investment management services to its pooled investment vehicle clients (collectively, the "Sansone Funds").  Sansone Capital Management serves as the general partner of the Sansone Funds.  Mr. Sansone is the managing member of Sansone Advisors and Sansone Capital Management.  The principal business address of the Reporting Persons is 151 Bodman Place, Suite 100, Red Bank, New Jersey 07701.
+
+(d) None of the Reporting Persons have, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).
+
+(e) None of the Reporting Persons have, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</filingPersonName>
+      </item2>
+      <item3>
+        <fundsSource>The funds for the purchase of the 939,294 Shares beneficially owned by Sansone Advisors came from the working capital of the Sansone Funds.  No borrowed funds were used to purchase the Shares, other than any borrowed funds used for working capital purposes (including certain leverage arrangements) in the ordinary course of business.
+
+The funds for the purchase of the 939,294 Shares beneficially owned by Sansone Capital Management came from the working capital of the Sansone Funds.  No borrowed funds were used to purchase the Shares, other than any borrowed funds used for working capital purposes (including certain leverage arrangements) in the ordinary course of business.
+
+The funds for the purchase of the 997,643 Shares beneficially owned by Mr. Sansone came from: (i) the working capital of the Sansone Funds; and (ii) the exercise of stock options received by Mr. Sansone in connection with his prior service on the Issuer's board of directors.  No borrowed funds were used to purchase the Shares, other than any borrowed funds used for working capital purposes (including certain leverage arrangements) in the ordinary course of business.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Shares beneficially owned by the Reporting Persons were acquired for investment in the ordinary course of the Reporting Persons' investment activities.
+
+This Schedule 13D/A is being filed to report a change in the Reporting Persons' respective beneficial ownership percentages.
+
+Except as otherwise set forth herein, the Reporting Persons do not have any present plans or proposals which would relate to, or result in, the matters set forth in subparagraphs (a) - (j) of Item 4 of Schedule 13D.  However, subject to market conditions and in compliance with applicable securities laws, the Reporting Persons reserve the right, at a later date, to effect one or more of such changes or transactions in the number of Shares they may be deemed to beneficially own in open-market transactions or privately negotiated transactions.  The Reporting Persons may also communicate with the Issuer's management, the Board and other holders of Shares from time to time.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>(a) - (d) As of the date hereof, Sansone Advisors may be deemed to be the beneficial owner of 939,294 Shares, constituting 4.4% of the Shares, based upon 21,263,597 Shares outstanding as of the date hereof.  Sansone Advisors has the sole power to vote or direct the vote of 0 Shares and the shared power to vote or direct the vote of 939,294 Shares.  Sansone Advisors has the sole power to dispose or direct the disposition of 0 Shares and the shared power to dispose or direct the disposition of 939,294 Shares.
+
+As of the date hereof, Sansone Capital Management may be deemed to be the beneficial owner of 939,294 Shares, constituting 4.4% of the Shares, based upon 21,263,597 Shares outstanding as of the date hereof.  Sansone Capital Management has the sole power to vote or direct the vote of 0 Shares and the shared power to vote or direct the vote of 939,294 Shares.  Sansone Capital Management has the sole power to dispose or direct the disposition of 0 Shares and the shared power to dispose or direct the disposition of 939,294 Shares.
+
+As of the date hereof, Mr. Sansone may be deemed to be the beneficial owner of 997,643 Shares, constituting 4.7% of the Shares, based upon 21,263,597 Shares outstanding as of the date hereof.  Mr. Sansone has the sole power to vote or direct the vote of 58,349 Shares and the shared power to vote or direct the vote of 939,294 Shares.  Mr. Sansone has the sole power to dispose or direct the disposition of 58,349 Shares and the shared power to dispose or direct the disposition of 939,294 Shares.
+
+The transactions in the Shares by the Reporting Persons during the past sixty days are set forth on Exhibit B.  All of the reported transactions set forth on Exhibit B were open-market transactions by Sansone Advisors on behalf of the Sansone Funds, are the direct owners of the Shares beneficially owned by Sansone Advisors and Sansone Capital Management.  None of the Sansone Funds may be deemed to beneficially own more than five percent of the Shares.
+
+(e) On December 23, 2024, each of Sansone Advisors and Sansone Capital Management ceased to be the beneficial owner of more than five percent of the Shares.
+
+On January 15, 2025, Mr. Sansone ceased to be the beneficial owner of more than five percent of the Shares.</percentageOfClassSecurities>
+      </item5>
+      <item6>
+        <contractDescription>The information set forth in Item 4 above is incorporated by reference in its entirety in this Item 6.  The Reporting Persons do not have any contract, arrangement, understanding or relationship with any person with respect to securities of the Issuer that is not described in Item 4 above and/or incorporated herein by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit A: Joint Filing Agreement
+
+Exhibit B: Schedule of Transactions in the Shares</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Sansone Advisors, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Christopher Sansone*</signature>
+          <title>Christopher Sansone/Managing Member</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Sansone Capital Management, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Christopher Sansone*</signature>
+          <title>Christopher Sansone/Managing Member</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Christopher Sansone</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Christopher Sansone*</signature>
+          <title>Christopher Sansone</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>* Each Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his or its pecuniary interests therein, and this report shall not be deemed an admission that such person is the beneficial owner of these securities for purposes of Section 16 of the U.S. Securities Exchange Act of 1934, as amended, or for any other purpose.
+
+Attention:  Intentional misstatements or omissions of fact constitute Federal criminal violations (see 18 U.S.C. 1001).</commentText>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11590516_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>Exhibit A</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>AGREEMENT</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The undersigned agree that this
+Amendment No. 4 to Schedule 13D, dated January 22, 2025, relating to the Common Stock, par value $0.0001 per share, of InfuSystem Holdings,
+Inc. shall be filed on behalf of the undersigned.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 41%; padding-right: 5.4pt; padding-left: 5.4pt">Dated:&nbsp;&nbsp;January 22, 2025</TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 57%; padding-right: 5.4pt; padding-left: 5.4pt"><B>Sansone Advisors, LLC</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">By: /s/ Christopher Sansone</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Name:&nbsp;&nbsp;Christopher Sansone</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Title:&nbsp;&nbsp;&nbsp;Managing Member</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 41%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 57%; padding-right: 5.4pt; padding-left: 5.4pt"><B>Sansone Capital Management, LLC</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">By: /s/ Christopher Sansone</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Name:&nbsp;&nbsp;Christopher Sansone</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Title:&nbsp;&nbsp;&nbsp;Managing Member</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 41%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 57%; padding-right: 5.4pt; padding-left: 5.4pt"><B>Christopher Sansone</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">By: /s/ Christopher Sansone</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>d11590516_ex99-b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><B>Exhibit B</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 1.8pt 12pt 0; text-align: center"><B>Schedule of Transactions in the Shares</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 26%; border: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>Trade Date</B></TD>
+    <TD STYLE="width: 34%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B>Purchase/Sale</B></TD>
+    <TD STYLE="width: 19%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.1pt; padding-left: 5.4pt; text-align: right"><B>Quantity</B></TD>
+    <TD STYLE="width: 21%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right"><B>Price</B></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/9/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;1,427</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.31</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/9/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;14,273</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.31</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/10/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;455</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.14</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/10/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;4,545</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.14</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/11/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;627</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.14</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/11/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;6,273</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.14</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/12/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;509</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.01</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/12/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;5,091</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.01</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/13/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;527</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.01</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/13/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;5,273</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$9.01</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/23/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;1,202</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.19</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/23/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;12,017</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.19</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/24/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;3,798</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.20</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/24/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;37,983</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.20</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/30/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;160</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.15</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/30/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;1,599</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.15</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/31/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;95</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.15</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">12/31/24</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;955</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.15</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/2/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;391</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.70</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/2/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;3,909</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.70</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/3/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;1,037</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.23</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/3/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;10,366</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.23</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/6/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;1,840</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.35</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/6/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;18,403</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.35</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/15/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;14,768</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.07</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/16/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;1,477</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.07</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/17/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;526</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$7.99</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/17/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;5,264</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$7.99</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/21/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;4,474</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.25</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">1/21/25</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 0.95pt; padding-left: 5.4pt; text-align: center">Sale</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-align: justify">&nbsp;44,736</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 9.65pt; padding-left: 5.4pt; text-align: right">$8.25</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

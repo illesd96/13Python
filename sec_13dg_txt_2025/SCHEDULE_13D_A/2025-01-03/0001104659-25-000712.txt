@@ -1,0 +1,301 @@
+<SEC-DOCUMENT>0001104659-25-000712.txt : 20250103
+<SEC-HEADER>0001104659-25-000712.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103134258
+ACCESSION NUMBER:		0001104659-25-000712
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CROSS COUNTRY HEALTHCARE INC
+		CENTRAL INDEX KEY:			0001141103
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				134066229
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78032
+		FILM NUMBER:		25505128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6551 PARK OF COMMERCE BOULEVARD, N.W.
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+		BUSINESS PHONE:		8003472264
+
+	MAIL ADDRESS:	
+		STREET 1:		6551 PARK OF COMMERCE BOULEVARD, N.W.
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CROSS COUNTRY INC
+		DATE OF NAME CHANGE:	20010521
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Magnetar Financial LLC
+		CENTRAL INDEX KEY:			0001352851
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				043818748
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1603 ORRINGTON AVE.
+		STREET 2:		13TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+		BUSINESS PHONE:		(847)905-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		1603 ORRINGTON AVE.
+		STREET 2:		13TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-24-130738</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Magnetar Financial LLC -->
+          <cik>0001352851</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $.0001</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001141103</issuerCIK>
+        <issuerCUSIP>227483104</issuerCUSIP>
+        <issuerName>Cross Country Healthcare, Inc.</issuerName>
+        <address>
+          <com:street1>6551 Park of Commerce Blvd NW</com:street1>
+          <com:city>Boca Raton</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33487</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>David J. SnydermanMagnetar Cap</personName>
+          <personPhoneNum>847-905-4400</personPhoneNum>
+          <personAddress>
+            <com:street1>1603 Orrington Ave.</com:street1>
+            <com:city>Evanston</com:city>
+            <com:stateOrCountry>IL</com:stateOrCountry>
+            <com:zipCode>60201</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001352851</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Magnetar Financial LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2324229.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2324229.00</sharedDispositivePower>
+        <aggregateAmountOwned>2324229.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.20</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001353085</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Magnetar Capital Partners LP</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2324229.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2324229.00</sharedDispositivePower>
+        <aggregateAmountOwned>2324229.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.20</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001368026</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Supernova Management LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2324229.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2324229.00</sharedDispositivePower>
+        <aggregateAmountOwned>2324229.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.20</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001953511</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>David J. Snyderman</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2324229.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2324229.00</sharedDispositivePower>
+        <aggregateAmountOwned>2324229.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.20</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $.0001</securityTitle>
+        <issuerName>Cross Country Healthcare, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>6551 Park of Commerce Blvd NW</com:street1>
+          <com:city>Boca Raton</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>33487</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Magnetar Financial LLC, a Delaware limited liability company ("Magnetar Financial"), Magnetar Capital Partners LP, a Delaware limited partnership ("Magnetar Capital Partners"), Supernova Management LLC, a Delaware limited liability company ("Supernova Management"), and David J. Snyderman ("Mr. Snyderman") (collectively, the "Reporting Persons").</filingPersonName>
+        <principalBusinessAddress>1603 Orrington Avenue, 13th Floor, Evanston, Illinois 60201</principalBusinessAddress>
+        <principalJob>Magnetar Financial is a Securities and Exchange Commission ("SEC") registered investment adviser under Section 203 of the Investment Advisers Act of 1940, as amended, and manager of investment funds and managed accounts. Magnetar Financial serves as investment adviser to each of the Funds. In such capacity, Magnetar Financial exercises voting and investment power over the Shares held for the accounts of each of the Funds.  Magnetar Capital Partners serves as the sole member and parent holding company of Magnetar Financial. Supernova Management is the general partner of Magnetar Capital Partners. The manager of Supernova Management is Mr. Snyderman.
+
+Magnetar Asset Management LLC ("Magnetar Asset Management") is an SEC registered investment adviser and an affiliate of Magnetar Financial.  Magnetar Capital Partners serves as the sole member and parent holding company of Magnetar Asset Management.
+
+Each of the Funds is a private investment fund; Magnetar Financial is a privately-held SEC registered investment adviser and manager of investment funds and managed accounts; Magnetar Capital Partners is a privately-held limited partnership and serves as the sole member and parent holding company of Magnetar Financial; Supernova Management is a privately-held limited liability company and is the general partner of Magnetar Capital Partners; and Mr. Snyderman is a citizen of the United States of America, manager of Supernova Management and Chief Executive Officer of Magnetar Financial.</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons has, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction as a result of which such Reporting Person was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws</convictionDescription>
+        <citizenship>Magnetar Financial is a Delaware limited liability company. Magnetar Capital Partners is a Delaware limited partnership. Supernova Management is a Delaware limited liability company. Mr. Snyderman is a citizen of the United States of America.</citizenship>
+      </item2>
+      <item4>
+        <transactionPurpose>Since the filing of Schedule 13D on December 20, 2024, the Reporting Persons purchased 377,295 Shares between December 19, 2024 and January 2, 2025 reported herein, which consists of 234,221 Shares purchased by the PRA Master Fund, 99,991 Shares purchased by the Systematic Master Fund,22,272 Shares purchased by the Relative Value Master Fund and 20,811 Shares purchased by the Managed Account.
+
+Each of the Reporting Persons reserves the right to acquire additional securities of the Company in the open market, in privately negotiated transactions, or otherwise, to dispose of all or a portion of the Shares and/or other securities reported in this Statement, or to change their intention with respect to any or allof the matters referred to in this Item 4.
+
+Other than as described above in this Item 4, the Reporting Persons do not have any plans or proposals that relate to, or would result in, any actions or events specified in clauses (a) through (j) of Item 4 to Schedule 13D.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The Company reported in their Form 8-K Report filed December 4, 2024,that 32,227,395shares were outstanding as of December 3, 2024.
+
+As of the close of business January 2, 2025, each of the Reporting Persons may have been deemed to have beneficial ownership of 2,324,229 Shares, which consisted of (i) 1,442,879 Shares held for the benefit of the PRA Master Fund and (ii)  615,945 Shares held for the benefit of the Systematic Master Fund, and (iii) 137,207 Shares held for the benefit of the Relative Value Master Fund, and (iv) 128,198 Shares held for the benefit of the Managed Account, and all such Shares represented beneficial ownership of approximately 7.20% of the Shares.</percentageOfClassSecurities>
+        <numberOfShares>As of the close of business January 2, 2025, each of the Reporting Persons may have been deemed to have beneficial ownership of 2,324,229 Shares, which consisted of (i) 1,442,879 Shares held for the benefit of the PRA Master Fund and (ii)  615,945 Shares held for the benefit of the Systematic Master Fund, and (iii) 137,207 Shares held for the benefit of the Relative Value Master Fund, and (iv) 128,198 Shares held for the benefit of the Managed Account, and all such Shares represented beneficial ownership of approximately 7.20% of the Shares.</numberOfShares>
+        <transactionDesc>Except as set forth on Schedule A attached hereto and Item 6, the Funds had no transactions in the Shares during the 15 days preceding the date of filing of this Statement. All of the transactions set forth on Schedule A attached hereto were effected in the ordinary course of business of Magnetar Financial for the accounts of each of the Funds. The transactions in the Shares set forth on Schedule Awere effected in open market transactions on the NASDAQ and various other trading markets.</transactionDesc>
+        <listOfShareholders>No other person is known by the Reporting Persons to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, any Shares that are beneficially owned by the Reporting Persons.</listOfShareholders>
+      </item5>
+      <item6>
+        <contractDescription>Pursuant to Rule 13d-1(k)(1) promulgated under the Securities Exchange Act of 1934, as amended, the Reporting Persons have entered into an agreement with respect to the joint filing of this Statement, and any amendment or amendments hereto.
+
+Except as otherwise described herein, no contracts, arrangements, understandings or similar relationships exist with respect to the securities of the Company among or between the Reporting Persons or any other person or entity.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>99.1 Joint Filing Agreement, dated as of January 3, 2025, among the Reporting Persons
+
+99.2 Power of Attorney, dated as of December 22, 2022 filed by the Reporting Persons on January 3, 2025.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Magnetar Financial LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Name: Hayley Stein, Title: Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Magnetar Capital Partners LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Name: Hayley Stein, Title: Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Supernova Management LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Name: Hayley Stein, Title: Attorney-in-fact for David J. Snyderman, Manager</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>David J. Snyderman</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hayley Stein</signature>
+          <title>Name:Hayley Stein, Title: Attorney-in-fact for David J. Snyderman</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>EXHIBIT 99.2
+LIMITED POWER OF ATTORNEY
+
+Know all by these present, that I, David J. Snyderman, hereby make, constitute and appoint each of _Michael Turro_, Karl Wachter_ and Hayley Stein_, or any of them acting individually, and with full power of substitution, as my true and lawful attorney-in-fact for the purpose of executing in my name, (a) in my personal capacity or (b) in my capacity as Manager or in other capacities of Supernova Management LLC, a Delaware limited liability company, and each of its affiliates or entities advised or controlled by me or Supernova Management LLC, all documents, certificates, instruments, statements, filings and agreements ("documents") to be filed with or delivered to the United States Securities and Exchange Commission (the "SEC") pursuant to the Securities and Exchange Act of 1934, as amended (the "Act"), and the rules and regulations promulgated thereunder, including, without limitation, all documents relating to the beneficial ownership of securities required to be filed with the SEC pursuant to Section 13(d) or Section 16(a) of the Act, including, without limitation: (a) any acquisition statements on Schedule 13D or Schedule 13G and any amendments thereto, (b) any joint filing agreements pursuant to Rule 13d-1(k) under the Act, and (c) any initial statements of, or statements of changes in, beneficial ownership of securities on Form 3, Form 4 or Form 5.
+
+All past acts of the attorney-in-fact in furtherance of the foregoing are hereby ratified and confirmed.
+
+This Power of Attorney shall remain in full force and effect until the earlier of it being (a) revoked by the undersigned in a signed writing delivered to the foregoing attorney-in-fact or (b) superseded by a new power of attorney regarding the purposes outlined herein as of a later date.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this __22__ day of December, 2022.
+
+/s/ David J. Snyderman
+David J. Snyderman</commentText>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

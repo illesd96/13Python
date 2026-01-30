@@ -1,0 +1,225 @@
+<SEC-DOCUMENT>0001185185-25-000004.txt : 20250103
+<SEC-HEADER>0001185185-25-000004.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103124420
+ACCESSION NUMBER:		0001185185-25-000004
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CLS Holdings USA, Inc.
+		CENTRAL INDEX KEY:			0001522222
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS RETAIL [5900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89292
+		FILM NUMBER:		25504749
+
+	BUSINESS ADDRESS:	
+		STREET 1:		516 S. 4TH STREET
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89101
+		BUSINESS PHONE:		(416) 992-4539
+
+	MAIL ADDRESS:	
+		STREET 1:		516 S. 4TH STREET
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Adelt Design, Inc.
+		DATE OF NAME CHANGE:	20110601
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEM Investments LLC
+		CENTRAL INDEX KEY:			0002011390
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				271460117
+		STATE OF INCORPORATION:			AZ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6900 E. CAMELBACK RD.
+		STREET 2:		STE. 1020
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+		BUSINESS PHONE:		602-908-2213
+
+	MAIL ADDRESS:	
+		STREET 1:		6900 E. CAMELBACK RD.
+		STREET 2:		STE. 1020
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85251
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002011390</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>10/28/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001522222</issuerCIK>
+        <issuerCUSIP>12565J308</issuerCUSIP>
+        <issuerName>CLS Holdings USA, Inc.</issuerName>
+        <address>
+          <com:street1>516 S. 4TH STREET</com:street1>
+          <com:city>LAS VEGAS</com:city>
+          <com:stateOrCountry>NV</com:stateOrCountry>
+          <com:zipCode>89101</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Elmer Louis Werner III</personName>
+          <personPhoneNum>(602) 908-2213</personPhoneNum>
+          <personAddress>
+            <com:street1>6900 E Camelback Road Ste 1020</com:street1>
+            <com:city>Phoenix</com:city>
+            <com:stateOrCountry>AZ</com:stateOrCountry>
+            <com:zipCode>85251</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002011390</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>LEM Investments LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>AZ</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>16358109.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>16358109.00</sharedDispositivePower>
+        <aggregateAmountOwned>16358109.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.9</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001682908</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Werner Lou III</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>16358109.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>16358109.00</sharedDispositivePower>
+        <aggregateAmountOwned>16358109.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>9.9</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>CLS Holdings USA, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>516 S. 4TH STREET</com:street1>
+          <com:city>LAS VEGAS</com:city>
+          <com:stateOrCountry>NV</com:stateOrCountry>
+          <com:zipCode>89101</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Schedule 13D relates to the common stock, par value $0.0001 (the "Common Stock"). </commentText>
+      </item1>
+      <item2>
+        <filingPersonName>The names of the persons filing this Schedule 13D are LEM Investments LLC and Elmer Louis Werner, III, the managing member of LEM Investments LLC (the "Reporting Persons").</filingPersonName>
+        <principalBusinessAddress>The business address of the Reporting Persons is 6900 E Camelback Road Ste 1020, Phoenix, Arizona 85251.</principalBusinessAddress>
+        <principalJob>Mr. Werner's principal business is managing his investments.  Mr. Werner conducts this business LEM Investments LLC.  LEM Investments LLC's principal business is an investment company. </principalJob>
+        <hasBeenConvicted>During the past five years none of the Reporting Persons has been convicted in a criminal proceeding.</hasBeenConvicted>
+        <convictionDescription>During the past five years none of the Reporting Persons has been party to a civil proceeding as a result of which it is subject to a judgment, decree or final order enjoining it from, or mandating activities subject to, federal or state securities laws, or finding it in violation of such laws.</convictionDescription>
+        <citizenship>Each of the Reporting Persons is a United States citizen.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>LEM Investments LLC purchased certain of its Common Stock with its working capital. LEM Investments LLC obtained other of its Common Stock upon the conversion of certain convertible notes representing amounts LEM Investments LLC lent to the issuer. Mr. Werner is the beneficial owner of these shares.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Persons purchased the Common Stock for investment purposes.
+
+No Reporting Person has any plans or proposals that relate to or would result in any of the transactions or other matters specified in clauses (a) through (j) of Item 4 of Schedule 13D. Each Reporting Person may, at any time and from time to time, review or reconsider its position and/or change its purpose and/or formulate plans or proposals with respect thereto.
+</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Lou Werner III has the shared power to direct the vote and disposition of the shares held by LEM Investments LLC which holds 16,358,109 shares of Common Stock, representing 9.93% of the outstanding Common Stock of CLS Holdings USA, Inc. </percentageOfClassSecurities>
+        <numberOfShares>Lou Werner III has the shared power to direct the vote and disposition of the shares held by LEM Investments LLC which holds 16,358,109 shares of Common Stock, representing 9.93% of the outstanding Common Stock of CLS Holdings USA, Inc. </numberOfShares>
+        <transactionDesc>LEM Investments LLC sold 750,000 shares of Common Stock on October 28, 2024 at a price per share of $0.04. The sale was conducted as a private transaction to another CLS Holdings USA, Inc. shareholder. </transactionDesc>
+        <listOfShareholders>None.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>None.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>None.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>LEM Investments LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ LEM Investments LLC by Lou Werner</signature>
+          <title>LEM Investments LLC by Lou Werner/Member</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Werner Lou III</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Lou Werner III</signature>
+          <title>Lou Werner III/Individual</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

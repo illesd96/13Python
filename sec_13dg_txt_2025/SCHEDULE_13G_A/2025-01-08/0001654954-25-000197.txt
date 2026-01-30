@@ -1,0 +1,263 @@
+<SEC-DOCUMENT>0001654954-25-000197.txt : 20250108
+<SEC-HEADER>0001654954-25-000197.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108163507
+ACCESSION NUMBER:		0001654954-25-000197
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ISSUER DIRECT CORP
+		CENTRAL INDEX KEY:			0000843006
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				261331503
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41710
+		FILM NUMBER:		25518961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 GLENWOOD AVE.
+		STREET 2:		SUITE 1001
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27603
+		BUSINESS PHONE:		9194611600
+
+	MAIL ADDRESS:	
+		STREET 1:		1 GLENWOOD AVE.
+		STREET 2:		SUITE 1001
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOCUCON INC
+		DATE OF NAME CHANGE:	20071002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOCUCON INCORPORATED
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Forager Capital Management, LLC
+		CENTRAL INDEX KEY:			0001802986
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				453145346
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2025 3RD AVENUE NORTH
+		STREET 2:		SUITE 350
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+		BUSINESS PHONE:		205-383-4763
+
+	MAIL ADDRESS:	
+		STREET 1:		2025 3RD AVENUE NORTH
+		STREET 2:		SUITE 350
+		CITY:			BIRMINGHAM
+		STATE:			AL
+		ZIP:			35203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001654954-21-010902</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001802986</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>7</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>03/14/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000843006</issuerCik>
+        <issuerName>ISSUER DIRECT CORP</issuerName>
+        <issuerCusip>46520M204</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1 GLENWOOD AVE.</com:street1>
+          <com:street2>1 GLENWOOD AVE.</com:street2>
+          <com:city>RALEIGH</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>27603</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Forager Capital Management, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>39650.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>39650.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>39650.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>1.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <comments>1. Shares reported in this table are held by Forager Fund, LP, of which the Reporting Person is the general partner.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Forager Fund, L.P.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>39650.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>39650.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>39650.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>1.0</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Kissel Edward Urban</reportingPersonName>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2465.00</soleVotingPower>
+        <sharedVotingPower>39650.00</sharedVotingPower>
+        <soleDispositivePower>2465.00</soleDispositivePower>
+        <sharedDispositivePower>39650.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>42115.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>1.1</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <comments>2. These shares are held by Forager Fund, LP, of which Forager Capital Management, LLC is the general partner.  The Reporting Person is a managing partner of Forager Capital Management, LLC.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>MacArthur Robert Symmes</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>39650.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>39650.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>39650.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>1.0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <comments>3. These shares are held by Forager Fund, LP, of which Forager Capital Management, LLC is the general partner.  The Reporting Person is a managing partner of Forager Capital Management, LLC.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>ISSUER DIRECT CORP</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1 GLENWOOD AVE., 1 GLENWOOD AVE., RALEIGH, NORTH CAROLINA, 27603.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This joint statement on Schedule 13G is being filed by Edward Kissel, Robert MacArthur, Forager Capital Management, LLC, a Delaware limited liability company (the "Investment Adviser"), and Forager Fund, LP, a Delaware limited partnership (the "Fund" and, together with Mr. Kissel, Mr. MacArthur and the Investment Adviser, the "Reporting Persons").</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The business address of each of the Reporting Persons is 2025 3rd Ave. N, Suite 350, Birmingham, AL 35203.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>The Fund is a Delaware limited partnership; the Investment Adviser is a Delaware limited liability company; Mr. Kissel is a citizen of the United States; and Mr. MacArthur is a citizen of the United States.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>As of March 14, 2024, the Reporting Persons, in the aggregate, beneficially owned 42,115 shares of Common Stock of the Issuer, representing approximately 1.1% of such class of securities.  The beneficial ownership of each Reporting Person is as follows: (i) the Fund beneficially owns 39,650 shares of Common Stock representing approximately 1.0% of the class; (ii) the Investment Adviser, as the sole general partner of the Fund, beneficially owns 39,650 shares of Common Stock representing approximately 1.0% of the class; (iii) Mr. Kissel, as the managing partner of the Investment Adviser, beneficially owns 42,115 shares of Common Stock representing approximately 1.1% of the class; and (iv) Mr. MacArthur, as the managing partner of the Investment Adviser, beneficially owns 39,650 shares of Common Stock representing approximately 1.0% of the class.  The percentages of beneficial ownership reported herein, and on each Reporting Person?s cover page to this Schedule 13G, are based on a total of 3,815,212 shares of the Common Stock issued and outstanding as of March 7, 2024, as reported in the annual report of the Issuer on Form 10-K for its fiscal year ended December 31, 2023.
+
+Each of the Fund and the Investment Adviser has the sole power to vote and dispose of the shares of Common Stock beneficially owned by such entity (as described above). Mr. Kissel has the sole power to vote and dispose of 2,465 shares of Common Stock, and has the shared power to vote and dispose of 39,650 shares of Common Stock. Mr. MacArthur has the sole power to vote and dispose of 0 shares of Common Stock, and has the shared power to vote and dispose of 39,650 shares of Common Stock.</amountBeneficiallyOwned>
+        <classPercent>1.0-1.1</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Item 4(a).</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Item 4(a).</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Item 4(a).</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Item 4(a).</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Forager Capital Management, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Robert MacArthur</signature>
+        <title>Managing Partner</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Forager Fund, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Robert MacArthur</signature>
+        <title>Managing Partner</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Kissel Edward Urban</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Edward Kissel</signature>
+        <title>Reporting Owner</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>MacArthur Robert Symmes</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Robert MacArthur</signature>
+        <title>Reporting Owner</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

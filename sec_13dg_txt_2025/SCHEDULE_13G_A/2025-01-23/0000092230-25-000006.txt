@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0000092230-25-000006.txt : 20250123
+<SEC-HEADER>0000092230-25-000006.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123151833
+ACCESSION NUMBER:		0000092230-25-000006
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			iShares U.S. ETF Trust
+		CENTRAL INDEX KEY:			0001524513
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88485
+		FILM NUMBER:		25549662
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 HOWARD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+		BUSINESS PHONE:		(415) 670-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		400 HOWARD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94105
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUIST FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000092230
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				560939887
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		214 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+		BUSINESS PHONE:		8444878478
+
+	MAIL ADDRESS:	
+		STREET 1:		214 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BB&T CORP
+		DATE OF NAME CHANGE:	19970527
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUTHERN NATIONAL CORP /NC/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000092230-24-000087</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000092230</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Exchange Traded Fund</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001524513</issuerCik>
+        <issuerName>iShares U.S. ETF Trust</issuerName>
+        <issuerCusip>46431W853</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>400 HOWARD STREET</com:street1>
+          <com:street2>400 HOWARD STREET</com:street2>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94105</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>TRUIST FINANCIAL CORP</reportingPersonName>
+      <citizenshipOrOrganization>NC</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>503601.34</soleVotingPower>
+        <sharedVotingPower>5414.00</sharedVotingPower>
+        <soleDispositivePower>494650.34</soleDispositivePower>
+        <sharedDispositivePower>12276.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>510726.34</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>1.9</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>BK</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>iShares U.S. ETF Trust</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>400 HOWARD STREET, 400 HOWARD STREET, SAN FRANCISCO, CALIFORNIA, 94105.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Truist Financial Corporation as Parent Holding Company for Truist Advisory Services, Inc. an affiliated Registered Investment Advisor and Truist Bank in various fiduciary capacities</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>214 North Tryon Street
+Charlotte, NC 28202</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Truist Financial Corporation is a North Carolina Corporation;
+Truist Advisory Services, Inc. is a Delaware Corporation;
+Truist Bank is North Carolina Commercial Banking Association</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>BK</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>510726.34
+</amountBeneficiallyOwned>
+        <classPercent>1.89</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>503601.34</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>5414</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>494650.34</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>12276</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>TRUIST FINANCIAL CORP</reportingPersonName>
+      <signatureDetails>
+        <signature>Edward M. Kwiatkowski</signature>
+        <title>Vice President</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

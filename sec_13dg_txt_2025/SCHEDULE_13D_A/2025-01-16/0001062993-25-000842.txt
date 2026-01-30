@@ -1,0 +1,512 @@
+<SEC-DOCUMENT>0001062993-25-000842.txt : 20250116
+<SEC-HEADER>0001062993-25-000842.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116173343
+ACCESSION NUMBER:		0001062993-25-000842
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250116
+DATE AS OF CHANGE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nuveen Core Plus Impact Fund
+		CENTRAL INDEX KEY:			0001835068
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93505
+		FILM NUMBER:		25536517
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 WEST WACKER DR.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		312-917-8146
+
+	MAIL ADDRESS:	
+		STREET 1:		333 WEST WACKER DR.
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nuveen Impact Opportunities Fund
+		DATE OF NAME CHANGE:	20201204
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Saba Capital Management, L.P.
+		CENTRAL INDEX KEY:			0001510281
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				800361690
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE
+		STREET 2:		58TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+		BUSINESS PHONE:		212-542-4635
+
+	MAIL ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE
+		STREET 2:		58TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+	<headerData>
+		<submissionType>SCHEDULE 13D/A</submissionType>
+		<previousAccessionNumber>0001062993-23-007712</previousAccessionNumber>
+		<filerInfo>
+			<filer>
+				<filerCredentials>
+					<cik>0001510281</cik>
+					<ccc>XXXXXXXX</ccc>
+				</filerCredentials>
+			</filer>
+			<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+		</filerInfo>
+	</headerData>
+	<formData>
+		<coverPageHeader>
+			<amendmentNo>6</amendmentNo>
+			<securitiesClassTitle>Common Shares, $0.01 par value</securitiesClassTitle>
+			<dateOfEvent>01/15/2025</dateOfEvent>
+			<previouslyFiledFlag>true</previouslyFiledFlag>
+			<issuerInfo>
+				<issuerCIK>0001835068</issuerCIK>
+				<issuerCUSIP>67080D103</issuerCUSIP>
+				<issuerName>Nuveen Core Plus Impact Fund</issuerName>
+				<address>
+					<com:street1>333 West Wacker Drive</com:street1>
+					<com:city>Chicago</com:city>
+					<com:stateOrCountry>IL</com:stateOrCountry>
+					<com:zipCode>60606</com:zipCode>
+				</address>
+			</issuerInfo>
+			<authorizedPersons>
+				<notificationInfo>
+					<personName>Saba Capital Management, L.P.</personName>
+					<personPhoneNum>(212) 542-4635</personPhoneNum>
+					<personAddress>
+						<com:street1>405 Lexington Avenue, 58th Floor</com:street1>
+							<com:street2>Attention: Michael D'Angelo</com:street2>
+						<com:city>New York</com:city>
+						<com:stateOrCountry>NY</com:stateOrCountry>
+						<com:zipCode>10174</com:zipCode>
+					</personAddress>
+				</notificationInfo>
+			</authorizedPersons>
+		</coverPageHeader>
+		<reportingPersons>
+			<reportingPersonInfo>
+				<reportingPersonCIK>0001510281</reportingPersonCIK>
+				<reportingPersonNoCIK>N</reportingPersonNoCIK>
+				<reportingPersonName>Saba Capital Management, L.P.</reportingPersonName>
+				<fundType>OO</fundType>
+				<legalProceedings>N</legalProceedings>
+				<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+				<soleVotingPower>0</soleVotingPower>
+				<sharedVotingPower>2363719</sharedVotingPower>
+				<soleDispositivePower>0</soleDispositivePower>
+				<sharedDispositivePower>2363719</sharedDispositivePower>
+				<aggregateAmountOwned>2363719</aggregateAmountOwned>
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+				<percentOfClass>8.22</percentOfClass>
+				<typeOfReportingPerson>PN</typeOfReportingPerson>
+				<typeOfReportingPerson>IA</typeOfReportingPerson>
+			<commentContent>The percentages used herein are calculated based upon 28,755,000 shares of common stock outstanding as of 6/30/24, as disclosed in the company's N-CSRS filed 9/5/24.</commentContent>
+			</reportingPersonInfo>
+			<reportingPersonInfo>
+				<reportingPersonCIK>0001608233</reportingPersonCIK>
+				<reportingPersonNoCIK>N</reportingPersonNoCIK>
+				<reportingPersonName>Boaz R. Weinstein</reportingPersonName>
+				<fundType>OO</fundType>
+				<legalProceedings>N</legalProceedings>
+				<citizenshipOrOrganization>NY</citizenshipOrOrganization>
+				<soleVotingPower>0</soleVotingPower>
+				<sharedVotingPower>2363719</sharedVotingPower>
+				<soleDispositivePower>0</soleDispositivePower>
+				<sharedDispositivePower>2363719</sharedDispositivePower>
+				<aggregateAmountOwned>2363719</aggregateAmountOwned>
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+				<percentOfClass>8.22</percentOfClass>
+				<typeOfReportingPerson>OO</typeOfReportingPerson>
+			<commentContent>The percentages used herein are calculated based upon 28,755,000 shares of common stock outstanding as of 6/30/24, as disclosed in the company's N-CSRS filed 9/5/24.</commentContent>
+			</reportingPersonInfo>
+			<reportingPersonInfo>
+				<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+				<reportingPersonName>Saba Capital Management GP, LLC</reportingPersonName>
+				<fundType>OO</fundType>
+				<legalProceedings>N</legalProceedings>
+				<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+				<soleVotingPower>0</soleVotingPower>
+				<sharedVotingPower>2363719</sharedVotingPower>
+				<soleDispositivePower>0</soleDispositivePower>
+				<sharedDispositivePower>2363719</sharedDispositivePower>
+				<aggregateAmountOwned>2363719</aggregateAmountOwned>
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+				<percentOfClass>8.22</percentOfClass>
+				<typeOfReportingPerson>OO</typeOfReportingPerson>
+			<commentContent>The percentages used herein are calculated based upon 28,755,000 shares of common stock outstanding as of 6/30/24, as disclosed in the company's N-CSRS filed 9/5/24.</commentContent>
+			</reportingPersonInfo>
+		</reportingPersons>
+		<items1To7>
+			<item1>
+				<securityTitle>Common Shares, $0.01 par value</securityTitle>
+				<issuerName>Nuveen Core Plus Impact Fund</issuerName>
+				<issuerPrincipalAddress>
+					<com:street1>333 West Wacker Drive</com:street1>
+					<com:city>Chicago</com:city>
+					<com:stateOrCountry>IL</com:stateOrCountry>
+					<com:zipCode>60606</com:zipCode>
+				</issuerPrincipalAddress>
+				<commentText>This Amendment No. 6 amends Items 3, 5, and 7.</commentText>
+			</item1>
+			<item2>
+				<filingPersonName>This Schedule 13D/A is being jointly filed by:
+
+(i)	Saba Capital Management, L.P., a Delaware limited partnership ("Saba Capital");
+
+(ii)	Saba Capital Management GP, LLC, a Delaware limited liability company ("Saba GP"); and
+
+(iii)	Mr. Boaz R. Weinstein ("Mr. Weinstein"),
+
+(together, the "Reporting Persons").  Any disclosures herein with respect to persons other than the Reporting Persons are made on information and belief after making inquiry to the appropriate party.
+
+
+
+The filing of this statement should not be construed as an admission that any Reporting Person is, for the purposes of Sections 13 of the Securities Exchange Act of 1934, the beneficial owner of the Common Shares reported herein.</filingPersonName>
+				<principalBusinessAddress>The address of the business office of each of the Reporting Persons is 405 Lexington Avenue, 58th Floor, New York, New York 10174.</principalBusinessAddress>
+				<principalJob>The principal business of: (i) Saba Capital is to serve as investment manager to private and public investment funds and/or accounts, (ii) Saba GP is to serve as general partner of the Saba Capital and other affiliated entities, and (iii) Mr. Weinstein, an individual, is managing member of the general partner of Saba Capital and other affiliated entities.</principalJob>
+				<hasBeenConvicted>The Reporting Persons have not, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+				<convictionDescription>The Reporting Persons have not, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and, as a result of such proceeding, was, or is subject to, a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, Federal or State securities laws or finding any violation with respect to such laws.</convictionDescription>
+				<citizenship>Saba Capital is organized as a limited partnership under the laws of the State of Delaware. Saba GP is organized as a limited liability company under the laws of the State of Delaware. Mr. Weinstein is a citizen of the United States.</citizenship>
+			</item2>
+			<item3>
+				<fundsSource>Funds for the purchase of the Common Shares were derived from the subscription proceeds from investors and the capital appreciation thereon and margin account borrowings made in the ordinary course of business.  In such instances, the positions held in the margin accounts are pledged as collateral security for the repayment of debit balances in the account, which may exist from time to time.  Since other securities are held in the margin accounts, it is not possible to determine the amounts, if any, of margin used to purchase the Common Shares reported herein. A total of approximately $27,429,483 was paid to acquire the Common Shares reported herein.</fundsSource>
+			</item3>
+			<item4>
+				<transactionPurpose>Not Applicable.</transactionPurpose>
+			</item4>
+			<item5>
+				<percentageOfClassSecurities>See the Reporting Persons section of this Schedule 13D/A for the aggregate number of Common Shares and percentages of the Common Shares beneficially owned by each of the Reporting Persons.  The percentages used herein are calculated based upon 28,755,000 shares of common stock outstanding as of 6/30/24, as disclosed in the company's N-CSRS filed 9/5/24.</percentageOfClassSecurities>
+				<numberOfShares>See the Reporting Persons section of this Schedule 13D/A for the number of Common Shares as to which each Reporting Person has the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition.</numberOfShares>
+				<transactionDesc>The transactions in the Common Shares effected since the filing of the Schedule 13D/A on 12/16/24 by the Reporting Persons, which were all in the open market, are set forth in Schedule A, and are incorporated herein by reference.</transactionDesc>
+				<listOfShareholders>The funds and accounts advised by Saba Capital have the right to receive the dividends and proceeds of sales from the Common Shares.</listOfShareholders>
+				<date5PercentOwnership>Aug-22-2022</date5PercentOwnership>
+			</item5>
+			<item6>
+				<contractDescription>Not Applicable.</contractDescription>
+			</item6>
+			<item7>
+				<filedExhibits>Exhibit 5 - Schedule A</filedExhibits>
+			</item7>
+		</items1To7>
+		<signatureInfo>
+			<signaturePerson>
+				<signatureReportingPerson>Saba Capital Management, L.P.</signatureReportingPerson>
+				<signatureDetails>
+					<signature>/s/ David Han</signature>
+					<title>Chief Compliance Officer</title>
+					<date>01/16/2025</date>
+				</signatureDetails>
+			</signaturePerson>
+			<signaturePerson>
+				<signatureReportingPerson>Boaz R. Weinstein</signatureReportingPerson>
+				<signatureDetails>
+					<signature>/s/ Michael D'Angelo</signature>
+					<title>Authorized Signatory</title>
+					<date>01/16/2025</date>
+				</signatureDetails>
+			</signaturePerson>
+			<signaturePerson>
+				<signatureReportingPerson>Saba Capital Management GP, LLC</signatureReportingPerson>
+				<signatureDetails>
+					<signature>/s/ Michael D'Angelo</signature>
+					<title>Attorney-in-fact*</title>
+					<date>01/16/2025</date>
+				</signatureDetails>
+			</signaturePerson>
+			<commentText>Pursuant to a power of attorney dated as of November 16, 2015, which is incorporated herein by reference to Exhibit 2 to the Schedule 13G filed by the Reporting Persons on December 28, 2015, accession number: 0001062993-15-006823</commentText>
+		</signatureInfo>
+	</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5
+<SEQUENCE>2
+<FILENAME>exhibit5.htm
+<DESCRIPTION>EXHIBIT 5
+<TEXT>
+<html>
+
+<head>
+    <title>Saba Capital Management, L.P.: Exhibit 5 - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="text-align: center; margin-top: 0pt;"><u>EXHIBIT 5</u></p>
+    <p style="text-align: center; margin-bottom: 0pt;"><u>Schedule A</u></p>
+    <p style="text-indent: 36pt; text-align: justify;">This Schedule sets forth information with respect to each purchase and sale of Common Shares which were effectuated by Saba Capital since the filing of the Schedule 13D/A on 12/16/24.&#160; All transactions were effectuated in the open market through a broker.&#160;</p>
+    <table style="width: 50%; border-collapse: collapse; font-size: 10pt; border: 1px solid #000000;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: bottom; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; white-space: nowrap;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Trade Date</b></p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: bottom; width: 20%; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; white-space: nowrap;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Buy/Sell</b></p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: bottom; width: 24%; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; white-space: nowrap;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Shares</b></p>
+            </td>
+            <td style="border-left: 0.75pt solid #000000; padding-top: 0.38pt; width: 18%; vertical-align: bottom; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; white-space: nowrap;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Price</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/16/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">7,437</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">11.07</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/17/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">37,369</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.88</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/18/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">19,181</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.84</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/19/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">100</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.67</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/20/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,860</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.64</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/23/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">53,455</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.67</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/24/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">53,977</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.59</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/26/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">24,075</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.61</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">12/27/2024</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">4,404</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.57</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1/3/2025</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">29,409</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.65</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1/6/2025</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">7,217</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.62</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1/7/2025</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,808</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.60</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1/8/2025</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">23,676</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.59</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1/10/2025</p>
+            </td>
+            <td style="width: 20%; padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">400</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; border-bottom: 0.75pt solid #000000; padding-right: 0.38pt; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.58</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-top: 0.38pt; width: 32%; vertical-align: top; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1/15/2025</p>
+            </td>
+            <td style="padding-top: 0.38pt; width: 20%; vertical-align: top; border-left: 0.75pt solid #000000; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">Sell</p>
+            </td>
+            <td style="padding-top: 0.38pt; border-left: 0.75pt solid #000000; vertical-align: top; padding-right: 0.38pt; border-right: 0.75pt solid #000000; padding-left: 0.38pt; border-top: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">35,602</p>
+            </td>
+            <td style="padding-top: 0.38pt; padding-right: 0.38pt; padding-left: 0.38pt; vertical-align: top; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">10.46</p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,362 @@
+<SEC-DOCUMENT>0000038777-25-000010.txt : 20250127
+<SEC-HEADER>0000038777-25-000010.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127131027
+ACCESSION NUMBER:		0000038777-25-000010
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Paymentus Holdings, Inc.
+		CENTRAL INDEX KEY:			0001841156
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92586
+		FILM NUMBER:		25557006
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11605 N. COMMUNITY HOUSE ROAD
+		STREET 2:		SUITE 300
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+		BUSINESS PHONE:		(888) 440-4826
+
+	MAIL ADDRESS:	
+		STREET 1:		11605 N. COMMUNITY HOUSE ROAD
+		STREET 2:		SUITE 300
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28277
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN RESOURCES INC
+		CENTRAL INDEX KEY:			0000038777
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				132670991
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE FRANKLIN PARKWAY
+		STREET 2:		BUILDING 920/2, LEGAL-FRI SECRETARY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403
+		BUSINESS PHONE:		650-312-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		FRANKLIN RESOURCES INC
+		STREET 2:		ONE FRANKLIN PARKWAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000038777-21-000117</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FRANKLIN RESOURCES INC -->
+          <cik>0000038777</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>7</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001841156</issuerCik>
+        <issuerName>Paymentus Holdings, Inc.</issuerName>
+        <issuerCusip>70439P108</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>11605 North Community House Road</com:street1>
+          <com:street2>Suite 300</com:street2>
+          <com:city>Charlotte</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>28277</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Franklin Resources, Inc.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1686449.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1686449.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1686449.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.9</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Charles B. Johnson</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Rupert H. Johnson, Jr.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Franklin Advisers, Inc.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1648949.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1648949.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1648949.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.7</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Paymentus Holdings, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>11605 North Community House Road, Suite 300, Charlotte, NC 28277</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>(i):   Franklin Resources, Inc.
+(ii):  Charles B. Johnson
+(iii): Rupert H. Johnson, Jr.
+(iv): Franklin Advisers, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>(i), (ii), (iii) and (iv):
+One Franklin Parkway
+San Mateo, CA 94403-1906</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>(i): Delaware (ii) and (iii): USA (iv): California</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,686,449</amountBeneficiallyOwned>
+        <classPercent>6.9</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Franklin Resources, Inc.:  0
+Charles B. Johnson:    0
+Rupert H. Johnson, Jr.:  0
+Franklin Advisers, Inc.:  1,648,949
+Fiduciary Trust Company International: 37,500</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Franklin Resources, Inc.:  0
+Charles B. Johnson:    0
+Rupert H. Johnson, Jr.:  0
+Franklin Advisers, Inc.:  1,648,949
+Fiduciary Trust Company International: 37,500</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The clients of the Investment Management Subsidiaries, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or power to direct the receipt of dividends from, and the proceeds from the sale of, the securities reported herein.
+
+Franklin Small Cap Growth Fund, a series of Franklin Strategic Series, an investment company registered under the Investment Company Act of 1940, has an interest in 1,505,915 shares, or 6.2% of the class of securities reported herein.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>See Attached Exhibit C</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit A: Joint Filing Agreement
+Exhibit B: Item 4 Ownership
+Exhibit C: Item 7 Identification and Classification of Subsidiaries
+
+Exhibit A: JOINT FILING AGREEMENT
+In accordance with Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended, the undersigned hereby agree to the joint filing with each other of the attached statement on Schedule 13G and to all amendments to such statement and that such statement and all amendments to such statement are made on behalf of each of them.
+
+IN WITNESS WHEREOF, the undersigned have executed this agreement on the date of the signing of this filing.
+
+Franklin Resources, Inc.
+Charles B. Johnson
+Rupert H. Johnson, Jr.
+Franklin Advisers, Inc.
+
+By: /s/THOMAS C. MANDIA
+Assistant Secretary of Franklin Resources, Inc.
+Attorney in Fact for Charles B. Johnson pursuant to Power of Attorney attached to this Schedule 13G
+Attorney in Fact for Rupert H. Johnson, Jr. pursuant to Power of attached to this Schedule 13G
+Assistant Secretary of Franklin Advisers, Inc.
+
+Acknowledgment pursuant to Rule 13d-1(b)(1)(iii)
+Franklin Strategic Series on behalf of Franklin Small Cap Growth Fund
+
+By: /s/ALISON E. BAUR
+Vice President and Assistant Secretary of Franklin Strategic Series
+
+Exhibit B: Item 4 Ownership
+     The securities reported herein are beneficially owned by one or more open or closed end investment companies or other managed accounts that are investment management clients of investment managers that are direct and indirect subsidiaries (each, an "Investment Management Subsidiary" and, collectively, the "Investment Management Subsidiaries") of Franklin Resources Inc. ("FRI"), including the Investment Management Subsidiaries listed in this Item 4.  When an investment management contract (including a sub advisory agreement) delegates to an Investment Management Subsidiary investment discretion or voting power over the securities held in the investment advisory accounts that are subject to that agreement, FRI treats the Investment Management Subsidiary as having sole investment discretion or voting authority, as the case may be, unless the agreement specifies otherwise. Accordingly, each Investment Management Subsidiary reports on Schedule 13G that it has sole investment discretion and voting authority over the securities covered by any such investment management agreement, unless otherwise noted in this Item 4.  As a result, for purposes of Rule 13d-3 under the Act, the Investment Management Subsidiaries listed in this Item 4 may be deemed to be the beneficial owners of the securities reported in this Schedule 13G.
+     Beneficial ownership by Investment Management Subsidiaries and other FRI affiliates is being reported in conformity with the guidelines articulated by the SEC staff in Release No. 34-39538 (January 12, 1998) (the "1998 Release") relating to organizations, such as FRI, where related entities exercise voting and investment powers over the securities being reported independently from each other. The voting and investment powers held by each of FRI's affiliates whose ownership of securities is disaggregated from that of FRI in accordance with the 1998 Release ("FRI Disaggregated Affiliates") are exercised independently from FRI and from all other Investment Management Subsidiaries (FRI, its affiliates and the Investment Management Subsidiaries other than FRI Disaggregated Affiliates are collectively, "FRI Aggregated Affiliates"). Furthermore, internal policies and procedures of, on the one hand, FRI Disaggregated Affiliates, and, on the other hand, FRI establish informational barriers that prevent the flow among, on the one hand, FRI Disaggregated Affiliates (including preventing the flow between such entities), and, on the other hand, the FRI Aggregated Affiliates of information that relates to the voting and investment powers over the securities owned by their respective investment management clients. Consequently, FRI Disaggregated Affiliates report the securities over which they hold investment and voting power separately from the FRI Aggregated Affiliates for purposes of Section 13 of the Act.
+     Charles B. Johnson and Rupert H. Johnson, Jr. (the "Principal Shareholders") may each own in excess of 10% of the outstanding common stock of FRI and are the principal stockholders of FRI (see FRI's Proxy Statement-Stock Ownership of Certain Beneficial Owners).  FRI and the Principal Shareholders may be deemed to be, for purposes of Rule 13d-3 under the Act, the beneficial owners of securities held by persons and entities for whom or for which FRI subsidiaries provide investment management services.  The number of shares that may be deemed to be beneficially owned and the percentage of the class of  which such shares are a part are reported in Items 9 and 11 of the cover page for FRI. FRI, the Principal Shareholders and each of the Investment Management Subsidiaries disclaim any pecuniary interest in any of such securities. In addition, the filing of this Schedule 13G on behalf of the Principal Shareholders, FRI and the FRI Aggregated Affiliates, as applicable, should not be construed as an admission that any of them is, and each of them disclaims that it is, the beneficial owner, as defined in Rule 13d-3, of any of the securities reported in this Schedule 13G.
+     FRI, the Principal Shareholders, and each of the Investment Management Subsidiaries believe that they are not a "group" within the meaning of Rule 13d-5 under the Act and that they are not otherwise required to attribute to each other the beneficial ownership of the securities held by any of them or by any persons or entities for whom or for which the Investment Management Subsidiaries provide investment management services.
+
+EXHIBIT C: Item 7 Identification and Classification of Subsidiaries
+Franklin Advisers, Inc.: Item 3 Classification: 3(e)
+Fiduciary Trust Company International: Item 3 Classification: 3(b)</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Franklin Resources, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Thomas C. Mandia</signature>
+        <title>Thomas C. Mandia, Assistant Secretary of Franklin Resources, Inc.</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Charles B. Johnson</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Thomas C. Mandia</signature>
+        <title>Attorney in Fact for Charles B. Johnson pursuant to Power of Attorney attached to this Schedule 13G</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Rupert H. Johnson, Jr.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Thomas C. Mandia</signature>
+        <title>Attorney in Fact for Rupert H. Johnson, Jr. pursuant to Power of Attorney attached to this Schedule 13G</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Franklin Advisers, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Thomas C. Mandia</signature>
+        <title>Thomas C. Mandia, Assistant Secretary of Franklin Advisers, Inc.</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>LIMITED POWER OF ATTORNEY
+FOR SECTION 13 AND 16 REPORTING OBLIGATIONS
+
+     Know all by these presents, that the undersigned hereby makes, constitutes and appoints each of Alison E. Baur, Thomas C. Mandia, Beth McAuley O'Malley, Thomas C. Merchant, Kimberly H. Novotny, Virginia E. Rosas and Navid J. Tofigh each acting individually, as the undersigned's true and lawful attorney-in-fact, with full power and authority as hereinafter described on behalf of and in the name, place and stead of the undersigned to:
+ 1. prepare, execute, acknowledge, deliver and file Forms ID, Schedules 13D and 13G, and Forms 3, 4 and 5 (including any amendments thereto and any related documentation) with the United States Securities and Exchange Commission and any national securities exchanges relating to Franklin Resources, Inc. ("FRI") and/or any registered closed-end company to which an affiliate of FRI is an investment adviser (each, a "Reporting Entity"), as considered necessary or advisable under Regulation S-T and Sections 13(d) and 16(a) of the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder, as amended from time to time (the "Exchange Act"); and
+ 2. seek or obtain, as the undersigned's representative and on the undersigned's behalf, information on transactions in the securities of any Reporting Entity from any person, including brokers, employee benefit plan administrators and trustees, and the undersigned hereby authorizes any such person to release any such information to the undersigned and approves and ratifies any such release of information; and
+ 3. perform any and all other acts which in the discretion of such attorney-in-fact are necessary or desirable for and on behalf of the undersigned in connection with the foregoing.   The undersigned acknowledges that:
+ 1. this Limited Power of Attorney authorizes, but does not require, each such attorney-in-fact to act in their discretion on information provided to such attorney-in-fact without independent verification of such information;
+2. any documents prepared and/or executed by any such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney will be in such form and will contain such information and disclosure as such attorney-in-fact, in his or her discretion, deems necessary or desirable;
+3. none of FRI, any Reporting Entity nor any of such attorneys-in-fact assumes (i) any liability for the undersigned's responsibility to comply with the requirements of the Exchange Act, (ii) any liability of the undersigned for any failure to comply with such requirements, or (iii) any obligation or liability of the undersigned for profit disgorgement under Section 16(b) of the Exchange Act; and
+4. this Limited Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned's obligations under the Exchange Act, including without limitation, the reporting requirements under Section 16 of the Exchange Act.
+The undersigned hereby gives and grants each of the foregoing attorneys-in-fact full power and authority to do and perform all and every act and thing whatsoever requisite, necessary or appropriate to be done in and about the foregoing matters as fully to all intents and purposes as the undersigned might or could do if present, hereby ratifying all that each such attorney-in-fact of, for and on behalf of the undersigned, shall lawfully do or cause to be done by virtue of this Limited Power of Attorney, and indemnifies each of the foregoing attorneys-in-fact against any loss of any nature whatsoever arising in connection therewith.
+ This Limited Power of Attorney shall remain in full force and effect until revoked by the undersigned in a signed writing delivered to each such attorney-in-fact.
+ IN WITNESS WHEREOF, the undersigned has caused this Limited Power of Attorney to be executed as of this 11th day of December, 2023.
+
+/s/CHARLES B. JOHNSON
+Signature
+Charles B. Johnson
+Print Name
+
+LIMITED POWER OF ATTORNEY
+FOR SECTION 13 AND 16 REPORTING OBLIGATIONS
+
+     Know all by these presents, that the undersigned hereby makes, constitutes and appoints each of Alison E. Baur, Thomas C. Mandia, Beth McAuley O'Malley, Thomas C. Merchant, Kimberly H. Novotny, Virginia E. Rosas and Navid J. Tofigh each acting individually, as the undersigned's true and lawful attorney-in-fact, with full power and authority as hereinafter described on behalf of and in the name, place and stead of the undersigned to:
+1. prepare, execute, acknowledge, deliver and file Forms ID, Schedules 13D and 13G, and Forms 3, 4 and 5 (including any amendments thereto and any related documentation) with the United States Securities and Exchange Commission and any national securities exchanges relating to Franklin Resources, Inc. ("FRI") and/or any registered closed-end company to which an affiliate of FRI is an investment adviser (each, a "Reporting Entity"), as considered necessary or advisable under Regulation S-T and Sections 13(d) and 16(a) of the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder, as amended from time to time (the "Exchange Act"); and
+2. seek or obtain, as the undersigned's representative and on the undersigned's behalf, information on transactions in the securities of any Reporting Entity from any person, including brokers, employee benefit plan administrators and trustees, and the undersigned hereby authorizes any such person to release any such information to the undersigned and approves and ratifies any such release of information; and
+3. perform any and all other acts which in the discretion of such attorney-in-fact are necessary or desirable for and on behalf of the undersigned in connection with the foregoing.
+The undersigned acknowledges that:
+1. this Limited Power of Attorney authorizes, but does not require, each such attorney-in-fact to act in their discretion on information provided to such attorney-in-fact without independent verification of such information;
+2. any documents prepared and/or executed by any such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney will be in such form and will contain such information and disclosure as such attorney-in-fact, in his or her discretion, deems necessary or desirable;
+3. none of FRI, any Reporting Entity nor any of such attorneys-in-fact assumes (i) any liability for the undersigned's responsibility to comply with the requirements of the Exchange Act, (ii) any liability of the undersigned for any failure to comply with such requirements, or (iii) any obligation or liability of the undersigned for profit disgorgement under Section 16(b) of the Exchange Act; and
+4. this Limited Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned's obligations under the Exchange Act, including without limitation, the reporting requirements under Section 16 of the Exchange Act.
+The undersigned hereby gives and grants each of the foregoing attorneys-in-fact full power and authority to do and perform all and every act and thing whatsoever requisite, necessary or appropriate to be done in and about the foregoing matters as fully to all intents and purposes as the undersigned might or could do if present, hereby ratifying all that each such attorney-in-fact of, for and on behalf of the undersigned, shall lawfully do or cause to be done by virtue of this Limited Power of Attorney, and indemnifies each of the foregoing attorneys-in-fact against any loss of any nature whatsoever arising in connection therewith.
+This Limited Power of Attorney shall remain in full force and effect until revoked by the undersigned in a signed writing delivered to each such attorney-in-fact.
+IN WITNESS WHEREOF, the undersigned has caused this Limited Power of Attorney to be executed as of this 11th day of December, 2023.
+
+/s/RUPERT H. JOHNSON, JR.
+Signature
+
+Rupert H. Johnson, Jr.
+Print Name</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

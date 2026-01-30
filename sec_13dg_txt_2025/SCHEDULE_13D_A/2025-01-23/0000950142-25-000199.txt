@@ -1,0 +1,177 @@
+<SEC-DOCUMENT>0000950142-25-000199.txt : 20250123
+<SEC-HEADER>0000950142-25-000199.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123200737
+ACCESSION NUMBER:		0000950142-25-000199
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+DATE AS OF CHANGE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apollo Global Management, Inc.
+		CENTRAL INDEX KEY:			0001858681
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				863155788
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93231
+		FILM NUMBER:		25551349
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9 WEST 57TH STREET, 42ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-515-3200
+
+	MAIL ADDRESS:	
+		STREET 1:		9 WEST 57TH STREET, 42ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tango Holdings, Inc.
+		DATE OF NAME CHANGE:	20210422
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LDB 2014 LLC
+		CENTRAL INDEX KEY:			0001901017
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ELYSIUM MANAGEMENT LLC
+		STREET 2:		SUITE 1401, 445 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		646-589-8607
+
+	MAIL ADDRESS:	
+		STREET 1:		ELYSIUM MANAGEMENT LLC
+		STREET 2:		SUITE 1401, 445 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000950142-22-000253</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: LDB 2014 LLC -->
+          <cik>0001901017</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common stock, par value $0.00001 per share</securitiesClassTitle>
+      <dateOfEvent>01/15/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001858681</issuerCIK>
+        <issuerCUSIP>03769M106</issuerCUSIP>
+        <issuerName>Apollo Global Management, Inc.</issuerName>
+        <address>
+          <com:street1>9 WEST 57TH STREET, 42ND FLOOR</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10019</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>c/o Elysium Management LLC</personName>
+          <personPhoneNum>646-589-8607</personPhoneNum>
+          <personAddress>
+            <com:street1>445 Park Avenue, Suite 1401</com:street1>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10022</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001901017</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>LDB 2014 LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>6647120.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>6647120.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>6647120.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.2</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Based on 565,816,456 shares of common stock, par value $0.00001 per share, of Apollo Global Management, Inc. (the "Issuer") issued and outstanding as of November 4, 2024, as reported in the Issuer's Quarterly Report on Form 10-Q filed on November 6, 2024.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common stock, par value $0.00001 per share</securityTitle>
+        <issuerName>Apollo Global Management, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>9 WEST 57TH STREET, 42ND FLOOR</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10019</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 2 amends and supplements the Schedule 13D filed with the Securities and Exchange Commission (the "Commission") by LDB 2014 LLC, a Delaware limited liability company ("LDB 2014 LLC" or the "Reporting Person"), relating to the shares of the common stock, par value $0.00001 per share ("Common Stock"), of Apollo Global Management, Inc., a Delaware corporation (the "Issuer") on January 11, 2022, as amended by Amendment No. 1 thereto filed with the Commission on March 3, 2022 (as so amended, the "Schedule 13D"). This Amendment No. 2 is being filed to update the disclosure in Item 6. The Schedule 13D is hereby amended as follows:</commentText>
+      </item1>
+      <item6>
+        <contractDescription>As of the date of this Amendment No. 2, no shares of Common Stock beneficially owned by the Reporting Person are held in a margin account subject to a standard margin loan arrangement.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>LDB 2014 LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Barry J. Cohen</signature>
+          <title>Barry J. Cohen, Attorney-in-Fact</title>
+          <date>01/23/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

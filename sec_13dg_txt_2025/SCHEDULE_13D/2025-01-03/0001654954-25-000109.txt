@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0001654954-25-000109.txt : 20250103
+<SEC-HEADER>0001654954-25-000109.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103170017
+ACCESSION NUMBER:		0001654954-25-000109
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ISSUER DIRECT CORP
+		CENTRAL INDEX KEY:			0000843006
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				261331503
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41710
+		FILM NUMBER:		25507493
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 GLENWOOD AVE.
+		STREET 2:		SUITE 1001
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27603
+		BUSINESS PHONE:		9194611600
+
+	MAIL ADDRESS:	
+		STREET 1:		1 GLENWOOD AVE.
+		STREET 2:		SUITE 1001
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27603
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOCUCON INC
+		DATE OF NAME CHANGE:	20071002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOCUCON INCORPORATED
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Yorkmont Capital Partners, LP
+		CENTRAL INDEX KEY:			0001563674
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				800835231
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1212
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2313 LAKE AUSTIN BLVD SUITE 202
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78703
+		BUSINESS PHONE:		512-320-1920
+
+	MAIL ADDRESS:	
+		STREET 1:		2313 LAKE AUSTIN BLVD SUITE 202
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001563674</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000843006</issuerCIK>
+        <issuerCUSIP>46520M204</issuerCUSIP>
+        <issuerName>ISSUER DIRECT CORP</issuerName>
+        <address>
+          <com:street1>1 GLENWOOD AVE.</com:street1>
+          <com:street2>SUITE 1001</com:street2>
+          <com:city>RALEIGH</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>27603</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Yann Vessely</personName>
+          <personPhoneNum>512-320-1920</personPhoneNum>
+          <personAddress>
+            <com:street1>2313 Lake Austin Blvd, Suite 209</com:street1>
+            <com:city>Austin</com:city>
+            <com:stateOrCountry>TX</com:stateOrCountry>
+            <com:zipCode>78703</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001563674</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Yorkmont Capital Partners, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>185000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>185000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>185000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.8</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Yorkmont Capital Management, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>185000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>185000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>185000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>4.8</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001674265</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Rein Graeme P.</reportingPersonName>
+        <fundType>AF</fundType>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>240041.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>240041.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>240041.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <commentContent>This number does not include 3,722 shares of the Issuer's common stock which were
+granted as restricted stock units on July 1, 2024 in consideration of the Reporting
+Person's continued service as a member of the Issuer's Board of Directors and vest as
+follows: on the earlier of (i) the date of the Issuer's 2025 annual meeting of stockholders
+(but only if the Reporting Person ceases to be a member of the Board of Directors at
+such annual meeting as a result of not standing for re-election or not being re-elected) or
+(ii) June 14, 2025. In the event of a Corporate Transaction (as defined in the Issuer's
+2023 Equity Incentive Plan, as amended), the restricted stock units shall immediately
+become vested. The Reporting Person must be a member of the Board of Directors as
+of the vesting date.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>ISSUER DIRECT CORP</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1 GLENWOOD AVE.</com:street1>
+          <com:street2>SUITE 1001</com:street2>
+          <com:city>RALEIGH</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>27603</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This statement on Schedule 13D (this "Statement") relates to the common stock, par value $0.001 per share (the "Common Stock") of Issuer Direct Corporation (the "Issuer"), with its principal executive offices located at 1 Glenwood Avenue, Suite 1001, Raleigh NC 27603.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>Yorkmont Capital Partners, LP, a Texas limited partnership;
+Yorkmont Capital Management, LLC, is a Texas limited liability company; and
+Graeme P. Rein (Mr. Rein), is a citizen of the United States of America.</filingPersonName>
+        <principalBusinessAddress>Yorkmont Capital Partners, LP is a private investment vehicle engaged in the business of investing in securities. Graeme P. Rein is the managing member of Yorkmont Capital Management, LLC, which is the general partner of Yorkmont Capital Partners, LP. The business address and principal executive  offices of the each of the Reporting Persons is 2313 Lake Austin Blvd., Suite 202, Austin, TX 78703.</principalBusinessAddress>
+        <principalJob>Yorkmont Capital Partners, LP is a private investment vehicle engaged in the business of investing in securities. Graeme P. Rein is the managing member of Yorkmont Capital Management, LLC, which is the general partner of Yorkmont Capital Partners, LP. The business address and principal executive  offices of the each of the Reporting Persons is 2313 Lake Austin Blvd., Suite 202, Austin, TX 78703.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons have been (a) convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors) or (b) a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons have been (a) convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors) or (b) a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>US</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The shares owned by Yorkmont Capital Partners, LP were purchased with working capital of the fund. Of the shares held by Mr. Rein, 50,000 were purchased with personal funds held in Mr. Rein's brokerage account and 8,624 were received as restricted stock units for service on the Board of Directors. The aggregate purchase price of the 237,553 shares beneficially owned is approximately $1,663,765. No borrowed funds were used in the purchases.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Persons originally acquired the Common Stock subject to this Schedule 13D for investment purposes. The Reporting Persons will review their investments in the Common Stock on a continuing basis, and, subject to applicable law and regulation and depending upon certain factors, including, without limitation, the financial performance of the Issuer, the availability and price of the Common Stock, and other general market and investment conditions, the Reporting Persons may determine to:
+- acquire additional Common Stock through open market purchases or otherwise;
+- sell Common Stock through the open market or otherwise; or
+- otherwise engage or participate in a transaction with the purpose or effect of changing or influencing the control of the Company.
+Such transactions may take place at any time and without prior notice. There can be no assurance, however, that any Reporting Person will take any such actions.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The aggregate percentage of the Company's outstanding shares of Common Stock reported owned by each Reporting Person is based on 3,833,977 shares of Common Stock outstanding at November 7, 2024, as reported by the Company on its Form 10Q, filed with the United States Securities and Exchange Commission on November 7, 2024.
+
+Yorkmont Capital Partners, LP beneficially owns 185,000 shares of Common Stock, representing 4.8 percent of all the outstanding shares of Common Stock.
+
+Yorkmont Capital Management, LLC beneficially owns 185,000 shares of Common Stock, representing 4.8 percent of all the outstanding shares of Common Stock. Yorkmont Capital Management LLC is the general partner of, and controls, Yorkmont Capital Partners, LP.
+
+Mr. Rein beneficially owns 243,624 shares of Common Stock, representing 6.4 percent of all the outstanding shares of Common Stock. Mr. Rein, as the managing member of Yorkmont Capital Management, LLC, may be deemed to beneficially own the 185,000 shares of Common Stock beneficially owned by Yorkmont Capital Partners, LP.</percentageOfClassSecurities>
+        <numberOfShares>Each of Yorkmont Capital Partners, LP, Yorkmont Capital Management, LLC and Mr. Rein may be deemed to have sole voting and dispositive power with respect to the 185,000 shares of Common Stock held by Yorkmont Capital Partners, LP.</numberOfShares>
+        <transactionDesc>No transactions in the Common Stock have been effected during the past sixty days by Yorkmont Capital Partners, LP, Yorkmont Capital Management, LLC or Mr. Rein.</transactionDesc>
+        <listOfShareholders>Not applicable</listOfShareholders>
+        <date5PercentOwnership>Not applicable</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Mr. Rein has been appointed to the Company's Board of Directors.
+
+The relationships between Mr. Rein, Yorkmont Capital Management, LLC, and Yorkmont Capital Partners, LP are described above under Item 2.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Not applicable</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Yorkmont Capital Partners, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Graeme P. Rein</signature>
+          <title>Managing Member</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Yorkmont Capital Management, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Graeme P. Rein</signature>
+          <title>Managing Member</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Rein Graeme P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Graeme P. Rein</signature>
+          <title>Managing Member</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

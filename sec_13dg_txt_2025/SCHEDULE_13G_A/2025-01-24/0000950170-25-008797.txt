@@ -1,0 +1,184 @@
+<SEC-DOCUMENT>0000950170-25-008797.txt : 20250124
+<SEC-HEADER>0000950170-25-008797.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124161502
+ACCESSION NUMBER:		0000950170-25-008797
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Enact Holdings, Inc.
+		CENTRAL INDEX KEY:			0001823529
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				461579166
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92894
+		FILM NUMBER:		25554380
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8325 SIX FORKS ROAD
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27615
+		BUSINESS PHONE:		(919) 846-4100
+
+	MAIL ADDRESS:	
+		STREET 1:		8325 SIX FORKS ROAD
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27615
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Genworth Mortgage Holdings, Inc.
+		DATE OF NAME CHANGE:	20200902
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Genworth Holdings, Inc.
+		CENTRAL INDEX KEY:			0001572983
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				331073076
+		STATE OF INCORPORATION:			X1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11011 WEST BROAD STREET
+		CITY:			GLEN ALLEN
+		STATE:			VA
+		ZIP:			23060
+		BUSINESS PHONE:		804-281-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		11011 WEST BROAD STREET
+		CITY:			GLEN ALLEN
+		STATE:			VA
+		ZIP:			23060
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001193125-22-024603</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001572983</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001823529</issuerCik>
+        <issuerName>Enact Holdings, Inc.</issuerName>
+        <issuerCusip>29249E109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <street1 xmlns="http://www.sec.gov/edgar/common">8325 Six Forks Road</street1>
+          <city xmlns="http://www.sec.gov/edgar/common">Raleigh</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NC</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">27615</zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Genworth Holdings, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>123761372</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>123761372</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>123761372</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>81</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Enact Holdings, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>8325 Six Forks Road, Raleigh, North Carolina 27615</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Genworth Holdings, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>11011 West Broad St., Glen Allen, Virginia 23060</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>See Item 9 of the cover page.</amountBeneficiallyOwned>
+        <classPercent>81</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Item 5 of the cover page.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Item 6 of the cover page.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Item 7 of the cover page.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Item 8 of the cover page.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Genworth Holdings, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Jerome T. Upton</signature>
+        <title>Jerome T. Upton, Senior Vice President and Chief Financial Officer</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0000080255-25-000007.txt : 20250108
+<SEC-HEADER>0000080255-25-000007.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108162009
+ACCESSION NUMBER:		0000080255-25-000007
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Arcos Dorados Holdings Inc.
+		CENTRAL INDEX KEY:			0001508478
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-86210
+		FILM NUMBER:		25518772
+
+	BUSINESS ADDRESS:	
+		STREET 1:		RIO NEGRO 1338, FIRST FLOOR
+		CITY:			MONTEVIDEO
+		STATE:			X3
+		ZIP:			11300
+		BUSINESS PHONE:		598 2626-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		RIO NEGRO 1338, FIRST FLOOR
+		CITY:			MONTEVIDEO
+		STATE:			X3
+		ZIP:			11300
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRICE T ROWE ASSOCIATES INC /MD/
+		CENTRAL INDEX KEY:			0000080255
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				520556948
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 EAST PRATT ST
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21202
+		BUSINESS PHONE:		(410)345-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 89000
+		CITY:			BALTIMORE
+		STATE:			MD
+		ZIP:			21289
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:ns2="http://www.sec.gov/edgar/common">
+    <headerData>
+        <submissionType>SCHEDULE 13G/A</submissionType>
+        <previousAccessionNumber>0000080255-24-001407</previousAccessionNumber>
+        <filerInfo>
+            <filer>
+                <filerCredentials>
+                    <cik>0000080255</cik>
+                    <ccc>XXXXXXXX</ccc>
+                </filerCredentials>
+            </filer>
+            <liveTestFlag>LIVE</liveTestFlag>
+
+
+        </filerInfo>
+    </headerData>
+    <formData>
+        <coverPageHeader>
+            <amendmentNo>1</amendmentNo>
+            <securitiesClassTitle>COMMON STOCK</securitiesClassTitle>
+            <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+            <issuerInfo>
+                <issuerCik>0001508478</issuerCik>
+                <issuerName>ARCOS DORADOS HOLDINGS INC A</issuerName>
+                <issuerCusip>G0457F107</issuerCusip>
+                <issuerPrincipalExecutiveOfficeAddress>
+                    <ns2:street1>RIO NEGRO 1338</ns2:street1>
+                    <ns2:street2>FIRST FLOOR</ns2:street2>
+                    <ns2:city>MONTEVIDEO</ns2:city>
+                    <ns2:stateOrCountry>X3</ns2:stateOrCountry>
+                    <ns2:zipCode>11300</ns2:zipCode>
+                </issuerPrincipalExecutiveOfficeAddress>
+            </issuerInfo>
+            <designateRulesPursuantThisScheduleFiled>
+                <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+            </designateRulesPursuantThisScheduleFiled>
+        </coverPageHeader>
+        <coverPageHeaderReportingPersonDetails>
+
+            <reportingPersonName>T. Rowe Price Associates, Inc.</reportingPersonName>
+            <citizenshipOrOrganization>MD</citizenshipOrOrganization>
+            <reportingPersonBeneficiallyOwnedNumberOfShares>
+                <soleVotingPower>13377366</soleVotingPower>
+                <sharedVotingPower>0</sharedVotingPower>
+                <soleDispositivePower>13666166</soleDispositivePower>
+                <sharedDispositivePower>0</sharedDispositivePower>
+            </reportingPersonBeneficiallyOwnedNumberOfShares>
+            <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>13666166</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+            <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+            <classPercent>10.5</classPercent>
+            <typeOfReportingPerson>IA</typeOfReportingPerson>
+        </coverPageHeaderReportingPersonDetails>
+        <items>
+            <item1>
+                <issuerName>ARCOS DORADOS HOLDINGS INC A</issuerName>
+                <issuerPrincipalExecutiveOfficeAddress>RIO NEGRO 1338, FIRST FLOOR, MONTEVIDEO, X3, 11300</issuerPrincipalExecutiveOfficeAddress>
+            </item1>
+            <item2>
+                <filingPersonName>T. Rowe Price Associates, Inc.</filingPersonName>
+                <principalBusinessOfficeOrResidenceAddress>100 E. Pratt Street, Baltimore, MD 21202</principalBusinessOfficeOrResidenceAddress>
+                <citizenship>Maryland</citizenship>
+            </item2>
+            <item3>
+                <notApplicableFlag>N</notApplicableFlag>
+                <typeOfPersonFiling>IA</typeOfPersonFiling>
+            </item3>
+            <item4>
+                <amountBeneficiallyOwned>13666166</amountBeneficiallyOwned>
+                <classPercent>10.5</classPercent>
+                <numberOfSharesPersonHas>
+                    <solePowerOrDirectToVote>13377366</solePowerOrDirectToVote>
+                    <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+                    <solePowerOrDirectToDispose>13666166</solePowerOrDirectToDispose>
+                    <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+                </numberOfSharesPersonHas>
+            </item4>
+            <item5>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item5>
+            <item6>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item6>
+            <item7>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item7>
+            <item8>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item8>
+            <item9>
+                <notApplicableFlag>Y</notApplicableFlag>
+            </item9>
+            <item10>
+                <notApplicableFlag>N</notApplicableFlag>
+                <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11. T. Rowe Price Associates, Inc. hereby declares and affirms that the filing of Schedule 13G shall not be construed as an admission that Price Associates is the beneficial owner of the securities referred to, which beneficial ownership is expressly denied.</certifications>
+            </item10>
+        </items>
+        <signatureInformation>
+            <reportingPersonName>T. Rowe Price Associates, Inc.</reportingPersonName>
+            <signatureDetails>
+                <signature>Ellen York</signature>
+                <title>Vice President</title>
+                <date>01/08/2025</date>
+            </signatureDetails>
+        </signatureInformation>
+    </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

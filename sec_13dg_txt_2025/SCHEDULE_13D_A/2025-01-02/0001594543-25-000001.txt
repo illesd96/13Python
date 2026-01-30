@@ -1,0 +1,235 @@
+<SEC-DOCUMENT>0001594543-25-000001.txt : 20250102
+<SEC-HEADER>0001594543-25-000001.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102203113
+ACCESSION NUMBER:		0001594543-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+DATE AS OF CHANGE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Palladyne AI Corp.
+		CENTRAL INDEX KEY:			0001826681
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92009
+		FILM NUMBER:		25503569
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 SOUTH 500 WEST
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84101
+		BUSINESS PHONE:		888-927-7296
+
+	MAIL ADDRESS:	
+		STREET 1:		650 SOUTH 500 WEST
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sarcos Technology & Robotics Corp
+		DATE OF NAME CHANGE:	20210924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sarcos Technology & Robotics Corporation.
+		DATE OF NAME CHANGE:	20210924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rotor Acquisition Corp.
+		DATE OF NAME CHANGE:	20200930
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KERBER WILLIAM XAVIER III
+		CENTRAL INDEX KEY:			0001594543
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		3917 NE 104TH
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Kerber William X. III
+		DATE OF NAME CHANGE:	20131217
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001594543-24-000003</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001594543</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.0001 par value per share</securitiesClassTitle>
+      <dateOfEvent>12/27/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001826681</issuerCIK>
+        <issuerCUSIP>80359A205</issuerCUSIP>
+        <issuerName>Palladyne AI Corp.</issuerName>
+        <address>
+          <com:street1>650 SOUTH 500 WEST</com:street1>
+          <com:street2>650 SOUTH 500 WEST</com:street2>
+          <com:city>SALT LAKE CITY</com:city>
+          <com:stateOrCountry>UT</com:stateOrCountry>
+          <com:zipCode>84101</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>WILLIAM KERBER</personName>
+          <personPhoneNum>405-373-6600</personPhoneNum>
+          <personAddress>
+            <com:street1>3917 NE 104TH</com:street1>
+            <com:city>OKLAHOMA CITY</com:city>
+            <com:stateOrCountry>OK</com:stateOrCountry>
+            <com:zipCode>73131</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001594543</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>KERBER WILLIAM XAVIER III</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>OK</citizenshipOrOrganization>
+        <soleVotingPower>2092482.00</soleVotingPower>
+        <sharedVotingPower>200000.00</sharedVotingPower>
+        <soleDispositivePower>2092482.00</soleDispositivePower>
+        <sharedDispositivePower>200000.00</sharedDispositivePower>
+        <aggregateAmountOwned>2292482.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.6</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.0001 par value per share</securityTitle>
+        <issuerName>Palladyne AI Corp.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>650 SOUTH 500 WEST</com:street1>
+          <com:street2>650 SOUTH 500 WEST</com:street2>
+          <com:city>SALT LAKE CITY</com:city>
+          <com:stateOrCountry>UT</com:stateOrCountry>
+          <com:zipCode>84101</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>William Xavier Kerber III</filingPersonName>
+        <principalBusinessAddress>3917 NE 104th ST
+Oklahoma City, OK. 73131</principalBusinessAddress>
+        <principalJob>CEO Human Mode LLC
+3917 NE 104th ST
+Oklahoma City, OK. 73131</principalJob>
+        <hasBeenConvicted>During the past 5 years, Mr. Kerber has not been convicted in any criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the past 5 years, Mr. Kerber has not been a party to any civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding such person was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Personal Funds</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Mr. Kerber purchased the issuer's Common stock as an individual for the purposes of investment. Since the filing of the last amendment dated September 17th, 2024, Mr. Kerber has made the following changes to his holdings of the issuer's Common Stock:
+
+* Purchases and Sales resulting in a net change of 110,555 less Common Stock owned directly
+* A gift of 100,000 shares to the Vincent Kerber Irrevocable Trust
+* A gift of 100,000 shares to the Katheryn Kerber Irrevocable Trust.
+
+Mr. Kerber holds a role as an investment advisor to these two trusts and maintains shared voting and dispositive power of the Issuer's Common Stock held within them. </transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>As of the date of this Amendment No. 2, Mr. Kerber beneficially owns an aggregate of 2,292,482 shares of the Issuer's Common stock or 7.61% of the Issuer's outstanding shares of Common Stock. The beneficial ownership percentages used in this Schedule are calculated based on the 30,112,399 shares of Common Stock of the Issuer outstanding as of November 6, 2024.
+
+This beneficial ownership consists of:
+* 2,092,482 shares of Common Stock held directly by Mr. Kerber.
+* 200,000 shares of Common Stock held indirectly through the Vincent Kerber and Katheryn Kerber Irrevocable trusts where he serves as an advisor.
+
+As of the date of this Amendment, Mr. Kerber has sole voting and dispositive power of 2,092,482 shares and shared voting and dispositive power of 200,000 shares of the Issuer's Common Stock through his advisory role to these trusts.
+</percentageOfClassSecurities>
+        <numberOfShares>As of the date of this Amendment No. 2, Mr. Kerber beneficially owns an aggregate of 2,292,482 shares of the Issuer's Common stock or 7.61% of the Issuer's outstanding shares of Common Stock. The beneficial ownership percentages used in this Schedule are calculated based on the 30,112,399 shares of Common Stock of the Issuer outstanding as of November 6, 2024.
+
+This beneficial ownership consists of:
+* 2,092,482 shares of Common Stock held directly by Mr. Kerber.
+* 200,000 shares of Common Stock held indirectly through the Vincent Kerber and Katheryn Kerber Irrevocable trusts where he serves as an advisor.
+
+As of the date of this Amendment, Mr. Kerber has sole voting and dispositive power of 2,092,482 shares and shared voting and dispositive power of 200,000 shares of the Issuer's Common Stock through his advisory role to these trusts.</numberOfShares>
+        <transactionDesc>Except as described in this Item 5(c). Mr. Kerber has not effected any transactions in the Common Stock during the past 60 days.
+
+
+Date   	    Purchase/Sale    Shares 	   Price
+11/14/2024 Purchase	    118,602 	 $1.78
+11/22/2024 Sale		     -99,141  	 $4.04
+12/17/2024 Purchase	      32,401 	 $3.73
+12/19/2024 Sale		      -1,300 	 $3.06
+12/19/2024 Purchase	     13,075 	 $3.11
+12/20/2024 Purchase	     26,700	 $3.44
+12/26/2024 Sale	          -100,892	 $8.21
+12/27/2024 Sale	          -100,000 	 $12.36
+
+Date 	      Gift		                 Shares
+12/17/2024  Vincent. Kerber Trust   100,000 	  $3.54
+12/17/2024  Katheryn Kerber Trust  100,000	  $3.54
+</transactionDesc>
+        <listOfShareholders>In addition to Mr. Kerber's beneficial ownership, The trustee of the two trusts listed in section 5(a) has the power to direct the receipt of dividends from, or the proceeds from the sale of thee Issuers Common Stock held within. As of the date of this Amendment the acting trustee is Chi Kerber, Mr. Kerber's spouse. The two trusts each hold less than 5% interest in the Issuer's Common Stock.</listOfShareholders>
+        <date5PercentOwnership>N/A</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>As of the filing date of this Amendment, Mr. Kerber is not involved in any contracts, arrangements, under
+standings or relationships related to any securities of the Issuer.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>KERBER WILLIAM XAVIER III</signatureReportingPerson>
+        <signatureDetails>
+          <signature>William Xavier Kerber III</signature>
+          <title>William Xavier Kerber III</title>
+          <date>01/02/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

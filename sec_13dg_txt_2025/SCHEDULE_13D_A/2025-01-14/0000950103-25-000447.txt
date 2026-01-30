@@ -1,0 +1,717 @@
+<SEC-DOCUMENT>0000950103-25-000447.txt : 20250114
+<SEC-HEADER>0000950103-25-000447.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114080851
+ACCESSION NUMBER:		0000950103-25-000447
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250114
+DATE AS OF CHANGE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIGS, Inc.
+		CENTRAL INDEX KEY:			0001846576
+		STANDARD INDUSTRIAL CLASSIFICATION:	APPAREL & OTHER FINISHED PRODS OF FABRICS & SIMILAR MATERIAL [2300]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92580
+		FILM NUMBER:		25527805
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2834 COLORADO AVENUE
+		STREET 2:		SUITE 100
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90404
+		BUSINESS PHONE:		420-500-8209
+
+	MAIL ADDRESS:	
+		STREET 1:		2834 COLORADO AVENUE
+		STREET 2:		SUITE 100
+		CITY:			SANTA MONICA
+		STATE:			CA
+		ZIP:			90404
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BAMCO INC /NY/
+		CENTRAL INDEX KEY:			0001017918
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				133390015
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		STREET 2:		49TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+		BUSINESS PHONE:		2125832000
+
+	MAIL ADDRESS:	
+		STREET 1:		767 FIFTH AVENUE
+		STREET 2:		49TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000950103-24-018560</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BAMCO INC /NY/ -->
+          <cik>0001017918</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/14/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001846576</issuerCIK>
+        <issuerCUSIP>30260D103</issuerCUSIP>
+        <issuerName>FIGS, Inc.</issuerName>
+        <address>
+          <com:street1>2834 COLORADO AVENUE, SUITE 100</com:street1>
+          <com:city>SANTA MONICA</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90404</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Patrick M. Patalino</personName>
+          <personPhoneNum>(212) 583-2119</personPhoneNum>
+          <personAddress>
+            <com:street1>Baron Capital Group, Inc.</com:street1>
+            <com:street2>767 Fifth Avenue, 49th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10153</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001017918</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BAMCO INC /NY/</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>BK</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>19039999.00</soleVotingPower>
+        <sharedVotingPower>23327945.00</sharedVotingPower>
+        <soleDispositivePower>19039999.00</soleDispositivePower>
+        <sharedDispositivePower>24554051.00</sharedDispositivePower>
+        <aggregateAmountOwned>43594050.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>26.99</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000790504</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Baron Capital Management, Inc</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6283708.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6283708.00</sharedDispositivePower>
+        <aggregateAmountOwned>6283708.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>3.89</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001012688</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Ronald Baron</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>19039999.00</soleVotingPower>
+        <sharedVotingPower>29611653.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>49877758.00</sharedDispositivePower>
+        <aggregateAmountOwned>49877758.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>30.88</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Baron Capital Group, Inc</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>19039999.00</soleVotingPower>
+        <sharedVotingPower>29611653.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>49877758.00</sharedDispositivePower>
+        <aggregateAmountOwned>49877758.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>30.88</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000810902</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Baron Growth Fund</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>MA</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>12368569.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>12368569.00</sharedDispositivePower>
+        <aggregateAmountOwned>12368569.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.66</percentOfClass>
+        <typeOfReportingPerson>IV</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001217673</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Baron Focused Growth Fund</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>8493569.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>8493569.00</sharedDispositivePower>
+        <aggregateAmountOwned>8493569.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.26</percentOfClass>
+        <typeOfReportingPerson>IV</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock</securityTitle>
+        <issuerName>FIGS, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>2834 COLORADO AVENUE, SUITE 100</com:street1>
+          <com:city>SANTA MONICA</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90404</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 2 (this "Amendment") amends and supplements that statement on Schedule 13D originally filed by the Reporting Persons with the Securities and Exchange Commission on December 31, 2024 (the "Original Schedule 13D"), as amended by the Amendment No. 1 to the Original Schedule 13D, filed on January 7, 2025 ("Amendment No. 1" and, together with the Original Schedule 13D and this Amendment, the "Schedule 13D"), that relates to the shares of Class A common stock, par value $0.0001 per share (the "Class A Common Stock"), of FIGS, Inc., a Delaware corporation (the "Issuer"). The Issuer's principal executive offices are located at 2834 Colorado Avenue, Suite 100, Santa Monica, California 90404. Except as provided herein, all Items of the Original Schedule 13D (as amended by Amendment No. 1) remain unchanged and this Amendment does not modify any information previously reported on the Original Schedule 13D and Amendment No. 1.</commentText>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 of the Original Schedule 13D is hereby amended and supplemented to include the following:
+
+On January 13, 2025, the Reporting Persons purchased 19,039,999 shares of Class A Common Stock pursuant to the Agreement (as defined below). The source of funding for the purchase of the shares was the utilization of existing lines of credit.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 of the Scheduled 13D (as amended by Amendment No. 1) is hereby amended and supplemented as follows:
+
+
+On January 11, 2025, pursuant to the Put-Call Agreement (the "Agreement"), dated as of January 7, 2025, by and between BAMCO, Inc. ("BAMCO"), Thomas J. Tull, in his individual capacity ("Tull"), Thomas J. Tull in his capacity as trustee of the Tull Family Trust, u/a/d August 1, 2005, as amended ("Tull Family Trust") and First Light Investors, LLC ("First Light" and, collectively with Tull and Tull Family Trust, the "Sellers"), the Sellers exercised their right to require the Reporting Persons to purchase from the Sellers, and on January 13, 2025, the Reporting Persons consummated a purchase of, 19,039,999 shares of Class A Common Stock at a price equal to $6.25 per share.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5 of the Schedule 13D (as amended by Amendment No. 1) is hereby amended and restated as follows:
+
+Calculations of the percentage of Class A Common Stock beneficially owned is based on 161,526,637 shares of Class A Common Stock outstanding as of October 31, 2024, as reported in the Quarterly Report on Form 10-Q filed by the Issuer with the Securities and Exchange Commission on November 7, 2024.
+
+The aggregate number and percentage of the Class A Common Stock beneficially owned by the Reporting Person and, for such Reporting Person, the number of shares as to which there is sole power to vote or to direct the vote, shared power to vote or to direct the vote, sole power to dispose or to direct the disposition, or shared power to dispose or to direct the disposition are set forth on rows 7 through 11 and row 13 of the cover pages of this Schedule 13D and are incorporated herein by reference.</percentageOfClassSecurities>
+        <numberOfShares>The aggregate number and percentage of the Class A Common Stock beneficially owned by the Reporting Person and, for such Reporting Person, the number of shares as to which there is sole power to vote or to direct the vote, shared power to vote or to direct the vote, sole power to dispose or to direct the disposition, or shared power to dispose or to direct the disposition are set forth on rows 7 through 11 and row 13 of the cover pages of this Schedule 13D and are incorporated herein by reference.</numberOfShares>
+        <transactionDesc>Information concerning transactions in the Class A Common Stock effected by the Reporting Persons during the past sixty days is set forth in Annex A of the Original Schedule 13D (as previously filed) and is incorporated by reference herein.
+
+On January 11, 2025, pursuant to the Agreement, the Sellers exercised their right to require the Reporting Persons to purchase from the Sellers, and on January 13, 2025, the Reporting Persons consummated a purchase of, 19,039,999 shares of Class A Common Stock at a price equal to $6.25 per share.</transactionDesc>
+        <listOfShareholders>The advisory clients of BAMCO and BCM have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the Issuer's common stock in their accounts. To the best of the Reporting Persons' knowledge, no such person has such interest relating to more than 5% of the outstanding class of securities.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 of the Scheduled 13D (as amended by Amendment No. 1) is hereby amended and supplemented to include the following:
+
+Binding Term Sheet
+
+On January 13, 2025 (the "Term Sheet Date"), BAMCO and Baron Capital Management, Inc. ("BCM" and together with BAMCO, "Baron") entered into a Binding Term Sheet (the "Term Sheet") with the Issuer, pursuant to which the Issuer and Baron (i) entered into certain agreements and (ii) memorialized certain terms to be set forth in a stockholders agreement (the "SHA"), in each case, as further summarized below.  The parties have agreed to execute the SHA as promptly as practicable following the Term Sheet Date.
+
+Standstill Restrictions
+
+From and after January 13, 2025 until the date that Baron and its affiliates (collectively, the "Stockholder Group") cease to hold at least 17.5% of the outstanding shares of the Issuer's Class A common stock, $0.0001 par value per share ("Class A Common Stock"), Baron has agreed that it will not, and it will cause its affiliates not to, purchase any equity securities of the Issuer without the Issuer's prior written consent.  This restriction does not apply to the shares of Class A Common Stock that Baron has acquired, and may acquire, under the Agreement (the "Put-Call Shares").
+
+Additionally, from January 13, 2025 until the earlier to occur of (i) the time and date of the Final Conversion Event (as defined in Section 7.4 of Article IV.A. of the Amended and Restated Certificate of Incorporation of the Issuer dated June 1, 2021), (ii) the date that Catherine Spear ceases to be the Chief Executive Officer or Co-Chief Executive Officer of the Issuer and (iii) the date that the Stockholder Group ceases to hold at least 17.5% of the outstanding shares of Class A Common Stock (such period, the "Standstill Period"), the Stockholder Group must abide by certain other standstill restrictions, including restrictions on participating in a proxy contest and engaging in or facilitating extraordinary transactions with the Issuer (subject to certain limited exceptions).
+
+Transfer Restrictions
+
+During the Standstill Period, the Stockholder Group has agreed that it will not transfer any of the Put-Call Shares, except (i) with the Issuer's prior written consent, (ii) to a wholly owned subsidiary of Baron or other entity controlled or managed by BAMCO or a subsidiary thereof or (iii) in connection with a redemption of interests by an investor in an entity holding Put-Call Shares.
+
+Voting Cutback
+
+The Stockholder Group shall be entitled to vote the Put-Call Shares, in its sole and absolute discretion, except that during the Standstill Period, any Put-Call Shares that it owns in excess of twenty-five percent (25%) of the Issuer's then-outstanding shares of Class A Common Stock must be voted in favor of all persons nominated to serve as directors of the Issuer by the board of directors of the Issuer.
+
+Registration Rights
+
+The SHA will provide the Stockholder Group with customary demand, piggyback and shelf registration rights.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>99.4 Binding Term Sheet, dated as of January 13, 2025, by and among the Issuer, BAMCO, Inc. and Baron Capital Management, Inc.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>BAMCO INC /NY/</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ronald Baron</signature>
+          <title>Ronald Baron/Chairman and CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Baron Capital Management, Inc</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ronald Baron</signature>
+          <title>Ronald Baron/Chairman and CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Ronald Baron</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ronald Baron</signature>
+          <title>Ronald Baron/Individually</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Baron Capital Group, Inc</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ronald Baron</signature>
+          <title>Ronald Baron/Chairman and CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Baron Growth Fund</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ronald Baron</signature>
+          <title>Ronald Baron/CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Baron Focused Growth Fund</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ronald Baron</signature>
+          <title>Ronald Baron/CEO</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>2
+<FILENAME>dp223385_ex9904.htm
+<DESCRIPTION>EXHIBIT 99.4
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.4</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><I>CONFIDENTIAL</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="text-transform: uppercase">BINDING
+TERM SHEET</FONT></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.4in">The purpose of this binding
+term sheet (this &ldquo;<B>Term Sheet</B>&rdquo;), dated as of January 13, 2025 (the &ldquo;<B>Term Sheet Date</B>&rdquo;), is to both
+(i) set forth certain agreements among the parties hereto and (ii) memorialize certain terms to be agreed to between FIGS, Inc. (the &ldquo;<B>Company</B>&rdquo;),
+Baron Capital Management, Inc. (&ldquo;<B>BCM</B>&rdquo;) and BAMCO, Inc. (&ldquo;<B>BAMCO</B>&rdquo; and together with BCM, &ldquo;<B>Baron</B>&rdquo;)
+pursuant to a stockholders agreement (the &ldquo;<B>SHA</B>&rdquo;) to be entered into by the parties. The parties hereby agree as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.4in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Definitive Stockholders Agreement</I></FONT></TD>
+    <TD STYLE="width: 67%; font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">The Company and Baron agree to negotiate in good faith to enter into a SHA reflecting the terms set forth in this Term Sheet and such other customary terms as are necessary to implement the agreements set forth in this Term Sheet, as promptly as practicable after the Term Sheet Date but in any event by the &ldquo;HSR Satisfaction Date&rdquo; (as defined in that certain Put-Call Agreement, dated as of January 7, 2025, by and among BAMCO, Inc., Thomas J. Tull and certain other parties thereto (the &ldquo;<B>Put-Call Agreement</B>&rdquo;)). For the avoidance of doubt, Baron&rsquo;s (and its affiliated investment advisers&rsquo;) client accounts are not parties to the SHA, it being understood that this Term Sheet sets forth (and the SHA shall set forth) Baron&rsquo;s agreements with respect to itself, its affiliates and its (and its affiliated investment advisers&rsquo;) management of their client accounts &nbsp;(collectively, the &ldquo;<B>Stockholder Group</B>&rdquo;), and Baron shall cause its affiliates (and its affiliated investment advisers) to comply with the terms of this Term Sheet and the SHA.&nbsp;&nbsp;References herein to Baron shall be deemed to include, as applicable, BAMCO, BCM and Permitted Transferees of the Put-Call Shares (each as defined below).</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Voting:</I></FONT></TD>
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Stockholder Group shall be entitled to vote
+    the shares of Class A common stock of the Company (the &ldquo;<B>Class A Common Stock</B>&rdquo;) owned by it or any of its Permitted
+    Transferees (as defined below) or over which it or any of its Permitted Transferees has voting control (&ldquo;<B>Controlled Shares</B>&rdquo;),
+    up to twenty-five percent (25%) of the Company&rsquo;s then-outstanding shares of Class A Common Stock (the &ldquo;<B>Voting Threshold</B>&rdquo;),
+    in its sole and absolute discretion.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Solely with respect to the Controlled Shares that
+    were acquired pursuant to the Put-Call Agreement (the &ldquo;<B>Put-Call Shares</B>&rdquo;), during the Standstill Period (as defined
+    below), the Stockholder Group shall cause the Controlled Shares in excess of the Voting Threshold to be voted (including, if applicable,
+    through the execution of one or more written consents if stockholders of the Company are requested to vote through the execution of an
+    action by written consent in lieu of any such annual or special meeting of stockholders of the Company) in favor of all persons nominated
+    to serve as directors of the Company by the board of directors of the Company (the &ldquo;<B>Board</B>&rdquo;) or its Nominating and Corporate
+    Governance Committee.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Transfer Restrictions: </I></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">During the Standstill Period (as defined below), no member of the Stockholder Group shall transfer any Put-Call Shares except (i) in accordance with applicable law to a wholly-owned subsidiary of Baron (a &ldquo;<B>Permitted Transferee</B>&rdquo;) as long as such Permitted Transferee executes a customary joinder to this Term Sheet or the SHA (as applicable), (ii) in connection with a transaction approved by the Board, (iii) as a distribution in kind to any limited partner, member or other equity holder in an entity holding Put-Call Shares in connection with a redemption of such person&rsquo;s interests in such entity or (iv) as a result of a transfer of interests in any entity of which BAMCO, Inc. or a wholly-owned subsidiary of BAMCO, Inc. serves as a </FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="text-align: right; font: italic 10pt Times New Roman, Times, Serif; margin: 0pt">CONFIDENTIAL</P></DIV>
+    <!-- Field: /Page -->
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; font-size: 12pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 67%">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">general partner or equivalent controlling person
+    (each of the foregoing, a &ldquo;<B>Permitted Transfer</B>&rdquo;).</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In addition, the SHA will provide that the transfer
+    restrictions will not preclude Baron from entering into a voting agreement or support agreement in connection with a merger or other extraordinary
+    transaction that has been approved by the Board.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Standstill:</I></FONT></TD>
+    <TD>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">During the Standstill Period, the Stockholder
+    Group shall not, directly or indirectly, (i) without the prior written consent of the Company or (ii) in the case of any of the second
+    through sixth bullets below (provided, with respect to the sixth bullet, solely to the extent it pertains to bullets two through five),
+    except to the extent necessary for Baron, or an affiliated investment adviser, to comply with its fiduciary duties (after consultation
+    with outside legal counsel) with respect to its client accounts that hold Controlled Shares that are not Put-Call Shares:</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black">&middot;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: -11pt 0pt 0pt 0.25in; text-align: justify; border-left-width: 0in; border-left-color: Black">acquire,
+    or agree to acquire, propose or offer to acquire, or facilitate the acquisition (including through beneficial ownership) of, equity securities
+    or derivative long equity instruments of the Company (other than (i) equity securities covered by the Put-Call Agreement, (ii) pursuant
+    to a Permitted Transfer, or (iii) as a result of a stock split, stock dividend or distribution, other subdivision, reorganization, reclassification
+    or similar capital transaction involving equity securities of the Company);</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; border-left-width: 0in; border-left-color: Black">&nbsp;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black">&middot;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: -11pt 0pt 0pt 0.25in; text-align: justify; border-left-width: 0in; border-left-color: Black">deposit
+    any securities of the Company in a voting trust or similar contract or agreement or subject any securities of the Company to any voting
+    agreement, pooling arrangement or similar arrangement, or grant any proxy with respect to any securities of the Company (in each case,
+    other than (A) pursuant to the Stockholder Group&rsquo;s voting agreements contained in the SHA, (B) otherwise to the Company or a person
+    specified by the Company in a proxy card (paper or electronic) provided to stockholders of the Company by or on behalf of the Company
+    or (C) solely between or among, or to, as applicable, the Stockholder Group and/or any of its controlled affiliates);</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; border-left-width: 0in; border-left-color: Black">&nbsp;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black">&middot;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: -11pt 0pt 0pt 0.25in; text-align: justify; border-left-width: 0in; border-left-color: Black">enter,
+    agree to enter, propose or offer to enter into or facilitate any merger, business combination, recapitalization, restructuring, change
+    in control transaction or other similar extraordinary transaction involving the Company or any of its subsidiaries (unless (1) such transaction
+    is affirmatively publicly recommended or otherwise approved by the Board, or (2) such action is a Permitted Transfer);</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; border-left-width: 0in; border-left-color: Black">&nbsp;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black">&middot;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: -11pt 0pt 0pt 0.25in; text-align: justify; border-left-width: 0in; border-left-color: Black">make,
+    or in any way participate or engage in, any &ldquo;solicitation&rdquo; of &ldquo;proxies&rdquo; (as such terms are used in the proxy rules
+    of the SEC) to vote;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; border-left-width: 0in; border-left-color: Black">&nbsp;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black">&middot;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: -11pt 0pt 0pt 0.25in; text-align: justify; border-left-width: 0in; border-left-color: Black">call,
+    or seek to call, a meeting of the stockholders of the Company or initiate any stockholder proposal for action by stockholders of the Company;
+    or</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; border-left-width: 0in; border-left-color: Black">&nbsp;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black">&middot;</P>
+    <P STYLE="font: 10pt Symbol; margin: 0pt 0 0pt 21.2pt; text-align: justify; text-indent: -21.2pt; border-left-width: 0in; border-left-color: Black"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: -11pt 0pt 0pt 0.25in; text-align: justify; border-left-width: 0in; border-left-color: Black">make
+    any proposal or statement of inquiry or disclose any intention, plan or arrangement inconsistent with any of the foregoing.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; border-left-width: 0in; border-left-color: Black">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Notwithstanding the foregoing, a member of the
+    Stockholder Group may make a private proposal to the Company, the Board (or any committee thereof) or</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="font: italic 10pt Times New Roman, Times, Serif; text-align: right; margin: 0pt">CONFIDENTIAL</P></DIV>
+    <!-- Field: /Page -->
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; font-size: 12pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 67%">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">the Company&rsquo;s Chief Executive Officer, in
+    each case, so long as any such private proposal would not reasonably be expected to give rise to a public disclosure obligation on the
+    part of the Stockholder Group or the Company.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;<B>Standstill Period</B>&rdquo; shall mean
+    the period beginning on Term Sheet Date and ending on the earlier to occur of (i) the Termination Date and (ii) the date that the Stockholder
+    Group beneficially owns less than 17.5% of the outstanding shares of Class A Common Stock; <I>provided</I> that for purposes of applying
+    the term &ldquo;Standstill Period&rdquo; to the first bullet under the section titled &ldquo;Standstill&rdquo; above, the foregoing clause
+    (i) shall be disregarded.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;<B>Termination Date</B>&rdquo; means the
+    earlier to occur of (x) the time and date of the Final Conversion Event (as defined in Section 7.4 of Article IV.A. of the Amended and
+    Restated Certificate of Incorporation of the Company dated June 1, 2021) and (y) the date that Trina Spear ceases to be Chief Executive
+    Officer or co-Chief Executive Officer of the Company.</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Registration Rights:</I></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">The SHA will provide the Stockholder Group with customary demand, piggyback and shelf registration rights which, for the avoidance of doubt, shall continue in effect (including after the termination of the Standstill Period) until all of the Class A Common Stock held by the Stockholder Group can be sold without restrictions as to volume, manner of sale or other restrictions under Rule 144 under the Securities Act of 1933, as amended. </FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Adjustments to Share Classes</I></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">The SHA will provide for customary adjustments in respect of any reorganization, recapitalization, reclassification, combination, exchange of shares or other like change on the shares of Class A Common Stock.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Costs and Expenses </I></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">All costs and expenses incurred in connection with the SHA and the transactions contemplated thereby shall be paid by the party incurring such costs and expenses. </FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Binding Effect</I></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">The provisions of this Term Sheet shall be binding on the heirs, executors, administrators and other successors in interest of the Company and Baron.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Governing Law</I></FONT></TD>
+    <TD STYLE="font-size: 12pt; text-align: justify"><FONT STYLE="font-size: 10pt">THIS TERM SHEET WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE, WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW OR CONFLICTING PROVISION OR RULE (WHETHER OF THE STATE OF DELAWARE OR ANY OTHER JURISDICTION) THAT WOULD CAUSE THE LAWS OF ANY JURISDICTION OTHER THAN THE STATE OF DELAWARE TO BE APPLIED. IN FURTHERANCE OF THE FOREGOING, THE INTERNAL LAW OF THE STATE OF DELAWARE WILL CONTROL THE INTERPRETATION AND CONSTRUCTION OF THIS TERM SHEET, EVEN IF UNDER SUCH JURISDICTION&rsquo;S CHOICE OF LAW OR CONFLICT OF LAWS ANALYSIS, THE SUBSTANTIVE LAW OF SOME OTHER JURISDICTION WOULD ORDINARILY APPLY. ANY ACTION TO ENFORCE THIS TERM SHEET OR THE SHA MUST BE BROUGHT IN, AND THE PARTIES HEREBY CONSENT TO THE JURISDICTION OF, A COURT SITUATED IN DELAWARE. EACH PARTY HEREBY WAIVES THE RIGHTS TO CLAIM THAT ANY SUCH COURT IS AN INCONVENIENT FORUM FOR THE RESOLUTION OF ANY SUCH ACTION. EACH PARTY TO THIS TERM SHEET WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING, CLAIM OR COUNTERCLAIM.</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="font: italic 10pt Times New Roman, Times, Serif; text-align: right; margin: 0pt">CONFIDENTIAL</P></DIV>
+    <!-- Field: /Page -->
+
+<TABLE CELLSPACING="0" CELLPADDING="4" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 33%; text-align: justify"><FONT STYLE="font-size: 10pt"><I>Severability</I></FONT></TD>
+    <TD STYLE="width: 67%; text-align: justify"><FONT STYLE="font-size: 10pt">The invalidity or unenforceability of any provision or provisions of this Term Sheet shall not affect the validity or enforceability of any other provision of this Term Sheet. If any of the provisions of this Term Sheet shall be determined to be invalid under the laws of any applicable jurisdiction, such invalidity shall not invalidate all of the provisions of this Term Sheet, but rather the Term Sheet shall be construed insofar as the laws of that jurisdiction are concerned, as not containing invalid or contravening provisions, and the rights and obligations of the parties shall otherwise be enforced to the fullest extent possible.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><I>Entire Agreement</I></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">This Term Sheet and any documentation implementing any of the terms hereof and thereof constitutes the entire understanding between the parties with respect to the subject matter hereof and supersedes all prior negotiations, discussions, preliminary agreements, executed agreements and understandings. </FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><I>Amendment</I></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">This Term Sheet may not be amended, modified, rescinded or waived except in writing executed by the parties hereto.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><I>Specific Performance</I></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">It is understood and agreed that money damages would not be an adequate remedy for any breach of this Term Sheet by any party to this Term Sheet and the non-breaching party to this Term Sheet shall be entitled to equitable relief, including, without limitation, injunction and specific performance, as a remedy for any such actual or potential breach. Such remedies shall not be deemed to be the exclusive remedies for a breach by the non-breaching parties, but shall be in addition to all other remedies available at law or equity to the non-breaching party. The parties to this Term Sheet further agree not to raise as a defense or objection to the request or granting of such relief that any breach of this Term Sheet is or would be compensable by an award of money damages, and the parties to this Term Sheet agree to waive any requirements for the securing or posting of any bond in connection with such remedy.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><I>Termination</I></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Unless otherwise mutually agreed in writing by each party, this Term Sheet shall terminate upon the earlier of (i) the termination of the Standstill Period and (ii) the entry into the SHA by the parties hereto.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><I>Assignment</I></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">This Term Sheet may not be assigned or delegated by any party hereto.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><I>Counterparts</I></FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">This Term Sheet may be executed in any number of counterparts, each of which when executed and delivered, shall be deemed to be an original and all of which together shall be deemed to be one and the same instrument binding upon all of the parties hereto notwithstanding the fact that all parties are not signatory to the original or the same counterpart. </FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="font: italic 10pt Times New Roman, Times, Serif; text-align: right; margin: 0pt">CONFIDENTIAL</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.4in">IN WITNESS WHEREOF, the parties
+hereto have executed this Term Sheet as of the date set forth above.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.4in">&nbsp;</P>
+
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><B>THE COMPANY:</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt"><B>FIGS, INC.</B></FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 5%; text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 35%; text-align: justify">/s/ Catherine Spear</TD>
+    <TD STYLE="width: 10%; text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="text-align: justify">Catherine Spear</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify">Chief Executive Officer</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Baron Capital management, Inc.</B></FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 5%; text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 35%; text-align: justify">/s/ <FONT STYLE="font-size: 10pt">Patrick M. Patalino</TD>
+    <TD STYLE="width: 10%; text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Patrick M. Patalino</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">SVP, General Counsel</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-size: 10pt; text-transform: uppercase"><B>Bamco, Inc.</B></FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 5%; text-align: justify"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 35%; text-align: justify">/s/ <FONT STYLE="font-size: 10pt">Patrick M. Patalino</TD>
+    <TD STYLE="width: 10%; text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Patrick M. Patalino</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 10pt">SVP, General Counsel</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

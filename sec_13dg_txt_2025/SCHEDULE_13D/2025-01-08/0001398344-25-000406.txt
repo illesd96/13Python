@@ -1,0 +1,279 @@
+<SEC-DOCUMENT>0001398344-25-000406.txt : 20250108
+<SEC-HEADER>0001398344-25-000406.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108101756
+ACCESSION NUMBER:		0001398344-25-000406
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250108
+DATE AS OF CHANGE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SAGA COMMUNICATIONS INC
+		CENTRAL INDEX KEY:			0000886136
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO BROADCASTING STATIONS [4832]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				383042953
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-42921
+		FILM NUMBER:		25516962
+
+	BUSINESS ADDRESS:	
+		STREET 1:		73 KERCHEVAL AVE
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+		BUSINESS PHONE:		3138867070
+
+	MAIL ADDRESS:	
+		STREET 1:		73 KERCHEVAL AVE
+		CITY:			GROSSE POINTE FARMS
+		STATE:			MI
+		ZIP:			48236
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GATE CITY CAPITAL MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001705447
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				471729190
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8725 W HIGGINS ROAD, STE 530
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60631
+		BUSINESS PHONE:		312-825-1228
+
+	MAIL ADDRESS:	
+		STREET 1:		8725 W HIGGINS ROAD, STE 530
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60631
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: GATE CITY CAPITAL MANAGEMENT, LLC -->
+          <cik>0001705447</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000886136</issuerCIK>
+        <issuerCUSIP>786598300</issuerCUSIP>
+        <issuerName>SAGA COMMUNICATIONS INC</issuerName>
+        <address>
+          <com:street1>73 Kercheval Ave</com:street1>
+          <com:city>Grosse Pointe Farms</com:city>
+          <com:stateOrCountry>MI</com:stateOrCountry>
+          <com:zipCode>48236</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Michael Melby</personName>
+          <personPhoneNum>(312) 825-1228</personPhoneNum>
+          <personAddress>
+            <com:street1>c/o Gate City Capital Management, LLC</com:street1>
+            <com:street2>8725 W. Higgins Road, Suite 530</com:street2>
+            <com:city>Chicago</com:city>
+            <com:stateOrCountry>IL</com:stateOrCountry>
+            <com:zipCode>60631</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001705447</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Gate City Capital Management, LLC</reportingPersonName>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+        <soleVotingPower>863845.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>863845.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>863845.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.80</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Michael Melby</reportingPersonName>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>863845.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>863845.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>863845.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.80</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>This Schedule 13D (this "Schedule 13D") is being filed on behalf of Gate City Capital Management, LLC, an Illinois limited liability company (the "Management Company") and Michael Melby. Mr. Melby serves as the managing member of the Management Company. The Management Company serves as an adviser to certain private investment funds and managed accounts (the "Funds"). This Schedule 13D relates to Common Shares (the "Common Shares") of Saga Communications Inc (the "Issuer") held by the Funds.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>SAGA COMMUNICATIONS INC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>73 Kercheval Ave</com:street1>
+          <com:city>Grosse Pointe Farms</com:city>
+          <com:stateOrCountry>MI</com:stateOrCountry>
+          <com:zipCode>48236</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>The names of the persons jointly filing this statement on Schedule 13D (the "Reporting Persons") are Gate City Capital Management, LLC, an Illinois limited liability company and Michael Melby, Managing Member of Gate City Capital Management, LLC.  Mr. Melby is the controlling member of Gate City Capital Management, LLC.</filingPersonName>
+        <principalBusinessAddress>The address of each of the Reporting Persons is 8725 W. Higgins Road, Suite 530, Chicago, IL 60631.</principalBusinessAddress>
+        <principalJob>The principal business of Gate City Capital Management, LLC is to serve as an adviser to certain private investment funds and managed accounts. Mr. Melby's principal occupation is serving as the Portfolio Manager of Gate City Capital Management, LLC.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons have been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons have been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Gate City Capital Management, LLC is an Illinois limited liability company.  Mr. Melby is a United States citizen.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The source and amount of funds used by the Reporting Persons in making their purchase of the shares of Common Stock owned by each of them in the aggregate was $13,770,806 using the working capital of each of the Funds.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Person purchased the Common Stock based on the Reporting Person's belief that the Common Stock, when purchased, were undervalued and did not adequately reflect the potential value of the Company's underlying business and assets. Depending upon overall market conditions, other investment opportunities available to the Reporting Persons, and the availability of shares at prices that would make the purchase or sale of Common Stock desirable, the Reporting Person may endeavor to increase or decrease its position in the Issuer through, among other things, the purchase or sale of Common Stock on the open market or in private transactions or otherwise, on such terms and at such times as the Reporting Person may deem advisable. The Reporting Person may engage in short selling or hedging or similar transactions with respect to the Common Stock, on such terms and at such times as the Reporting Person may deem advisable.
+
+The Reporting Person may in the future take such actions with respect to its investment in the Issuer as it deems appropriate including, without limitation, continuing to engage in communications with management and the Board of the Issuer, engaging in discussions with shareholders of the Issuer and others about the Issuer and the Reporting Person's investment, making proposals to the Issuer concerning a formal evaluation of strategic alternatives, making proposals to the Issuer concerning open-market repurchases and tender offers, making proposals to the Issuer concerning cost reductions, making proposals to the Issuer concerning changes to the capitalization, ownership structure, board structure or operations of the Issuer, purchasing additional shares, selling some or all of its shares, or changing its intention with respect to any and all matters referred to in Item 4.
+
+The Reporting Person does not have any present plan or proposal which would relate to or result in any of the matters set forth in subparagraphs (a) - (j) of Item 4 of Schedule 13D except as set forth herein or such as would occur upon or in connection with completion of, or following, any of the actions discussed herein.
+
+The Reporting Person intends to review its investment in the Issuer on a continuing basis. Depending on various factors including, without limitation, the Issuer's financial position and investment strategy, the price levels of the shares, conditions in the securities markets and general economic and industry conditions, the Reporting Person may in the future take such actions with respect to its investment in the Issuer as it deems appropriate.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The Reporting Person beneficially owns in the aggregate 863,845 shares of Common Stock, which represents approximately 13.80% of the Company's outstanding shares of Common Stock. The percentage ownership of shares of Common Stock set forth in this Statement is based on 6,261,481 shares of Common Stock issued and outstanding as of November 4, 2024 as reported in the Company's Form 10-Q filed with the SEC on November 12, 2024.</percentageOfClassSecurities>
+        <numberOfShares>The Reporting Person has the sole power to vote or to direct the voting of 863,845 of such shares described in Item 5(a) above. The Reporting Person has the sole power to dispose or direct the disposition of all such shares described in Item 5(a) above.  The Reporting Person does not have shared power to vote or to direct the vote of any such shares described in Item 5(a) above, and does not have shared power to dispose or direct the disposition of any such shares described in Item 5(a) above.</numberOfShares>
+        <transactionDesc>Schedule A hereto sets forth all transactions in the Common Stock by any Reporting Person during the past sixty days. Except for the transactions set forth on Schedule A, none of the Reporting Persons effected any transaction during the past sixty days.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Other than described herein, there are no contracts, arrangements, understandings or relationships among the Reporting Person and any other person with respect to the securities of the Issuer.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Gate City Capital Management, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Melby</signature>
+          <title>Michael Melby, Managing Member</title>
+          <date>01/08/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Michael Melby</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Melby</signature>
+          <title>Michael Melby, Managing Member</title>
+          <date>01/08/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.  In accordance with the requirements of Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended, and subject to the limitations set forth therein, the parties set forth below agree to jointly file the Schedule 13D to which this joint filing agreement is attached, and have duly executed this joint filing agreement as of the date set forth below.</commentText>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>fp0091679-1_ex99a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>Schedule A</U></B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>Transactions &ndash; Past 60 days</U></B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">The Reporting Person effected the following transactions in the Stock in
+open market transactions on the dates indicated, and such transactions are the only transactions in the Stock by the Reporting Person
+during the sixty days prior to and including January 8, 2025 (date range: November 10, 2024 through January 8, 2025):</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="2" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="white-space: nowrap; width: 33%"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/9/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap; width: 67%"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 1,655 shares at $11.7666</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/10/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 23,014 shares at $11.8493</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/11/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 4,334 shares at $11.8447</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/17/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 10,797 shares at $11.884</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/18/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 10,595 shares at $11.8978</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/19/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 1,316 shares at $11.8896</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/20/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 112,394 shares at $11.8997</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/27/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 15,000 shares at $11.30</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: Gainsboro">
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">12/31/2024</FONT></TD>
+    <TD STYLE="white-space: nowrap"><FONT STYLE="font-family: Times New Roman, Times, Serif">Bought 240,609 shares at $11.2496</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,248 @@
+<SEC-DOCUMENT>0000950103-25-000781.txt : 20250122
+<SEC-HEADER>0000950103-25-000781.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122214627
+ACCESSION NUMBER:		0000950103-25-000781
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Redwire Corp
+		CENTRAL INDEX KEY:			0001819810
+		STANDARD INDUSTRIAL CLASSIFICATION:	GUIDED MISSILES & SPACE VEHICLES & PARTS [3760]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				881818410
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91869
+		FILM NUMBER:		25547474
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8226 PHILIPS HIGHWAY, SUITE 101
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32256
+		BUSINESS PHONE:		650 701-7722
+
+	MAIL ADDRESS:	
+		STREET 1:		8226 PHILIPS HIGHWAY, SUITE 101
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32256
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Genesis Park Acquisition Corp.
+		DATE OF NAME CHANGE:	20200731
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BAIN CAPITAL CREDIT MEMBER, LLC
+		CENTRAL INDEX KEY:			0001309111
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				510422163
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+		BUSINESS PHONE:		617-516-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 CLARENDON STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SANKATY CREDIT MEMBER, LLC
+		DATE OF NAME CHANGE:	20041118
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000950103-22-019514</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BAIN CAPITAL CREDIT MEMBER, LLC -->
+          <cik>0001309111</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.0001 per share</securitiesClassTitle>
+      <dateOfEvent>01/20/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001819810</issuerCIK>
+        <issuerCUSIP>75776W103</issuerCUSIP>
+        <issuerName>Redwire Corporation</issuerName>
+        <address>
+          <com:street1>8226 PHILIPS HIGHWAY, SUITE 101</com:street1>
+          <com:city>JACKSONVILLE</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>32256</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Bain Capital Credit Member LLC</personName>
+          <personPhoneNum>617-516-2000</personPhoneNum>
+          <personAddress>
+            <com:street1>200 Clarendon Street</com:street1>
+            <com:city>Boston</com:city>
+            <com:stateOrCountry>MA</com:stateOrCountry>
+            <com:zipCode>02116</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001309111</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Bain Capital Credit Member, LLC</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>17049180.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>17049180.00</sharedDispositivePower>
+        <aggregateAmountOwned>17049180.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>20.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001953825</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BCC Redwire Aggregator, L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>17049180.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>17049180.00</sharedDispositivePower>
+        <aggregateAmountOwned>17049180.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>20.4</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <commentContent>*The shares of common stock of Redwire Corporation, par value $0.0001 per share ("Common Stock") shown in Item 11 of each cover page above are initially issuable upon conversion of 52,000 shares of Series A Convertible Preferred Stock of Redwire Corporation, a Delaware corporation ("Issuer"), par value $0.0001 per share ("Convertible Preferred Stock").  BCC Redwire Aggregator, L.P. ("BCCR") is the record owner of these shares of Convertible Preferred Stock.
+
+** For purposes of calculating beneficial ownership, the total number of shares of outstanding Common Stock is 66,540,871 as of October 31, 2024, as set forth in Issuer's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024, filed on November 7, 2024.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.0001 per share</securityTitle>
+        <issuerName>Redwire Corporation</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>8226 PHILIPS HIGHWAY, SUITE 101</com:street1>
+          <com:city>JACKSONVILLE</com:city>
+          <com:stateOrCountry>FL</com:stateOrCountry>
+          <com:zipCode>32256</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 2 (this "Second Amendment") amends the Schedule 13D filed with the U.S. Securities and Exchange Commission on November 10, 2022, as amended by Amendment No. 1 filed on December 5, 2022 (as amended by this Second Amendment, this "Schedule 13D") on behalf of Bain Capital Credit Member, LLC ("BCCM") and BCCR (collectively, the "Reporting Persons").</commentText>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 of the Schedule 13D is hereby amended and supplemented as follows:
+
+Merger Agreement
+
+On January 20, 2025, Issuer entered into an Agreement and Plan of Merger (the "Merger Agreement") with Edge Autonomy Ultimate Holdings, LP, a Delaware limited partnership, Edge Autonomy Intermediate Holdings, LLC, a Delaware limited liability company (together with its subsidiaries, "Edge Autonomy"), Echelon Merger Sub, Inc., a Delaware corporation and a direct wholly-owned subsidiary of Issuer and Echelon Purchaser, LLC, a Delaware limited liability company and a direct wholly-owned subsidiary of Issuer, pursuant to which Issuer will, via the mergers set forth in the Merger Agreement, acquire Edge Autonomy, a leading provider of field-proven uncrewed airborne system technology.
+
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which is filed as Exhibit A and is incorporated by reference herein.
+
+Voting Agreement
+
+On January 20, 2025, entities affiliated with AEI, Genesis Park Holdings (though its affiliate Genesis Park II LP) and BCCM (through its affiliate BCCR) have each entered into a voting and support agreement (collectively, the "Voting Agreements") with the Issuer in which each have agreed, among other things, to, subject to the terms and conditions thereof, vote in favor of the transactions contemplated by the Merger Agreement at the stockholders meeting to be called for such purpose.
+
+Pursuant to BCCR's Voting Agreement, from and after the date of such Voting Agreement and until the earliest to occur of (i) 180 days following the date of execution of the Merger Agreement, (ii) the day following the record date for such stockholders meeting and (iii) the termination of such Voting Agreement, BCCR may not, among other things, directly or indirectly, voluntarily transfer, sell (including short sell), assign, gift, hedge, pledge, grant a participation interest in, hypothecate or otherwise dispose of, or enter into any derivative arrangement with respect to, any of the shares of the Issuer subject to such Voting Agreement.
+
+The foregoing description of the BCCR's Voting Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of such Voting Agreement, which is filed as Exhibit B and is incorporated herein by reference.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) of the Schedule 13D is hereby amended and restated in its entirety:
+
+The information set forth in Items 2, 3 and 4 are hereby incorporated by reference into this Item 5(a).
+
+The percentage of the Issuer's outstanding shares of Common Stock held by the Reporting Persons is based on 66,540,871 shares of Common Stock outstanding as of October 31, 2024, as set forth in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024, filed on November 7, 2024.
+
+As of the date hereof, BCCR held 50,000 shares of Convertible Preferred Stock. Pursuant to the terms of the Certificate of Designation filed with the Delaware Secretary of State and effective October 28, 2022, as of the date hereof, such shares were convertible into 16,393,442 shares of Common Stock, at the sole discretion of BCCR.
+
+In addition, BCCR also holds 16,818.14 shares of Convertible Preferred Stock received as paid-in-kind dividends, which are subject to a conversion blocker that limits conversion if and to the extent the Reporting Persons would beneficially own in excess of 20.4% after giving effect to such conversion. In this regard 2,000 of such additional shares of Convertible Preferred Stock are convertible into 655,737 shares of Common Stock.
+
+Accordingly, pursuant to Rule 13d-3 of the Act, BCCR may be deemed to beneficially own 17,049,180 shares of Common Stock, which constitutes approximately 20.4% of the outstanding Common Stock of the Issuer.
+
+As a result of the foregoing and the relationships described in Item 2(a) of this Schedule 13D, the Reporting Persons may be deemed to beneficially own in the aggregate 17,049,180 shares of Common Stock, which constitutes approximately 20.4% of the outstanding Common Stock of the Issuer.</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) of the Schedule 13D is hereby amended and restated in its entirety:
+
+The information set forth in Item 5(a) is hereby incorporated by reference into this Item 5(b).</numberOfShares>
+        <transactionDesc>Item 5(c) of the Schedule 13D is hereby amended and supplemented by adding the following information.
+
+Other than as disclosed in Item 4 of this Second Amendment, none of the Reporting Persons has effected any transactions in the Common Stock during the past 60 days of this Second Amendment.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>The information set forth in Item 4 is hereby incorporated by reference into this Item 6.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit A Agreement and Plan of Merger, dated as of January 20, 2025, by and among Redwire Corporation, Edge Autonomy Ultimate Holdings, LP, Edge Autonomy Intermediate Holdings, LLC, Echelon Merger Sub, Inc., and Echelon Purchaser, LLC (incorporated by reference to Exhibit 2.1 to the current report on Form 8-K filed with the SEC by the Issuer on January 21, 2025).
+
+Exhibit B Voting Agreement, dated January 20, 2025, by and among Redwire Corporation and BCC Redwire Aggregator, L.P. (incorporated by reference to Exhibit 99.3 to the current report on Form 8-K filed with the SEC by the Issuer on January 21, 2025).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Bain Capital Credit Member, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Treisman</signature>
+          <title>Michael Treisman/Managing Director and General Counsel</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>BCC Redwire Aggregator, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Michael Treisman</signature>
+          <title>Michael Treisman/Managing Director and General Counsel</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

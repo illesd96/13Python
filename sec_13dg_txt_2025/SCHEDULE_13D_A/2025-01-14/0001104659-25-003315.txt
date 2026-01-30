@@ -1,0 +1,295 @@
+<SEC-DOCUMENT>0001104659-25-003315.txt : 20250114
+<SEC-HEADER>0001104659-25-003315.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114092946
+ACCESSION NUMBER:		0001104659-25-003315
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250114
+DATE AS OF CHANGE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NC SLF Inc.
+		CENTRAL INDEX KEY:			0001844684
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92644
+		FILM NUMBER:		25527933
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+		BUSINESS PHONE:		2122072003
+
+	MAIL ADDRESS:	
+		STREET 1:		375 PARK AVENUE
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10152
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UAW Retiree Medical Benefits Trust
+		CENTRAL INDEX KEY:			0001480561
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				900424876
+		STATE OF INCORPORATION:			XX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1155 BREWERY PARK BLVD., SUITE 400
+		CITY:			DETROIT
+		STATE:			MI
+		ZIP:			48207
+		BUSINESS PHONE:		(313) 324-5900
+
+	MAIL ADDRESS:	
+		STREET 1:		1155 BREWERY PARK BLVD., SUITE 400
+		CITY:			DETROIT
+		STATE:			MI
+		ZIP:			48207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-21-089350</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: UAW Retiree Medical Benefits Trust -->
+          <cik>0001480561</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>18</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value per share</securitiesClassTitle>
+      <dateOfEvent>01/10/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001844684</issuerCIK>
+        <issuerCUSIP>000000000</issuerCUSIP>
+        <issuerName>NC SLF INC.</issuerName>
+        <address>
+          <com:street1>375 Park Avenue, 9th Floor</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10152</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Garon Meikle, CFO</personName>
+          <personPhoneNum>(313) 324-5900</personPhoneNum>
+          <personAddress>
+            <com:street1>UAW Retiree Medical Benefits Trust</com:street1>
+            <com:street2>1155 Brewery Park Blvd., Suite 400</com:street2>
+            <com:city>Detroit</com:city>
+            <com:stateOrCountry>MI</com:stateOrCountry>
+            <com:zipCode>48207</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001480561</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>UAW Retiree Medical Benefits Trust</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>XX</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>53026217.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>53026217.00</sharedDispositivePower>
+        <aggregateAmountOwned>53026217.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>99.2</percentOfClass>
+        <typeOfReportingPerson>EP</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001795057</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>UAW Chrysler Retirees Medical Benefits Plan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>XX</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>10340111.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>10340111.00</sharedDispositivePower>
+        <aggregateAmountOwned>10340111.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>19.3</percentOfClass>
+        <typeOfReportingPerson>EP</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001795052</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>UAW Ford Retirees Medical Benefits Plan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>XX</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>16119969.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>16119969.00</sharedDispositivePower>
+        <aggregateAmountOwned>16119969.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>30.2</percentOfClass>
+        <typeOfReportingPerson>EP</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001795050</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>UAW GM Retirees Medical Benefits Plan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>XX</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>26566137.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>26566137.00</sharedDispositivePower>
+        <aggregateAmountOwned>26566137.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>49.7</percentOfClass>
+        <typeOfReportingPerson>EP</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001794997</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Hershel Harper</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>53026217.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>53026217.00</sharedDispositivePower>
+        <aggregateAmountOwned>53026217.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>99.2</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.01 par value per share</securityTitle>
+        <issuerName>NC SLF INC.</issuerName>
+      </item1>
+      <item4>
+        <transactionPurpose>This Item 4 is hereby amended to remove the following:
+
+On December 27, 2024, pursuant to distribution reinvestment plans (i) UAW Chrysler Retirees Medical Benefits Plan reinvested distribution proceeds in the Issuer and the Issuer issued to UAW Chrysler Retirees Medical Benefits Plan 386,525 Shares; (ii) UAW Ford Retirees Medical Benefits Plan reinvested distribution proceeds in the Issuer and the Issuer issued to UAW Ford Retirees Medical Benefits Plan 602,583 Shares; and (iii) UAW GM Retirees Medical Benefits Plan reinvested distribution proceeds in the Issuer and the Issuer issued to UAW GM Retirees Medical Benefits Plan 993,072 Shares.  The price per Share was $9.99.
+
+This Item 4 is hereby amended to include the following:
+
+On December 27, 2024, pursuant to drawdown notices delivered in accordance with the Subscription Agreements (i) UAW Chrysler Retirees Medical Benefits Plan purchased from the Issuer, and the Issuer issued to UAW Chrysler Retirees Medical Benefits Plan 386,525 Shares; (ii) UAW Ford Retirees Medical Benefits Plan purchased from the Issuer, and the Issuer issued to UAW Ford Retirees Medical Benefits Plan 602,583 Shares; and (iii) UAW GM Retirees Medical Benefits Plan purchased from the Issuer, and the Issuer issued to UAW GM Retirees Medical Benefits Plan 993,072 Shares.  The price per Share was $9.99.
+
+On January 10, 2025, pursuant to distribution reinvestment plans (i) UAW Chrysler Retirees Medical Benefits Plan reinvested distribution proceeds in the Issuer and the Issuer issued to UAW Chrysler Retirees Medical Benefits Plan 258,761 Shares; (ii) UAW Ford Retirees Medical Benefits Plan reinvested distribution proceeds in the Issuer and the Issuer issued to UAW Ford Retirees Medical Benefits Plan 403,402 Shares; and (iii) UAW GM Retirees Medical Benefits Plan reinvested distribution proceeds in the Issuer and the Issuer issued to UAW GM Retirees Medical Benefits Plan 664,818 Shares.  The price per Share was $9.74.
+
+The purpose of the transaction was to acquire securities of the Issuer for investment purposes.
+
+The Issuer is a business development company.  The Reporting Persons expect to continue to beneficially own, in the aggregate, greater than 99% of the Shares outstanding.  The investment strategy and investment policy of the Issuer have been devised by, and will be implemented by, Churchill Asset Management LLC.  The Reporting Persons do not have any plans or proposals to make any changes to the Issuer's investment policy.
+
+The Reporting Persons may change their intention with respect to any and all matters referred to in this Item 4.
+
+Except as set forth herein, the Reporting Persons have no present plan or proposal that would relate to or result in any of the matters set forth in subparagraphs (a)-(j) of Item 4 of Schedule 13D.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The aggregate number of Shares to which this Amendment No. 18 relates is 53,026,217.  Such aggregate number of Shares represents 99.2% of the common stock of the Issuer.  The percentage reported in this Amendment No. 18 is calculated based upon 53,465,282 Shares outstanding as of January 10, 2025 as indicated by the Issuer.</percentageOfClassSecurities>
+        <numberOfShares>The UAW Chrysler Retirees Medical Benefits Plan beneficially owns and has shared voting and dispositive power of 10,340,111 Shares. Such Shares represent 19.3% of the Shares outstanding.
+
+The UAW Ford Retirees Medical Benefits Plan beneficially owns and has shared voting and dispositive power of 16,119,969 Shares. Such Shares represent 30.2% of the Shares outstanding.
+
+The UAW GM Retirees Medical Benefits Plan beneficially owns and has shared voting and dispositive power of 26,566,137 Shares. Such Shares represent 49.7% of the Shares outstanding.
+
+UAW RMBT is the trust under which the Plans are established and, pursuant to Rule 13d-3, may be deemed to beneficially own the 53,026,217 Shares held by the Plans.  Such Shares represent 99.2% of the Shares outstanding.  UAW RMBT is an indirect beneficial owner of these Shares.
+
+Hershel Harper is the chief investment officer of UAW RMBT, the trust under which the Plans are established, and, pursuant to Rule 13d-3 may be deemed to beneficially own the 53,026,217 Shares held by the Plans.  Such Shares represent 99.2% of the Shares outstanding.  Hershel Harper is an indirect beneficial owner of these Shares.</numberOfShares>
+        <transactionDesc>Except as disclosed in Item 4, no transactions in the Shares were effected during the past sixty days by the Reporting Persons.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>UAW Retiree Medical Benefits Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Garon Meikle</signature>
+          <title>Garon Meikle/ Chief Financial Officer</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>UAW Chrysler Retirees Medical Benefits Plan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Garon Meikle</signature>
+          <title>Garon Meikle/ Chief Financial Officer</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>UAW Ford Retirees Medical Benefits Plan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Garon Meikle</signature>
+          <title>Garon Meikle/ Chief Financial Officer</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>UAW GM Retirees Medical Benefits Plan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Garon Meikle</signature>
+          <title>Garon Meikle/ Chief Financial Officer</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Hershel Harper</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hershel Harper</signature>
+          <title>Hershel Harper/Self</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

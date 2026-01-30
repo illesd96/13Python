@@ -1,0 +1,222 @@
+<SEC-DOCUMENT>0001104659-25-003823.txt : 20250115
+<SEC-HEADER>0001104659-25-003823.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115171515
+ACCESSION NUMBER:		0001104659-25-003823
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250115
+DATE AS OF CHANGE:		20250115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Angi Inc.
+		CENTRAL INDEX KEY:			0001705110
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				821204801
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90122
+		FILM NUMBER:		25533692
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		2123147230
+
+	MAIL ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ANGI Homeservices Inc.
+		DATE OF NAME CHANGE:	20170504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Halo TopCo, Inc.
+		DATE OF NAME CHANGE:	20170427
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IAC Inc.
+		CENTRAL INDEX KEY:			0001800227
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				843727412
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		(212) 314-7300
+
+	MAIL ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IAC/InterActiveCorp
+		DATE OF NAME CHANGE:	20200702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IAC Holdings, Inc.
+		DATE OF NAME CHANGE:	20200115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-20-081776</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: IAC Inc. -->
+          <cik>0001800227</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>CLASS A COMMON STOCK, PAR VALUE $0.001 PER SHARE</securitiesClassTitle>
+      <dateOfEvent>01/13/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001705110</issuerCIK>
+        <issuerCUSIP>00183L102</issuerCUSIP>
+        <issuerName>ANGI INC.</issuerName>
+        <address>
+          <com:street1>IAC Inc.</com:street1>
+          <com:street2>555 West 18th Street</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10011</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Kendall Handler</personName>
+          <personPhoneNum>(212) 314-7300</personPhoneNum>
+          <personAddress>
+            <com:street1>IAC Inc.</com:street1>
+            <com:street2>555 West 18th Street</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10011</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001800227</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>IAC Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>419598827.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>419598827.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>419598827.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>85.2</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>Note to 7, 9, and 11: Reflects: (i) 417,010,647 shares of Class B Common Stock, par value $0.001, of Angi Inc. ("ANGI Class B Common Stock"), beneficially owned by IAC Inc. ("IAC") as converted on a one-to-one basis into shares of Class A Common Stock, par value $0.001, of Angi Inc. ("ANGI Class A Common Stock"), in accordance with their terms, and (ii) 2,588,180 shares of ANGI Class A Common Stock beneficially owned by IAC.
+
+Note to 13: Assumes the conversion of all shares of ANGI Class B Common Stock beneficially owned by IAC into shares of ANGI Class A Common Stock on a one-for-one basis. Because each share of ANGI Class B Common Stock is generally entitled to ten votes per share and each share of ANGI Class A Common Stock is entitled to one vote per share, IAC may be deemed to beneficially own equity securities of Angi Inc. ("ANGI") representing approximately 98.3% of the total voting power of all classes of capital stock of ANGI, based on 75,249,787 shares of ANGI Class A Common Stock outstanding as of November 8, 2024 and 417,010,647 shares of ANGI Class B Common Stock outstanding as of the date hereof.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>CLASS A COMMON STOCK, PAR VALUE $0.001 PER SHARE</securityTitle>
+        <issuerName>ANGI INC.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>IAC Inc.</com:street1>
+          <com:street2>555 West 18th Street</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10011</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>Introductory Note
+
+This amended report on Schedule 13D relating to ANGI Class A Common Stock initially filed by IAC with the U.S. Securities and Exchange Commission (the "SEC") on July 7, 2020, as amended by Amendment No. 1 thereto dated April 2, 2021 and Amendment No. 2 thereto dated November 12, 2024 (the "Initial Schedule 13D"), is hereby further amended and supplemented to include the information set forth in this Amendment No. 3 to the Initial Schedule 13D. Capitalized terms not defined herein have the meanings given to such terms in the Initial Schedule 13D.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>No amendment to this Item is being made.</filingPersonName>
+      </item2>
+      <item4>
+        <transactionPurpose>The information set forth in Item 4 of the Initial Schedule 13D is hereby amended and supplemented as follows:
+
+On January 13, 2025, IAC announced that its board of directors (the "IAC Board") had authorized management to pursue the spin-off of its ownership stake in ANGI to IAC shareholders. As of the date hereof, IAC intends to effect the spin-off of its ownership stake in ANGI through a dividend of all of the capital stock of ANGI owned by IAC to the holders of its common stock and Class B common stock.  Prior to the effective time of such dividend, IAC intends to voluntarily convert all of the shares of ANGI Class B Common Stock that it owns to shares of ANGI Class A Common Stock. Following this conversion and the dividend, there will be no shares of ANGI Class B Common Stock outstanding and IAC will no longer hold any shares of ANGI common stock. The completion of the spin-off and dividend, and associated share conversion, remain subject to conditions and to the approval of the IAC Board, and may not be completed, on the anticipated terms or at all.
+
+On January 13, 2025, IAC also announced the entry by IAC and Joseph Levin into that certain Employment Transition Agreement.  Pursuant to this agreement, as of January 13, 2025, IAC transferred 5,008,600 fully vested shares of ANGI Class B Common Stock to Mr. Levin, all of which Mr. Levin has converted into shares of ANGI Class A Common Stock on a one-for-one basis in accordance with their terms. The foregoing summary is not complete and is qualified in its entirety by reference to the full text of the Employment Transition Agreement, which is attached hereto as Exhibit 7.4 and incorporated herein by reference.
+
+As of January 13, 2025 and the date hereof, Mr. Levin serves as Chief Executive Officer and a member of the IAC Board and Chairman of the board of directors of ANGI (the "ANGI Board"). The ANGI Board has elected Mr. Levin to serve as Executive Chairman of the ANGI Board, effective as of the earlier of the date of completion of the spin-off or May 31, 2025.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The information set forth in paragraph (a) of Item 5 of the Initial Schedule 13D is hereby amended and supplemented as follows:
+
+(a) IAC beneficially owns: (i) 417,010,647 shares of ANGI Class B Common Stock, representing 100% of the outstanding shares of ANGI Class B Common Stock as of the date hereof, and (ii) 2,588,180 shares of ANGI Class A Common Stock, representing 3.4% of the outstanding shares of ANGI Class A Common Stock as of November 8, 2024. Shares of ANGI Class B Common Stock are convertible into shares of ANGI Class A Common Stock on a one-for-one basis, at any time at the election of the holder of such shares. IAC is the beneficial owner of equity securities of ANGI representing approximately 98.3% of the total voting power of all classes of ANGI capital stock and approximately 85.2% (on an as converted basis) of the total outstanding shares of ANGI capital stock.</percentageOfClassSecurities>
+        <numberOfShares>IAC has sole voting and sole dispositive power with regard to (i) 417,010,647 shares of ANGI Class B Common Stock and (ii) 2,588,180 shares of ANGI Class A Common Stock.</numberOfShares>
+        <transactionDesc>The information set forth above in Item 4 above with respect to the Employment Transition Agreement is incorporated herein by reference.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>The information set forth above in Item 4 above with respect to the Employment Transition Agreement is incorporated herein by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>7.1 Investor Rights Agreement, dated as of September 29, 2017, by and between IAC (as assignee of Old IAC) and ANGI Homeservices Inc. (filed as Exhibit 2.2 to Old IAC's Current Report on Form 8-K dated September 29, 2017, filed with the Securities and Exchange Commission on October 2, 2017).
+
+7.2 Contribution Agreement, dated as of September 29, 2017, by and between IAC (as assignee of Old IAC) and ANGI Homeservices Inc. (filed as Exhibit 2.1 to Old IAC's Current Report on Form 8-K dated September 29, 2017, filed with the Securities and Exchange Commission on October 2, 2017).
+
+7.3 Employee Matters Agreement, dated as of September 29, 2017, by and between IAC (as assignee of Old IAC) and ANGI Homeservices Inc. (filed as Exhibit 2.5 to Old IAC's Current Report on Form 8-K dated September 29, 2017, filed with the Securities and Exchange Commission on October 2, 2017).
+
+7.4 Employment Transition Agreement, dated as of January 13, 2025, by and between IAC Inc. and Joseph Levin. (filed as Exhibit 10.1 to IAC's Current Report on Form 8-K dated January 13, 2025, filed with the Securities and Exchange Commission on January 13, 2025).</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>IAC Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kendall Handler</signature>
+          <title>Kendall Handler, Executive Vice President, Chief Legal Officer &amp; Secretary</title>
+          <date>01/15/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

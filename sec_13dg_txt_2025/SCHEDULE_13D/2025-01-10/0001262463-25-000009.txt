@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001262463-25-000009.txt : 20250110
+<SEC-HEADER>0001262463-25-000009.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110110921
+ACCESSION NUMBER:		0001262463-25-000009
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+DATE AS OF CHANGE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Two Hands Corp
+		CENTRAL INDEX KEY:			0001494413
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				421770123
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94795
+		FILM NUMBER:		25521386
+
+	BUSINESS ADDRESS:	
+		STREET 1:		141 PIPING ROCK ROAD
+		CITY:			LOCUST VALLEY
+		STATE:			NY
+		ZIP:			11560
+		BUSINESS PHONE:		516-384-2577
+
+	MAIL ADDRESS:	
+		STREET 1:		141 PIPING ROCK ROAD
+		CITY:			LOCUST VALLEY
+		STATE:			NY
+		ZIP:			11560
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TWO HANDS Corp
+		DATE OF NAME CHANGE:	20160901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Innovative Product Opportunities Inc.
+		DATE OF NAME CHANGE:	20100616
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Assentato Emil
+		CENTRAL INDEX KEY:			0001683832
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD.
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Assentato Emil Flemming
+		DATE OF NAME CHANGE:	20160902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Assentato Emil -->
+          <cik>0001683832</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>12/30/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001494413</issuerCIK>
+        <issuerCUSIP>90187E501</issuerCUSIP>
+        <issuerName>Two Hands Corp</issuerName>
+        <address>
+          <com:street1>141 Piping Rock Road</com:street1>
+          <com:city>Locust Valley</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11560</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Emil Assentato</personName>
+          <personPhoneNum>516-384-2577</personPhoneNum>
+          <personAddress>
+            <com:street1>141 Piping Rock Road</com:street1>
+            <com:city>Locust Valley</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>11560</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001683832</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Emil Assentato</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>3000000000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3000000000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>3000000000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>57</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>Two Hands Corp</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>141 Piping Rock Road</com:street1>
+          <com:city>Locust Valley</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>11560</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Emil Assentato</filingPersonName>
+        <principalBusinessAddress>141 Piping Rock Road, Locust Valley, NY 11560</principalBusinessAddress>
+        <principalJob>Reporting Person is principally involved in the business of consulting.</principalJob>
+        <hasBeenConvicted>During the last five years, Reporting Person has not (i) been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors) or (ii) been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</hasBeenConvicted>
+        <convictionDescription>During the last five years, the Reporting Person has not been convicted in a criminal proceeding, nor been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction, as a result of which he was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Reporting Person is a U.S. citizen and resident of State of Florida.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>On December 30, 2024, Two Hands Corporation (the "Company") issued a total of 3,000,000,000 shares of its common stock to Emil Assentato in connection with the conversion of $300,000 in outstanding notes. The shares of common stock were issued at a conversion price of $0.0001 per share, consistent with the terms of the respective agreements governing the notes. The offer and issuance by the Company of the shares of common stock are exempt from registration under Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+The Reporting Person acquired beneficial ownership of the Securities with his own funds.
+
+The Reporting Person did not acquire beneficial ownership of any securities with borrowed funds.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Person has acquired the Securities of the Issuer for investment purposes, and such purchases have been made in the Reporting Person's ordinary course of business.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>As of December 30, 2024, Reporting Person beneficially owned 3,000,000,000 or 57% of Issuer's common stock.</percentageOfClassSecurities>
+        <numberOfShares>3,000,000,000</numberOfShares>
+        <transactionDesc>Except as described in this Schedule 13D, Reporting Person has not effectuated any other transactions involving the securities in the last 60 days.</transactionDesc>
+        <listOfShareholders>Not Applicable.</listOfShareholders>
+        <date5PercentOwnership>Not Applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Other than as described in this Schedule 13D, there are no contracts, arrangements, understandings or relationships (legal or otherwise) between the Reporting Persons and any other person with respect to any securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>None.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Emil Assentato</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Emil Assentato</signature>
+          <title>Emil Assentato</title>
+          <date>01/10/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

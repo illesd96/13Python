@@ -1,0 +1,651 @@
+<SEC-DOCUMENT>0001552781-25-000017.txt : 20250128
+<SEC-HEADER>0001552781-25-000017.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128151253
+ACCESSION NUMBER:		0001552781-25-000017
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250128
+DATE AS OF CHANGE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Monster Beverage Corp
+		CENTRAL INDEX KEY:			0000865752
+		STANDARD INDUSTRIAL CLASSIFICATION:	BOTTLED & CANNED SOFT DRINKS CARBONATED WATERS [2086]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				471809393
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-41221
+		FILM NUMBER:		25563659
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+		BUSINESS PHONE:		909-739-6200
+
+	MAIL ADDRESS:	
+		STREET 1:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HANSEN NATURAL CORP
+		DATE OF NAME CHANGE:	19930328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNIPAC CORP
+		DATE OF NAME CHANGE:	19600201
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COCA COLA CO
+		CENTRAL INDEX KEY:			0000021344
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				580628465
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE COCA COLA PLAZA
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30313
+		BUSINESS PHONE:		404-676-2121
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE COCA COLA PLAZA
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30313
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001341004-15-000486</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: COCA COLA CO -->
+          <cik>0000021344</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.005 per share</securitiesClassTitle>
+      <dateOfEvent>04/21/2020</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000865752</issuerCIK>
+        <issuerCUSIP>61174X109</issuerCUSIP>
+        <issuerName>Monster Beverage Corp</issuerName>
+        <address>
+          <com:street1>1 Monster Way</com:street1>
+          <com:city>Corona</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92879</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Monica Howard Douglas</personName>
+          <personPhoneNum>404-676-2121</personPhoneNum>
+          <personAddress>
+            <com:street1>The Coca-Cola Company</com:street1>
+            <com:street2>One Coca-Cola Plaza</com:street2>
+            <com:city>Atlanta</com:city>
+            <com:stateOrCountry>GA</com:stateOrCountry>
+            <com:zipCode>30313</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000021344</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Coca Cola Co</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>74651656.00</soleVotingPower>
+        <sharedVotingPower>129591548.00</sharedVotingPower>
+        <soleDispositivePower>74651656.00</soleDispositivePower>
+        <sharedDispositivePower>129591548.00</sharedDispositivePower>
+        <aggregateAmountOwned>204243204.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>For Row 13
+Based on 972,519,659 shares of Common Stock (as defined herein) outstanding as of October 31, 2024 (based upon information contained in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 filed with the Securities and Exchange Commission on November 8, 2024).</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>European Refreshments Unlimited Company</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>L2</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>129591548.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>129591548.00</sharedDispositivePower>
+        <aggregateAmountOwned>129591548.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.3</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>For Row 13
+Based on 972,519,659 shares of Common Stock (as defined herein) outstanding as of October 31, 2024 (based upon information contained in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 filed with the Securities and Exchange Commission on November 8, 2024).</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.005 per share</securityTitle>
+        <issuerName>Monster Beverage Corp</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1 Monster Way</com:street1>
+          <com:city>Corona</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92879</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 2 (this "Amendment No. 2") amends and supplements the Schedule 13D filed with the Securities and Exchange Commission (the "SEC") on June 22, 2015 (the "Schedule 13D") by The Coca Cola Company, a Delaware corporation ("TCCC"), and European Refreshments Unlimited Company, an Irish corporation and indirect wholly owned subsidiary of TCCC ("ER", and together with TCCC, the "Reporting Persons"), as amended by Amendment No. 1 to the Schedule 13D, filed with the SEC on March 20, 2018 by the Reporting Persons, relating to shares of common stock, par value $0.005 per share (the "Common Stock"), of Monster Beverage Corporation, a Delaware corporation (the "Issuer"). This Amendment No. 2 is being filed jointly by the Reporting Persons. Terms used herein and not otherwise defined shall have the meanings given to such terms in the Schedule 13D. Except as amended hereby, the disclosure in the Schedule 13D remains in effect.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>Certain information with respect to the directors and executive officers of the Reporting Persons is set forth on Schedule A (which replaces the prior Schedule A) attached hereto, including the name, business address, present principal occupation or employment, citizenship and other information relating to each director and executive officer of the Reporting Persons.</filingPersonName>
+      </item2>
+      <item5>
+        <percentageOfClassSecurities>The beneficial ownership information reported below represents changes solely due to changes in the number of outstanding shares of Common Stock from time-to-time.  Neither TCCC nor ER has purchased or sold any shares of Common Stock. ER has over time transferred shares of Common Stock to TCCC by way of stock dividends.
+
+(a)-(b) On April 21, 2020, the Reporting Persons, on a combined basis, beneficially owned 102,121,602 shares of the Common Stock. Also on April 21, 2020, (i) TCCC had sole voting and dispositive power with respect to 33,345,828 shares of the Common Stock and shared voting and dispositive power with respect to 68,775,774 shares of the Common Stock, and beneficially owned 102,121,602 shares of the Common Stock, and (ii) ER had shared voting and dispositive power with respect to 68,775,774 shares of the Common Stock and beneficially owned 68,775,774 shares of the Common Stock. The number of shares beneficially owned by the Reporting Persons, on a combined basis, represented 19.4% of the total number of issued and outstanding shares of Common Stock of the Issuer as of April 13, 2020 (based upon information contained in the Issuer's Definite Proxy Statement filed with the SEC on April 21, 2020).
+
+On August 8, 2024, the Reporting Persons, on a combined basis, beneficially owned 204,243,204 shares of the Common Stock (which number was the result of the Issuer's 2-for-1 stock split on March 27, 2023). Also on August 8, 2024, (i) TCCC had sole voting and dispositive power with respect to 72,651,656 shares of the Common Stock, shared voting and dispositive power with respect to 131,591,548 shares of the Common Stock and beneficially owned 204,243,204 shares of the Common Stock, and (ii) ER had shared voting and dispositive power with respect to 131,591,548 shares of the Common Stock and beneficially owned 131,591,548 shares of the Common Stock. The number of shares beneficially owned by the Reporting Persons, on a combined basis, represented 20.85% of the total number of issued and outstanding shares of Common Stock of the Issuer as of July 31, 2024 (based upon information contained in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2024 filed with the SEC on August 8, 2024).
+
+As of the date of this Amendment No. 2, the Reporting Persons, on a combined basis, beneficially own 204,243,204 shares of the Common Stock. Further, (i) TCCC has sole voting and dispositive power with respect to 74,651,656 shares of the Common Stock, shared voting and dispositive power with respect to 129,591,548 shares of the Common Stock and beneficially owned 204,243,204 shares of the Common Stock, and (ii) ER had shared voting and dispositive power with respect to 129,591,548 shares of the Common Stock and beneficially owned 129,591,548 shares of the Common Stock. The number of shares beneficially owned by the Reporting Persons, on a combined basis represents 21.0% of the total number of issued and outstanding shares of Common Stock of the Issuer as of October 31, 2024 (based upon information contained in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 filed with the SEC on November 8, 2024).</percentageOfClassSecurities>
+        <numberOfShares>See Item 5(a) above</numberOfShares>
+        <transactionDesc>On December 17, 2024, ER transferred 2,000,000 shares of the Common Stock to TCCC by means of a stock dividend for no consideration.</transactionDesc>
+      </item5>
+      <item7>
+        <filedExhibits>EX-99.1 - Schedule A</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Coca Cola Co</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ John Murphy</signature>
+          <title>President &amp; Chief Financial Officer</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>European Refreshments Unlimited Company</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Eimear Branigan</signature>
+          <title>Senior Director, Legal Counsel - CPS &amp; Irish Entities</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>e25023_ex99-1.htm
+<DESCRIPTION>SCHEDULE A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><FONT STYLE="font-size: 10pt"><B><U>SCHEDULE A</U></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>DIRECTORS AND EXECUTIVE
+OFFICERS OF THE COCA-COLA COMPANY AND EUROPEAN REFRESHMENTS</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">Set forth below is the
+name, business address and present occupation or employment of each director and executive officer of The Coca-Cola Company (&ldquo;<U>TCCC</U>&rdquo;)
+and European Refreshments Unlimited Company (&ldquo;<U>ER</U>&rdquo;). Except as indicated below, each such person is a citizen of the
+United States. Except as indicated in the Schedule 13D as amended by Amendment No. 2, none of the directors or executive officers named
+below beneficially owns any Common Stock of Monster Beverage Corporation. Directors of TCCC who are also executive officers of
+TCCC are indicated by an asterisk. Except as indicated below, the business address of each director and executive officer of TCCC
+or ER is One Coca-Cola Plaza, Atlanta, Georgia 30313.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>DIRECTORS OF THE
+COCA-COLA COMPANY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 16%; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>NAME</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 61%; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>PRINCIPAL OCCUPATION
+    OR EMPLOYMENT</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 23%; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>ADDRESS</U></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">James Quincey*</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Chairman and Chief Executive Officer
+    of The Coca-Cola Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Quincey is a citizen of the United
+    Kingdom</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Herb Allen</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">President, Chief Executive Officer
+    and a Director of Allen &amp; Company Incorporated, a privately held investment firm</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Allen &amp; Company Incorporated</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">711 Fifth Avenue</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">New York, NY 10022</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Bela Bajaria</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Chief Content Officer of Netflix,
+    Inc., a leading entertainment services company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Netflix, Inc.</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">121 Albright Way</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Los Gatos, CA 95032</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Ana Bot&iacute;n</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Executive Chair and a Director of Banco
+    Santander, S.A., a global multinational bank, and a Director of Santander Holdings USA, Inc., a wholly owned subsidiary of Banco
+    Santander, S.A.</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Bot&iacute;n is a citizen of Spain</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Banco Santander, S.A.</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Avda de Cantabria s/n</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Edif. Pereda</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">28660 Boadilla del Monte</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Madrid, Spain</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Christopher C. Davis</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Chairman of Davis Selected Advisers-NY,
+    Inc. an independent investment management firm</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Davis Selected Advisers-NY, Inc.</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">620 5th Avenue</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">New York, NY 10020</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Carolyn Everson</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Senior Advisor of Permira, a
+    global investment firm</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Thomas Gayner</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Chief Executive Officer of Markel
+    Group Inc., a holding company comprised of diverse business, including specialty insurance, and investments</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Markel Group Inc.</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">4521 Highwoods Parkway</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Glen Allen, Virginia 23060-6148</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Maria Elena Lagomasino</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Chief Executive Officer and Managing
+    Partner of WE Family Offices, a global family office serving high net worth families</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">WE Family Offices</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Rockefeller Center</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">1270 Avenue of the Americas</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Suite 2101</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">New York, NY 10020</FONT></P></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Amity Millhiser</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Director of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Caroline J. Tsay</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Technology Company Advisor/Limited
+    Partner of Venture Capital Funds</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">David B. Weinberg</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Chairman of the Board and Chief
+    Executive Officer of Judd Enterprises, Inc., a private investment management office with diverse interests in a variety of asset
+    classes</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Judd Enterprises, Inc.</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">401 N. Michigan Ave</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">#3050</FONT></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Chicago, IL 60611</FONT></P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>EXECUTIVE OFFICERS
+OF THE COCA-COLA COMPANY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 16%; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>NAME</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 61%; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>PRINCIPAL OCCUPATION
+    OR EMPLOYMENT</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 23%; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>ADDRESS</U></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">James Quincey</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Chairman and Chief Executive Officer
+    of The Coca-Cola Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Quincey is a citizen of the United
+    Kingdom</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">John Murphy</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">President and Chief Financial Officer
+    of The Coca-Cola Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Murphy is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Manuel Arroyo</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    Global Chief Marketing Officer of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Henrique Braun</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    Chief Operating Officer of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Lisa Chang</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    Global Chief People Officer of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Monica Howard Douglas</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    Global General Counsel of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Nikolaos Koumettis</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">President, European Operating
+    Unit of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Jennifer K. Mann</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    President, North America Operating Unit of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Beatriz Perez</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    Global Chief Communications, Sustainability &amp; Strategic Partnerships Officer of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Bruno Pietracci</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">President, Latin America Operating
+    Unit of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Nancy Quan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Executive Vice President and
+    Global Chief Technology &amp; Innovation Officer of The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>DIRECTORS OF EUROPEAN
+REFRESHMENTS UNLIMITED COMPANY</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>&nbsp;</B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>NAME</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>PRINCIPAL OCCUPATION OR EMPLOYMENT</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>ADDRESS</U></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Eimear Branigan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Director, Legal Counsel &ndash;
+    CPS &amp; Irish Entities, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Branigan is citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Jennifer Brennan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Vice President, Global Commercial Products
+    Supply, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Brennan is citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Una Sheils</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Manager, Legal Entity Controller,
+    European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Sheils is a citizen of Ireland.</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Owen Desmond</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Director, Financial Analysis,
+    European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Desmond is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Agnese Filippi</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Director, Franchise Operations
+    &ndash; Ireland, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Filippi is a citizen of Italy</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">M&iacute;che&aacute;l
+    Geraghty</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">General Manager, Global Commercial Products
+    Supply Plant, Ballina, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Geraghty is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Killala Road, Ballina, Mayo,
+    F26FA37, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Mark D. Harris</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Senior Vice President and General
+    Tax Counsel, The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Timothy K. Leveridge</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Senior Vice President, Finance,
+    European Refreshment Unlimited Company </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Iain McLaughlin</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">President, Global Commercial Products
+    Supply, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. McLaughlin is a citizen of Great
+    Britain</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Damian Ryan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Vice President, Global Finance
+    Hub, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Ryan is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Tony Varian</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">General Manager, Flavour Manufacturing,
+    Wexford, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Varian is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Drinagh Business Park, Rosslare
+    Road, County Wexford, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 1%"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 16%; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 61%; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; width: 22%; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B>EXECUTIVE OFFICERS
+OF EUROPEAN REFRESHMENTS UNLIMITED COMPANY<FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>1</SUP></FONT></B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 10pt"><B><FONT STYLE="font-family: Times New Roman, Times, Serif"><SUP>&nbsp;</SUP></FONT></B></FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>NAME</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>PRINCIPAL OCCUPATION OR EMPLOYMENT</U></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt"><U>ADDRESS</U></FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Eimear Branigan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Director, Legal Counsel &ndash;
+    CPS &amp; Irish Entities, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Branigan is citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Jennifer Brennan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Vice President, Global Commercial Products
+    Supply, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Brennan is citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Una Sheils</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Manager, Legal Entity Controller,
+    European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Sheils is a citizen of Ireland.</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Owen Desmond</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Director, Financial Analysis,
+    European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Desmond is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Southgate, Dublin Road, Drogheda,
+    County Meath, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Agnese Filippi</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Director, Franchise Operations
+    &ndash; Ireland, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Ms. Filippi is a citizen of Italy</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">M&iacute;che&aacute;l
+    Geraghty</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">General Manager, Global Commercial Products
+    Supply Plant, Ballina, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Geraghty is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Killala Road, Ballina, Mayo,
+    F26FA37, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Mark D. Harris</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Senior Vice President and General
+    Tax Counsel, The Coca-Cola Company</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Timothy K. Leveridge</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Senior Vice President, Finance,
+    European Refreshment Unlimited Company </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Iain McLaughlin</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">President, Global Commercial Products
+    Supply, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. McLaughlin is a citizen of Great
+    Britain</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Damian Ryan</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">Senior Vice President, Global Finance
+    Hub, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Ryan is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">24-26 City Quay, Dublin, Dublin
+    2, D02 NY19, Ireland</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Tony Varian</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">General Manager, Flavour Manufacturing,
+    Wexford, European Refreshments Unlimited Company</FONT></P>
+    <P STYLE="padding-bottom: 6pt; padding-top: 6pt; font: 10pt Times New Roman, Times, Serif; margin: 0pt"><FONT STYLE="font-size: 10pt">Mr. Varian is a citizen of Ireland</FONT></P></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding: 3.25pt"><FONT STYLE="font-size: 10pt">Drinagh Business Park, Rosslare
+    Road, County Wexford, Ireland</FONT></TD></TR>
+</TABLE>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+
+
+
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP></SUP></FONT></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1
+</SUP></FONT><FONT STYLE="font-size: 10pt">The officers of ER are its directors, along with the company secretary (who does not have
+powers of management).</FONT></P>
+
+
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; padding-bottom: 6pt; border-bottom: Gainsboro 2pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-size: 10pt"></FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

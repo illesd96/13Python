@@ -1,0 +1,591 @@
+<SEC-DOCUMENT>0001140361-25-002093.txt : 20250127
+<SEC-HEADER>0001140361-25-002093.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127201800
+ACCESSION NUMBER:		0001140361-25-002093
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250127
+DATE AS OF CHANGE:		20250127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Forian Inc.
+		CENTRAL INDEX KEY:			0001829280
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				853467693
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92851
+		FILM NUMBER:		25560621
+
+	BUSINESS ADDRESS:	
+		STREET 1:		41 UNIVERSITY DRIVE
+		STREET 2:		SUITE 400
+		CITY:			NEWTOWN
+		STATE:			PA
+		ZIP:			18940
+		BUSINESS PHONE:		267-757-8707
+
+	MAIL ADDRESS:	
+		STREET 1:		41 UNIVERSITY DRIVE
+		STREET 2:		SUITE 400
+		CITY:			NEWTOWN
+		STATE:			PA
+		ZIP:			18940
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wygod Max C
+		CENTRAL INDEX KEY:			0001847923
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		41 UNIVERSITY PLACE, SUITE 400
+		CITY:			NEWTOWN
+		STATE:			PA
+		ZIP:			18940
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D</submissionType>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001847923</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<securitiesClassTitle>COMMON STOCK, PAR VALUE $0.001 PER SHARE</securitiesClassTitle>
+<dateOfEvent>01/17/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001829280</issuerCIK>
+<issuerCUSIP>34630N106</issuerCUSIP>
+<issuerName>Forian Inc.</issuerName>
+<address>
+<com:street1>41 University Drive</com:street1>
+<com:street2>Suite 400</com:street2>
+<com:city>Newtown</com:city>
+<com:stateOrCountry>PA</com:stateOrCountry>
+<com:zipCode>18940</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Max C. Wygod</personName>
+<personPhoneNum>(267) 225-6263</personPhoneNum>
+<personAddress>
+<com:street1>c/o Forian Inc.</com:street1>
+<com:street2>41 University Drive, Suite 400</com:street2>
+<com:city>Newtown</com:city>
+<com:stateOrCountry>PA</com:stateOrCountry>
+<com:zipCode>18940</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001847923</reportingPersonCIK>
+<reportingPersonName>Wygod Max C</reportingPersonName>
+<fundType>PF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>1207421</soleVotingPower>
+<sharedVotingPower>3031309</sharedVotingPower>
+<soleDispositivePower>1207421</soleDispositivePower>
+<sharedDispositivePower>3031309</sharedDispositivePower>
+<aggregateAmountOwned>4238730</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>13.7</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<commentContent>(1) Calculated based on 31,016,379 shares of common stock of the Issuer outstanding as of November 12, 2024, as reported on the Issuer's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Emily Bushnell</reportingPersonName>
+<fundType>PF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>901224</soleVotingPower>
+<sharedVotingPower>3031309</sharedVotingPower>
+<soleDispositivePower>901224</soleDispositivePower>
+<sharedDispositivePower>3031309</sharedDispositivePower>
+<aggregateAmountOwned>3932533</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>12.7</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<commentContent>(1) Calculated based on 31,016,379 shares of common stock of the Issuer outstanding as of November 12, 2024, as reported on the Issuer's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>ADMINISTRATIVE TRUST U/ WYGOD FAMILY RV</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1541733</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1541733</sharedDispositivePower>
+<aggregateAmountOwned>1541733</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>5</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+<commentContent>(1) Calculated based on 31,016,379 shares of common stock of the Issuer outstanding as of November 12, 2024, as reported on the Issuer's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>WYGOD FAMILY REV LT U/T/A</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>1489576</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>1489576</sharedDispositivePower>
+<aggregateAmountOwned>1489576</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>4.8</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+<commentContent>(1) Calculated based on 31,016,379 shares of common stock of the Issuer outstanding as of November 12, 2024, as reported on the Issuer's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Estate of Martin J. Wygod</reportingPersonName>
+<fundType>OO</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>62849</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>62849</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>62849</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>0.2</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+<commentContent>(1) Calculated based on 31,016,379 shares of common stock of the Issuer outstanding as of November 12, 2024, as reported on the Issuer's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.</commentContent>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>COMMON STOCK, PAR VALUE $0.001 PER SHARE</securityTitle>
+<issuerName>Forian Inc.</issuerName>
+<issuerPrincipalAddress>
+<com:street1>41 University Drive</com:street1>
+<com:street2>Suite 400</com:street2>
+<com:city>Newtown</com:city>
+<com:stateOrCountry>PA</com:stateOrCountry>
+<com:zipCode>18940</com:zipCode>
+</issuerPrincipalAddress>
+<commentText>This statement on Schedule 13D (this "Schedule 13D") relates to the Reporting Persons' (as defined in Item 2 below) beneficial ownership in the common stock, par value $0.001 per share ("Common Stock"), of Forian Inc., a Delaware corporation (the "Issuer"). The principal executive office of the Issuer is located at 41 University Drive, Suite 400, Newtown, PA 18940.</commentText>
+</item1>
+<item2>
+<filingPersonName>This statement is filed by (i) Max C. Wygod, an individual and executor of the Estate of Martin J. Wygod, (ii) Emily Bushnell, an individual, (iii) the ADMINISTRATIVE TRUST U/ WYGOD FAMILY RV (the "Administrative Trust"), (iv) the WYGOD FAMILY REV LT U/T/A (the "Family Trust" and together with the Administrative Trust, the "Wygod Trusts") and (v) the Estate of Martin J. Wygod. Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons." Although the Reporting Persons are making this joint filing, neither the fact of this filing nor anything contained herein shall be deemed to be an admission by the Reporting Persons that a group exists within the meaning of the Act.</filingPersonName>
+<principalBusinessAddress>(b) - (c) The names, and, for purposes of this filing, the address, and present principal occupation or employment, as applicable, for the Reporting Persons are as follows:</principalBusinessAddress>
+<principalJob>Max C. Wygod. Mr. Wygod is a Director and President and Chief Executive Officer of the Issuer. Mr. Wygod's address is c/o Forian Inc., 41 University Drive, Suite 400, Newtown, PA 18940.&#13;
+&#13;
+Emily Bushnell. Mrs. Bushnell is an owner and operator of Tranquility Lake Farms LLC. Mrs. Bushnell's address is PO Box 7188, Rancho Santa Fe, CA 92067.&#13;
+&#13;
+Administrative Trust. Mr. Wygod and Mrs. Bushnell are co-trustees of the trust. The address for the trust is PO Box 7188, Rancho Santa Fe, CA 92067.&#13;
+&#13;
+Family Trust. Mr. Wygod and Mrs. Bushnell are co-trustees of the trust. The address for the trust is PO Box 7188, Rancho Santa Fe, CA 92067.&#13;
+&#13;
+Not applicable for the Estate of Martin J. Wygod.</principalJob>
+<hasBeenConvicted>During the past five years, no Reporting Person has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+<convictionDescription>During the last five years, no Reporting Person has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+<citizenship>The Reporting Person is a citizen of the Unites States of America.</citizenship>
+</item2>
+<item3>
+<fundsSource>On January 17, 2025, Mr. Wygod and Mrs. Bushnell were appointed as co-trustees of the Wygod Trusts and share voting power with respect to the shares of Common Stock held by the Wygod Trusts.&#13;
+&#13;
+The shares of Common Stock held by the Reporting Persons individually were previously acquired using personal funds.</fundsSource>
+</item3>
+<item4>
+<transactionPurpose>On January 17, 2025, Mr. Wygod and Mrs. Bushnell were appointed as co-trustees of the Wygod Trusts and share voting power with respect to the shares of Common Stock held by the Wygod Trusts.&#13;
+&#13;
+The securities reported herein were acquired solely for investment purposes with the aim of increasing the value of the investment and the Issuer. The Reporting Persons may acquire additional securities of the Issuer or dispose of securities of the Issuer, depending on market indicators and the business performance of the Issuer, but do not currently plan to purchase a number of shares that would result in a substantial change in the beneficial ownership of the Reporting Persons or his/her/its ability to influence control of the Issuer.&#13;
+&#13;
+Other than as set forth in this Schedule 13D, the Reporting Persons have no present plans or proposals which relate to or would result in any of the matters set forth in clauses (a) through (j) of Item 4 of Schedule 13D.</transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>The information set forth in the cover page of this Schedule 13D is hereby incorporated by reference into this Item 5.&#13;
+&#13;
+(a) and (b)&#13;
+&#13;
+Mr. Wygod may be deemed to beneficially own 4,238,730 shares of Common Stock, which consist of (i) 1,144,572 shares of Common Stock held individually, (ii) 1,489,576 shares of Common Stock held by the Family Trust, (iii) 1,541,733 shares of Common Stock held by the Administrative Trust, which consists of (x) 500,834 shares of Common Stock issuable upon conversion of Notes and excludes shares of Common Stock upon conversion of accrued interest into shares of Common Stock and (y) 1,040,899 shares of Common Stock, and (iv) 62,849 held by the Estate of Martin J. Wygod.</percentageOfClassSecurities>
+<numberOfShares>Mrs. Bushnell may be deemed to beneficially own 3,932,533 shares of Common Stock, which consist of (i) 901,224 shares of Common Stock held individually, (ii) 1,489,576 shares of Common Stock held by the Family Trust, and (iii) 1,541,733 shares of Common Stock held by the Administrative Trust, which consists of (x) 500,834 shares of Common Stock issuable upon conversion of Notes and excludes shares of Common Stock upon conversion of accrued interest into shares of Common Stock and (y) 1,040,899 shares of Common Stock.&#13;
+&#13;
+The Administrative Trust may be deemed to beneficially own 1,541,733 shares of Common Stock, which consists of (i) 500,834 shares of Common Stock issuable upon conversion of Notes and excludes shares of Common Stock upon conversion of accrued interest into shares of Common Stock and (ii) 1,040,899 shares of Common Stock.&#13;
+&#13;
+The Family Trust may be deemed to beneficially own 1,489,576 shares of Common Stock.&#13;
+&#13;
+The Estate of Martin J. Wygod may be deemed to beneficially own 62,849 shares of Common Stock.&#13;
+&#13;
+The percentage of ownership indicated in this Schedule 13D is calculated based on 31,016,379 shares of Common Stock outstanding as of November 12, 2024, as provided by the Issuer.</numberOfShares>
+<transactionDesc>Except as set forth in this Schedule 13D, there have been no transactions in the Common Stock effected during the past 60 days by the Reporting Persons. &#13;
+&#13;
+On each of January 23, 2025 and January 24, 2025, Max C. Wygod purchased 3,822 shares and 8,000 shares, respectively, of Common Stock at weighted average purchase prices of $2.10 per share and $2.24 per share, respectively.</transactionDesc>
+<listOfShareholders>To the knowledge of the Reporting Persons, no person other than the Reporting Persons has the right to receive or the power to direct the receipt of dividends from, or proceeds from the sale of, the shares beneficially owned by the Reporting Persons.</listOfShareholders>
+<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+</item5>
+<item6>
+<contractDescription>The responses to Item 3 and Item 4 of this Schedule 13D are incorporated by reference herein.&#13;
+&#13;
+Joint Filing Agreement&#13;
+&#13;
+On January 24, 2025, the Reporting Persons entered into a Joint Filing Agreement in which the Reporting Persons agreed to the joint filing on behalf of each of them of statements on Schedule 13D with respect to the securities of the Issuer to the extent required by applicable law. The Joint Filing Agreement is attached hereto as Exhibit 1 and is incorporated herein by reference.&#13;
+&#13;
+Note Purchase Agreement and Convertible Note&#13;
+&#13;
+On September 1, 2021, Martin J. Wygod and the Issuer entered into a convertible note purchase agreement (the "Note Purchase Agreement"), pursuant to which Mr. Wygod purchased and the Issuer issued $6,000,000 in aggregate principal balance of 3.5% Convertible Promissory Notes due 2025 (the "Notes") convertible into (i) Common Stock, and (ii) warrants to purchase shares of Common Stock equal to 20% of the principal amount of the Notes (the "Warrants"). The Notes will mature on the fourth-year anniversary of the date of issuance, at which time the Warrants will also terminate. The conversion price of the Notes and the exercise price of the Warrants is $11.98 per share, which was the consolidated closing bid price of the Common Stock as reported by Nasdaq on the most recently completed trading day preceding the Issuer entering into the Note Purchase Agreement. Mr. Wygod subsequently transferred the Notes to the Administrative Trust in accordance with the Note Purchase Agreement.&#13;
+&#13;
+The foregoing description of the Note Purchase Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Note Purchase Agreement, a copy of which is attached hereto as Exhibit 2, and is incorporated herein by reference.&#13;
+Except as otherwise set forth in this Schedule 13D, there are no contracts, arrangements, understandings or relationships between the Reporting Persons named in Item 2 and any other person with respect to any securities of the Issuer.</contractDescription>
+</item6>
+<item7>
+<filedExhibits>Exhibit 1 - Joint Filing Agreement.&#13;
+ &#13;
+Exhibit 2 - Form of Note Purchase Agreement, dated September 1, 2021, by and between the Company and the Investors (incorporated by reference to Exhibit 10.1 of the Issuer's Quarterly Report on Form 10-Q filed with the SEC November 15, 2021).</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Wygod Max C</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Max C. Wygod</signature>
+<title>Wygod Max C</title>
+<date>01/27/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Emily Bushnell</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Emily Bushnell</signature>
+<title>Emily Bushnell</title>
+<date>01/27/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>ADMINISTRATIVE TRUST U/ WYGOD FAMILY RV</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Max C. Wygod</signature>
+<title>Max C. Wygod, Co-Trustee</title>
+<date>01/27/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Emily Bushnell</signature>
+<title>Emily Bushnell, Co-Trustee</title>
+<date>01/27/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>WYGOD FAMILY REV LT U/T/A</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Max C. Wygod</signature>
+<title>Max C. Wygod, Co-Trustee</title>
+<date>01/27/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Emily Bushnell</signature>
+<title>Emily Bushnell, Co-Trustee</title>
+<date>01/27/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Estate of Martin J. Wygod</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Max C. Wygod</signature>
+<title>Max C. Wygod, Executor</title>
+<date>01/27/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ef20042359_ex1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge
+         Document created using Broadridge PROfile 25.1.1.5279
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+
+
+  <div>
+    <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+    <div>
+      <div>
+        <div style="text-align: right; color: rgb(0, 0, 0); font-weight: bold;">EXHIBIT 1</div>
+        <div style="text-align: right; color: rgb(0, 0, 0); font-weight: bold;"> <br>
+        </div>
+      </div>
+      <div>
+        <div style="text-align: center; color: rgb(0, 0, 0); font-weight: bold;">JOINT FILING AGREEMENT</div>
+      </div>
+      <div>
+        <div><br>
+        </div>
+      </div>
+      <div>
+        <div style="text-indent: 36pt; color: rgb(0, 0, 0);">In accordance with Rule 13d-1(k) under the Securities Exchange Act of 1934, as amended, the undersigned agree to the joint filing on
+          behalf of each of them of a Statement on Schedule 13D (including any and all amendments thereto) with respect to the common stock, $0.001 par value per share, of Forian Inc., and further agree that this Joint Filing Agreement shall be included as
+          an Exhibit to such joint filing(s).</div>
+      </div>
+      <div>
+        <div><br>
+        </div>
+      </div>
+      <div>
+        <div style="text-indent: 36pt; color: rgb(0, 0, 0);">The undersigned further agree that each party hereto is responsible for the timely filing of such Statement on
+          Schedule 13D and any amendments thereto, and for the accuracy and completeness of the information concerning such party contained therein; provided, however, that no party is responsible for the accuracy or completeness of the information
+          concerning any other party, unless such party knows or has reason to believe that such information is inaccurate.</div>
+        <div><br>
+        </div>
+        <div style="text-indent: 36pt; color: rgb(0, 0, 0);">This Joint Filing Agreement may be signed in counterparts with the same effect as if the signature on each counterpart
+          were upon the same instrument.</div>
+      </div>
+      <div>
+        <div><br>
+        </div>
+      </div>
+      <div>
+        <div style="text-indent: 36pt; color: #000000;"><font style="font-weight: bold;">IN WITNESS WHEREOF</font>, the undersigned have executed this Agreement as of January 27, 2025.</div>
+      </div>
+      <div>
+        <div><br>
+        </div>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z50f5920cebed4fc69781991135bf2f7e" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="vertical-align: top; border-bottom: 2px solid black;" colspan="2">
+              <div style="color: rgb(0, 0, 0);">/s/ Max C. Wygod</div>
+            </td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Max C. Wygod</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="vertical-align: top; border-bottom: 2px solid black;" colspan="2">
+              <div style="color: rgb(0, 0, 0);">/s/ Emily Bushnell</div>
+            </td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Emily Bushnell</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">WYGOD FAMILY REVOCABLE LIVING TRUST</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 24%; vertical-align: top; border-bottom: 2px solid black;"> /s/ Max C. Wygod</td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Name: Max C. Wygod</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Title: Co-Trustee</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+              <div style="color: rgb(0, 0, 0);">By: <br>
+                </div>
+            </td>
+            <td style="width: 24%; vertical-align: top; border-bottom: 2px solid black;">&#160;/s/ Emily Bushnell</td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Name: Emily Bushnell</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Title: Co-Trustee</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">WYGOD FAMILY REVOCABLE LIVING TRUST</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+              <div style="color: rgb(0, 0, 0);">By: <br>
+                </div>
+            </td>
+            <td style="width: 24%; vertical-align: top; border-bottom: 2px solid black;">&#160;/s/ Max C. Wygod</td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Name: Max C. Wygod</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Title: Co-Trustee</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+              <div style="color: rgb(0, 0, 0);">By: <br>
+                </div>
+            </td>
+            <td style="width: 24%; vertical-align: top; border-bottom: 2px solid black;">&#160;/s/ Emily Bushnell</td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Name: Emily Bushnell</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Title: Co-Trustee</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0); font-weight: bold;">ESTATE OF MARTIN J. WYGOD</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 3%; vertical-align: top; padding-bottom: 2px;">
+              <div style="color: rgb(0, 0, 0);">By:</div>
+            </td>
+            <td style="width: 24%; vertical-align: top; border-bottom: 2px solid black;"> /s/ Max C. Wygod</td>
+            <td style="width: 23%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Name: Max C. Wygod</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 50%; vertical-align: top;">&#160;</td>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="color: rgb(0, 0, 0);">Title: Executor</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>
+        <div><br>
+        </div>
+      </div>
+    </div>
+    <div><br>
+    </div>
+    <div>
+      <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+  </div>
+
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

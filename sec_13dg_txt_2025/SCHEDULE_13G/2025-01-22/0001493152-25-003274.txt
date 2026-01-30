@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001493152-25-003274.txt : 20250122
+<SEC-HEADER>0001493152-25-003274.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122180048
+ACCESSION NUMBER:		0001493152-25-003274
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AI Unlimited Group, Inc.
+		CENTRAL INDEX KEY:			0001932244
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				881455444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94805
+		FILM NUMBER:		25547072
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9255 W SUNSET BLVD
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+		BUSINESS PHONE:		424-457-2590
+
+	MAIL ADDRESS:	
+		STREET 1:		9255 W SUNSET BLVD
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lever Global Corp
+		DATE OF NAME CHANGE:	20220602
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COPULOS STEPHEN
+		CENTRAL INDEX KEY:			0002052861
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AI UNLIMITED GROUP, INC.
+		STREET 2:		LEVEL 11, 9255 W. SUNSET BLVD.
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: COPULOS STEPHEN -->
+          <cik>0002052861</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>COMMON STOCK</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>10/06/2022</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001932244</issuerCik>
+        <issuerName>AI UNLIMITED GROUP, INC. (AIUG)</issuerName>
+        <issuerCusip>527351100</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>LEVEL 11</com:street1>
+          <com:street2>9255 W. Sunset Blvd.</com:street2>
+          <com:city>West Hollywood</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90069</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>STEPHEN COPULOS</reportingPersonName>
+      <citizenshipOrOrganization>C3</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>102364240.00</soleVotingPower>
+        <sharedVotingPower>1270712.00</sharedVotingPower>
+        <soleDispositivePower>102364240.00</soleDispositivePower>
+        <sharedDispositivePower>1270712.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>103634952.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>32.68</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>AI UNLIMITED GROUP, INC. (AIUG)</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>LEVEL 11, 9255 W.SUNSET BLVD WEST HOLLYWOOD CA 90069</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>STEPHEN COPULOS</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>SUITE 3 461 WYNDHAM STREET SHEPPARTON VICTORIA AUSTRALIA 3630</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>AUSTRALIAN</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>103,634,952</amountBeneficiallyOwned>
+        <classPercent>32.68</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>102,364,240</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>1,270,712</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>102,364,240</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1,270,712</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>STEPHEN COPULOS</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ STEPEHN COPULOS</signature>
+        <title>STEPEHN COPULOS</title>
+        <date>01/22/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

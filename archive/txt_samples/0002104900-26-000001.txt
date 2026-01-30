@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0002104900-26-000001.txt : 20260116
+<SEC-HEADER>0002104900-26-000001.hdr.sgml : 20260116
+<ACCEPTANCE-DATETIME>20260116135617
+ACCESSION NUMBER:		0002104900-26-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20260116
+DATE AS OF CHANGE:		20260116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Syra Health Corp
+		CENTRAL INDEX KEY:			0001922335
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EMPLOYMENT AGENCIES [7361]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94169
+		FILM NUMBER:		26538739
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1119 KEYSTONE WAY N.
+		STREET 2:		#201
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		(317) 922-0922
+
+	MAIL ADDRESS:	
+		STREET 1:		1119 KEYSTONE WAY N.
+		STREET 2:		#201
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Johnson Neil Lawrence
+		CENTRAL INDEX KEY:			0002104900
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		88 E BROAD ST
+		STREET 2:		SUITE 1750
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43215
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002104900</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <dateOfEvent>01/13/2026</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001922335</issuerCIK>
+        <issuerCUSIP>0001922335</issuerCUSIP>
+        <issuerName>Syra Health Corp</issuerName>
+        <address>
+          <com:street1>1119 KEYSTONE WAY N.</com:street1>
+          <com:street2>#201</com:street2>
+          <com:city>CARMEL</com:city>
+          <com:stateOrCountry>IN</com:stateOrCountry>
+          <com:zipCode>46032</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Neil Johnson</personName>
+          <personPhoneNum>6144481304</personPhoneNum>
+          <personAddress>
+            <com:street1>88 E Broad St Suite 1750</com:street1>
+            <com:street2>Columbus</com:street2>
+            <com:city>Columbus OH 43215</com:city>
+            <com:stateOrCountry>OH</com:stateOrCountry>
+            <com:zipCode>43215</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002104900</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Johnson Neil Lawrence</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>OH</citizenshipOrOrganization>
+        <soleVotingPower>700312.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>700312.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>6.2</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Common Stock</securityTitle>
+        <issuerName>Syra Health Corp</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1119 KEYSTONE WAY N.</com:street1>
+          <com:street2>#201</com:street2>
+          <com:city>CARMEL</com:city>
+          <com:stateOrCountry>IN</com:stateOrCountry>
+          <com:zipCode>46032</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Neil Johnson</filingPersonName>
+        <principalBusinessAddress>88 E Broad St Suite 1750 Columbus OH 43215</principalBusinessAddress>
+        <principalJob>Consulting</principalJob>
+        <hasBeenConvicted>No</hasBeenConvicted>
+        <convictionDescription>No</convictionDescription>
+        <citizenship>US</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Personal Funds</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Influence</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>700,312  6.2%</percentageOfClassSecurities>
+        <numberOfShares>700,312</numberOfShares>
+        <transactionDesc>Neil Johnson 1/13/2026 38,182 $0.085</transactionDesc>
+        <listOfShareholders>N/A</listOfShareholders>
+        <date5PercentOwnership>N/A</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>None</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>N/A</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Johnson Neil Lawrence</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Neil L Johnson</signature>
+          <title>Neil Johnson Individual</title>
+          <date>01/16/2026</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

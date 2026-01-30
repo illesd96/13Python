@@ -1,0 +1,477 @@
+<SEC-DOCUMENT>0001011438-25-000035.txt : 20250117
+<SEC-HEADER>0001011438-25-000035.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117162051
+ACCESSION NUMBER:		0001011438-25-000035
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250117
+DATE AS OF CHANGE:		20250117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INDIVIOR PLC
+		CENTRAL INDEX KEY:			0001625297
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94167
+		FILM NUMBER:		25538940
+
+	BUSINESS ADDRESS:	
+		STREET 1:		234 BATH ROAD
+		CITY:			SLOUGH, BERKSHIRE
+		STATE:			X0
+		ZIP:			SL1 4EE
+		BUSINESS PHONE:		804-379-1090
+
+	MAIL ADDRESS:	
+		STREET 1:		234 BATH ROAD
+		CITY:			SLOUGH, BERKSHIRE
+		STATE:			X0
+		ZIP:			SL1 4EE
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Two Seas Capital LP
+		CENTRAL INDEX KEY:			0001823138
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				843799363
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 ELM PLACE, 3RD FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		917.536.6028
+
+	MAIL ADDRESS:	
+		STREET 1:		32 ELM PLACE, 3RD FLOOR
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Kairos Capital Management LP
+		DATE OF NAME CHANGE:	20200831
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001011438-23-000556</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001823138</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>4</amendmentNo>
+<securitiesClassTitle>Ordinary Shares, $0.50 nominal value per share</securitiesClassTitle>
+<dateOfEvent>01/15/2025</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0001625297</issuerCIK>
+<issuerCUSIP>G4766E116</issuerCUSIP>
+<issuerName>INDIVIOR PLC</issuerName>
+<address>
+<com:street1>10710 Midlothian Turnpike, Suite 125</com:street1>
+<com:city>North Chesterfield</com:city>
+<com:stateOrCountry>VA</com:stateOrCountry>
+<com:zipCode>23235</com:zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Lawrence V. Palermo</personName>
+<personPhoneNum>(646) 420-4504</personPhoneNum>
+<personAddress>
+<com:street1>Two Seas Capital LP</com:street1>
+<com:street2>32 Elm Place, 3rd Floor</com:street2>
+<com:city>Rye</com:city>
+<com:stateOrCountry>NY</com:stateOrCountry>
+<com:zipCode>10580</com:zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001823138</reportingPersonCIK>
+<reportingPersonName>Two Seas Capital LP</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>12007514</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>12007514</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>12007514</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.6</percentOfClass>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Two Seas Capital GP LLC</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<soleVotingPower>12007514</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>12007514</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>12007514</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.6</percentOfClass>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+<reportingPersonName>Sina Toussi</reportingPersonName>
+<fundType>AF</fundType>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<soleVotingPower>12007514</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>12007514</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>12007514</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>9.6</percentOfClass>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Ordinary Shares, $0.50 nominal value per share</securityTitle>
+<issuerName>INDIVIOR PLC</issuerName>
+<issuerPrincipalAddress>
+<com:street1>10710 Midlothian Turnpike, Suite 125</com:street1>
+<com:city>North Chesterfield</com:city>
+<com:stateOrCountry>VA</com:stateOrCountry>
+<com:zipCode>23235</com:zipCode>
+</issuerPrincipalAddress>
+<commentText>The following constitutes Amendment No. 4 ("Amendment No. 4") to the Schedule 13D filed with the Securities and Exchange Commission ("SEC") by Two Seas Capital LP ("TSC"), Two Seas Capital GP LLC ("TSC GP") and Sina Toussi (collectively, the "Reporting Persons") on October 2, 2023, as amended by Amendment No. 1 filed on March 29, 2024, Amendment No. 2 filed on June 21, 2024, and Amendment No. 3 filed on October 17, 2024.  This Amendment No. 4 amends and supplements the Schedule 13D as specifically set forth herein.&#13;
+&#13;
+All capitalized terms contained herein but not otherwise defined shall have the meanings ascribed to such terms in the Schedule 13D, as amended. Information given in response to each item shall be deemed incorporated by reference in all other items, as applicable.</commentText>
+</item1>
+<item3>
+<fundsSource>Item 3 of the Schedule 13D is hereby amended and restated as follows:&#13;
+&#13;
+The aggregate purchase price of the 10,064,725 Ordinary Shares directly held by the Litigation Fund reported herein was approximately $98,549,912. The aggregate purchase price of the 1,942,789 Ordinary Shares directly held by the Global Fund reported herein was approximately $21,193,236. The Ordinary Shares directly held by the Funds were purchased with the working capital of the Funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) and proceeds from the Credit Facility (the "Credit Facility") for the Litigation Fund, provided by UBS AG, London Branch ("UBS"), pursuant to the Credit Facility Agreement, by and between, the Litigation Fund, as Borrower, and UBS, acting as Lender, dated June 16, 2022, as amended and restated on September 22, 2022, on April 5, 2023, and on June 19, 2023, as amended on December 20, 2023, as amended and restated by the Fifth Amendment Agreement dated June 20, 2024, and as amended and restated on December 20, 2024, by the Sixth Amendment Agreement (the "Credit Facility Agreement").</fundsSource>
+</item3>
+<item5>
+<percentageOfClassSecurities>Item 5 of the Schedule 13D is hereby amended and restated as follows:&#13;
+&#13;
+Each of the Reporting Persons may be deemed to beneficially own 12,007,514 Ordinary Shares of the Issuer, which represents approximately 9.6% of the Ordinary Shares outstanding, based on 124,633,727 Ordinary Shares of the Issuer outstanding as of January 14, 2025, as reported in Exhibit 99.1 to the Issuer's Form 6-K filed with the SEC on January 14, 2025.  The Funds have delegated to TSC sole voting and investment power over the securities held by the Funds pursuant to their respective Investment Management Agreements with TSC. As a result, each of TSC, TSC GP, as the general partner of TSC, and Mr. Toussi, as Chief Investment Officer of TSC and Managing Member of TSC GP, may be deemed to exercise voting and investment power over the Ordinary Shares directly held by the Funds. The Funds specifically disclaim beneficial ownership of the securities of the Issuer directly held by them by virtue of their inability to vote or dispose of such securities as a result of their respective Investment Management Agreements with TSC. The information in Item 3 regarding the number of Ordinary Shares held by the Funds is incorporated herein by reference.</percentageOfClassSecurities>
+<numberOfShares>Items 7 through 10 of each of the cover pages of this Schedule 13D are incorporated herein by reference.</numberOfShares>
+<transactionDesc>Transactions by the Reporting Persons (on behalf of the Funds) effected during the past 60 days are set forth in Exhibit 99.1 and such information is incorporated herein by reference.</transactionDesc>
+<listOfShareholders>The disclosure regarding the relationship between the Reporting Persons in Item 2(c) of this Schedule 13D is incorporated herein by reference. All securities reported in this Schedule 13D are directly held by the Funds, each of which are investment management clients of TSC. The limited partners of (or investors in) each of the Funds have the right to participate in the receipt of dividends from, or proceeds from the sale of, the Ordinary Shares held for the accounts of their respective Funds in accordance with their respective limited partnership interests (or investment percentages) in their respective Funds.</listOfShareholders>
+<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+</item5>
+<item6>
+<contractDescription>Item 6 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:&#13;
+&#13;
+Pursuant to the Security Agreement, dated June 16, 2022, by and between the Litigation Fund, as Grantor, and UBS, as Secured Party, as amended (the "Security Agreement"), the Litigation Fund has pledged to UBS 10,064,725 Ordinary Shares held by it, subject to potential adjustments agreed upon by the parties from time to time. If the Litigation Fund defaults on its obligations under the Credit Facility Agreement, such default could result in foreclosure proceedings against the Ordinary Shares pledged as collateral by the Litigation Fund, subject to a beneficial ownership limitation.  The pledged Ordinary Shares are subject to certain transfer restrictions.  The total commitment under the Credit Facility was fully drawn and a loan amount of $18,774,884.89 that was drawn remains outstanding, subject to potential adjustments agreed upon by the parties from time to time. The Credit Facility is subject to typical credit terms and certain event of default triggers, some of which may be satisfied by unencumbered assets of the Litigation Fund. The maturity date for the Credit Facility is July 31, 2025, and the interest rate under the Credit Facility is a variable rate plus a reference rate.  The Global Fund has no potential encumbrances with respect to the Credit Facility.&#13;
+&#13;
+The Global Fund has entered into cash-settled swaps which represent economic exposure comparable to a notional interest in 2,162,709 Ordinary Shares (representing economic exposure comparable to approximately 1.7% of the outstanding Ordinary Shares) with Jefferies Financial Products, LLC and cash-settled swaps which represent economic exposure comparable to a notional interest in 1,115,988 Ordinary Shares (representing economic exposure comparable to approximately 0.9% of the outstanding Ordinary Shares) with Goldman Sachs International.  Under the terms of the swaps, (i) the Global Fund will be obligated to pay to the counterparty any negative price performance of the specified notional number of Ordinary Shares subject to the swaps as of the expiration date of such swaps, plus interest rates set forth in the applicable contracts, and (ii) the counterparty will be obligated to pay the Global Fund any positive price performance of the specified notional number of Ordinary Shares subject to the swaps as of the expiration date of the swaps.  All balances will be settled in cash. The swaps do not give the Reporting Persons or Funds direct or indirect voting, investment or dispositive control over any securities of the Issuer and do not require the counterparty thereto to acquire, hold, vote or dispose of any securities of the Issuer.  Accordingly, the Reporting Persons disclaim any beneficial ownership of any Ordinary Shares that may be referenced in the swap contracts or Ordinary Shares or other securities or financial instruments that may be held from time to time by any counterparty to the contracts.</contractDescription>
+</item6>
+<item7>
+<filedExhibits>99.1 Transactions Effected by the Reporting Persons (on Behalf of the Funds) During the Past 60 Days.</filedExhibits>
+</item7>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Two Seas Capital LP</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Sina Toussi</signature>
+<title>Sina Toussi/Managing Member of Two Seas Capital GP, LLC, its general partner</title>
+<date>01/17/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Two Seas Capital GP LLC</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Sina Toussi</signature>
+<title>Sina Toussi/Managing Member</title>
+<date>01/17/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Sina Toussi</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Sina Toussi</signature>
+<title>Sina Toussi/Self</title>
+<date>01/17/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit_99-1.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Akin Gump Strauss Hauer & Feld
+         Document created using Broadridge PROfile 24.12.1.5274
+         Copyright 1995 - 2025 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; text-align: left; color: #000000;">
+
+
+  <div><br>
+  </div>
+  <div style="text-align: right;">Exhibit 99.1<br>
+  </div>
+  <div>
+    <div><br>
+    </div>
+    <div style="text-align: center; margin-top: 12pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;">TRANSACTIONS</div>
+    <div style="margin-top: 6pt; font-family: 'Times New Roman',Times,serif;">The following table sets forth all transactions by the Reporting Persons (on behalf of the Funds) with respect to the Ordinary Shares
+      effected in the last 60 days, inclusive of any transactions effected through 4:00 p.m., New York City time, on January 17, 2025. Except as otherwise noted below, all such transactions were purchases or sales of Ordinary Shares effected in the open
+      market, and the table excludes commissions paid in per share prices.</div>
+    <div>&#160;</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" id="z7fb6a1f14f8845afa9a4ded08b51f42f" style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td nowrap="nowrap" style="width: 35.86%; vertical-align: bottom;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">Amount Purchased/(Sold)</div>
+          </td>
+          <td style="width: 0.98%; vertical-align: bottom;">
+            <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+          </td>
+          <td nowrap="nowrap" style="width: 29.86%; vertical-align: bottom;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">Price&#160;Per</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">Share (&#163;) (or $ if noted below)</div>
+          </td>
+          <td style="width: 1%; vertical-align: bottom;">
+            <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+          </td>
+          <td nowrap="nowrap" style="width: 32.3%; vertical-align: bottom;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">Date&#160;of</div>
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">Purchase/Sale</div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="text-align: center; margin-top: 24pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;"><u>TWO SEAS GLOBAL (MASTER) FUND LP</u></div>
+    <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="z3e44a92499b14b198172d1f9bdf88b46" style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 36.02%; vertical-align: middle;">&#160;</td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: middle;">&#160;</td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 36.02%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;50,000</div>
+          </td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">9.0806 (1)</div>
+          </td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">12/10/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 36.02%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;75,000</div>
+          </td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">9.3309 (2)</div>
+          </td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">12/17/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 36.02%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;37,242</div>
+          </td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">9.8519 (3)</div>
+          </td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">12/27/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 36.02%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;(300,000)</div>
+          </td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">9.9550</div>
+          </td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">12/27/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 36.02%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;(50,000)</div>
+          </td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">9.8400</div>
+          </td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">01/07/2025</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 36.02%; vertical-align: top;">&#160;</td>
+          <td style="width: 0.88%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 29.44%; vertical-align: top;">&#160;</td>
+          <td style="width: 0.98%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.68%; vertical-align: top;">&#160;</td>
+        </tr>
+
+    </table>
+    <div><br>
+    </div>
+    <div style="text-align: center; margin-top: 24pt; font-family: 'Times New Roman',Times,serif; font-weight: bold;"><u>TWO SEAS LITIGATION OPPORTUNITIES FUND LLC</u></div>
+    <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+    <table cellspacing="0" cellpadding="0" id="zb6e54a8197cb4bc2a4842fee90851666" style="font-family: 'Times New Roman', Times, serif; font-size: 12pt; width: 100%; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 37.37%; vertical-align: middle;">&#160;</td>
+          <td style="width: 0.9%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 28.62%; vertical-align: middle;">&#160;</td>
+          <td style="width: 0.92%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.19%; vertical-align: middle;">&#160;</td>
+        </tr>
+        <tr>
+          <td style="width: 37.37%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;(34,755)</div>
+          </td>
+          <td style="width: 0.9%; vertical-align: bottom;">
+            <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+          </td>
+          <td style="width: 28.62%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">&#160;$11.2700 (4)</div>
+          </td>
+          <td style="width: 0.92%; vertical-align: bottom;">
+            <div style="font-family: 'Times New Roman',Times,serif;">&#160;</div>
+          </td>
+          <td style="width: 32.19%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">11/26/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 37.37%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;(200,000)</div>
+          </td>
+          <td style="width: 0.9%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 28.62%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">&#160;$11.4000</div>
+          </td>
+          <td style="width: 0.92%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.19%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">12/04/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 37.37%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;(200,000)</div>
+          </td>
+          <td style="width: 0.9%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 28.62%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">&#160;$11.2950</div>
+          </td>
+          <td style="width: 0.92%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.19%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">12/09/2024</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 37.37%; vertical-align: top;">
+            <div style="text-align: center; text-indent: -10pt; margin-left: 10pt; font-family: 'Times New Roman',Times,serif;">&#160;(400,000)</div>
+          </td>
+          <td style="width: 0.9%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 28.62%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">&#160;$11.5813 (5)</div>
+          </td>
+          <td style="width: 0.92%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.19%; vertical-align: top;">
+            <div style="text-align: center; font-family: 'Times New Roman',Times,serif;">01/15/2025</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 37.37%; vertical-align: top;">&#160;</td>
+          <td style="width: 0.9%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 28.62%; vertical-align: top;">&#160;</td>
+          <td style="width: 0.92%; vertical-align: bottom;">&#160;</td>
+          <td style="width: 32.19%; vertical-align: top;">&#160;</td>
+        </tr>
+
+    </table>
+    <div style="margin-bottom: 12pt; font-family: 'Times New Roman',Times,serif;">(1) The purchase price is a weighted average price. These shares were purchased in multiple transactions at prices ranging from
+      &#163;9.0225 to &#163;9.15, inclusive. The reporting persons undertake to provide to the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased or sold, as applicable, at each separate price
+      within the ranges set forth in footnotes (1), (2), (3), (4), and (5).</div>
+    <div style="margin-bottom: 12pt; font-family: 'Times New Roman',Times,serif;">(2) The purchase price is a weighted average price. These shares were purchased in multiple transactions at prices ranging from
+      &#163;9.30 to &#163;9.52, inclusive.</div>
+    <div style="margin-bottom: 12pt; font-family: 'Times New Roman',Times,serif;">(3) The purchase price is a weighted average price. These shares were purchased in multiple transactions at prices ranging from
+      &#163;9.7825 to &#163;9.935, inclusive.</div>
+    <div style="margin-bottom: 12pt; font-family: 'Times New Roman',Times,serif;">(4) The sale price is a weighted average price. These shares were sold in multiple transactions at prices ranging from &#163;11.20 to
+      &#163;11.28, inclusive.</div>
+    <div style="margin-bottom: 12pt; font-family: 'Times New Roman',Times,serif;">(5) The sale price is a weighted average price. These shares were sold in multiple transactions at prices ranging from &#163;11.57 to
+      &#163;11.60, inclusive.</div>
+    <div style="margin-bottom: 12pt;"><br>
+    </div>
+  </div>
+
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

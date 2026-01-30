@@ -1,0 +1,183 @@
+<SEC-DOCUMENT>0001765380-25-000008.txt : 20250123
+<SEC-HEADER>0001765380-25-000008.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123145055
+ACCESSION NUMBER:		0001765380-25-000008
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Belpointe PREP, LLC
+		CENTRAL INDEX KEY:			0001807046
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				844412083
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93494
+		FILM NUMBER:		25549544
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 GLENVILLE ROAD
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06831
+		BUSINESS PHONE:		203-883-1944
+
+	MAIL ADDRESS:	
+		STREET 1:		255 GLENVILLE ROAD
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06831
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Precision Wealth Strategies, LLC
+		CENTRAL INDEX KEY:			0001844197
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				262032682
+		STATE OF INCORPORATION:			MO
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4622 MACKLIND AVE
+		CITY:			SAINT LOUIS
+		STATE:			MO
+		ZIP:			63109
+		BUSINESS PHONE:		6364493800
+
+	MAIL ADDRESS:	
+		STREET 1:		4622 MACKLIND AVE
+		CITY:			SAINT LOUIS
+		STATE:			MO
+		ZIP:			63109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001844197</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Units</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>11/24/2021</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001807046</issuerCik>
+        <issuerName>Belpointe PREP, LLC</issuerName>
+        <issuerCusip>080694102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>255 GLENVILLE ROAD</com:street1>
+          <com:city>GREENWICH</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06831</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Precision Wealth Strategies, LLC</reportingPersonName>
+      <citizenshipOrOrganization>MO</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>235796.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>235796.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>235796.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>6.5</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Belpointe PREP, LLC</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>255 GLENVILLE ROAD, GREENWICH, CONNECTICUT, 06831.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Precision Wealth Strategies LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>4622 Macklind Avenue
+St. Louis MO 63109</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>235796
+</amountBeneficiallyOwned>
+        <classPercent>6.4
+</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>235796
+</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>235796
+</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Precision Wealth Strategies, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Madeline Hedges</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

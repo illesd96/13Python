@@ -1,0 +1,772 @@
+<SEC-DOCUMENT>0000921895-25-000155.txt : 20250127
+<SEC-HEADER>0000921895-25-000155.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127170333
+ACCESSION NUMBER:		0000921895-25-000155
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250127
+DATE AS OF CHANGE:		20250127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			El Pollo Loco Holdings, Inc.
+		CENTRAL INDEX KEY:			0001606366
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				203563182
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1225
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88632
+		FILM NUMBER:		25559940
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3535 HARBOR BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+		BUSINESS PHONE:		7145995000
+
+	MAIL ADDRESS:	
+		STREET 1:		3535 HARBOR BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIGLARI CAPITAL CORP.
+		CENTRAL INDEX KEY:			0001334429
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				742975855
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19100 RIDGEWOOD PKWY, SUITE 1200
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78259
+		BUSINESS PHONE:		(210) 344-3400
+
+	MAIL ADDRESS:	
+		STREET 1:		19100 RIDGEWOOD PKWY, SUITE 1200
+		CITY:			SAN ANTONIO
+		STATE:			TX
+		ZIP:			78259
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BIGLARI CAPITAL CORP. -->
+          <cik>0001334429</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <dateOfEvent>01/23/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001606366</issuerCIK>
+        <issuerCUSIP>268603107</issuerCUSIP>
+        <issuerName>El Pollo Loco Holdings, Inc.</issuerName>
+        <address>
+          <com:street1>3535 HARBOR BOULEVARD</com:street1>
+          <com:street2>SUITE 100</com:street2>
+          <com:city>COSTA MESA</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92626</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Sardar Biglari</personName>
+          <personPhoneNum>210-344-3400</personPhoneNum>
+          <personAddress>
+            <com:street1>Biglari Capital Corp.</com:street1>
+            <com:street2>19100 Ridgewood Pkwy, Suite 1200</com:street2>
+            <com:city>San Antonio</com:city>
+            <com:stateOrCountry>TX</com:stateOrCountry>
+            <com:zipCode>78259</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Michael Neidell, Esq.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>Olshan Frome Wolosky LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001334430</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BIGLARI, SARDAR</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>4489247.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>4489247.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>4489247.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>14.99</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001334429</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BIGLARI CAPITAL CORP.</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>TX</citizenshipOrOrganization>
+        <soleVotingPower>4000000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>4000000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>4000000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001580602</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>LION FUND II, L.P.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>4000000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>4000000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>4000000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>13.4</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>First Guard Insurance Company</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>AZ</citizenshipOrOrganization>
+        <soleVotingPower>120000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>120000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>120000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002035328</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Biglari Reinsurance Ltd.</reportingPersonName>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>D0</citizenshipOrOrganization>
+        <soleVotingPower>489247.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>489247.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>489247.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.6</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002034968</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Biglari Insurance Group Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>489247.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>489247.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>489247.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.6</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001726173</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Biglari Holdings Inc.</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>IN</citizenshipOrOrganization>
+        <soleVotingPower>489247.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>489247.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>489247.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.6</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.01 per share</securityTitle>
+        <issuerName>El Pollo Loco Holdings, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>3535 HARBOR BOULEVARD</com:street1>
+          <com:street2>SUITE 100</com:street2>
+          <com:city>COSTA MESA</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>92626</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by Sardar Biglari, Biglari Capital Corp., a Texas limited liability company ("BCC"), The Lion Fund II, L.P., a Delaware limited partnership ("The Lion Fund II"), First Guard Insurance Company, an Arizona corporation ("First Guard"), Biglari Reinsurance Ltd., a Bermuda corporation ("Biglari Reinsurance"), Biglari Insurance Group Inc., a Delaware corporation ("Biglari Insurance"), and Biglari Holdings Inc., an Indiana corporation ("Biglari Holdings"). Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons." Each of the Reporting Persons is party to that certain Joint Filing Agreement as further described in Item 6. Accordingly, the Reporting Persons are hereby filing a joint Schedule 13D.
+
+BCC is the general partner of The Lion Fund II. Sardar Biglari is the Chairman and Chief Executive Officer of BCC and has investment discretion over the securities owned by The Lion Fund II. By virtue of these relationships, Sardar Biglari and BCC may be deemed to beneficially own the shares of the Issuer's Common Stock, par value $0.01 per share (the "Shares"), owned directly by The Lion Fund II.
+
+Biglari Reinsurance is the direct parent company of First Guard. Biglari Insurance is the direct parent company of Biglari Reinsurance. Biglari Holdings is the direct parent company of Biglari Insurance. Sardar Biglari is the Chairman and Chief Executive Officer of Biglari Holdings and has investment discretion over the securities owned by each of First Guard and Biglari Reinsurance. By virtue of these relationships, Biglari Reinsurance, Biglari Insurance, Biglari Holdings and Sardar Biglari may be deemed to beneficially own the Shares owned directly by First Guard, and Biglari Insurance, Biglari Holdings and Sardar Biglari may be deemed to beneficially own the Shares owned directly by Biglari Reinsurance.
+
+Set forth on Exhibit 1 annexed hereto ("Exhibit 1") is the name and present principal occupation or employment, and the name, principal business and address of any corporation or other organization in which such employment is conducted, of each of the executive officers and directors of each of First Guard, Biglari Reinsurance, Biglari Insurance and Biglari Holdings. To the best of the Reporting Persons' knowledge, except as otherwise set forth herein, other than Mr. Biglari, none of the persons listed on Exhibit 1 beneficially owns any securities of the Issuer or is a party to any contract, agreement or understanding required to be disclosed herein.</filingPersonName>
+        <principalBusinessAddress>The principal business address of each of Sardar Biglari, BCC, The Lion Fund II, Biglari Insurance, and Biglari Holdings is 19100 Ridgewood Parkway, Suite 1200, San Antonio, Texas 78259. The principal business address of First Guard is 240 Nokomis Ave S., Venice, Florida 34285. The principal business address of Biglari Reinsurance is 141 Front St., Hamilton HM 19, Bermuda.</principalBusinessAddress>
+        <principalJob>The principal occupation of Sardar Biglari is serving as Chairman and Chief Executive Officer of Biglari Holdings and BCC. The principal business of BCC is serving as the general partner of The Lion Fund II and The Lion Fund, L.P. The principal business of The Lion Fund II is purchasing, holding and selling securities for investment purposes. The principal business of First Guard is serving as a direct underwriter of commercial truck insurance. The principal business of Biglari Reinsurance is serving as the direct parent of each of First Guard and Southern Pioneer Property and Casualty Insurance Company. The principal business of Biglari Insurance is serving as the direct parent of Biglari Reinsurance. The principal business of Biglari Holdings is serving as a holding company owning subsidiaries engaged in a number of diverse business activities, including property and casualty insurance, licensing and media, restaurants, and oil and gas.</principalJob>
+        <hasBeenConvicted>No Reporting Person or any person listed on Exhibit 1 has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>No Reporting Person or any person listed on Exhibit 1 has, during the last five years, been party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Mr. Biglari is a citizen of the United States of America. BCC is organized under the laws of the State of Texas. The Lion Fund II is organized under the laws of the State of Delaware. First Guard is organized under the laws of the State of Arizona. Biglari Reinsurance is organized under the laws of Bermuda. Biglari Insurance is organized under the laws of the State of Delaware. Biglari Holdings is organized under the laws of the State of Indiana. The citizenships of the persons listed on Exhibit 1 are set forth thereon.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The aggregate purchase price of the 4,000,000 Shares owned directly by The Lion Fund II is approximately $39,571,204. The Shares purchased by The Lion Fund II were purchased with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases, except as otherwise noted.
+
+The aggregate purchase price of the 120,000 Shares owned directly by First Guard is approximately $1,223,056. The Shares purchased by First Guard were purchased with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases, except as otherwise noted.
+
+The aggregate purchase price of the 369,247 Shares owned directly by Biglari Reinsurance is approximately $4,861,578. The Shares purchased by Biglari Reinsurance were purchased with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases, except as otherwise noted.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Person will seek to engage in a dialogue with the Issuer's Board of Directors (the "Board") and management about profitable opportunities, including transactions in which the Reporting Persons may seek to potentially participate as an acquirer, investor or financing source. The Reporting Persons may also seek to communicate with shareholders and other third parties about such transactions.
+
+The Reporting Persons may consider, explore or develop plans and/or make proposals (whether preliminary or final) with respect to, among other things, potential changes in the Issuer's operations, organizational documents, composition of the Board, ownership, capital or corporate structure, sale transactions, dividend policy, and plans. The Reporting Persons intend to communicate with the Issuer's management and Board about, and may enter into negotiations and agreements with them regarding, the foregoing and a broad range of operational matters and to communicate with other shareholders or third parties, including potential acquirers, service providers and financing sources regarding the Issuer. The Reporting Persons may exchange information with any such persons pursuant to appropriate confidentiality or similar agreements. The Reporting Persons may change their intentions with respect to any and all matters referred to in this Item 4. They may also take steps to explore and prepare for various plans and actions, and propose transactions, before forming an intention to engage in such plans or actions or proceed with such transactions</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The aggregate percentage of Shares reported owned by the Reporting Persons is based upon 29,939,226 Shares outstanding as of October 25, 2024, which is the total number of Shares outstanding as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on November 1, 2024.
+
+As of the close of business on January 27, 2025, The Lion Fund II owned directly 4,000,000 Shares, constituting approximately 13.4% of the Shares outstanding. By virtue of their relationships with The Lion Fund II, each of Sardar Biglari and BCC may be deemed to beneficially own the Shares owned by The Lion Fund II.
+
+As of the close of business on January 27, 2025, First Guard owned directly 120,000 Shares, constituting less than 1% of the Shares outstanding. By virtue of their relationships with First Guard, each of Sardar Biglari, Biglari Reinsurance, Biglari Insurance, and Biglari Holdings may be deemed to beneficially own the Shares owned directly by First Guard.
+
+As of the close of business on January 27, 2025, Biglari Reinsurance owned directly 369,247 Shares, constituting 1.2% of the Shares outstanding, and together with the 120,000 Shares owned directly by First Guard, constituting 1.6% of the Shares outstanding. By virtue of their relationships with Biglari Reinsurance, each of Sardar Biglari, Biglari Insurance, and Biglari Holdings may be deemed to beneficially own the Shares owned directly by Biglari Reinsurance.
+
+An aggregate of 4,489,247 Shares, constituting approximately 14.99% of the Shares outstanding, are reported by the Reporting Persons in this statement.
+
+The filing of this Schedule 13D shall not be deemed an admission that any of the Reporting Persons is, for purposes of Section 13(d) of the Securities Exchange Act of 1934, as amended, the beneficial owner of any Shares he or it does not directly own. Each of the Reporting Persons specifically disclaims beneficial ownership of the Shares reported herein that he or it does not directly own.</percentageOfClassSecurities>
+        <numberOfShares>By virtue of his relationships with the other Reporting Persons, Sardar Biglari may be deemed to have the sole power to vote and dispose of the 4,489,247 Shares owned directly by The Lion Fund II, First Guard, and Biglari Reinsurance in the aggregate.</numberOfShares>
+        <transactionDesc>There have been no transactions in securities of the Issuer by the Reporting Persons during the past sixty days.</transactionDesc>
+        <listOfShareholders>No person other than the Reporting Persons is known to have the right to receive, or the power to direct the receipt of dividends from, or proceeds from the sale of, the Shares.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>On January 27, 2025, the Reporting Persons entered into a Joint Filing Agreement in which the Reporting Persons agreed to the joint filing on behalf of each of them of statements on Schedule 13D with respect to the securities of the Issuer to the extent required by applicable law. The Joint Filing Agreement is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Other than as described herein, there are no contracts, arrangements, understandings or relationships among the Reporting Persons, or between the Reporting Persons and any other person, with respect to the securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>1 - Directors and Executive Officers.
+
+99.1 - Joint Filing Agreement by and among the Reporting Persons, dated January 27, 2025.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>BIGLARI, SARDAR</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>BIGLARI CAPITAL CORP.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari, Chairman and Chief Executive Officer</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>LION FUND II, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari, Chairman and Chief Executive Officer of Biglari Capital Corp., its general partner</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>First Guard Insurance Company</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari, Authorized Signatory</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Biglari Reinsurance Ltd.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari, Chairman and Chief Executive Officer</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Biglari Insurance Group Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari, Chairman of the Board</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Biglari Holdings Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Sardar Biglari</signature>
+          <title>Sardar Biglari, Chairman and Chief Executive Officer</title>
+          <date>01/27/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1tosc13d08106005_01272025.htm
+<DESCRIPTION>DIRECTORS AND OFFICERS
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Directors and Executive Officers of First
+Guard</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1pt solid; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>NAME AND<BR>
+POSITION WITH <BR>
+FIRST GUARD</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>PRESENT PRINCIPAL <BR>
+OCCUPATION</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>BUSINESS ADDRESS</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>CITIZENSHIP</B></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Edmund B. Campbell, III,<BR>
+<I>Executive Chairman </I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Executive Chairman of First Guard</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">240 Nokomis Ave. S.<BR>
+Venice, FL 34285</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Sardar Biglari,<BR>
+<I>Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Philip L. Cooley,<BR>
+<I>Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Vice Chairman of Biglari Holdings</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Pkwy, Suite 1200<BR>
+San Antonio, Texas 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Anddrew S. Toepfer,<BR>
+<I>President, Chief Executive Officer, Treasurer and Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">President and Chief Executive Officer of First Guard</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">240 Nokomis Ave. S.<BR>
+Venice, FL 34285</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Edmund B. Campbell, Jr.,<BR>
+<I>Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Retired; former Executive at First Guard</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">240 Nokomis Ave. S.<BR>
+Venice, FL 34285</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Courtney Wilson,<BR>
+<I>Vice President and Secretary</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Vice President and Secretary at First Guard</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">240 Nokomis Ave. S.<BR>
+Venice, FL 34285</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Daniel Ribar,<BR>
+<I>Vice President</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Vice President at First Guard</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">240 Nokomis Ave. S.<BR>
+Venice, FL 34285</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Directors and Executive Officers of Biglari
+Reinsurance</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>NAME AND<BR>
+POSITION WITH <BR>
+BIGLARI REINSURANCE</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>PRESENT PRINCIPAL <BR>
+OCCUPATION</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>BUSINESS ADDRESS</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>CITIZENSHIP</B></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Sardar Biglari,<I><BR>
+Chairman of the Board and Chief Executive Officer</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Robert T. Chapman,<BR>
+<I>Executive Vice President, Chief Operating Officer and Chief Financial Officer</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Executive Vice President, Chief Operating Officer and Chief Financial Officer of Biglari Reinsurance and Chief Operating Officer and Secretary of Biglari Insurance</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Appleby Global Corporate Services (Bermuda) Ltd.,<BR>
+<I>Secretary</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Corporate services provider</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Canon&rsquo;s Court<BR>
+22 Victoria Street<BR>
+Hamilton HM12<BR>
+Bermuda</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Bermuda</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Directors and Executive Officers of Biglari
+Insurance</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>NAME AND<BR>
+POSITION WITH <BR>
+BIGLARI INSURANCE</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>PRESENT PRINCIPAL <BR>
+OCCUPATION</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>BUSINESS ADDRESS</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>CITIZENSHIP</B></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Sardar Biglari,<BR>
+<I>Director and Chairman of the Board</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Robert T. Chapman,<BR>
+<I>Chief Operating Officer and Secretary</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Executive Vice President, Chief Operating Officer and Chief Financial Officer of Biglari Reinsurance and Chief Operating Officer and Secretary of Biglari Insurance</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Directors and Executive Officers of Biglari
+Holdings</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: top; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>NAME AND<BR>
+POSITION WITH <BR>
+BIGLARI HOLDINGS</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>PRESENT PRINCIPAL <BR>
+OCCUPATION</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>BUSINESS ADDRESS</B></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; vertical-align: bottom; width: 25%; padding-top: 3pt; padding-bottom: 3pt; text-align: center"><B>CITIZENSHIP</B></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Sardar Biglari,<BR>
+<I>Chairman of the Board and Chief Executive Officer</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">See Item 2</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Philip L. Cooley,<BR>
+<I>Vice Chairman of the Board</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Vice Chairman of the Board of Biglari Holdings</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Ruth J. Person,<BR>
+<I>Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Retired; former professor of Management, University of Michigan-Flint</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Kenneth R. Cooper,<BR>
+<I>Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Attorney</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">John Garrett Cardwell,<BR>
+<I>Director</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Retired; former executive with Johnson Controls, Inc.</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-bottom: 12pt; padding-left: 7.9pt; text-indent: -7.9pt">Bruce Lewis,<BR>
+<I>Controller</I></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">Controller of Biglari Holdings</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">19100 Ridgewood Parkway, Suite 1200<BR>
+San Antonio, TX 78259</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center">U.S.A.</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>ex991to13d08106005_012725.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right; text-indent: 0in">Exhibit 99.1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>JOINT FILING AGREEMENT</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In accordance with Rule 13d-1(k)(1)(iii)
+under the Securities Exchange Act of 1934, as amended, the persons named below agree to the joint filing on behalf of each of them of
+a Statement on Schedule 13D (including additional amendments thereto) with respect to the shares of Common Stock, par value $0.01 per
+share, of El Pollo Loco Holdings, Inc. This Joint Filing Agreement shall be filed as an Exhibit to such Statement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">BIGLARI, SARDAR</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt; font: 10pt Times New Roman, Times, Serif">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BIGLARI CAPITAL CORP.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari, Chairman and Chief Executive Officer</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">LION FUND II, L.P.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari, Chairman and Chief Executive Officer of Biglari Capital Corp., its general partner</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">First Guard Insurance Company</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Biglari Reinsurance Ltd.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari, Chairman and Chief Executive Officer</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Biglari Insurance Group Inc.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari, Chairman of the Board</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Biglari Holdings Inc.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Sardar Biglari</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Sardar Biglari, Chairman and Chief Executive Officer</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/27/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,752 @@
+<SEC-DOCUMENT>0000921895-25-000213.txt : 20250131
+<SEC-HEADER>0000921895-25-000213.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131184301
+ACCESSION NUMBER:		0000921895-25-000213
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Monte Rosa Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001826457
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92649
+		FILM NUMBER:		25579936
+
+	BUSINESS ADDRESS:	
+		STREET 1:		321 HARRISON AVENUE
+		STREET 2:		SUITE 900
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02118
+		BUSINESS PHONE:		617-949-2643
+
+	MAIL ADDRESS:	
+		STREET 1:		321 HARRISON AVENUE
+		STREET 2:		SUITE 900
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02118
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIOTECHNOLOGY VALUE FUND L P
+		CENTRAL INDEX KEY:			0000918923
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				363924731
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		44 MONTGOMERY STREET
+		STREET 2:		40TH FL
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		3125066500
+
+	MAIL ADDRESS:	
+		STREET 1:		44 MONTGOMERY STREET
+		STREET 2:		40TH FL
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BIOTECHNOLOGY VALUE FUND L P -->
+          <cik>0000918923</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $0.0001 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/24/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001826457</issuerCik>
+        <issuerName>Monte Rosa Therapeutics, Inc.</issuerName>
+        <issuerCusip>61225M102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>321 HARRISON AVENUE</com:street1>
+          <com:street2>SUITE 900</com:street2>
+          <com:city>BOSTON</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02118</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND L P</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2257204.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2257204.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2257204.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>3.7</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF I GP LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2257204.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2257204.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2257204.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>3.7</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND II LP</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1823443.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1823443.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1823443.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>3.0</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF II GP LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1823443.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1823443.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1823443.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>3.0</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Biotechnology Value Trading Fund OS LP</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>228202.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>228202.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>228202.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.4</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF Partners OS Ltd.</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>228202.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>228202.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>228202.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.4</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF GP HOLDINGS LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4080647.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4080647.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4080647.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.6</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF PARTNERS L P/IL</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4393210.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4393210.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4393210.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.2</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF INC/IL</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4393210.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4393210.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4393210.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.2</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>LAMPERT MARK N</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4393210.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4393210.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4393210.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.2</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Monte Rosa Therapeutics, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>321 Harrison Avenue, Suite 900, Boston, MA 02118</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Biotechnology Value Fund, L.P. ("BVF")
+
+BVF I GP LLC ("BVF GP")
+
+Biotechnology Value Fund II, L.P. ("BVF2")
+
+BVF II GP LLC ("BVF2 GP")
+
+Biotechnology Value Trading Fund OS LP ("Trading Fund OS")
+
+BVF Partners OS Ltd. ("Partners OS")
+
+BVF GP Holdings LLC ("BVF GPH")
+
+BVF Partners L.P. ("Partners")
+
+BVF Inc.
+
+Mark N. Lampert ("Mr. Lampert")
+
+Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons."</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Biotechnology Value Fund, L.P.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF I GP LLC
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+Biotechnology Value Fund II, L.P.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF II GP LLC
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+Biotechnology Value Trading Fund OS LP
+PO Box 309 Ugland House
+Grand Cayman, KY1-1104
+Cayman Islands
+
+BVF Partners OS Ltd.
+PO Box 309 Ugland House
+Grand Cayman, KY1-1104
+Cayman Islands
+
+BVF GP Holdings LLC
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF Partners L.P.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF Inc.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+Mark N. Lampert
+44 Montgomery St., 40th Floor
+San Francisco, California 94104</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Biotechnology Value Fund, L.P.
+Delaware
+
+BVF I GP LLC
+Delaware
+
+Biotechnology Value Fund II, L.P.
+Delaware
+
+BVF II GP LLC
+Delaware
+
+Biotechnology Value Trading Fund OS LP
+Cayman Islands
+
+BVF Partners OS Ltd.
+Cayman Islands
+
+BVF GP Holdings LLC
+Delaware
+
+BVF Partners L.P.
+Delaware
+
+BVF Inc.
+Delaware
+
+Mark N. Lampert
+United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>As of the close of business on January 31, 2025, (i) BVF beneficially owned 2,257,204 shares of the Issuer's Common Stock, $0.0001 par value per share (the "Shares"), (ii) BVF2 beneficially owned 1,823,443 Shares and (iii) Trading Fund OS beneficially owned 228,202 Shares.
+
+BVF GP, as the general partner of BVF, may be deemed to beneficially own the 2,257,204 Shares beneficially owned by BVF.
+
+BVF2 GP, as the general partner of BVF2, may be deemed to beneficially own the 1,823,443 Shares beneficially owned by BVF2.
+
+Partners OS, as the general partner of Trading Fund OS, may be deemed to beneficially own the 228,202 Shares beneficially owned by Trading Fund OS.
+
+BVF GPH, as the sole member of each of BVF GP and BVF2 GP, may be deemed to beneficially own the 4,080,647 Shares beneficially owned in the aggregate by BVF and BVF2.
+
+Partners, as the investment manager of BVF, BVF2 and Trading Fund OS, and the sole member of Partners OS, may be deemed to beneficially own the 4,393,210 Shares beneficially owned in the aggregate by BVF, BVF2 and Trading Fund OS and held in a certain Partners managed account (the "Partners Managed Account"), including 84,361 Shares held in the Partners Managed Account.
+
+BVF Inc., as the general partner of Partners, may be deemed to beneficially own the 4,393,210 Shares beneficially owned by Partners.
+
+Mr. Lampert, as a director and officer of BVF Inc., may be deemed to beneficially own the 4,393,210 Shares beneficially owned by BVF Inc.
+
+The foregoing should not be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of any Shares owned by another Reporting Person. BVF GP disclaims beneficial ownership of the Shares beneficially owned by BVF. BVF2 GP disclaims beneficial ownership of the Shares beneficially owned by BVF2. Partners OS disclaims beneficial ownership of the Shares beneficially owned by Trading Fund OS. BVF GPH disclaims beneficial ownership of the Shares beneficially owned by BVF and BVF2. Each of Partners, BVF Inc. and Mr. Lampert disclaims beneficial ownership of the Shares beneficially owned by BVF, BVF2 and Trading Fund OS and held in the Partners Managed Account, and the filing of this statement shall not be construed as an admission that any such person or entity is the beneficial owner of any such securities.</amountBeneficiallyOwned>
+        <classPercent>The following percentages are based on 61,436,740 Shares outstanding as of November 4, 2024, which is the total number of Shares outstanding as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on November 7, 2024.
+
+As of the close of business on January 31, 2025, (i) BVF beneficially owned approximately 3.7% of the outstanding Shares, (ii) BVF2 beneficially owned approximately 3.0% of the outstanding Shares, (iii) Trading Fund OS beneficially owned less than 1% of the outstanding Shares, (iv) BVF GP may be deemed to beneficially own approximately 3.7% of the outstanding Shares, (v) BVF2 GP may be deemed to beneficially own approximately 3.0% of the outstanding Shares, (vi) Partners OS may be deemed to beneficially own less than 1% of the outstanding Shares, (vii) BVF GPH may be deemed to beneficially own approximately 6.6% of the outstanding Shares, and (viii) each of Partners, BVF Inc. and Mr. Lampert may be deemed to beneficially own approximately 7.2% of the outstanding Shares (less than 1% of the outstanding Shares are held in the Partners Managed Account).</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Cover Pages Items 5-9.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Cover Pages Items 5-9.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Cover Pages Items 5-9.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Cover Pages Items 5-9.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>BVF GPH, Partners, BVF Inc. and Mr. Lampert share voting and dispositive power over the Shares beneficially owned by BVF and BVF2. Partners, BVF Inc. and Mr. Lampert share voting and dispositive power over the Shares beneficially owned by Trading Fund OS and held in the Partners Managed Account.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>See Exhibit 99.1.</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>99.1 - Joint Filing Agreement, January 31, 2025.</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND L P</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF I GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND II LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF II GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Biotechnology Value Trading Fund OS LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF Partners OS Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF GP HOLDINGS LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF PARTNERS L P/IL</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF INC/IL</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>LAMPERT MARK N</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex991to13g07422glue_01312025.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right">Exhibit 99.1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>Joint Filing Agreement</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The undersigned hereby agree that the Statement on
+Schedule 13G dated January 31, 2025 with respect to the Common Stock, $0.0001 par value per share, of Monte Rosa Therapeutics, Inc., a
+Delaware corporation, and any further amendments thereto executed by each and any of the undersigned shall be filed on behalf of each
+of the undersigned pursuant to and in accordance with the provisions of Rule 13d-1(k)(1) under the Securities Exchange Act of 1934, as
+amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font-size: 10pt; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">BIOTECHNOLOGY VALUE FUND L P</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt; font: 10pt Times New Roman, Times, Serif">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif; padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BVF I GP LLC</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BIOTECHNOLOGY VALUE FUND II LP</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BVF II GP LLC</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Biotechnology Value Trading Fund OS LP</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BVF Partners OS Ltd.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BVF GP HOLDINGS LLC</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BVF PARTNERS L P/IL</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">BVF INC/IL</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert, Authorized Signatory</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">LAMPERT MARK N</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 5%; padding-right: 1.45pt; padding-left: 1.45pt">By:</TD>
+    <TD STYLE="width: 45%; padding-right: 1.45pt; padding-left: 1.45pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; border-bottom: Black 0.5pt solid">/s/ Mark N. Lampert</P></TD>
+    <TD STYLE="width: 50%; padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Mark N. Lampert</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 1.45pt; padding-left: 1.45pt">Date:</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 1.45pt; padding-left: 1.45pt">01/31/2025</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0000950170-25-002874.txt : 20250107
+<SEC-HEADER>0000950170-25-002874.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107163151
+ACCESSION NUMBER:		0000950170-25-002874
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APx Acquisition Corp. I
+		CENTRAL INDEX KEY:			0001868573
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93157
+		FILM NUMBER:		25515254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		UGLAND HOUSE
+		STREET 2:		PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+		BUSINESS PHONE:		1 345 949 8066
+
+	MAIL ADDRESS:	
+		STREET 1:		UGLAND HOUSE
+		STREET 2:		PO BOX 309
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-1104
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bank of New York Mellon Corp
+		CENTRAL INDEX KEY:			0001390777
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				132614959
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+		BUSINESS PHONE:		212-495-1784
+
+	MAIL ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bank of New York Mellon CORP
+		DATE OF NAME CHANGE:	20070221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<headerData>
+<submissionType>SCHEDULE 13G</submissionType>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001390777</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<securitiesClassTitle>Class A Ordinary Shares, par value $0.0001 per share</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>12/30/2024</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0001868573</issuerCik>
+<issuerName>APx Acquisition Corp. I</issuerName>
+<issuerCusip>G0440J109</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">UGLAND HOUSE, PO BOX 309</street1>
+<city xmlns="http://www.sec.gov/edgar/common">GRAND CAYMAN</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">E9</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">KY1-1104</zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+<reportingPersonName>Bank of New York Mellon Corp</reportingPersonName>
+<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>408220</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>408220</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>408220</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>8.4</classPercent>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>APx Acquisition Corp. I</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>714 Westview Avenue Nashville, TN 37205</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>The Bank of New York Mellon Corporation</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>240 Greenwich Street
+New York, NY 10286</principalBusinessOfficeOrResidenceAddress>
+<citizenship>Delaware, United States</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>Y</notApplicableFlag>
+</item3>
+<item4>
+<amountBeneficiallyOwned>408,220</amountBeneficiallyOwned>
+<classPercent>8.4</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>408,220</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>None</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>408,220</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>None</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>Y</notApplicableFlag>
+</item5>
+<item6>
+<notApplicableFlag>Y</notApplicableFlag>
+</item6>
+<item7>
+<notApplicableFlag>Y</notApplicableFlag>
+</item7>
+<item8>
+<notApplicableFlag>Y</notApplicableFlag>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>Bank of New York Mellon Corp</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Emily Portney</signature>
+<title>Emily Portney/Senior Executive Vice President and Global Head of Asset Servicing</title>
+<date>01/07/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0000820478-25-000008.txt : 20250129
+<SEC-HEADER>0000820478-25-000008.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129142706
+ACCESSION NUMBER:		0000820478-25-000008
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250129
+DATE AS OF CHANGE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Stone Point Credit Income Fund
+		CENTRAL INDEX KEY:			0002031283
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94819
+		FILM NUMBER:		25568675
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 HORSENECK LANE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		203-862-2900
+
+	MAIL ADDRESS:	
+		STREET 1:		20 HORSENECK LANE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRS OHIO
+		CENTRAL INDEX KEY:			0000820478
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				311312155
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		275 EAST BROAD STREET
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43215-3771
+		BUSINESS PHONE:		6142272848
+
+	MAIL ADDRESS:	
+		STREET 1:		275 E BROAD ST
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43215
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STATE TEACHERS RETIREMENT SYSTEM OF OHIO
+		DATE OF NAME CHANGE:	19970331
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000820478</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>common stock</securitiesClassTitle>
+      <dateOfEvent>01/22/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0002031283</issuerCIK>
+        <issuerCUSIP>000000000</issuerCUSIP>
+        <issuerName>Stone Point Credit Income Fund</issuerName>
+        <address>
+          <com:street1>20 HORSENECK LANE</com:street1>
+          <com:city>GREENWICH</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06830</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Matthew Downie</personName>
+          <personPhoneNum>614-227-2848</personPhoneNum>
+          <personAddress>
+            <com:street1>275 East Broad Street</com:street1>
+            <com:city>Columbus</com:city>
+            <com:stateOrCountry>OH</com:stateOrCountry>
+            <com:zipCode>43215</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000820478</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>STRS OHIO</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>OH</citizenshipOrOrganization>
+        <soleVotingPower>831151.87</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>831151.87</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>831151.87</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>23.1</percentOfClass>
+        <typeOfReportingPerson>EP</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>common stock</securityTitle>
+        <issuerName>Stone Point Credit Income Fund</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>20 HORSENECK LANE</com:street1>
+          <com:city>GREENWICH</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06830</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>State Teachers Retirement System of Ohio</filingPersonName>
+        <principalBusinessAddress>275 East Broad Street
+Columbus, Ohio 43215</principalBusinessAddress>
+        <principalJob>Public Pension Fund created under Section 3307 of the Ohio Revised Code.
+275 East Broad Street, Columbus Ohio 43215</principalJob>
+        <hasBeenConvicted>STRS Ohio has not, during the past 5 years, been convicted in a criminal proceeding.</hasBeenConvicted>
+        <convictionDescription>STRS Ohio has not, during the past 5 years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceedings was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws</convictionDescription>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>STRS Ohio has purchased 831,151.87 shares of common stock in the Company subject to a Subscription Agreement signed with Company on January 10, 2025.  Shares of common stock are purchased each time the Company delivers a capital contribution notice to STRS Ohio.  The amount of funds used to acquire the stock of the Company was $20,778,796.87.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>STRS Ohio acquired the shares of common stock in the Company for investment purposes in the course of ordinary business.
+STRS Ohio has a commitment to purchase up to $100,000,000 of shares of common stock in the Company. Shares are purchased each time the Company delivers a capital contribution notice to purchase shares at a price per share equal to the most recent net asset value (NAV) per share as determined by the Company Board of Directors.
+</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>All percentages are based on 3,600,040 outstanding shares of the Company, as of January 22, 2025.
+STRS Ohio beneficially owns 831,151.87 shares of common stock, which represents 23.1% of the outstanding shares of the Company as of January 22, 2025.
+</percentageOfClassSecurities>
+        <numberOfShares>STRS Ohio has the sole power to vote, or to direct to vote, and the sole power to dispose or to direct to dispose, 831,151.87 shares of the Company.</numberOfShares>
+        <transactionDesc>n/a</transactionDesc>
+        <listOfShareholders>No other person has the right to receive or the power to direct the receipt of dividends, or proceeds of such securities outlined in this Schedule 13D.</listOfShareholders>
+        <date5PercentOwnership>n/a</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>STRS Ohio purchases shares of common stock in the Company pursuant to a Subscription Agreement that was executed on January 10, 2025.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>STRS OHIO</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Matthew Worley</signature>
+          <title>Deputy Executive Director, Investments</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

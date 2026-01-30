@@ -1,0 +1,920 @@
+<SEC-DOCUMENT>0001390777-25-000019.txt : 20250123
+<SEC-HEADER>0001390777-25-000019.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123141301
+ACCESSION NUMBER:		0001390777-25-000019
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dolby Laboratories, Inc.
+		CENTRAL INDEX KEY:			0001308547
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				900199783
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80595
+		FILM NUMBER:		25549273
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		415 558 0200
+
+	MAIL ADDRESS:	
+		STREET 1:		1275 MARKET STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bank of New York Mellon Corp
+		CENTRAL INDEX KEY:			0001390777
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				132614959
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+		BUSINESS PHONE:		212-495-1784
+
+	MAIL ADDRESS:	
+		STREET 1:		240 GREENWICH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10286
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bank of New York Mellon CORP
+		DATE OF NAME CHANGE:	20070221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001390777</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001308547</issuerCik>
+        <issuerName>Dolby Laboratories, Inc.</issuerName>
+        <issuerCusip>25659T107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1275 MARKET STREET</com:street1>
+          <com:city>SAN FRANCISCO</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94103</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Bank of New York Mellon Corp</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>4651144.00</soleVotingPower>
+        <sharedVotingPower>1380.00</sharedVotingPower>
+        <soleDispositivePower>2714658.00</soleDispositivePower>
+        <sharedDispositivePower>2111819.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4826477.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>8.0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>BNY Mellon IHC, LLC</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>4396610.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2441932.00</soleDispositivePower>
+        <sharedDispositivePower>2109224.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4551156.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.5</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>MBC Investments Corp</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>4396610.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2441932.00</soleDispositivePower>
+        <sharedDispositivePower>2109224.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4551156.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.5</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Newton Investment Management North America, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>3867324.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1906258.00</soleDispositivePower>
+        <sharedDispositivePower>2080017.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3986275.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>6.6</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Dolby Laboratories, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1275 MARKET STREET, SAN FRANCISCO, CALIFORNIA, 94103.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>The Bank of New York Mellon Corporation</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>240 Greenwich Street
+New York, New York 10286</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>See cover page</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>See Item 5 through 9 and 11 of cover page(s) as to each reporting person.
+
+The filing of this Schedule 13G shall not be construed as an admission that The Bank of New York Mellon Corporation, or its direct or indirect subsidiaries, including The Bank of New York Mellon and BNY Mellon, National Association, are for the purposes of Section 13(d) or 13(g) of the Act, the beneficial owners of any securities covered by this Schedule 13G.</amountBeneficiallyOwned>
+        <classPercent>See Item 5 through 9 and 11 of cover page(s) as to each reporting person.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Item 5 through 9 and 11 of cover page(s) as to each reporting person.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Item 5 through 9 and 11 of cover page(s) as to each reporting person.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Item 5 through 9 and 11 of cover page(s) as to each reporting person.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Item 5 through 9 and 11 of cover page(s) as to each reporting person.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the securities are beneficially owned by The Bank of New York Mellon Corporation and its direct or indirect subsidiaries in their various fiduciary capacities.  As a result, another entity in every instance is entitled to dividends or proceeds of sale.
+
+No one other person's interest in the securities reported herein is more than 5%.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>See Exhibit I</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Bank of New York Mellon Corp</reportingPersonName>
+      <signatureDetails>
+        <signature>Andrew Weiser</signature>
+        <title>Attorney-In-Fact</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BNY Mellon IHC, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Andrew Weiser</signature>
+        <title>Attorney-In-Fact</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>MBC Investments Corp</reportingPersonName>
+      <signatureDetails>
+        <signature>Andrew Weiser</signature>
+        <title>Attorney-In-Fact</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Newton Investment Management North America, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Andrew Weiser</signature>
+        <title>Attorney-In-Fact</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>13G_Exhibit_I.txt
+<DESCRIPTION>EXHIBIT I
+<TEXT>
+The shares reported on the attached Schedule 13G are beneficially owned by the
+following direct or indirect subsidiaries of The Bank of New York Mellon
+Corporation, as listed:
+(A)  The Item 3 classification of each of the subsidiaries listed below is
+     "Item 3(b) Bank as defined in Section 3(a)(6) of the Act" (15 U.S.C. 78c)
+     or "Item 3(j)A non-U.S. institution in accordance with Rule 240.13d-1
+     (b)(1)(ii)(J)"
+
+
+	BNY Mellon Trust of Delaware
+	The Bank of New York Mellon
+	BNY Mellon, National Association
+
+
+ (B)  The Item 3 classification of each of the subsidiaries listed below is
+  "Item 3(e) An investment adviser in accordance with Section 240.13d-1
+  (b)(1)(ii)(E)" or "Item 3(j) A non-U.S. institution in accordance with
+  Rule 240.13d-1(b)(1)(ii)(J)
+
+
+	BNY Mellon Securities Corporation
+	BNY Mellon ETF Investment Adviser, LLC
+	BNY Mellon Investment Adviser, Inc
+	BNY Mellon Advisors, Inc.
+	Mellon Investments Corporation
+	Newton Investment Management North America, LLC
+
+
+ (C)  The Item 3 classification of each of the subsidiaries listed below is
+ "Item 3(A) Broker Or dealer registered under Section 15 OF THE Act
+  (15 U.S.C. 78c) or "Item 3(j) A non-U.S. institution in accordance with
+  Rule 240.13d-1(b)(1)(ii)(J)"
+
+
+	Pershing LLC
+
+
+(D)  The Item 3 classification of each of the subsidiaries listed below is
+ "Item 3(g) a parent holding company or control person in accordance with
+ Rule 13d-1(b)(1)(ii)(G)"
+
+
+	MBC Investments Corporation
+	BNY Mellon IHC, LLC
+	B.N.Y. Holdings (Delaware) Corporation
+	Pershing Group LLC
+	The Bank of New York Mellon Corporation
+
+
+NOTE:  ALL OF THE LEGAL ENTITIES LISTED UNDER (A), (B), (C) AND (D) ABOVE ARE
+DIRECT OR INDIRECT SUBSIDIARIES OF THE BANK OF NEW YORK MELLON CORPORATION.
+BENEFICIAL OWNERSHIP OF MORE THAN FIVE PERCENT OF THE CLASS BY ANY ONE OF THE
+SUBSIDIARIES OR INTERMEDIATE PARENT HOLDING COMPANIES LISTED ABOVE IS REPORTED
+ON A JOINT REPORTING PERSON PAGE FOR THAT SUBSIDIARY ON THE ATTACHED SCHEDULE
+13G AND IS INCORPORATED IN THE TOTAL PERCENT OF CLASS REPORTED ON THE BANK OF
+NEW YORK MELLON CORPORATION'S REPORTING PERSON PAGE. (DO NOT ADD THE SHARES OR
+PERCENT OF CLASS REPORTED ON EACH JOINT REPORTING PERSON PAGE ON THE ATTACHED
+SCHEDULE 13G TO DETERMINE THE TOTAL PERCENT OF CLASS FOR THE BANK OF NEW YORK
+MELLON CORPORATION).
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>3
+<FILENAME>POA.txt
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+                           POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS that each of the undersigned (each a
+"Company") does hereby make, constitute and appoint each of Ivan Arias
+and Andrew Weiser (and any other employee of The Bank of New York Mellon
+Corporation, or one of its affiliates, associated with the Global Holdings
+Reporting Group and designated in writing by one of the attorneys-in-fact),
+acting individually, its true and lawful attorney to execute and deliver
+in its name and on its behalf, whether the Company is acting individually
+or as representative of others, any and all filings, be they written or
+oral, required to be made by the Company with respect to securities which
+may be deemed to be beneficially owned by the Company or under the
+Company's investment discretion under:
+
+    *the Securities Exchange Act of 1934, as amended (the "Exchange
+     Act"), including those filings required to be submitted on Form
+     13F, Schedule 13G, Schedule 13D and Forms 3, 4 and 5, and
+
+    *the laws of any jurisdiction other than the United States
+     of America, including those filings made to disclose securities
+     holdings as required to be submitted to regulatory agencies,
+     exchanges and/or issuers,
+
+giving and granting unto each said attorney-in-fact power and authority
+to correspond with issuers, regulatory authorities, and other entities
+as is required in support of the filings referenced above, and to act
+in the  premises as fully and to all intents and purposes as the Company
+might or could do to comply with the applicable regulations if personally
+present by one of its authorized signatories (including, but not limited
+to, instructing local counsel on a Company's behalf), hereby ratifying
+and confirming all that said attorney-in-fact shall lawfully do or cause
+to be done by virtue hereof.
+THIS POWER OF ATTORNEY shall remain in full force and effect until either
+revoked in writing by the Company or until such time as the person or
+to whom power of attorney has been hereby granted cease(s) to be an persons
+employee of The Bank of New York Mellon Corporation or one of its affiliates.
+
+This Power of Attorney may be executed in any number of counterparts
+all of which taken together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the undersigned hereby execute this Agreement effective
+as of the date set forth below.
+
+-----------------------------------------------------------------------------
+|                         Banks/Bank Holding Companies                      |
+-----------------------------------------------------------------------------
+
+THE BANK OF NEW YORK MELLON              BNY MELLON, NATIONAL ASSOCIATION
+CORPORATION
+
+By: /S/ MITCHELL E.HARRIS                By: /S/ DONALD HEBERLE
+    ----------------------                    ---------------------
+    Mitchell E. Harris                        Donald Heberle
+    Chief Executive Officer,                  Chief Executive Officer
+    Investment Management
+Date:  March 17, 2017                    Date:  September 16, 2015
+
+
+BNY MELLON, NATIONAL ASSOCIATION         THE BANK OF NEW YORK MELLON SA/NV
+
+By: /S/ THOMAS J. DICKER                 By: /S/ LAURA AHTO
+    ---------------------                    ------------------
+    Thomas J. Dicker                         Laura Ahto
+    Chief Operating Officer                  Chief Executive Officer
+Date:  October 9, 2015                   Date: May 17, 2016
+
+
+THE BANK OF NEW YORK MELLON              THE BANK OF NEW YORK MELLON
+
+By: /S/ MITCHELL E. HARRIS               By: /S/ CURTIS ARLEDGE
+    ----------------------                   ---------------------
+    Mitchell E. Harris                        Curtis Arledge
+    Senior Executive Vice President           Vice Chairman
+Date:  September 18, 2015                  Date:  August 26, 2015
+
+
+THE BANK OF NEW YORK MELLON TRUST        THE BANK OF NEW YORK MELLON TRUST
+COMPANY, NATIONAL ASSOCIATION            COMPANY, NATIONAL ASSOCIATION
+
+By: /S/ ANTONIO PORTUONDO                By: /S/ KURTIS R. KURIMSKY
+    ----------------------                   ---------------------
+    Antonio Portuondo                         Kurtis R. Kurimsky
+    President                                 Executive Vice President
+Date:  October 20, 2015                  Date:  March 8, 2016
+
+
+BNY MELLON TRUST OF DELAWARE             BNY MELLON TRUST OF DELAWARE
+
+By: /S/ JAMES P. AMBAGIS                 By: /S/ LEE JAMES WOOLLEY
+    ----------------------                   ---------------------
+    James P. Ambagis                           Lee James Woolley
+    President                                  Chairman and
+                                               Chief Executive Officer
+Date:  October 21, 2015                  Date:  October 19, 2015
+
+
+-----------------------------------------------------------------------------
+|                   Investment Advisers and/or Broker-Dealers               |
+-----------------------------------------------------------------------------
+
+PERSHING LLC                             BNY MELLON CAPITAL MARKETS, LLC
+
+By: /S/ CLAIRE SANTANIELLO               By: /S/ JEFF GEARHART
+    ---------------------                    ----------------------
+    Claire Santaniello                       Jeff Gearhart
+    Chief Administrative Officer             Chief Operating Officer
+    and Chief Risk Officer
+Date:  May  24, 2016                     Date:  October 19, 2016
+
+
+ARX INVESTIMENTOS LTDA                   ARX INVESTIMENTOS LTDA
+
+By: /S/ CAMILA SOUZA                     By: /S/ GUILHERME ABRY
+    ----------------------                   ---------------------
+    Camila Souza                             Guilherme Abry
+    Director                                 Director
+Date:  January 4, 2016                   Date:  January 4, 2016
+
+
+BNY MELLON SERVICOS FINANCEIROS          BNY MELLON SERVICOS FINANCEIROS
+DISTRIBUIDORA DE TITULOS E VALORES       DISTRIBUIDORA DE TITULOS E VALORES
+MOBILIARIOS S.A.                         MOBILIARIOS S.A.
+
+By: /S/ CARLOS ALBERTO SARAIVA           By: /S/ MARCUS VINICIUS MATHIAS PEREIRA
+    ----------------------                   -----------------------------------
+    Carlos Alberto Saraiva                   Marcus Vinicius Mathias Pereira
+    Director                                 Director
+Date:  May 5, 2016                       Date:  May 5, 2016
+
+
+BNY MELLON INVESTMENT ADVISER, INC       INSIGHT INVESTMENT MANAGEMENT
+                                         (GLOBAL) LIMITED
+
+By: /S/ JAMES BITETTO                    By: /s/ CHARLES FARQUHARSON
+    ----------------------                   ----------------------
+    James Bitetto                            Charles Farquharson
+    Secretary                                Chief Risk Officer
+Date:  June 03, 2019                     Date:  February 16, 2016
+
+
+BNY MELLON ADVISORS, INC.                BNY MELLON INVESTMENT MANAGEMENT
+                                         JAPAN LIMITED
+By: /S/ JOEL HEMPEL                      By: /S/ SHOGO YAMAGUCHI
+    ----------------------               ---------------------
+    Joel Hempel                              Shogo Yamaguchi
+    President and Chief                      Representative Director
+    Operating Officer                        Chairman and President
+Date:  June 15, 2023                     Date:  April 10, 2020
+
+
+MELLON INVESTMENTS CORPORATION           BNY MELLON SECURITIES CORPORATION
+
+
+By: /S/ JENNIFER CASSEDY                 By: /S/  KENNETH J. BRADLE
+    ----------------------                   ---------------------
+    Jennifer Cassedy                         Kenneth J. Bradle
+    Chief Compliance Officer                 President
+Date:  January 10, 2019                 Date:  June 03, 2019
+
+
+NEWTON INVESTMENT MANAGEMENT LIMITED     INSIGHT NORTH AMERICA LLC
+
+
+By: /S/  JAMES HELBY                     By: /S/ JOHN ARIOLA
+    ----------------------                   ---------------------
+    James Helby                              John Ariola
+    Director                                 Head of Financial Analysis
+Date:  July 17, 2015                     Date: December 7, 2016
+
+
+WALTER SCOTT & PARTNERS LIMITED          INSIGHT INVESTMENT INTERNATIONAL
+                                         LIMITED
+By: /S/ RODGER NISBET                    By: /S/ LEE PALMER
+    ----------------------                   ----------------------
+    Rodger Nisbet                            Lee Palmer
+    Executive Chairman                       Chief Compliance Officer
+Date: July 15, 2015                      Date: February 14, 2018
+
+
+NEWTON INVESTMENT MANAGEMENT             NEWTON INVESTMENT MANAGEMENT
+NORTH AMERICA, LLC                       JAPAN LTD
+
+By: /S/ Michael Germano                  By: /S/IZUMI CHIHARA
+    ----------------------                   ----------------------
+     Michael Germano                         Izumi Chihara
+     Chief Executive Officer                 Representative Director
+Date: August 20, 2021                    Date: February 02, 2023
+
+
+BNY MELLON TRUST COMPANY                 BNY MELLON TRUST COMPANY
+(CAYMAN) LIMITED                         (CAYMAN) LIMITED
+
+By: CANELLA SECRETARIES                  By: CANELLA SECRETARIES
+    (CAYMAN) LTD, SECRETARY                  (CAYMAN) LTD, SECRETARY
+By: /S/GILLIAN NELSON                    By: /S/ PATRICIA BRUZIO
+    -----------------------                  -----------------------
+    Gillian Nelson                           Patricia Bruzio
+    Authorized Person                        Authorized Person
+Date: May 17, 2016                       Date: May 17, 2016
+
+
+BNY MELLON ETF INVESTMENT
+ADVISER, LLC
+
+By: /S/ JENNIFER CASSEDY
+    ----------------------
+    Jennifer Cassedy
+    Chief Compliance Officer
+Date:  December 04, 2019
+
+
+-----------------------------------------------------------------------------
+|                   Parent Holding Companies/Control Persons                |
+-----------------------------------------------------------------------------
+
+B.N.Y. HOLDINGS (DELAWARE) CORPORATION   PERSHING GROUP LLC
+
+By: /S/ JAMES P. AMBAGIS                 By: /S/ CLAIRE SANTANIELLO
+    ----------------------                    ---------------------
+    James P. Ambagis                          Claire Santaniello
+    President                                 Chief Administrative Officer
+                                              and Chief Risk Officer
+Date:  October 21, 2015                  Date:  May 11, 2016
+
+
+BNY MELLON INVESTMENT MANAGEMENT         BNY MELLON INVESTMENT MANAGEMENT
+(APAC) HOLDINGS LIMITED                  (APAC) HOLDINGS LIMITED
+
+By: /S/ EMILY CHAN                       By: /S/ DONI SHAMSUDDIN
+    ----------------------                   ---------------------
+    Emily Chan                               Doni Shamsuddin
+    Director                                 Director
+Date: April 19, 2016                     Date: April 19, 2016
+
+
+NEWTON MANAGEMENT LIMITED		MELLON GLOBAL INVESTING CORPORATION
+
+By: /S/  HELENA MORRISSEY		By: /S/ LEO P. GROHOWSKI
+----------------------			------------------------
+Helena Morrissey 			Leo P . Grohowski
+Director				President
+Date:  July 17, 2015			Date: June 29, 2018
+
+
+BNY MELLON IHC, LLC                      MBC INVESTMENTS CORPORATION
+
+By: /S/ KURTIS R. KURIMSKY               By: /S/ PAUL A. GRIFFITHS
+---------------------                        ---------------------
+ Kurtis R. Kurimsky                          Paul A. Griffiths
+ Vice President and                          Chairman, President and
+ Controller                                  Chief Executive Officer
+ Date: March 29, 2017                    Date:  April 29, 2016
+
+
+MELLON OVERSEAS INVESTMENT               INSIGHT INVESTMENT MANAGEMENT
+CORPORATION                              LIMITED
+
+By: /S/ KURTIS R. KURIMSKY               By: /S/ CHARLES FARQUHARSON
+    ----------------------                    ---------------------
+    Kurtis R. Kurimsky                        Charles Farquharson
+    Vice President and Controller             Chief Risk Officer
+Date: October 7, 2015                    Date: February 16, 2016
+
+
+BNY INTERNATIONAL FINANCING              BNY INTERNATIONAL FINANCING
+CORPORATION                              CORPORATION
+
+By: /S/ KURTIS R. KURIMSKY               By: /S/ JOHN M. ROY
+    ----------------------                   ----------------------
+    Kurtis R. Kurimsky                       John M. Roy
+    President and Comptroller                Vice President
+Date:  May 12, 2016                      Date:  August 15, 2016
+
+
+BNY MELLON INVESTMENT MANAGEMENT         BNY MELLON INTERNATIONAL ASSET
+EUROPE HOLDINGS LIMITED                  MANAGEMENT (HOLDINGS) LIMITED
+
+By: /S/ GREG BRISK                       By: /S/ GREG BRISK
+    -----------------------                  -----------------------
+    Greg Brisk                               Greg Brisk
+    Director                                 Director
+Date:  October 21, 2015                  Date:  October 21, 2015
+
+
+BNY MELLON INVESTMENT MANAGEMENT         BNY CAPITAL MARKETS HOLDINGS, INC.
+(JERSEY)LIMITED
+
+By: /S/ GREG BRISK                       By: /S/ THOMAS P. GIBBONS
+    -------------------------                ------------------------
+    Greg Brisk                               Thomas P. Gibbons
+    Director                                 Vice Chairman and Chief
+                                             Financial Officer
+Date: October 21, 2015                   Date: October 24, 2015
+
+
+BNY MELLON PARTICIPACOES LTDA           BNY MELLON PARTICIPACOES LTDA
+
+ By: /S/ CARLOS ALBERTO SARAIVA         By: /S/ MARCUS VINICIUS MATHIAS PEREIRA
+     --------------------                   ----------------------------------
+     Carlos Alberto Saraiva                 Marcus Vinicius Mathias Pereira
+     Director                               Director
+Date: May 5, 2016                       Date: May 5, 2016
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>4
+<FILENAME>JFA.txt
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+JOINT FILING AGREEMENT
+
+In accordance with Rule 13d-1(k)(1) under the Securities Exchange Act of
+1934, as amended (the "Exchange Act"), the undersigned hereby agree to
+any and all joint filings required to be made on their behalf on Schedule
+13G (including amendments thereto) under the Exchange Act, with respect to
+securities which may be deemed to be beneficially owned by them under the
+Exchange Act, and that this Agreement be included as an Exhibit to any such
+joint filing. This Agreement may be executed in any number of counterparts
+all of which taken together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the undersigned hereby execute this Agreement
+effective as of the date set forth below.
+
+
+-----------------------------------------------------------------------------
+|                         Banks/Bank Holding Companies                      |
+-----------------------------------------------------------------------------
+
+THE BANK OF NEW YORK MELLON              BNY MELLON, NATIONAL ASSOCIATION
+CORPORATION
+
+By: /S/ MITCHELL E.HARRIS                By: /S/ DONALD HEBERLE
+    ----------------------                    ---------------------
+    Mitchell E. Harris                        Donald Heberle
+    Chief Executive Officer,                  Chief Executive Officer
+    Investment Management
+Date:  March 17, 2017                    Date:  September 16, 2015
+
+
+BNY MELLON, NATIONAL ASSOCIATION         THE BANK OF NEW YORK MELLON SA/NV
+
+By: /S/ THOMAS J. DICKER                 By: /S/ LAURA AHTO
+    ---------------------                    ------------------
+    Thomas J. Dicker                         Laura Ahto
+    Chief Operating Officer                  Chief Executive Officer
+Date:  October 9, 2015                   Date: May 17, 2016
+
+
+THE BANK OF NEW YORK MELLON              THE BANK OF NEW YORK MELLON
+
+By: /S/ MITCHELL E. HARRIS               By: /S/ CURTIS ARLEDGE
+    ----------------------                   ---------------------
+    Mitchell E. Harris                        Curtis Arledge
+    Senior Executive Vice President           Vice Chairman
+Date:  August 27, 2015                   Date:  August 26, 2015
+
+
+THE BANK OF NEW YORK MELLON TRUST        THE BANK OF NEW YORK MELLON TRUST
+COMPANY, NATIONAL ASSOCIATION            COMPANY, NATIONAL ASSOCIATION
+
+By: /S/ ANTONIO PORTUONDO                By: /S/ KURTIS R. KURIMSKY
+    ----------------------                   ---------------------
+    Antonio Portuondo                         Kurtis R. Kurimsky
+    President                                 Executive Vice President
+Date:  October 20, 2015                  Date:  March 8, 2016
+
+
+BNY MELLON TRUST OF DELAWARE             BNY MELLON TRUST OF DELAWARE
+
+By: /S/ JAMES P. AMBAGIS                 By: /S/ LEE JAMES WOOLLEY
+    ----------------------                   ---------------------
+    James P. Ambagis                           Lee James Woolley
+    President                                  Chairman and
+                                               Chief Executive Officer
+Date:  October 21, 2015                  Date:  October 19, 2015
+
+
+-----------------------------------------------------------------------------
+|                   Investment Advisers and/or Broker-Dealers               |
+-----------------------------------------------------------------------------
+
+PERSHING LLC                             BNY MELLON CAPITAL MARKETS, LLC
+
+By: /S/ CLAIRE SANTANIELLO               By: /S/ JEFF GEARHART
+    ---------------------                    ----------------------
+    Claire Santaniello                       Jeff Gearhart
+    Chief Administrative Officer             Chief Operating Officer
+    and Chief Risk Officer
+Date:  May  24, 2016                     Date:  October 19, 2016
+
+
+ARX INVESTIMENTOS LTDA                   ARX INVESTIMENTOS LTDA
+
+By: /S/ CAMILA SOUZA                     By: /S/ GUILHERME ABRY
+    ----------------------                   ---------------------
+    Camila Souza                             Guilherme Abry
+    Director                                 Director
+Date:  January 4, 2016                   Date:  January 4, 2016
+
+
+BNY MELLON SERVICOS FINANCEIROS          BNY MELLON SERVICOS FINANCEIROS
+DISTRIBUIDORA DE TITULOS E VALORES       DISTRIBUIDORA DE TITULOS E VALORES
+MOBILIARIOS S.A.                         MOBILIARIOS S.A.
+
+By: /S/ CARLOS ALBERTO SARAIVA           By: /S/ MARCUS VINICIUS MATHIAS PEREIRA
+    ----------------------                   -----------------------------------
+    Carlos Alberto Saraiva                   Marcus Vinicius Mathias Pereira
+    Director                                 Director
+Date:  May 5, 2016                       Date:  May 5, 2016
+
+
+BNY MELLON INVESTMENT ADVISER, INC       INSIGHT INVESTMENT MANAGEMENT
+                                         (GLOBAL) LIMITED
+
+By: /S/ JAMES BITETTO                    By: /s/ CHARLES FARQUHARSON
+    ----------------------                   ----------------------
+    James Bitetto                            Charles Farquharson
+    Secretary                                Chief Risk Officer
+Date:  June 03, 2019                     Date:  February 16, 2016
+
+
+BNY MELLON ADVISORS, INC.                BNY MELLON INVESTMENT MANAGEMENT
+                                         JAPAN LIMITED
+By: /S/ JOEL HEMPEL                      By: /S/ SHOGO YAMAGUCHI
+    ----------------------               ---------------------
+    Joel Hempel                              Shogo Yamaguchi
+    President and Chief                      Representative Director
+    Operating Officer                        Chairman and President
+Date:  June 15, 2023                     Date:  April 10, 2020
+
+
+MELLON INVESTMENTS CORPORATION           BNY MELLON SECURITIES CORPORATION
+
+
+By: /S/ JENNIFER CASSEDY                 By: /S/  KENNETH J. BRADLE
+    ----------------------                   ---------------------
+    Jennifer Cassedy                         Kenneth J. Bradle
+    Chief Compliance Officer                 President
+Date:  January 10, 2019                 Date:  JUNE 03, 2019
+
+
+NEWTON INVESTMENT MANAGEMENT LIMITED     INSIGHT NORTH AMERICA LLC
+
+
+By: /S/  JAMES HELBY                     By: /S/ JOHN ARIOLA
+    ----------------------                   ---------------------
+    James Helby                              John Ariola
+    Director                                 Head of Financial Analysis
+Date:  July 17, 2015                     Date: December 7, 2016
+
+
+WALTER SCOTT & PARTNERS LIMITED          INSIGHT INVESTMENT INTERNATIONAL
+                                         LIMITED
+By: /S/ RODGER NISBET                    By: /S/ LEE PALMER
+    ----------------------                   ----------------------
+    Rodger Nisbet                            Lee Palmer
+    Executive Chairman                       Chief Compliance Officer
+Date: July 15, 2015                      Date: February 14, 2018
+
+
+NEWTON INVESTMENT MANAGEMENT             NEWTON INVESTMENT MANAGEMENT
+NORTH AMERICA, LLC                       JAPAN LTD
+
+By: /S/ Michael Germano                  By: /S/IZUMI CHIHARA
+    ----------------------                   ----------------------
+     Michael Germano                         Izumi Chihara
+     Chief Executive Officer                 Representative Director
+Date: August 20, 2021                    Date: February 02, 2023
+
+
+BNY MELLON TRUST COMPANY                 BNY MELLON TRUST COMPANY
+(CAYMAN) LIMITED                         (CAYMAN) LIMITED
+
+By: CANELLA SECRETARIES                  By: CANELLA SECRETARIES
+    (CAYMAN) LTD, SECRETARY                  (CAYMAN) LTD, SECRETARY
+By: /S/GILLIAN NELSON                    By: /S/ PATRICIA BRUZIO
+    -----------------------                  -----------------------
+    Gillian Nelson                           Patricia Bruzio
+    Authorized Person                        Authorized Person
+Date: May 17, 2016                       Date: May 17, 2016
+
+
+BNY MELLON ETF INVESTMENT
+ADVISER, LLC
+
+By: /S/ JENNIFER CASSEDY
+    ----------------------
+    Jennifer Cassedy
+    Chief Compliance Officer
+Date:  December 04, 2019
+
+
+-----------------------------------------------------------------------------
+|                   Parent Holding Companies/Control Persons                |
+-----------------------------------------------------------------------------
+
+B.N.Y. HOLDINGS (DELAWARE) CORPORATION   PERSHING GROUP LLC
+
+By: /S/ JAMES P. AMBAGIS                 By: /S/ CLAIRE SANTANIELLO
+    ----------------------                    ---------------------
+    James P. Ambagis                          Claire Santaniello
+    President                                 Chief Administrative Officer
+                                              and Chief Risk Officer
+Date:  October 21, 2015                  Date:  May 11, 2016
+
+
+BNY MELLON INVESTMENT MANAGEMENT         BNY MELLON INVESTMENT MANAGEMENT
+(APAC) HOLDINGS LIMITED                  (APAC) HOLDINGS LIMITED
+
+By: /S/ EMILY CHAN                       By: /S/ DONI SHAMSUDDIN
+    ----------------------                   ---------------------
+    Emily Chan                               Doni Shamsuddin
+    Director                                 Director
+Date: April 19, 2016                     Date: April 19, 2016
+
+
+NEWTON MANAGEMENT LIMITED		MELLON GLOBAL INVESTING CORPORATION
+
+By: /S/  HELENA MORRISSEY		By: /S/ LEO P. GROHOWSKI
+----------------------			------------------------
+Helena Morrissey 			Leo P . Grohowski
+Director				President
+Date:  July 17, 2015			Date: June 29, 2018
+
+
+BNY MELLON IHC, LLC                      MBC INVESTMENTS CORPORATION
+
+By: /S/ KURTIS R. KURIMSKY               By: /S/ PAUL A. GRIFFITHS
+---------------------                        ---------------------
+ Kurtis R. Kurimsky                          Paul A. Griffiths
+ Vice President and                          Chairman, President and
+ Controller                                  Chief Executive Officer
+ Date: March 29, 2017                    Date:  April 29, 2016
+
+
+MELLON OVERSEAS INVESTMENT               INSIGHT INVESTMENT MANAGEMENT
+CORPORATION                              LIMITED
+
+By: /S/ KURTIS R. KURIMSKY               By: /S/ CHARLES FARQUHARSON
+    ----------------------                    ---------------------
+    Kurtis R. Kurimsky                        Charles Farquharson
+    Vice President and Controller             Chief Risk Officer
+Date: October 7, 2015                    Date: February 16, 2016
+
+
+BNY INTERNATIONAL FINANCING              BNY INTERNATIONAL FINANCING
+CORPORATION                              CORPORATION
+
+By: /S/ KURTIS R. KURIMSKY               By: /S/ JOHN M. ROY
+    ----------------------                   ----------------------
+    Kurtis R. Kurimsky                       John M. Roy
+    President and Comptroller                Vice President
+Date:  May 12, 2016                      Date:  August 15, 2016
+
+
+BNY MELLON INVESTMENT MANAGEMENT         BNY MELLON INTERNATIONAL ASSET
+EUROPE HOLDINGS LIMITED                  MANAGEMENT (HOLDINGS) LIMITED
+
+By: /S/ GREG BRISK                       By: /S/ GREG BRISK
+    -----------------------                  -----------------------
+    Greg Brisk                               Greg Brisk
+    Director                                 Director
+Date:  October 21, 2015                  Date:  October 21, 2015
+
+
+BNY MELLON INVESTMENT MANAGEMENT         BNY CAPITAL MARKETS HOLDINGS, INC.
+(JERSEY)LIMITED
+
+By: /S/ GREG BRISK                       By: /S/ THOMAS P. GIBBONS
+    -------------------------                ------------------------
+    Greg Brisk                               Thomas P. Gibbons
+    Director                                 Vice Chairman and Chief
+                                             Financial Officer
+Date: October 21, 2015                   Date: October 24, 2015
+
+
+BNY MELLON PARTICIPACOES LTDA           BNY MELLON PARTICIPACOES LTDA
+
+ By: /S/ CARLOS ALBERTO SARAIVA         By: /S/ MARCUS VINICIUS MATHIAS PEREIRA
+     --------------------                   ----------------------------------
+     Carlos Alberto Saraiva                 Marcus Vinicius Mathias Pereira
+     Director                               Director
+Date: May 5, 2016                       Date: May 5, 2016
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

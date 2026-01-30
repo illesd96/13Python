@@ -1,0 +1,383 @@
+<SEC-DOCUMENT>0000038777-25-000002.txt : 20250122
+<SEC-HEADER>0000038777-25-000002.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122163150
+ACCESSION NUMBER:		0000038777-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franklin BSP Private Credit Fund
+		CENTRAL INDEX KEY:			0001794041
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94463
+		FILM NUMBER:		25546327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MADISON AVENUE
+		STREET 2:		SUITE 1600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		212-588-6770
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MADISON AVENUE
+		STREET 2:		SUITE 1600
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN RESOURCES INC
+		CENTRAL INDEX KEY:			0000038777
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				132670991
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE FRANKLIN PARKWAY
+		STREET 2:		BUILDING 920/2, LEGAL-FRI SECRETARY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403
+		BUSINESS PHONE:		650-312-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		FRANKLIN RESOURCES INC
+		STREET 2:		ONE FRANKLIN PARKWAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000038777-24-000050</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FRANKLIN RESOURCES INC -->
+          <cik>0000038777</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>23</amendmentNo>
+      <securitiesClassTitle>ADVISOR CLASS SHARES OF BENEFICAL INTEREST</securitiesClassTitle>
+      <dateOfEvent>01/21/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001794041</issuerCIK>
+        <issuerCUSIP>35242N202</issuerCUSIP>
+        <issuerName>FRANKLIN BSP PRIVATE CREDIT FUND</issuerName>
+        <address>
+          <com:street1>9 West 57th Street</com:street1>
+          <com:street2>Suite 4920</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10019</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Thomas C. Merchant</personName>
+          <personPhoneNum>800-632-2350</personPhoneNum>
+          <personAddress>
+            <com:street1>9 West 57th Street</com:street1>
+            <com:street2>Suite 4920</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000038777</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Franklin Resources, Inc.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>8032324.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>8032324.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>8032324.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>66.5</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <commentContent>1.Consists of 4,955,483 Advisor Class Shares of Beneficial Interest held in a Franklin Resources, Inc.'s subsidiary's corporate account and 3,076,841 held for the benefit of a fund managed by Franklin Advisers, Inc.
+
+2.Percentage represents the current beneficial ownership percentage that Franklin Resources, Inc. and its investment management subsidiaries may be deemed to beneficially own based upon 12,086,607 Advisor Class Shares of Beneficial Interest outstanding as of January 22, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000936567</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Charles B. Johnson</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001010261</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Rupert H. Johnson, Jr.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001807977</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BSP Fund HoldCo (Debt Strategy) L.P.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>4955483.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>4955483.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>4955483.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>41</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000898420</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Franklin Advisers, Inc.</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <fundType>WC</fundType>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>CA</citizenshipOrOrganization>
+        <soleVotingPower>3076841.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3076841.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>3076841.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>25.5</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>ADVISOR CLASS SHARES OF BENEFICAL INTEREST</securityTitle>
+        <issuerName>FRANKLIN BSP PRIVATE CREDIT FUND</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>9 West 57th Street</com:street1>
+          <com:street2>Suite 4920</com:street2>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10019</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being filed by Franklin Resources, Inc. ("FRI"), a Delaware corporation, Charles B. Johnson ("C. Johnson"), Rupert H. Johnson, Jr. ("R. Johnson, Jr."), BSP Fund HoldCo (Debt Strategy) L.P. ("HoldCo"), a Delaware limited partnership, and Franklin Advisers, Inc. ("FAV"), a California corporation (HoldCo, FAV, and together with FRI, C. Johnson and R. Johnson, Jr., the "Reporting Persons").  HoldCo and FAV are wholly-owned subsidiaries of FRI.  C. Johnson and R. Johnson, Jr. are the principal stockholders of FRI. R. Johnson, Jr. is also the Vice Chairman of FRI and C. Johnson is an Executive Consultant to FRI.  C. Johnson and R. Johnson, Jr. are citizens of the United States.</filingPersonName>
+        <principalBusinessAddress>The address of the principal business office of each of the Reporting Persons is One Franklin Parkway, San Mateo, California 94403-1906.  The directors and principal executive officers of FRI, HoldCo, and FAV, their present principal occupations, citizenship and business addresses are listed on Exhibit D.</principalBusinessAddress>
+        <principalJob>The principal business of FRI is to act as a holding company for various subsidiaries engaged in the investment management and related services business. The principal business of HoldCo is to make investments into credit related instruments and vehicles. The principal business of FAV is investment management. The principal occupation of each of C. Johnson and R. Johnson, Jr. are listed on Exhibit D.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons, and to the best knowledge of the Reporting Persons, none of the persons listed on Exhibit D, has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons, and to the best knowledge of the Reporting Persons, none of the persons listed on Exhibit D, was a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Franklin Resources, Inc. and HoldCo: Delaware Charles B. Johnson and Rupert H. Johnson, Jr.: USA Franklin Advisers, Inc.: California</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The Reporting Persons have invested in the Issuer as follows:
+
+HoldCo has acquired a total of 4,955,483 Shares for an aggregate purchase price of $49,900,000, having acquired on August 18, 2021 90,000 Shares, on October 3, 2022 2,400,000 Shares, and on April 28,2023 2,465,483 Shares; in addition, HoldCo acquired on August 18, 2021 a total of 10,000 Class A Shares of Beneficial Interest of the Issuer for an aggregate purchase price of $100,000.  HoldCo paid for all of such shares from its working capital.
+
+Franklin Global Allocation Fund, whose investment adviser is FAV, has acquired as of June 28, 2024 a total of 3,076,841 Shares for an aggregate purchase price of $32,000,000.
+
+FRI, C. Johnson and R. Johnson, Jr. do not own directly any shares of the Issuer .</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Holdco acquired the Shares for investment and to support the Issuer in its investment strategy. Franklin Global Allocation Fund acquired the Shares for investment purposes.
+
+Except as described above, none of the investment management subsidiaries of FRI, and none of any of the other reporting persons covered by this Schedule 13D, currently has any plans or proposals that relate to or would result in any of the actions described in paragraphs (a) through (j) of the instructions to Item 4 of Schedule 13D, or any present plans or intentions to acquire or dispose of any securities of the Issuer.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>8,032,324 or 66.5%</percentageOfClassSecurities>
+        <numberOfShares>Sole power to vote or to direct the vote of the Shares:
+Franklin Resources, Inc.:   0
+Charles B. Johnson:   0
+Rupert H. Johnson, Jr.:   0
+BSP Fund HoldCo (Debt Strategy) L.P.:  4,955,483
+Franklin Advisers, Inc.:  3,076,841
+
+Shared power to vote or to direct the vote of the Shares:  0
+
+Sole power to dispose or to direct the disposition of the Shares:
+Franklin Resources, Inc.:  0
+Charles B. Johnson:  0
+Rupert H. Johnson, Jr.:  0
+BSP Fund HoldCo (Debt Strategy) L.P.:  4,955,483
+Franklin Advisers, Inc.:  3,076,841
+
+Shared power to dispose or to direct the disposition of the Shares: 0</numberOfShares>
+        <transactionDesc>None of the Reporting Persons have effected any transactions in the Shares during the past sixty days.</transactionDesc>
+        <listOfShareholders>The clients of FRI's investment management subsidiaries, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or power to direct the receipt of dividends from, and the proceeds from the sale of, the securities reported herein. Franklin Global Allocation Fund, an investment company registered under the Investment Company Act of 1940, has an interest in 3,076,841 Shares, or 25.5% of the Shares.</listOfShareholders>
+        <date5PercentOwnership>Not Applicable</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>HoldCo entered into subscription agreements with the Issuer on each of August 18, 2021, October 3, 2022, and April 28, 2023.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit A:  Joint Filing Agreement
+Exhibit B: Item 5 Ownership
+Exhibit C: Subscription Agreements entered into by HoldCo with the Issuer on each of August 18, 2021, October 3, 2022, and April 28, 2023 (incorporated by reference to Schedule 13D/A No. 20 filed on December 2, 2024)
+Exhibit D:  Principal Executive Officers and Directors of FRI, HoldCo, and FAV (incorporated by reference to Schedule 13D/A No. 20 filed on December 2, 2024)
+
+EXHIBIT A:  JOINT FILING AGREEMENT
+
+In accordance with Rule 13d 1(k) under the Securities Exchange Act of 1934, as amended, the undersigned hereby agree to the joint filing with each other of the attached statement on Schedule 13D and to all amendments to such statement and that such statement and all amendments to such statement are made on behalf of each of them.
+
+
+IN WITNESS WHEREOF, the undersigned have executed this agreement on the date of the signing of this filing.
+
+Franklin Resources, Inc.
+Charles B. Johnson
+Rupert H. Johnson, Jr.
+Franklin Advisers, Inc.
+
+By:/s/THOMAS C. MANDIA
+Thomas C. Mandia
+Assistant Secretary of Franklin Resources, Inc.
+Attorney in Fact for Charles B. Johnson pursuant to Power of Attorney attached to this Schedule 13D
+Attorney in Fact for Rupert H. Johnson, Jr. pursuant to Power of Attorney attached to this Schedule 13D
+Assistant Secretary of Franklin Advisers, Inc.
+
+
+BSP FUND HOLDCO (DEBT STRATEGY) L.P.
+By: Franklin Templeton Institutional GP LLC, its general partner
+
+By:/s/SHIRLEY HAMBELTON
+Shirley Hambelton
+Secretary of Franklin Templeton Institutional GP LLC
+
+Acknowledgment pursuant to Rule 13d-1(b)(1)(iii)
+Franklin Fund Allocator Series on behalf of Franklin Global Allocation Fund
+
+By:/s/TARA GORMEL
+Tara Gormel
+Vice President and Assistant Secretary of Franklin Fund Allocator Series
+
+
+Exhibit B: Item 5 Ownership
+
+Benefit Street Partners L.L.C. ("BSP"), a direct wholly-owned subsidiary of FRI, serves as investment Adviser to the Issuer. BSP holds no Shares and no Class A Shares of Beneficial Interest of the Issuer.
+
+FRI is filing this report for itself and its affiliates, except as set forth herein. Beneficial ownership by FRI and its affiliates is being reported herein in conformity with the guidelines articulated by the SEC staff in Release
+No. 34-39538 (January 12, 1998) (the "1998 Release ") relating to organizations, such as FRI, where related entities exercise voting and investment powers over the securities being reported independently from each other. The voting and investment powers held by each of FRI's affiliates whose ownership of securities is disaggregated from that of FRI in accordance with the 1998 Release ("FRI Disaggregated Affiliates") are exercised independently from FRI and from all other investment management subsidiaries of FRI (FRI, its affiliates and the investment management subsidiaries of FRI other than FRI Disaggregated Affiliates are collectively, "FRI Aggregated Affiliates").  Furthermore, internal policies and procedures of, on the one hand, FRI Disaggregated Affiliates, and, on the other hand, FRI, establish informational barriers that prevent the flow among, on the one hand, FRI Disaggregated Affiliates (including preventing the flow between such entities), and, on the other hand, the FRI Aggregated Affiliates, of information that relates to the voting and investment powers over the securities owned by their respective investment management clients. Consequently, FRI Disaggregated Affiliates report the securities over which they hold investment and voting power separately from the FRI Aggregated Affiliates for purposes of Section 13 of the Act.
+
+C. Johnson and R. Johnson, Jr. (the "Principal Shareholders") may each own in excess of 10% of FRI's outstanding common stock and are the principal stockholders of FRI (see FRI's Proxy Statement-Stock Ownership of Certain Beneficial Owners).  The Principal Shareholders may be deemed to be, for purposes of Rule 13d 3 under the Act, the beneficial owners of securities held by a wholly-owned subsidiary of FRI.  FRI, the Principal Shareholders, and FAV disclaim any pecuniary interest in any of the Shares reported herein.  In addition, the filing of the Schedule 13D on behalf of FRI and the Principal Shareholders should not be construed as an admission that any of them is, and each disclaims that it or he is, the beneficial owner, as defined in Rule 13d-3, of any of the Shares.
+
+FRI, HoldCo, FAV, and the Principal Shareholders believe that they are not a "group" within the meaning of Rule 13d-5 under the Act and that they are not otherwise required to attribute to each other the beneficial ownership of the Shares held by any of them.  HoldCo did not acquire more than 5% of the Issuer's outstanding Shares until October 3, 2022.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Franklin Resources, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/Thomas C. Mandia</signature>
+          <title>Thomas C. Mandia, Assistant Secretary of Franklin Resources, Inc.</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Charles B. Johnson</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/Thomas C. Mandia</signature>
+          <title>Attorney in Fact for Charles B. Johnson pursuant to Power of Attorney</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Rupert H. Johnson, Jr.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/Thomas C. Mandia</signature>
+          <title>Attorney in Fact for Rupert H. Johnson, Jr. pursuant to Power of Attorney</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>BSP Fund HoldCo (Debt Strategy) L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/SHIRLEY HAMBELTON</signature>
+          <title>Shirley Hambelton, Secretary of Franklin Templeton Institutional GP LLC</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Franklin Advisers, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/Thomas C. Mandia</signature>
+          <title>Thomas C. Mandia, Assistant Secretary of Franklin Advisers, Inc.</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <commentText>LIMITED POWERS OF ATTORNEY FOR SECTION 13 AND 16 REPORTING OBLIGATIONS (incorporated by reference to Schedule 13D/A No. 22 filed on December 23, 2024)</commentText>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

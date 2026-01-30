@@ -1,0 +1,864 @@
+<SEC-DOCUMENT>0001213900-25-004780.txt : 20250121
+<SEC-HEADER>0001213900-25-004780.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121083323
+ACCESSION NUMBER:		0001213900-25-004780
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250121
+DATE AS OF CHANGE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARNWELL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010048
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				720496921
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-20279
+		FILM NUMBER:		25540540
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 500
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		808-531-8400
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 500
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BMA CORP/TN
+		DATE OF NAME CHANGE:	19770324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BARNWELL OFFSHORE INC
+		DATE OF NAME CHANGE:	19671101
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SHERWOOD NED L
+		CENTRAL INDEX KEY:			0000902749
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		54 MORRIS LN
+		CITY:			SCARSDALE
+		STATE:			NY
+		ZIP:			10583
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001193125-13-254173</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SHERWOOD NED L -->
+          <cik>0000902749</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>34</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.50 per share</securitiesClassTitle>
+      <dateOfEvent>01/21/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000010048</issuerCIK>
+        <issuerCUSIP>068221100</issuerCUSIP>
+        <issuerName>BARNWELL INDUSTRIES, INC.</issuerName>
+        <address>
+          <com:street1>1100 ALAKEA ST.</com:street1>
+          <com:street2>SUITE 500</com:street2>
+          <com:city>HONOLULU</com:city>
+          <com:stateOrCountry>HI</com:stateOrCountry>
+          <com:zipCode>96813</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Ned L. Sherwood</personName>
+          <personPhoneNum>(772) 257-6658</personPhoneNum>
+          <personAddress>
+            <com:street1>151 Terrapin Point</com:street1>
+            <com:city>Vero Beach</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>32963</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000902749</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Ned L. Sherwood</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3006033.13</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3006033.13</sharedDispositivePower>
+        <aggregateAmountOwned>3006033.13</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>29.90</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Includes (i) 2,767,995.138 shares of Common Stock held by MRMP-Managers LLC, of which Ned L. Sherwood is the Chief Investment Officer, and (ii) 238,038 shares of Common Stock held by the Ned L. Sherwood Revocable Trust, of which Ned L. Sherwood is the sole trustee and beneficiary. Ned L. Sherwood disclaims beneficial ownership of such Common Stock except to the extent of his pecuniary interest therein.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>MRMP-Managers LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2767995.13</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2767995.13</sharedDispositivePower>
+        <aggregateAmountOwned>2767995.13</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>27.53</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Ned L. Sherwood Revocable Trust</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>238038.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>238038.00</sharedDispositivePower>
+        <aggregateAmountOwned>238038.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>2.37</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.50 per share</securityTitle>
+        <issuerName>BARNWELL INDUSTRIES, INC.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1100 ALAKEA ST.</com:street1>
+          <com:street2>SUITE 500</com:street2>
+          <com:city>HONOLULU</com:city>
+          <com:stateOrCountry>HI</com:stateOrCountry>
+          <com:zipCode>96813</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 34 to Statement of Beneficial Ownership on Schedule 13D (this "Amendment No. 34") amends the Statement of Beneficial Ownership on Schedule 13D filed by Ned L. Sherwood on June 11, 2013 (as amended by the Reporting Persons, the "Schedule 13D" or this "Statement"). Except as amended and supplemented by this Amendment No. 34, the Schedule 13D remains unchanged.</commentText>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 is amended and supplemented as follows:
+
+On January 21, 2023, MRMP-Managers LLC, the Ned L. Sherwood Revocable Trust and Ned L. Sherwood (also referred to as the "Reporting Persons") entered into a cooperation and support agreement (the "Agreement") with Alex Kinzler ("Kinzler") and Barnwell Industries, Inc. (the "Company"). The standstill provisions in the Agreement were set to expire in approximately early February 2025, ten days prior to the due date for shareholder nominations. The prohibitions in the Agreement regarding the ability of the Reporting Persons to purchase additional shares of Common Stock expires as of the date of the filing of this Amendment No. 34.
+
+As previously reported in Amendment No. 33, the Reporting Persons proposed certain amendments to the Agreement to the Board of Directors (the "Board") of the Company in order to avoid a costly proxy fight, including proposals regarding directors to be nominated to the Board. In addition to such proposed director nominations, the Reporting Persons offered to extend the existing Agreement and offered to purchase any additional shares directly from the Company rather than in open market purchases. Certain proposals were put forth by the Reporting Persons on December 5, 2024 ("December 5 Proposal") and December 16, 2024 ("December 16 Proposal").
+
+On December 9, 2024 ("December 9 Communication"), the Reporting Persons received confirmation of its December 5 Proposal along with questions, and such confirmation indicated a "Special Committee of the Board" had been appointed. The Reporting Persons were informed that Mr. Grossman and Mr. Horowitz were the members of the "Special Committee."
+
+The communication back to the Board responded to the Board's questions in good faith and requested additional information regarding the purpose or necessity of the "Special Committee" referenced in the December 9 Communication. After an additional follow-up on December 11, 2024, the "Special Committee" communicated that such a committee was permissible because it was ad hoc in nature and had no executive authority (i.e., that it was essentially powerless).
+
+After receiving no feedback from the Board regarding the December 5 Proposal, the Reporting Persons submitted the December 16 Proposal.
+
+Despite prior questions and representations received regarding the power of the "Special Committee," the presence and "authority" of the "Special Committee" continued to be asserted when the Reporting Persons received an outright rejection of the December 16 Proposal without including the full Board on its communication. Moreover, the supposed "rejection" of the December 16 Proposal by the "Special Committee" purports to be an exercise of power reserved to the Company's Board by a "Special Committee" that had previously represented it lacked executive authority.
+
+The Reporting Persons sent a letter to the Board inquiring, among other things, as to the authority granted to the Special Committee. On January 17, 2025, legal counsel (Mr. Grossman's brother from Skadden, Arps) contacted counsel to the Reporting Persons confirming that Skadden, Arps had been retained by the "Special Committee."
+
+As a result of the actions of the "Special Committee" and its clear material breach of the Agreement, counsel for the Reporting Persons sent a letter to the Board on January 21, 2025 ("January 21 Communication") informing the Board of the material breach. Under the terms of the Agreement, a material breach that is incapable of being cured terminates the Agreement. As a result of the termination, the Reporting Persons are also no longer obligated to the terms of the Agreement. In addition to communicating the breach of the Agreement, the January 21 Communication made a books and records request under Section 220 of the Delaware General Corporation Law.
+
+As a result of this series of events, the Reporting Persons sent an open letter to shareholders of the Company. A copy of this letter is filed hereto as Exhibit 99.1.
+
+Given restrictions under the Agreement have lifted as of the date of filing of this Amendment No. 34 and given the Agreement has been terminated as a result of a material breach by the Company and the Board of its terms, a material breach that is not capable of being cured, the Reporting Persons are free to purchase additional shares of Common Stock. The Reporting Persons hereby affirm that they have no current intent to engage in a control transaction.
+
+To the extent the Company continues to refuse nomination of directors proposed by the Reporting Persons, Ned L. Sherwood, MRMP-Managers LLC and Ned L. Sherwood Revocable Trust intend to make a filing with the SEC of a proxy statement and accompanying proxy card to solicit votes for the election of director nominees at the next annual meeting of shareholders of Barnwell Industries, Inc.
+
+Ned L. Sherwood Revocable Trust, of which Ned L. Sherwood is the beneficiary and the trustee, holds 238,038 shares of common stock of Barnwell, and MRMP-Managers LLC, of which Mr. Sherwood is the Chief Investment Officer, holds 2,767,995.138 shares of common stock of Barnwell. Mr. Sherwood is deemed to beneficially own all of these shares. Ned L. Sherwood, NLS Advisory Group, Inc., MRMP-Managers LLC and their nominees to the Barnwell board will be the participants in this proxy solicitation. Information regarding the participants and their interests in the solicitation will be included in their proxy statement and other materials filed with the SEC.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Mr. Sherwood beneficially owns in the aggregate 3,006,033.138 shares of Common Stock, which represents approximately 29.90% of the Company's outstanding shares of Common Stock.
+
+Each percentage ownership of Common Stock set forth in this Statement is based on the 10,053,534 shares of Common Stock reported by the Company as outstanding as of December 13, 2024 in the Company's Annual Report on Form 10-K filed with the Securities and Exchange Commission on December 17, 2024.</percentageOfClassSecurities>
+        <transactionDesc>No transactions in the Common Stock have been effected by the Reporting Persons since the filing of Amendment No. 32 on May 31, 2024.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Information set forth in Item 4 above is hereby incorporated herein by reference.
+
+Pursuant to Rule 13d-1(k) promulgated under the Securities Exchange Act of 1934, as amended, the Reporting Persons have entered into an agreement with respect to the joint filing of this Statement, which agreement is set forth on the signature page to this Statement.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1 Open Letter to Shareholders, dated as of January 21, 2025</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Ned L. Sherwood</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ned L. Sherwood</signature>
+          <title>NED L. SHERWOOD</title>
+          <date>01/21/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>MRMP-Managers LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ned L. Sherwood</signature>
+          <title>Ned L. Sherwood/Chief Investment Officer</title>
+          <date>01/21/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Ned L. Sherwood Revocable Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ned L. Sherwood</signature>
+          <title>Ned L. Sherwood/Trustee</title>
+          <date>01/21/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ea022813801ex99-1_barnwell.htm
+<DESCRIPTION>OPEN LETTER TO SHAREHOLDERS, DATED AS OF JANUARY 21, 2025
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin: 0; text-align: right">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>MRMP-Managers LLC</B><BR>
+151 Terrapin Point<BR>
+Vero Beach, Florida 32963</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(772) 448-3877</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1.5pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">January 21, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Dear Barnwell Industries, Inc. Shareholders:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On May 14th, 2012, more than 12 &frac12; years ago, I purchased my
+first shares in Barnwell Industries, Inc. (BRN) at $2.95 per share, when BRN had an approximate total market cap of $24 million. This
+purchase gave me the dubious privilege of becoming what I believe to be a long suffering &ldquo;non-Kinzler family&rdquo; BRN shareholder.
+In 2012, BRN held valuable land on the Big Island in Hawaii and attractive oil and gas assets in Canada. I hoped that profits and cash
+flow from these assets would lead to significant share price appreciation. The following table excerpts certain key statistics from BRN&rsquo;s
+financial history since my initial purchase in 2012.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: center">Date<SUP>1</SUP></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1.5pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">BRN Share Price<SUP>2</SUP></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1.5pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Mort Kinzler Annual Total Compensation ($000)<SUP>3</SUP></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1.5pt solid; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alex Kinzler Annual Total Compensation ($000)<SUP>3</SUP></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1.5pt solid; text-align: center">Ken Grossman Annual Total Compensation ($000)<SUP>3</SUP></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="width: 52%; text-align: center">1/17/25</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD>
+    <TD STYLE="width: 9%; text-align: right">1.65</TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 9%; text-align: right">-</TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 9%; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">NA</FONT></TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD>
+    <TD STYLE="width: 9%; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">NA</FONT></TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">1/23/24</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.48</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">300 (NR)</FONT></TD>
+    <TD STYLE="text-align: left"><SUP>4</SUP>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">100 (NR)</FONT></TD>
+    <TD STYLE="text-align: left"><SUP>4</SUP>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">1/23/23</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.74</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">328</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">183</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">1/27/22</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.58</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">409</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">80</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">1/27/21</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">1.83</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">489</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">229</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">1/27/20</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">1.12</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">239</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">24</TD>
+    <TD STYLE="text-align: left"><SUP>5</SUP>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">1/25/19</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">1.43</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">358</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">1/26/18</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.45</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">-</TD>
+    <TD STYLE="text-align: left"><SUP>6</SUP>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">481</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">1/27/17</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">1.67</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">14</TD>
+    <TD STYLE="text-align: left"><SUP>7</SUP>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">481</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">1/27/16</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">1.58</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">252</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">363</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">1/27/15</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.86</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">617</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">563</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center">1/27/14</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.92</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">890</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">728</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="text-align: center">1/25/13</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">3.31</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">806</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">603</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD STYLE="text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">5/14/12<SUP>8</SUP></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">$</TD>
+    <TD STYLE="text-align: right">2.92</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: left">$</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: right">829</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: left">$</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: right">930</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: left">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid; text-align: right">&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-weight: bold; text-align: center; padding-bottom: 4pt">TOTALS</TD>
+    <TD STYLE="padding-bottom: 4pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 4pt; text-align: left">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 4pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 4pt; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; padding-bottom: 4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 4pt double; font-weight: bold; text-align: left">$</TD>
+    <TD STYLE="border-bottom: Black 4pt double; font-weight: bold; text-align: right">3,408</TD>
+    <TD STYLE="padding-bottom: 4pt; font-weight: bold; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; padding-bottom: 4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 4pt double; font-weight: bold; text-align: left">$</TD>
+    <TD STYLE="border-bottom: Black 4pt double; font-weight: bold; text-align: right">6,272</TD>
+    <TD STYLE="padding-bottom: 4pt; font-weight: bold; text-align: left">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; padding-bottom: 4pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 4pt double; font-weight: bold; text-align: left">$</TD>
+    <TD STYLE="border-bottom: Black 4pt double; font-weight: bold; text-align: right">616</TD>
+    <TD STYLE="padding-bottom: 4pt; font-weight: bold; text-align: left">&nbsp;</TD></TR>
+  </TABLE>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Total to Kinzlers &amp; Grossman (Non-Kinzler
+Family Ally): $10,296,000</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">*</TD><TD STYLE="text-align: justify">Numbers are rounded.</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Footnotes to Table:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">1.</TD><TD STYLE="text-align: justify">Other than indicated, the dates noted in the table reflect approximate
+anniversaries of when I had previously entered into cooperation and support agreements with BRN (January 27, 2021 and January 23, 2023).</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">2.</TD><TD STYLE="text-align: justify">The share price is the closing price on the date noted as reported
+by Yahoo! Finance.</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">3.</TD><TD STYLE="text-align: justify">The annual compensation is the reported total compensation amount
+reported in the BRN proxy statements for the year reflected by the date. For example, the amount of total annual compensation for the
+line item beginning with 1/23/23 reflects the amount of 2023 total annual compensation received by the individuals noted in the chart.</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">4.</TD><TD STYLE="text-align: justify">Since BRN has not yet filed their proxy statement disclosing
+the amount of total annual compensation earned by Mr. Alex Kinzler and Mr. Grossman in 2024, the amounts noted are not reported (NR)
+and are estimated based on compensation earned in the prior year of 2023.</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">5.</TD><TD STYLE="text-align: justify">2020 was a partial year for Mr. Grossman.</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">6.</TD><TD STYLE="text-align: justify">Mr. Mort Kinzler passed away in 2018.</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">7.</TD><TD STYLE="text-align: justify">2017 was a partial year for Mr. Mort Kinzler.</TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left">8.</TD><TD STYLE="text-align: justify">This date reflects the date that I first purchased BRN shares.</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">As of Friday, January 17,
+2025, BRN&rsquo;s share price was $1.65, giving the Company an approximate total market cap of $16 million (i.e., $8 million less than
+12 &frac12; years ago). As outlined in the table, BRN&rsquo;s share price has actually declined by approximately 44% since my initial purchase
+12 &frac12; years ago &ndash; notwithstanding BRN&rsquo;s realization of significant cash flow from its Hawaiian land assets and oil and
+gas properties. As a &ldquo;non-Kinzler family&rdquo; shareholder, we have seen the value of our investments in BRN decline sharply. However,
+if you were Mort Kinzler until his death at age 92 or Alex Kinzler, his son, your results were remarkably different - reaping an aggregate
+of approximately $9.68 million in total compensation since 2012. Although Mort and Alex owned approximately 25 - 30% of BRN shares, they
+managed to garner 100% of the company&rsquo;s profits for their benefit by paying themselves annual compensation which we believe was excessive.&nbsp;
+In Mort&rsquo;s case these salaries continued in retirement until his death (although in his final years he resided in Palm Beach FL and
+seldom if ever ventured to Hawaii). Alex followed in his father&rsquo;s footsteps and continued to channel most of BRN&rsquo;s cash flow into his
+pocket. I believe the cash flows to Alex have only moderated recently due to my activist efforts over the past few years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Although my activist efforts
+during the past five years have moderated Alex Kinzler&rsquo;s largess from BRN, he has not welcomed my efforts. During the past five
+years BRN has spent $2.0 million in shareholder expenses and more than $4.0 million in legal fees (to firms including Skadden Arps and
+other top tier lawyers) in order to craft poison pills and counter my proxy efforts on behalf of the &ldquo;non-Kinzler family&rdquo;
+shareholders. Additionally, Alex Kinzler&rsquo;s &ldquo;attack dog&rdquo; Director, Ken Grossman, has reaped $616,000 in aggregate compensation.&nbsp;
+Ken&rsquo;s brother, Richard Grossman happens to work at Skadden Arps and has benefited via legal fees &ndash; adding the Grossman family
+to the Kinzler family as recipients of BRN&rsquo;s cash flow. I believe Alex and Ken are not happy that I want to redirect future BRN
+cash flows to the &ldquo;non-Kinzler/Grossman&rdquo; shareholders who like me want to build BRN&rsquo;s businesses to better enable us
+to experience share price appreciation in the future.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Alex&rsquo;s unhappiness with my
+actions on behalf of BRN shareholders has been effective in slowing my efforts during the past several years. My fear of Alex and Ken
+causing the company to spend millions on lawyers and defense experts that would severely drain BRN of its cash led me to attempt to staunch
+the outflows by entering into a Shareholder Support and Cooperation Agreement on January 27, 2021, followed by an additional two-year
+extension entered on January 21, 2023. These agreements have moderated BRN&rsquo;s use of funds, which we believe was unwise and for wasteful
+corporate spending, but in my opinion (and I believe obviously in the market&rsquo;s opinion as evidenced by the share price depreciation)
+are moving much too slowly in my view. Although Directors Doug Woodrum and Laurance Narbut are aligned with me on my efforts to cut excessive
+expenses and grow BRN&rsquo;s cash flow, the three other Directors have stymied our efforts. Kinzler and Grossman obviously are only focused
+on excessive remuneration to themselves and Josh Horowitz apparently is loyal to Ken because Josh&rsquo;s investment fund has benefited
+from some of Ken&rsquo;s other investment ideas and ventures.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Therefore, I do not plan to
+extend the Cooperation and Support Agreement, but instead will propose a slate of five directors at the 2025 annual meeting that I believe
+will finally work solely on behalf of <I>all</I> BRN shareholders to build value.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">By having a group of all five
+Directors focused on building value for <I>all</I> BRN shareholders, we hope that for the first time in decades, the &ldquo;non-Kinzler/Grossman&rdquo;
+shareholders will accrue their fair share of BRN&rsquo;s cash flow and earnings. If we don&rsquo;t act decisively now and remove the company from
+Kinzler&rsquo;s control, we believe BRN will just languish with very little positive changes. After all why would Kinzler and Grossman
+and their associates want to upset the &ldquo;gravy train&rdquo; that provides them with renumeration while the &ldquo;non-Kinzler&rdquo;
+shareholders receive little or nothing? As the 30% owner of BRN shares I have asked myself why would any shareholder want to retain a
+management team that delivered the 12-year track record shown in the above chart? Furthermore, as a BRN shareholder, I wonder how BRN
+directors could vote to spend legal and shareholder funds to fight to defend a management with this woeful record?&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">If I am successful in installing
+my slate of directors for 2025 and beyond, I assure all &ldquo;non-Kinzler/Grossman&rdquo; shareholders that you will be treated fairly
+in the future. Our team has concrete plans to improve and grow BRN which we will reveal in the near future. However, for now our first
+key task will be to terminate Alex Kinzler, Ken Grossman and their associates from their lucrative lifetime employment or directorships
+at BRN. If you are a shareholder that supports our efforts, please e-mail us at dumpkinzler@gmail.com listing the number of shares you
+hold. If we happen to receive support of 20% of the shares of &ldquo;non-Kinzler&rdquo; shareholders, in addition to my 30% holding, maybe
+we can dissuade BRN&rsquo;s directors from wasting shareholder money in order to defend this horrible management group via a costly proxy
+contest.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">As a long suffering &ldquo;non-Kinzler/Grossman&rdquo;
+shareholder (with 30% ownership), I&rsquo;m mad as hell and don&rsquo;t plan to take it anymore! Email dumpkinzler@gmail.com to show Kinzler,
+Grossman and Horowitz that the silent majority has awakened. I look forward to hearing from like-minded shareholders.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 40%">Sincerely,</TD>
+    <TD STYLE="width: 60%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid">/s/ Ned L. Sherwood</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>Ned L. Sherwood</TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B></B></P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Additional Information and Where to Find It;
+</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Notice to Investors</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">SECURITY HOLDERS ARE ADVISED TO READ THE PROXY
+STATEMENT AND OTHER DOCUMENTS RELATED TO THE SOLICITATION OF PROXIES, BY NED L. SHERWOOD AND HIS AFFILIATES, FROM THE STOCKHOLDERS OF
+BARNWELL INDUSTRIES, INC. (&ldquo;BRN&rdquo;) FOR USE AT ITS 2025 ANNUAL MEETING OF STOCKHOLDERS WHEN SUCH DOCUMENTS BECOME AVAILABLE
+BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION, INCLUDING INFORMATION RELATING TO THE PARTICIPANTS IN SUCH PROXY SOLICITATION. WHEN COMPLETED,
+A DEFINITIVE PROXY STATEMENT AND A FORM OF PROXY WILL BE MAILED TO STOCKHOLDERS OF BRN AND WILL ALSO BE AVAILABLE AT NO CHARGE AT THE
+SECURITIES AND EXCHANGE COMMISSION&rsquo;S WEBSITE AT&nbsp;HTTP://WWW.SEC.GOV. INFORMATION RELATING TO THE PARTICIPANTS IN SUCH PROXY
+SOLICITATION IS CONTAINED IN THE SCHEDULE 13D, ORIGINALLY FILED ON JUNE 11, 2013, AS AMENDED, INCLUDING BY THE AMENDMENT THERETO FILED
+ON JANUARY 21, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Other Important Disclosure Information</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">SPECIAL NOTE REGARDING THIS COMMUNICATION:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">THIS COMMUNICATION IS FOR INFORMATIONAL PURPOSES
+ONLY AND IS NOT A RECOMMENDATION, AN OFFER TO PURCHASE OR A SOLICITATION OF AN OFFER TO SELL SHARES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">THIS COMMUNICATION CONTAINS OUR CURRENT VIEWS
+ON CERTAIN ACTIONS THAT BRN&rsquo;S BOARD MAY TAKE, INCLUDING ACTIONS IT MAY TAKE TO ENHANCE THE VALUE OF ITS SECURITIES. OUR VIEWS ARE
+BASED ON OUR OWN ANALYSIS OF PUBLICLY AVAILABLE INFORMATION AND ASSUMPTIONS WE BELIEVE TO BE REASONABLE. THERE CAN BE NO ASSURANCE THAT
+THE INFORMATION WE CONSIDERED AND ANALYZED IS ACCURATE OR COMPLETE. SIMILARLY, THERE CAN BE NO ASSURANCE THAT OUR ASSUMPTIONS ARE CORRECT.
+THE PERFORMANCE, RESULTS AND OTHER EFFECTS ON BRN MAY DIFFER MATERIALLY FROM OUR ASSUMPTIONS AND ANALYSIS.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">WE HAVE NOT SOUGHT, NOR HAVE WE RECEIVED, PERMISSION
+FROM ANY THIRD-PARTY TO INCLUDE THEIR INFORMATION IN THIS COMMUNICATION. ANY SUCH INFORMATION SHOULD NOT BE VIEWED AS INDICATING THE SUPPORT
+OF SUCH THIRD PARTY FOR THE VIEWS EXPRESSED HEREIN.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">OUR VIEWS AND OUR HOLDINGS COULD CHANGE AT ANY
+TIME. WE MAY SELL ANY OR ALL OF OUR HOLDINGS OR INCREASE OUR HOLDINGS BY PURCHASING ADDITIONAL SECURITIES. WE MAY TAKE ANY OF THESE OR
+OTHER ACTIONS REGARDING BRN WITHOUT UPDATING THIS COMMUNICATION OR PROVIDING ANY NOTICE WHATSOEVER OF ANY SUCH CHANGES (EXCEPT AS OTHERWISE
+REQUIRED BY LAW).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">FORWARD-LOOKING STATEMENTS:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Certain statements contained in this communication
+are forward-looking statements including, but not limited to, statements that are predications of or indicate future events, trends, plans
+or objectives. Undue reliance should not be placed on such statements because, by their nature, they are subject to known and unknown
+risks and uncertainties. Forward-looking statements are not guarantees of future performance, events or activities and are subject to
+many risks and uncertainties. Due to such risks and uncertainties, actual events or results or actual performance may differ materially
+from those reflected or contemplated in such forward-looking statements. Forward-looking statements can be identified by the use of the
+future tense or other forward-looking words such as &ldquo;believe,&rdquo; &ldquo;expect,&rdquo; &ldquo;anticipate,&rdquo; &ldquo;intend,&rdquo;
+&ldquo;plan,&rdquo; &ldquo;estimate,&rdquo; &ldquo;should,&rdquo; &ldquo;may,&rdquo; &ldquo;will,&rdquo; &ldquo;objective,&rdquo; &ldquo;projection,&rdquo;
+&ldquo;forecast,&rdquo; &ldquo;management believes,&rdquo; &ldquo;continue,&rdquo; &ldquo;strategy,&rdquo; &ldquo;position&rdquo; or the
+negative of those terms or other variations of them or by comparable terminology.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Important factors that could cause actual results
+to differ materially from the expectations set forth in this communication include, among other things, the factors identified in BRN&rsquo;s
+public filings. Such forward-looking statements should therefore be construed in light of such factors, and we are under no obligation,
+and expressly disclaim any intention or obligation, to update or revise any forward-looking statements, whether as a result of new information,
+future events or otherwise, except as required by law.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

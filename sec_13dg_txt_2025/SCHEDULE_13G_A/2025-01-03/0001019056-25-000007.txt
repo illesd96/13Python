@@ -1,0 +1,389 @@
+<SEC-DOCUMENT>0001019056-25-000007.txt : 20250103
+<SEC-HEADER>0001019056-25-000007.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103192012
+ACCESSION NUMBER:		0001019056-25-000007
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aura Biosciences, Inc.
+		CENTRAL INDEX KEY:			0001501796
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				320271970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92997
+		FILM NUMBER:		25508587
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 GUEST STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02135
+		BUSINESS PHONE:		(617)500-8864
+
+	MAIL ADDRESS:	
+		STREET 1:		80 GUEST STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02135
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Long Focus Capital Management, LLC
+		CENTRAL INDEX KEY:			0001602716
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				462772035
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		207 CALLE DEL PARQUE
+		STREET 2:		A&M TOWER 8TH FLOOR
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00912
+		BUSINESS PHONE:		864-990-3233
+
+	MAIL ADDRESS:	
+		STREET 1:		207 CALLE DEL PARQUE
+		STREET 2:		A&M TOWER 8TH FLOOR
+		CITY:			SAN JUAN
+		STATE:			PR
+		ZIP:			00912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001019056-25-000005</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Long Focus Capital Management, LLC -->
+          <cik>0001602716</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/24/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001501796</issuerCik>
+        <issuerName>AURA BIOSCIENCES, INC.</issuerName>
+        <issuerCusip>05153U107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>80 Guest Street</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02135</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>LONG FOCUS CAPITAL MANAGEMENT, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2507774.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2507774.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2507774.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>LONG FOCUS CAPITAL MASTER, LTD.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1782997.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1782997.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1782997.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>3.6</classPercent>
+      <typeOfReportingPerson>FI</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>CONDAGUA, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>724777.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>724777.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>724777.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.4</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>JOHN HELMERS</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2507774.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2507774.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2507774.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.0</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>GLENN HELMERS</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>724777.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>724777.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>724777.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.4</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>AURA BIOSCIENCES, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>80 Guest Street, Boston, MA 02135</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>LONG FOCUS CAPITAL MANAGEMENT
+LLC LONG FOCUS CAPITAL MASTER, LTD.
+CONDAGUA, LLC
+JOHN HELMERS
+GLENN HELMERS</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>207 CALLE DEL PARQUE
+A&amp;M TOWER, 8TH FLOOR SAN JUAN, PR 00912</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Long Focus Capital Management, LLC, a Delaware single member limited liability company;
+Long Focus Capital Master, LTD., a Cayman Islands limited company;
+Condagua, LLC, a Delaware single member limited liability company;
+John Helmers, a United States citizen; and
+Glenn Helmers, a United States citizen.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by Item 4(a) is set forth in Rows (5) - (11) of the cover page for each Reporting Person hereto and is incorporated herein by reference for each Reporting Person. Such information is as of the close of business on December 24, 2024.
+
+Long Focus Capital Management, LLC, John Helmers, and Glenn Helmers directly own no Common Stock. Pursuant to an investment management agreement, Long Focus Capital Management, LLC maintains investment and voting power with respect to the securities held by Long Focus Capital Master, Ltd. John Helmers  controls Long Focus Capital Management. LLC. and has investment and voting power with respect to Condaqua, LLC. Glenn Helmers controls Condaqua, LLC.</amountBeneficiallyOwned>
+        <classPercent>The information required by Item 4(b) is set forth in Rows (5) - (11) of the cover page for each Reporting Person hereto and is incorporated herein by reference for each Reporting Person. Such information is as of the close of business on December 24, 2024.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>The information required by Item 4(c) is set forth in Rows (5) - (11) of the cover page for each Reporting Person hereto and is incorporated herein by reference for each Reporting Person. Such information is as of the close of business on December 24, 2024.</solePowerOrDirectToVote>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>(a) The following certification shall be included if the statement is filed pursuant to ??240.13d-1(b):
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.
+
+(b) The following certification shall be included if the statement is filed pursuant to ??240.13d-1(c):
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.
+
+By signing below I certify that, to the best of my knowledge and belief, the foreign regulatory scheme applicable to LONG FOCUS CAPITAL MANAGEMENT, LLC is substantially comparable to the regulatory scheme applicable to the functionally equivalent U.S. institution(s). I also undertake to furnish to the Commission staff, upon request, information that would otherwise be disclosed in a Schedule 13D.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>LONG FOCUS CAPITAL MANAGEMENT, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ John Helmers</signature>
+        <title>John Helmers/Managing Member</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>LONG FOCUS CAPITAL MASTER, LTD.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ John Helmers</signature>
+        <title>John Helmers/Managing Member</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>CONDAGUA, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Glenn Helmers</signature>
+        <title>Glenn Helmers/Managing Member</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>JOHN HELMERS</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ John Helmers</signature>
+        <title>John Helmers</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>GLENN HELMERS</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Glenn Helmers</signature>
+        <title>Glenn Helmers</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>ex_24.htm
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 4.85pt 116.65pt 0; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 4.85pt 116.65pt 0; text-align: center">JOINT FILING <FONT STYLE="letter-spacing: -0.1pt">AGREEMENT</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.4pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 8.5pt/101% Times New Roman, Times, Serif; margin: 0 17.1pt 0 5.1pt; text-indent: 31.3pt">Pursuant to Rule 13d-1(k) under
+the Securities Exchange Act of 1934, as amended, each of the undersigned acknowledges and agrees that the foregoing statement on this
+Schedule 13G is filed on behalf of the undersigned and that all subsequent amendments to this statement on Schedule 13G shall be filed
+on behalf of the undersigned without the necessity of filing additional joint acquisition statements. Each of the undersigned acknowledges
+that it shall be responsible for the timely filing of such amendments, and for the completeness and accuracy of the information concerning
+it contained therein, but shall not be responsible for the completeness and accuracy of the information concerning the others, except
+to the extent that he or it knows or has reason to believe that such information is inaccurate.</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.45pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 36.45pt">IN WITNESS WHEREOF, the undersigned hereby execute this Agreement
+as of December 3, 2025.</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.4pt 0 0">&nbsp;</P>
+
+<P STYLE="font: bold 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt">LONG FOCUS CAPITAL MANAGEMENT, <FONT STYLE="letter-spacing: -0.25pt">LLC</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.5pt 0 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt"><U>/s/ John  <FONT STYLE="letter-spacing: -0.1pt">Helmers</FONT></U></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.2pt 0 0 258.9pt">John Helmers/Managing <FONT STYLE="letter-spacing: -0.1pt">Member</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.5pt 0 0">&nbsp;</P>
+
+<P STYLE="font: bold 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt">LONG FOCUS CAPITAL MASTER, <FONT STYLE="letter-spacing: -0.2pt">LTD.</FONT></P>
+
+<P STYLE="font: 8.5pt/102% Times New Roman, Times, Serif; margin: 1.1pt 53.7pt 0 258.9pt">BY: LONG FOCUS CAPITAL MANAGEMENT, LLC ITS:
+INVESTMENT ADVISER</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.05pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt"><U>/s/ John  <FONT STYLE="letter-spacing: -0.1pt">Helmers</FONT></U></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.25pt 0 0 258.9pt">John Helmers/Managing <FONT STYLE="letter-spacing: -0.1pt">Member</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.45pt 0 0">&nbsp;</P>
+
+<P STYLE="font: bold 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt">CONDAGUA, <FONT STYLE="letter-spacing: -0.25pt">LLC</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.4pt 0 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.05pt 0 0 258.9pt"><U>/s/  Glenn <FONT STYLE="letter-spacing: -0.1pt">Helmers</FONT></U></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.25pt 0 0 258.9pt">Glenn Helmers/Managing <FONT STYLE="letter-spacing: -0.1pt">Member</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.4pt 0 0">&nbsp;</P>
+
+<P STYLE="font: bold 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt">JOHN B. <FONT STYLE="letter-spacing: -0.1pt">HELMERS</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.5pt 0 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 8.5pt/102% Times New Roman, Times, Serif; margin: 0 178.9pt 0 258.9pt"><U>/s/ John  Helmers</U> John
+Helmers</P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.1pt 0 0">&nbsp;</P>
+
+<P STYLE="font: bold 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt">GLENN <FONT STYLE="letter-spacing: -0.1pt">HELMERS</FONT></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.4pt 0 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0 0 0 258.9pt"><U>/s/ Glenn <FONT STYLE="letter-spacing: -0.1pt">Helmers</FONT></U></P>
+
+<P STYLE="font: 8.5pt Times New Roman, Times, Serif; margin: 0.25pt 0 0 258.9pt">Glenn <FONT STYLE="letter-spacing: -0.1pt">Helmers</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

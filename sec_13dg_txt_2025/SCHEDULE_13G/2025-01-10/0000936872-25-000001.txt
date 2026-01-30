@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0000936872-25-000001.txt : 20250110
+<SEC-HEADER>0000936872-25-000001.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110101742
+ACCESSION NUMBER:		0000936872-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PEOPLES BANCORP OF NORTH CAROLINA INC
+		CENTRAL INDEX KEY:			0001093672
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				562132396
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-56877
+		FILM NUMBER:		25521079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		518 WEST C STREET
+		STREET 2:		PO BOX 467
+		CITY:			NEWTON
+		STATE:			NC
+		ZIP:			28658-4007
+		BUSINESS PHONE:		8284645620
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 467
+		CITY:			NEWTON
+		STATE:			NC
+		ZIP:			28658-0467
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bay Pond Partners, L.P.
+		CENTRAL INDEX KEY:			0000936872
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				043217743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		WELLINGTON ALTERNATIVE INVESTMENTS LLC
+		STREET 2:		280 CONGRESS STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+		BUSINESS PHONE:		617-951-5372
+
+	MAIL ADDRESS:	
+		STREET 1:		WELLINGTON ALTERNATIVE INVESTMENTS LLC
+		STREET 2:		280 CONGRESS STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BAY POND PARTNERS L P
+		DATE OF NAME CHANGE:	19950206
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000936872</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/07/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001093672</issuerCik>
+        <issuerName>Peoples Bancorp of North Carolina, Inc.</issuerName>
+        <issuerCusip>710577107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>518 West C Street</com:street1>
+          <com:street2>PO Box 467</com:street2>
+          <com:city>Newton</com:city>
+          <com:stateOrCountry>X1</com:stateOrCountry>
+          <com:zipCode>28658</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Bay Pond Partners, L.P.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0</soleVotingPower>
+        <sharedVotingPower>292580</sharedVotingPower>
+        <soleDispositivePower>0</soleDispositivePower>
+        <sharedDispositivePower>292580</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>292580.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.4</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Peoples Bancorp of North Carolina, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>518 West C Street, PO Box 467, Newton NC 28658</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>
+Bay Pond Partners, L.P.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>c/o Wellington Management Company LLP, 280 Congress Street, Boston MA 02210</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>292,580</amountBeneficiallyOwned>
+        <classPercent>5.36</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>292,580</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>292,580</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Bay Pond Partners, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>Ihsan Speede</signature>
+        <title>Authorized Person</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>
+    Wellington Alternative Investments LLC; Its General Partner
+
+        Signature:  Ihsan Speede
+        Name/Title: Authorized Person
+        Date:       01/10/2025
+</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

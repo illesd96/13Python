@@ -1,0 +1,236 @@
+<SEC-DOCUMENT>0001493152-25-004106.txt : 20250129
+<SEC-HEADER>0001493152-25-004106.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129093106
+ACCESSION NUMBER:		0001493152-25-004106
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250129
+DATE AS OF CHANGE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alset Inc.
+		CENTRAL INDEX KEY:			0001750106
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				831079861
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91881
+		FILM NUMBER:		25567017
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 MONTGOMERY LANE
+		STREET 2:		SUITE 210
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		3019713955
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 MONTGOMERY LANE
+		STREET 2:		SUITE 210
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Alset EHome International Inc.
+		DATE OF NAME CHANGE:	20210205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HF Enterprises Inc.
+		DATE OF NAME CHANGE:	20180814
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Chan Heng Fai Ambrose
+		CENTRAL INDEX KEY:			0001261725
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		2601 INSLAND PLACE TOWER
+		STREET 2:		510 KINGS RD N POINT
+		CITY:			HONG KONG
+		STATE:			K3
+		ZIP:			999999999
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHAN FAI
+		DATE OF NAME CHANGE:	20030828
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001493152-22-004590</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Chan Heng Fai Ambrose -->
+          <cik>0001261725</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>18</amendmentNo>
+      <securitiesClassTitle>Common Stock, Par Value $0.001 Per Share</securitiesClassTitle>
+      <dateOfEvent>01/27/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001750106</issuerCIK>
+        <issuerCUSIP>02115D208</issuerCUSIP>
+        <issuerName>Alset Inc.</issuerName>
+        <address>
+          <com:street1>4800 Montgomery Lane</com:street1>
+          <com:street2>Suite 210</com:street2>
+          <com:city>Bethesda</com:city>
+          <com:stateOrCountry>MD</com:stateOrCountry>
+          <com:zipCode>20814</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Heng Fai Ambrose Chan</personName>
+          <personPhoneNum>011 65 6333 9181</personPhoneNum>
+          <personAddress>
+            <com:street1>9 Temasek Boulevard #16-04</com:street1>
+            <com:street2>Suntec Tower Two</com:street2>
+            <com:city>Singapore</com:city>
+            <com:stateOrCountry>U0</com:stateOrCountry>
+            <com:zipCode>038989</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001261725</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Heng Fai Ambrose Chan</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>U0</citizenshipOrOrganization>
+        <soleVotingPower>6357438.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>6357438.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>6357438.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>59.2</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Includes 319,000 shares of common stock held by HFE Holdings Limited, of which Mr. Chan has sole voting and investment power with respect to such shares. Percentage is based upon 10,735,119 shares of common stock outstanding as of January 29, 2025.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>HFE Holdings Limited</reportingPersonName>
+        <memberOfGroup>a</memberOfGroup>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>K3</citizenshipOrOrganization>
+        <soleVotingPower>319000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>319000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>319000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>3</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+        <commentContent>Percentage is based upon 10,735,119 shares of common stock outstanding as of January 29, 2025.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, Par Value $0.001 Per Share</securityTitle>
+        <issuerName>Alset Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>4800 Montgomery Lane</com:street1>
+          <com:street2>Suite 210</com:street2>
+          <com:city>Bethesda</com:city>
+          <com:stateOrCountry>MD</com:stateOrCountry>
+          <com:zipCode>20814</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Heng Fai Ambrose Chan</filingPersonName>
+        <principalBusinessAddress>9 Temasek Boulevard #14-06, Suntec Tower Two, Singapore 038989</principalBusinessAddress>
+        <principalJob>Chairman and Chief Executive Officer, Alset Inc., 4800 Montgomery Lane Suite 210, Bethesda, MD 20814</principalJob>
+        <hasBeenConvicted>None.</hasBeenConvicted>
+        <convictionDescription>None.</convictionDescription>
+        <citizenship>Singapore</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>On August 16, 2024, Mr. Chan acquired 7,413 shares of the Issuer's common stock at a weighted average purchase price of $0.9. This transaction was executed in multiple trades at prices ranging from $0.86 to $0.94.
+
+On August 19, 2024, Mr. Chan acquired 20,000 shares of the Issuer's common stock at a weighted average purchase price of $0.96. This transaction was executed in multiple trades at prices ranging from $0.94 to $0.97.
+
+On August 20, 2024, Mr. Chan acquired 2,983 shares of the Issuer's common stock at a weighted average purchase price of $0.95. This transaction was executed in multiple trades at prices ranging from $0.91 to $0.96.
+
+On August 22, 2024, Mr. Chan acquired 12,867 shares of the Issuer's common stock at a weighted average purchase price of $1.17. This transaction was executed in multiple trades at prices ranging from $1.10 to $1.20.
+
+On January 22, 2025, Mr. Chan acquired 50,000 shares of the Issuer's common stock at a weighted average purchase price of $0.85. This transaction was executed in multiple trades at prices ranging from $0.82 to $0.86.
+
+On January 27, 2025, Mr. Chan acquired 100,000 shares of the Issuer's common stock at a weighted average purchase price of $0.93.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>All of the Issuer's securities owned by the Reporting Person have been acquired for investment purposes only. As of the date of this Schedule 13D, the Reporting Person has no present plans or proposals that relate to or would result in any of the actions required to be described in subsections (a) through (j) of Item 4 of Schedule 13D. The Reporting Person may, at any time, review or reconsider its positions with respect to the Issuer and formulate plans or proposals with respect to any of such matters, but have no present intention of doing so.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>6,357,438, 59.2%</percentageOfClassSecurities>
+        <numberOfShares>6,357,438</numberOfShares>
+        <transactionDesc>On January 22, 2025, Mr. Chan acquired 50,000 shares of the Issuer's common stock at a weighted average purchase price of $0.85. This transaction was executed in multiple trades at prices ranging from $0.82 to $0.86.
+
+On January 27, 2025, Mr. Chan acquired 100,000 shares of the Issuer's common stock at a weighted average purchase price of $0.93.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>None.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Joint Filing Agreement, by and between the Reporting Persons, incorporated by reference to Schedule 13D filed with the SEC on February 15, 2022.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Heng Fai Ambrose Chan</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Heng Fai Ambrose Chan</signature>
+          <title>Heng Fai Ambrose Chan/Individual</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>HFE Holdings Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>Heng Fai Ambrose Chan</signature>
+          <title>Heng Fai Ambrose Chan/Director, HFE Holdings Limited</title>
+          <date>01/29/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

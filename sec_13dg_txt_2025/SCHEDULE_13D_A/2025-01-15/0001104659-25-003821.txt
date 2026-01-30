@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001104659-25-003821.txt : 20250115
+<SEC-HEADER>0001104659-25-003821.hdr.sgml : 20250115
+<ACCEPTANCE-DATETIME>20250115171343
+ACCESSION NUMBER:		0001104659-25-003821
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250115
+DATE AS OF CHANGE:		20250115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IAC Inc.
+		CENTRAL INDEX KEY:			0001800227
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				843727412
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91559
+		FILM NUMBER:		25533672
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		(212) 314-7300
+
+	MAIL ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IAC/InterActiveCorp
+		DATE OF NAME CHANGE:	20200702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IAC Holdings, Inc.
+		DATE OF NAME CHANGE:	20200115
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Diller Barry
+		CENTRAL INDEX KEY:			0000927067
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O IAC INC.
+		STREET 2:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DILLER BARRY
+		DATE OF NAME CHANGE:	19940719
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-20-082165</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Diller Barry -->
+          <cik>0000927067</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>COMMON STOCK, PAR VALUE $0.0001 PER SHARE</securitiesClassTitle>
+      <dateOfEvent>01/13/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001800227</issuerCIK>
+        <issuerCUSIP>44891N208</issuerCUSIP>
+        <issuerName>IAC INC.</issuerName>
+        <address>
+          <com:street1>555 West 18th Street</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10011</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Andrew J. Nussbaum, Esq.</personName>
+          <personPhoneNum>(212) 403-1000</personPhoneNum>
+          <personAddress>
+            <com:street1>Wachtell, Lipton, Rosen &amp; Katz</com:street1>
+            <com:street2>51 West 52nd Street</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000927067</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>BARRY DILLER</reportingPersonName>
+        <memberOfGroup>b</memberOfGroup>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>1601821.00</soleVotingPower>
+        <sharedVotingPower>1711.00</sharedVotingPower>
+        <soleDispositivePower>7098918.00</soleDispositivePower>
+        <sharedDispositivePower>1711.00</sharedDispositivePower>
+        <aggregateAmountOwned>7100629.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>8.1</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>Note to 13: Assumes the conversion of all shares of Class B Common Stock, par value $0.0001, of IAC Inc. ("IAC Class B Common Stock"), beneficially owned by Mr. Diller into shares of Common Stock, par value $0.0001, of IAC Inc. ("IAC Common Stock"), on a one-for-one basis and the exercise of vested stock options to purchase 1,000,000 shares of IAC Common Stock. Because each share of IAC Class B Common Stock generally is entitled to ten votes per share and each share of IAC Common Stock is entitled to one vote per share, Mr. Diller may be deemed to beneficially own equity securities of IAC Inc. ("IAC" or the "Company") representing approximately 42.5% of the total number of votes of all classes of capital stock of the Company, based on 5,789,499 shares of IAC Class B Common Stock and 80,479,073 shares of IAC Common Stock outstanding as of November 8, 2024, as set forth in the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, which was filed with the U.S. Securities and Exchange Commission (the "SEC") on November 12, 2024. See Item 5.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>COMMON STOCK, PAR VALUE $0.0001 PER SHARE</securityTitle>
+        <issuerName>IAC INC.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>555 West 18th Street</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10011</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This amended statement on Schedule 13D/A relates to IAC Common Stock. The Report on Schedule 13D, originally filed with the SEC by Mr. Diller on July 9, 2020, as amended by Amendment No. 1 thereto filed on November 10, 2020, Amendment No. 2 thereto filed on June 15, 2021 and Amendment No. 3 thereto filed on November 16, 2021 (collectively, the "Initial Diller Schedule 13D"), is hereby amended and supplemented to include the information set forth herein. This amended statement on Schedule 13D/A constitutes Amendment No. 4 to the Initial Diller Schedule 13D. Capitalized terms not defined herein have the meanings given to such terms in the Initial Diller Schedule 13D.</commentText>
+      </item1>
+      <item5>
+        <percentageOfClassSecurities>As of the date of this Amendment No. 4, Mr. Diller beneficially owns: (i) 172,708 shares of IAC Common Stock and 429,113 shares of IAC Class B Common Stock, which are convertible on a one-for-one basis into shares of IAC Common Stock, held directly by Mr. Diller and/or through The Arrow 1999 Trust, dated September 16, 1999, as amended (the "Arrow Trust"), over which Mr. Diller has sole investment and voting power, (ii) 136,711 shares of IAC Common Stock and 4,786,847 shares of IAC Class B Common Stock held by trusts for the benefit of certain members of Mr. Diller's family (the "Descendants Trusts"), over which Mr. Diller has sole investment power and Diane Von Furstenberg, Mr. Diller's spouse, has sole voting power, (iii) 1,000,000 shares of IAC Common Stock underlying vested IAC stock options, over which Mr. Diller has sole investment and voting power, (iv) 573,539 shares of IAC Class B Common Stock held by a trust for the benefit of certain members of Mr. Diller's family (the "TALT Trust"), over which Alexander von Furstenberg, Mr. Diller's stepson, has sole investment and voting power, and over which Mr. Diller may be deemed to have the right to acquire investment power within 60 days as a result of his ability to designate a replacement for Mr. von Furstenberg as investment advisor; provided, however, that Mr. Diller may not act as the replacement investment advisor with respect to voting control over such securities, and (v) 1,711 IAC shares of Common Stock held by a family foundation, as to which Mr. Diller has shared voting and investment power and as to which Mr. Diller disclaims beneficial ownership.
+
+Assuming the conversion of all of the shares of IAC Class B Common Stock beneficially owned by Mr. Diller into shares of IAC Common Stock and the exercise of vested IAC stock options to purchase 1,000,000 shares of IAC Common Stock (even if out-of-the-money), Mr. Diller would beneficially own approximately 8.1% of IAC Common Stock outstanding (calculated in accordance with Rule 13d-3). Because each share of IAC Class B Common Stock generally is entitled to ten votes per share and each share of IAC Common Stock is entitled to one vote per share, Mr. Diller maybe deemed to beneficially own equity securities of the Company (including shares underlying vested IAC stock options to purchase 1,000,000 shares of IAC Common Stock (even if out-of-the-money) or IAC restricted stock units vesting within 60 days) representing approximately 42.5% of the total number of votes of all classes of capital stock of the Company; provided, however, that as described herein, Mr. Diller has sole voting and investment power over all shares of IAC capital stock held by Mr. Diller directly or through the Arrow Trust (which represents approximately 3.9% of the total number of votes of all classes of capital stock of the Company, assuming the exercise of Mr. Diller's vested IAC stock options to purchase 1,000,000 shares of IAC Common Stock), Mr. Diller has sole investment power and Ms. von Furstenberg has sole voting power, in each case, over all shares of IAC capital stock held in the Descendants Trusts (which represents approximately 34.7% of the total number of votes of all classes of capital stock of the Company) and Mr. von Furstenberg has sole investment and voting power over all shares of IAC Class B Common Stock held by the TALT Trust (which represents approximately 4.1% of the total number of votes of all classes of capital stock of the Company). Mr. Diller disclaims any voting and/or investment power that may be attributable to him solely through his spousal relationship with Ms. von Furstenberg. All percentage ownership information in this paragraph is based on 5,789,499 shares of IAC Class B Common Stock and 80,479,073 shares of IAC Common Stock outstanding as of November 8, 2024, as set forth in the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, which was filed with the SEC on November 12, 2024.
+
+Not included in the beneficial ownership figures for Mr. Diller presented herein are 361,475 IAC restricted stock units that vest in one lump sum installment on November 5, 2025, subject to continued service, and with partial vesting upon certain terminations of employment.</percentageOfClassSecurities>
+        <numberOfShares>See Item 5(a).</numberOfShares>
+        <transactionDesc>Mr. Diller has not effected any transactions in shares of IAC Common Stock or IAC Class B Common Stock during the past 60 days.</transactionDesc>
+        <listOfShareholders>Except as described in the Diller Schedule 13D as amended by this Amendment No. 4, no person other than Mr. Diller has the right to receive (or the power to direct the receipt) of dividends from, or the proceeds from the sale of, shares of IAC Common Stock or IAC Class B Common Stock beneficially owned by Mr. Diller.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>The information contained in Item 6 of the Diller Schedule 13D under "Voting Agreement" is hereby amended and restated to read in its entirety as follows:
+
+On January 13, 2025, the Voting Agreement was terminated as a result of the entry by Mr. Levin and IAC into the Employment Transition Agreement.</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>BARRY DILLER</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Barry Diller</signature>
+          <title>Barry Diller</title>
+          <date>01/15/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

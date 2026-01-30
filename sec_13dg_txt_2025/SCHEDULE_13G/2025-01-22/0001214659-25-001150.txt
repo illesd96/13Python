@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001214659-25-001150.txt : 20250122
+<SEC-HEADER>0001214659-25-001150.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122175258
+ACCESSION NUMBER:		0001214659-25-001150
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Innovator ETFs Trust
+		CENTRAL INDEX KEY:			0001415726
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91524
+		FILM NUMBER:		25547053
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 W. FRONT STREET
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+		BUSINESS PHONE:		800-621-1675
+
+	MAIL ADDRESS:	
+		STREET 1:		200 W. FRONT STREET
+		CITY:			WHEATON
+		STATE:			IL
+		ZIP:			60187
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INNOVATOR ETFS TRUST
+		DATE OF NAME CHANGE:	20170825
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Academy Funds Trust
+		DATE OF NAME CHANGE:	20071019
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FOUNDATIONS INVESTMENT ADVISORS, LLC
+		CENTRAL INDEX KEY:			0001743404
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				473274207
+		STATE OF INCORPORATION:			AZ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4050 E. COTTON CENTER BLVD.
+		STREET 2:		SUITE 40
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85040
+		BUSINESS PHONE:		480-626-2970
+
+	MAIL ADDRESS:	
+		STREET 1:		4050 E. COTTON CENTER BLVD.
+		STREET 2:		SUITE 40
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85040
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Foundations Investment Advisors, LLC
+		DATE OF NAME CHANGE:	20180611
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FOUNDATIONS INVESTMENT ADVISORS, LLC -->
+          <cik>0001743404</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Exchange Traded Product</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001415726</issuerCik>
+        <issuerName>INNOVATOR ETFS TRUST</issuerName>
+        <issuerCusip>45783Y806</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>109 N Hale Street</com:street1>
+          <com:city>Wheaton</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60187</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Foundations Investment Advisors, LLC</reportingPersonName>
+      <citizenshipOrOrganization>AZ</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>33218.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>33218.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>11</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>INNOVATOR ETFS TRUST</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>109 N Hale Street, Wheaton, ILLINOIS, 60187</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Foundations Investment Advisors, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>4050 East Cotton Center Blvd., Suite 40,
+Phoenix, AZ 85040</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Arizona, USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Please reference Cover Page tables above.</amountBeneficiallyOwned>
+        <classPercent>Please reference Cover Page tables above.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Please reference Cover Page tables above.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Please reference Cover Page tables above.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Please reference Cover Page tables above.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Please reference Cover Page tables above.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Foundations Investment Advisors, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Marc Pugsley</signature>
+        <title>CCO</title>
+        <date>01/22/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

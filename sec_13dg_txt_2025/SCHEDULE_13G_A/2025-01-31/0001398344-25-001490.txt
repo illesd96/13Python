@@ -1,0 +1,176 @@
+<SEC-DOCUMENT>0001398344-25-001490.txt : 20250131
+<SEC-HEADER>0001398344-25-001490.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131090006
+ACCESSION NUMBER:		0001398344-25-001490
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JEWETT CAMERON TRADING CO LTD
+		CENTRAL INDEX KEY:			0000885307
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS [5211]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-43786
+		FILM NUMBER:		25576074
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32275 NW HILLCREST
+		CITY:			NORTH PLAINS
+		STATE:			OR
+		ZIP:			97133
+		BUSINESS PHONE:		5036470110
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1010
+		CITY:			NORTH PLAINS
+		STATE:			OR
+		ZIP:			97133
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMPREHENSIVE FINANCIAL PLANNING INC
+		CENTRAL INDEX KEY:			0001287075
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				582033955
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	MAIL ADDRESS:	
+		STREET 1:		3883 ROGERS BRIDGE ROAD
+		STREET 2:		SUITE 303-A
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30097
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001398344-15-000419</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: COMPREHENSIVE FINANCIAL PLANNING INC -->
+          <cik>0001287075</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>10</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000885307</issuerCik>
+        <issuerName>Jewett-Cameron Trading Company Ltd</issuerName>
+        <issuerCusip>47733C207</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>32275 NW Hillcrest</com:street1>
+          <com:city>North Plains</com:city>
+          <com:stateOrCountry>OR</com:stateOrCountry>
+          <com:zipCode>97133</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Comprehensive Financial Planning, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>GA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>275400.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>275400.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>275400.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.83</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Jewett-Cameron Trading Company Ltd</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>32275 NW Hillcrest, North Plains, OR 97133</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Comprehensive Financial Planning, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>3554 Mill Road, Gainesville, GA  30504</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Georgia Corporation</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>275400</amountBeneficiallyOwned>
+        <classPercent>7.83</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>275400</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>275400</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the reported shares of Common Stock set forth in Item 4 are owned by investment advisory clients of Comprehensive Financial Planning, Inc., which is deemed to be a beneficial owner of those shares pursuant to Rule 13d-3 under the Securities Exchange Act of 1934, due to its discretionary power to make investment decisions over such shares for its clients and its ability to vote such shares.  In all cases, persons other than Comprehensive Financial Planning, Inc. have the right to receive, or the power to direct the receipt of, dividends from, or the proceeds from the sale of the shares. No investment advisory client of Comprehensive Financial Planning, Inc. is known to have the right to receive, or the power to direct the receipt of dividends from, or the proceeds from the sale of, more than five percent of the Issuer's Common Stock.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Comprehensive Financial Planning, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Raymond L. Howe</signature>
+        <title>Raymond L. Howe, President</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

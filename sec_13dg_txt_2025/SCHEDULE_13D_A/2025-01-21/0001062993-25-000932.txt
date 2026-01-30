@@ -1,0 +1,696 @@
+<SEC-DOCUMENT>0001062993-25-000932.txt : 20250121
+<SEC-HEADER>0001062993-25-000932.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121114239
+ACCESSION NUMBER:		0001062993-25-000932
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250121
+DATE AS OF CHANGE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackRock Health Sciences Term Trust
+		CENTRAL INDEX KEY:			0001785971
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92129
+		FILM NUMBER:		25541255
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+		BUSINESS PHONE:		800 882 0052
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BlackRock Health Sciences Trust II
+		DATE OF NAME CHANGE:	20190820
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Saba Capital Management, L.P.
+		CENTRAL INDEX KEY:			0001510281
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				800361690
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE
+		STREET 2:		58TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+		BUSINESS PHONE:		212-542-4635
+
+	MAIL ADDRESS:	
+		STREET 1:		405 LEXINGTON AVENUE
+		STREET 2:		58TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10174
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+	<headerData>
+		<submissionType>SCHEDULE 13D/A</submissionType>
+		<previousAccessionNumber>0001062993-23-012250</previousAccessionNumber>
+		<filerInfo>
+			<filer>
+				<filerCredentials>
+					<cik>0001510281</cik>
+					<ccc>XXXXXXXX</ccc>
+				</filerCredentials>
+			</filer>
+			<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+		</filerInfo>
+	</headerData>
+	<formData>
+		<coverPageHeader>
+			<amendmentNo>15</amendmentNo>
+			<securitiesClassTitle>Common Shares, $0.001 par value</securitiesClassTitle>
+			<dateOfEvent>01/20/2025</dateOfEvent>
+			<previouslyFiledFlag>false</previouslyFiledFlag>
+			<issuerInfo>
+				<issuerCIK>0001785971</issuerCIK>
+				<issuerCUSIP>09260E105</issuerCUSIP>
+				<issuerName>BlackRock Health Sciences Term Trust</issuerName>
+				<address>
+					<com:street1>100 Bellevue Parkway</com:street1>
+					<com:city>Wilmington</com:city>
+					<com:stateOrCountry>DE</com:stateOrCountry>
+					<com:zipCode>19809</com:zipCode>
+				</address>
+			</issuerInfo>
+			<authorizedPersons>
+				<notificationInfo>
+					<personName>Saba Capital Management, L.P.</personName>
+					<personPhoneNum>(212) 542-4635</personPhoneNum>
+					<personAddress>
+						<com:street1>405 Lexington Avenue, 58th Floor</com:street1>
+							<com:street2>Attention: Michael D'Angelo</com:street2>
+						<com:city>New York</com:city>
+						<com:stateOrCountry>NY</com:stateOrCountry>
+						<com:zipCode>10174</com:zipCode>
+					</personAddress>
+				</notificationInfo>
+			</authorizedPersons>
+		</coverPageHeader>
+		<reportingPersons>
+			<reportingPersonInfo>
+				<reportingPersonCIK>0001510281</reportingPersonCIK>
+				<reportingPersonNoCIK>N</reportingPersonNoCIK>
+				<reportingPersonName>Saba Capital Management, L.P.</reportingPersonName>
+				<fundType>OO</fundType>
+				<legalProceedings>N</legalProceedings>
+				<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+				<soleVotingPower>0</soleVotingPower>
+				<sharedVotingPower>20750913</sharedVotingPower>
+				<soleDispositivePower>0</soleDispositivePower>
+				<sharedDispositivePower>20750913</sharedDispositivePower>
+				<aggregateAmountOwned>20750913</aggregateAmountOwned>
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+				<percentOfClass>19.98</percentOfClass>
+				<typeOfReportingPerson>PN</typeOfReportingPerson>
+				<typeOfReportingPerson>IA</typeOfReportingPerson>
+			<commentContent>The percentages used herein are calculated based upon 103,851,402 shares of common stock outstanding as of 10/9/24, as disclosed in the company's SC TO-I filed 10/16/24</commentContent>
+			</reportingPersonInfo>
+			<reportingPersonInfo>
+				<reportingPersonCIK>0001608233</reportingPersonCIK>
+				<reportingPersonNoCIK>N</reportingPersonNoCIK>
+				<reportingPersonName>Boaz R. Weinstein</reportingPersonName>
+				<fundType>OO</fundType>
+				<legalProceedings>N</legalProceedings>
+				<citizenshipOrOrganization>NY</citizenshipOrOrganization>
+				<soleVotingPower>0</soleVotingPower>
+				<sharedVotingPower>20750913</sharedVotingPower>
+				<soleDispositivePower>0</soleDispositivePower>
+				<sharedDispositivePower>20750913</sharedDispositivePower>
+				<aggregateAmountOwned>20750913</aggregateAmountOwned>
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+				<percentOfClass>19.98</percentOfClass>
+				<typeOfReportingPerson>OO</typeOfReportingPerson>
+			<commentContent>The percentages used herein are calculated based upon 103,851,402 shares of common stock outstanding as of 10/9/24, as disclosed in the company's SC TO-I filed 10/16/24</commentContent>
+			</reportingPersonInfo>
+			<reportingPersonInfo>
+				<reportingPersonNoCIK>Y</reportingPersonNoCIK>
+				<reportingPersonName>Saba Capital Management GP, LLC</reportingPersonName>
+				<fundType>OO</fundType>
+				<legalProceedings>N</legalProceedings>
+				<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+				<soleVotingPower>0</soleVotingPower>
+				<sharedVotingPower>20750913</sharedVotingPower>
+				<soleDispositivePower>0</soleDispositivePower>
+				<sharedDispositivePower>20750913</sharedDispositivePower>
+				<aggregateAmountOwned>20750913</aggregateAmountOwned>
+				<isAggregateExcludeShares>N</isAggregateExcludeShares>
+				<percentOfClass>19.98</percentOfClass>
+				<typeOfReportingPerson>OO</typeOfReportingPerson>
+			<commentContent>The percentages used herein are calculated based upon 103,851,402 shares of common stock outstanding as of 10/9/24, as disclosed in the company's SC TO-I filed 10/16/24</commentContent>
+			</reportingPersonInfo>
+		</reportingPersons>
+		<items1To7>
+			<item1>
+				<securityTitle>Common Shares, $0.001 par value</securityTitle>
+				<issuerName>BlackRock Health Sciences Term Trust</issuerName>
+				<issuerPrincipalAddress>
+					<com:street1>100 Bellevue Parkway</com:street1>
+					<com:city>Wilmington</com:city>
+					<com:stateOrCountry>DE</com:stateOrCountry>
+					<com:zipCode>19809</com:zipCode>
+				</issuerPrincipalAddress>
+				<commentText>This Amendment No. 15 amends Items 3, 4, 5, 6, and 7.</commentText>
+			</item1>
+			<item2>
+				<filingPersonName>This Schedule 13D/A is being jointly filed by:
+
+(i)	Saba Capital Management, L.P., a Delaware limited partnership ("Saba Capital");
+
+(ii)	Saba Capital Management GP, LLC, a Delaware limited liability company ("Saba GP"); and
+
+(iii)	Mr. Boaz R. Weinstein ("Mr. Weinstein"),
+
+(together, the "Reporting Persons").  Any disclosures herein with respect to persons other than the Reporting Persons are made on information and belief after making inquiry to the appropriate party.
+
+
+
+The filing of this statement should not be construed as an admission that any Reporting Person is, for the purposes of Sections 13 of the Securities Exchange Act of 1934, the beneficial owner of the Common Shares reported herein.</filingPersonName>
+				<principalBusinessAddress>The address of the business office of each of the Reporting Persons is 405 Lexington Avenue, 58th Floor, New York, New York 10174.</principalBusinessAddress>
+				<principalJob>The principal business of: (i) Saba Capital is to serve as investment manager to private and public investment funds and/or accounts, (ii) Saba GP is to serve as general partner of the Saba Capital and other affiliated entities, and (iii) Mr. Weinstein, an individual, is managing member of the general partner of Saba Capital and other affiliated entities.</principalJob>
+				<hasBeenConvicted>The Reporting Persons have not, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+				<convictionDescription>The Reporting Persons have not, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and, as a result of such proceeding, was, or is subject to, a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, Federal or State securities laws or finding any violation with respect to such laws.</convictionDescription>
+				<citizenship>Saba Capital is organized as a limited partnership under the laws of the State of Delaware. Saba GP is organized as a limited liability company under the laws of the State of Delaware. Mr. Weinstein is a citizen of the United States.</citizenship>
+			</item2>
+			<item3>
+				<fundsSource>Funds for the purchase of the Common Shares were derived from the subscription proceeds from investors and the capital appreciation thereon and margin account borrowings made in the ordinary course of business.  In such instances, the positions held in the margin accounts are pledged as collateral security for the repayment of debit balances in the account, which may exist from time to time.  Since other securities are held in the margin accounts, it is not possible to determine the amounts, if any, of margin used to purchase the Common Shares reported herein. A total of approximately $310,584,392 was paid to acquire the Common Shares reported herein.</fundsSource>
+			</item3>
+			<item4>
+				<transactionPurpose>Item 4 is hereby amended and supplemented as follows:
+
+On January 20, 2025, Saba Capital Management, L.P. entered into a standstill agreement (the "Agreement") with respect to the Issuer, pursuant to which the Issuer agreed to commence a cash tender offer to purchase 40% of its outstanding Common Shares at a price per share equal to 99.5% of the Issuer's net asset value per share (the "Tender Offer"). Saba Capital agreed to tender the Common Shares then owned by Saba Capital and one or more private funds, non-U.S. public funds or accounts managed by Saba Capital, subject to the terms and conditions therein.
+
+The Agreement also provides for customary standstill provisions during the period from the date of the Agreement through the date that is the earliest of (i) the day following the completion of the Issuer's 2027 annual meeting of shareholders or August 31, 2027, whichever is earlier, (ii) such date that the Issuer determines not to conduct or to discontinue the Tender Offer and (iii) August 18, 2025, if payment for the tendered Common Shares has not been made on or prior to that date. In connection with the Agreement, Saba Capital withdrew the shareholder proposal it had previously submitted to the Issuer, pursuant to Rule 14a-8 under the Securities Exchange Act of 1934, as amended, on October 9, 2024.
+
+The foregoing summary of the Agreement shall not be deemed complete and is qualified in its entirety by reference to the full text of the Agreement, the form of which is attached hereto as Exhibit 6 to this Schedule 13D/A and incorporated by reference herein.</transactionPurpose>
+			</item4>
+			<item5>
+				<percentageOfClassSecurities>See the Reporting Persons section of this Schedule 13D/A for the aggregate number of Common Shares and percentages of the Common Shares beneficially owned by each of the Reporting Persons.  The percentages used herein are calculated based upon 103,851,402 shares of common stock outstanding as of 10/9/24, as disclosed in the company's SC TO-I filed 10/16/24.</percentageOfClassSecurities>
+				<numberOfShares>See the Reporting Persons section of this Schedule 13D/A for the number of Common Shares as to which each Reporting Person has the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition.</numberOfShares>
+				<transactionDesc>No transactions in the Common Shares within the past sixty days.</transactionDesc>
+				<listOfShareholders>The funds and accounts advised by Saba Capital have the right to receive the dividends and proceeds of sales from the Common Shares.</listOfShareholders>
+				<date5PercentOwnership>May-24-2023</date5PercentOwnership>
+			</item5>
+			<item6>
+				<contractDescription>The Reporting Persons' response to Item 4 is incorporated by reference into this Item 6.</contractDescription>
+			</item6>
+			<item7>
+				<filedExhibits>Exhibit 6 - Standstill Agreement</filedExhibits>
+			</item7>
+		</items1To7>
+		<signatureInfo>
+			<signaturePerson>
+				<signatureReportingPerson>Saba Capital Management, L.P.</signatureReportingPerson>
+				<signatureDetails>
+					<signature>/s/ David Han</signature>
+					<title>Chief Compliance Officer</title>
+					<date>01/21/2025</date>
+				</signatureDetails>
+			</signaturePerson>
+			<signaturePerson>
+				<signatureReportingPerson>Boaz R. Weinstein</signatureReportingPerson>
+				<signatureDetails>
+					<signature>/s/ Michael D'Angelo</signature>
+					<title>Authorized Signatory</title>
+					<date>01/21/2025</date>
+				</signatureDetails>
+			</signaturePerson>
+			<signaturePerson>
+				<signatureReportingPerson>Saba Capital Management GP, LLC</signatureReportingPerson>
+				<signatureDetails>
+					<signature>/s/ Michael D'Angelo</signature>
+					<title>Attorney-in-fact*</title>
+					<date>01/21/2025</date>
+				</signatureDetails>
+			</signaturePerson>
+			<commentText>Pursuant to a power of attorney dated as of November 16, 2015, which is incorporated herein by reference to Exhibit 2 to the Schedule 13G filed by the Reporting Persons on December 28, 2015, accession number: 0001062993-15-006823</commentText>
+		</signatureInfo>
+	</formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.6
+<SEQUENCE>2
+<FILENAME>exhibit6.htm
+<DESCRIPTION>EXHIBIT 6
+<TEXT>
+<html>
+
+<head>
+    <title>Saba Capital Management, L.P.: Exhibit 6 - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt; font-family:'Times New Roman';">
+    <hr width="100%" size="3" color="black" noshade="noshade"><a name="page_1"></a>
+    <p style="text-align: center;"><b>EXHIBIT 6</b>&#160;</p>
+    <p style="text-align: center;"><b>STANDSTILL AGREEMENT</b></p>
+    <p style="text-indent: 36pt; text-align: justify;">This Standstill Agreement (including the exhibits hereto, this "<b>Agreement</b>") is entered into as of January 20, 2025 by and among Saba Capital Management, L.P. ("<b>Saba</b>"), BlackRock Health Sciences Term Trust (the "<b>Fund</b>") and BlackRock Advisors, LLC (the "<b>Advisor</b>," and together with Saba and the Fund, the "<b>Parties</b>," and each individually, a "<b>Party</b>").</p>
+    <p style="text-indent: 36pt; text-align: justify;"><b>WHEREAS</b>, the Fund is a closed-end management investment company registered under the Investment Company Act of 1940, as amended (the "<b>1940 Act</b>");</p>
+    <p style="text-indent: 36pt; text-align: justify;"><b>WHEREAS</b>, the Advisor serves as the Fund's investment advisor pursuant to an investment advisory agreement between the Fund and the Advisor; and</p>
+    <p style="text-indent: 36pt; text-align: justify;"><b>WHEREAS</b>, as of the close of business on January 12, 2025, Saba may be deemed to be the "beneficial owner" (within the meaning of Rule 13d-3 under the Securities Exchange Act of 1934, as amended (the "<b>Exchange Act</b>")) of, in the aggregate, 20,750,913 common shares of beneficial interest of the Fund, par value $0.001 per share (the "<b>Common Shares</b>"), which Common Shares are legally owned by (x) one or more private funds, non-U.S. public funds or accounts managed by Saba (such funds or accounts, the "<b>Saba Private/Non-U.S. Funds</b>") and (y) one or more investment companies registered under the 1940 Act managed by Saba (such registered investment companies, the "<b>Saba RICs</b>").&#160; Notwithstanding anything herein to the contrary, the Saba RICs are not a party to, are not restricted by and are not governed by the terms and provisions of this Agreement and nothing in this Agreement shall restrict Saba from acting on behalf of the Saba RICs in accordance with its duties as investment advisor to the Saba RICs.</p>
+    <p style="text-indent: 36pt; text-align: justify;"><b>NOW, THEREFORE</b>, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:</p>
+    <p style="text-indent: 36pt; text-align: justify;"><b>Section 1. Tender Offer by the Fund</b>.&#160; On the basis of the representations, warranties, agreements and undertakings set forth herein and subject to performance by each Party of its respective agreements and undertakings hereunder and to the conditions set forth in Section 2 hereof:</p>
+    <p style="text-indent: 72pt; text-align: justify;">1.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>The Fund shall conduct a tender offer to purchase for cash 40% (the "<b>Maximum Amount</b>") of its outstanding Common Shares (the "<b>Tender Offer</b>").&#160; The Tender Offer shall include the following terms:</p>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>(i) all shareholders shall have the opportunity to tender some or all of their Common Shares at a price equal to 99.5% of the Fund's net asset value per share ("<b>NAV</b>") as determined as of the close of the regular trading session of the New York Stock Exchange (the "<b>NYSE</b>") on the next day the NAV is calculated after the expiration or closing date of the Tender Offer or, if the Tender Offer is extended, on the next day the NAV is calculated after the day to which the Tender Offer is extended; (ii) the Fund shall purchase Common Shares properly tendered and not withdrawn on a prorated basis up to the Maximum Amount, if greater than the Maximum Amount of Common Shares are properly tendered and not properly withdrawn; (iii) if less than the Maximum Amount of Common Shares has been properly tendered and not withdrawn, then the Fund shall only be obligated to purchase such amount of Common Shares actually tendered; and (iv) the consideration to be paid by the Fund for Common Shares purchased under the Tender Offer shall consist solely of cash.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_2"></a>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>the Tender Offer shall be commenced on March 21, 2025;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(c)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>the Tender Offer shall expire or close on the twentieth (20<sup>th</sup>) business day after its commencement and the Fund shall pay for any of the Common Shares tendered in such Tender Offer not later than the seventh (7<sup>th</sup>) business day after the expiration or closing of the Tender Offer (such date of payment, the "<b>Tender Offer Payment Date</b>");</p>
+    <p style="text-indent: 72pt; text-align: justify;">(d)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>the Tender Offer shall not provide for preferential treatment for any shareholders of the Fund; and</p>
+    <p style="text-indent: 72pt; text-align: justify;">(e)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>the Tender Offer shall require odd lot tenders to be subject to the same proration terms as tenders of 100 Common Shares or more.</p>
+    <p style="text-indent: 72pt; text-align: justify;">1.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Other than in connection with regularly scheduled distributions under a dividend reinvestment plan, the Fund shall not issue any Common Shares or any securities exchangeable or convertible into Common Shares prior to the Tender Offer Payment Date.</p>
+    <p style="text-indent: 72pt; text-align: justify;">1.3<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>The Fund shall not effectuate, or propose to shareholders for approval any proposal or plan to effectuate, a redomiciliation to another state or a merger, consolidation or reorganization with or involving another investment company registered under the 1940 Act prior to the Tender Offer Payment Date (whether or not the Fund is the surviving company).</p>
+    <p style="text-indent: 72pt; text-align: justify;">1.4<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Saba shall (i) tender all of the Common Shares then beneficially owned by Saba and legally owned by Saba and the Saba Private/Non-U.S. Funds, including any Affiliates (as defined below), in the Tender Offer and (ii) refrain (and cause the Saba Private/Non-U.S. Funds or any other Affiliate to refrain) from purchasing additional Common Shares until the end of the Effective Period (as defined below).</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 2. Conditions to Fund's Obligation to Conduct Tender Offer</b>.</p>
+    <p style="text-indent: 72pt; text-align: justify;">2.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>The Fund's obligation to conduct or to continue the Tender Offer pursuant to Section 1.1 hereof shall be subject to the satisfaction of the conditions set forth in subsections (a) through (c) below and the Fund's obligation to comply with the undertakings set forth in Sections 1.2 and 1.3 hereof shall be subject to the satisfaction of the condition set forth in subsection (c) below:</p>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>the commencement of the Tender Offer or the acceptance of tenders of the Common Shares in connection therewith during any period when such transactions, if consummated, shall not, as determined by the Fund in good faith, (i) result in the delisting of the Common Shares from the NYSE or (ii) impair the Fund's status as a regulated investment company under the Internal Revenue Code of 1986, as amended (which would make the Fund a taxable entity, causing the Fund's income to be taxed at the fund level in addition to the taxation of shareholders who receive distributions from the Fund);</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_3"></a>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>there shall not be any (i) legal or regulatory action or proceeding instituted or threatened in writing challenging the Tender Offer, (ii) suspension of, or limitation on prices for, trading securities generally on the NYSE or other national securities exchange or (iii) declaration of a banking moratorium by federal or state authorities or any suspension of payment by banks in the United States or New York State; and</p>
+    <p style="text-indent: 72pt; text-align: justify;">(c)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>Saba and any relevant Affiliates thereof shall, within five (5) business days of the execution of this Agreement, have irrevocably withdrawn the shareholder proposal it submitted to the Fund, pursuant to Rule 14a-8 under the Exchange Act, on October 9, 2024 and neither Saba nor any relevant Affiliates thereof shall have submitted or commenced the submission of any other shareholder proposals under Rule 14a-8 under the Exchange Act or otherwise with respect to the Fund's 2025 annual meeting of shareholders.</p>
+    <p style="text-indent: 72pt; text-align: justify;">2.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>In the event of a delay in, or a determination not to conduct or to discontinue, the Tender Offer pursuant to either Section 2.1(a) or Section 2.1(b) hereof, the Fund will provide prompt written notice to Saba of such delay or determination, in each case, together with a detailed analysis of the reason for such delay or determination and reasonable support therefor.&#160; In the event of a delay pursuant to either Section 2.1(a) or Section 2.1(b) hereof, the Fund will commence the Tender Offer as soon as practicable and not later than twenty (20) days after the termination of such delaying event.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 3. Agreements of Saba</b>.</p>
+    <p style="text-indent: 72pt; text-align: justify;">3.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Saba covenants and agrees that during the period from the date of this Agreement through the date that is the earliest of (i) the day following the completion of the Fund's 2027 annual meeting of shareholders (including any adjournment, postponement, rescheduling or continuation thereof) or August 31, 2027, whichever is earlier, (ii) such date that the Fund determines not to conduct or to discontinue the Tender Offer for any reason other than as a result of the failure of the condition in Section 2.1(c) hereof to be satisfied (which date shall not include a determination to delay the Tender Offer pursuant to Section 2.1(a) or 2.1(b) provided that the Fund shall provide prompt written notice to Saba of the determination by the Fund's board of trustees (the "<b>Board</b>") not to conduct or delay the Tender Offer) and (iii) August 18, 2025, if the Tender Offer Payment Date has not occurred on or prior to that date for any reason (including because of a delay pursuant to either Section 2.1(a) or Section 2.1(b) hereof) other than as a result of the failure of the condition in Section 2.1(c) hereof to be satisfied (the "<b>Effective Period</b>"), it will not, and will cause its current and future affiliates (which shall not include the Saba RICs or any investment company registered under the 1940 Act that may be managed by Saba in the future) and its and their respective principals, directors, general partners, members, officers, employees, agents, "affiliated persons" (as defined in the 1940 Act but which, for purposes of this Agreement, shall (x) exclude the Saba RICs but (y) include (without limitation) any account or other pooled investment vehicle now or in the future managed, advised or sub-advised by Saba or its affiliated persons) and representatives that are under Saba's control, and any other current and future persons controlled by or under common control with Saba, Saba Capital Management GP, LLC or Boaz R. Weinstein (such other persons, excluding the Saba RICs, "<b>Affiliates</b>") and its and their respective representatives, not to, directly or indirectly, alone or in concert with others (including by directing, requesting or suggesting that the Saba RICs or any other person take any actions set forth below), unless specifically contemplated otherwise by this Agreement or specifically permitted in writing in advance by the Fund and the Advisor, take any of the actions with respect to the Fund as set forth below:</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_4"></a>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>effect, seek, offer, engage in, propose (whether publicly or otherwise and whether or not subject to conditions) or cause, participate in or act to, or assist any other person to effect, seek, engage in, offer or propose (whether publicly or otherwise) or cause, participate in or act to or take action with respect to any "solicitation" of "proxies" or become a "participant" in any such "solicitation" as such terms are defined in Regulation 14A under the Exchange Act, including any otherwise exempt solicitation pursuant to clause (iv) of Rule 14a-1(l)(2) and any otherwise exempt solicitation pursuant to Rule 14a-2(b), in each case, with respect to securities of the Fund (including, without limitation, any solicitation of consents to act by written consent or call a special meeting of shareholders);</p>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>publicly or privately encourage or advise any person or assist or act to assist any person in so encouraging or advising any person with respect to the giving or withholding of any proxy, consent or other authority to vote (other than such encouragement or advice that is consistent with the recommendation of the Board with respect to the Fund in connection with the relevant matter or encouragement or advice solely among Saba and its Affiliates);</p>
+    <p style="text-indent: 72pt; text-align: justify;">(c)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>engage, directly or indirectly, in any short sale that includes, relates to or derives any part of its value from a decline in the market price or value of the securities issued by the Fund;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(d)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>form, join or in any way participate in any "group" (within the meaning of Section 13(d)(3) of the Exchange Act and Rule 13d-5(b)(1) thereunder) (other than a group that consists solely of Saba and its Affiliates) with respect to the securities of the Fund or in connection with seeking the election or removal of any trustee of the Fund;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(e)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>deposit any securities of the Fund in any voting trust or subject any securities of the Fund to any arrangement or agreement with respect to the voting of the securities of the Fund, including, without limitation, lend any securities of the Fund to any person or entity for the purpose of allowing such person or entity to vote such securities in connection with any shareholder vote or consent of the Fund or to sell such securities, other than any such voting trust, arrangement or agreement solely among the members of Saba and its Affiliates, provided that Saba and its Affiliates may grant any liens or encumbrances on any claims or interests in favor of a bank or broker-dealer or prime broker holding such claims or interests in custody or prime brokerage in the ordinary course of business, which lien or encumbrance is released upon the transfer of such claims or interests in accordance with the terms of the custody or prime brokerage agreement(s), as applicable;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(f)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>seek, alone or in concert with others, (i) the election or appointment to, or representation on, the Board, including by nominating or proposing the nomination of, or recommending the nomination of, any candidate to the Board, or (ii) the removal or resignation of any trustee from the Board, or publicly or privately encourage any such actions in clause (i) or (ii) specifically with regard to the Fund;</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_5"></a>
+    <p style="text-indent: 72pt; text-align: justify;">(g)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>make any proposal for consideration by shareholders at, or bring any other business before, any annual or special meeting of shareholders of the Fund (pursuant to Rule 14a-8 under the Exchange Act or otherwise), or take any action (other than as required by this Agreement) with respect to any shareholder proposal or written consent submitted prior to the date of this Agreement or during the Effective Period;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(h)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>conduct a referendum of shareholders of the Fund, or make a request for a shareholder list or other books and records of the Fund under federal, Maryland or New York law or any other statutory or regulatory provision or under the agreement and declaration of trust (the "<b>Charter</b>") or Bylaws of the Fund;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(i)<font style="width: 24.67pt; text-indent: 0pt; display: inline-block;">&#160;</font>seek to control or influence the Board or the Fund or the policies or management of the Fund;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(j)<font style="width: 24.67pt; text-indent: 0pt; display: inline-block;">&#160;</font>make any public statement or public proposal with respect to (i) any change in the number, term or classification of trustees or the filling of any vacancies on the Board, (ii) any change in the capitalization, share repurchase program, dividend policy or distribution policy of the Fund, (iii) any other material change in the Fund's management, business, policies or corporate structure or (iv) any waiver, amendment or modification to the Charter or Bylaws of the Fund or the Fund's investment management agreements;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(k)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>publicly or privately disclose any intention, plan or arrangement inconsistent with the foregoing;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(l)<font style="width: 24.67pt; text-indent: 0pt; display: inline-block;">&#160;</font>enter into any discussions, negotiations, arrangements or understandings with any person with respect to any of the foregoing, or advise, assist or encourage or seek to persuade others to take any action with respect to any of the foregoing;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(m)<font style="width: 18.67pt; text-indent: 0pt; display: inline-block;">&#160;</font>effect, seek, offer, engage in, propose or cause, participate in or act to, or assist any other person to effect, seek, engage in, offer or propose or cause, participate in or act to (other than as specifically contemplated by this Agreement) any (i) tender or exchange offer for securities of the Fund (aside from the Tender Offer or any other tender offer offered or approved by the Fund to all shareholders), or any merger, consolidation, business combination or acquisition or disposition of assets of the Fund, or (ii) recapitalization, restructuring, open-ending, liquidation, dissolution or other similar extraordinary transaction with respect to the Fund (it being understood that the foregoing shall not restrict any person (including Saba and its Affiliates) from tendering Common Shares, receiving payment for Common Shares or otherwise participating in any such transaction on the same basis as other shareholders of the Fund or from participating in any such transaction that has been approved by the Board, subject to the terms of this Agreement); or</p>
+    <p style="text-indent: 72pt; text-align: justify;">(n)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>publicly, or privately in a manner that is intended to or would reasonably be expected to require any public disclosure by the Fund or Saba, request that (i) the Fund, the Board or any of their respective representatives amend or waive any provision of this Section 3 (including this Section 3.1(n)) or (ii) the Board to specifically invite Saba or any of its Affiliates to take any of the actions prohibited by this Section 3.1.</p>
+    <p style="text-indent: 72pt; text-align: justify;">Nothing herein shall be deemed to prohibit Saba and its Affiliates from communicating privately with the trustees, officers and advisors of the Fund (including the Advisor) so long as such private communications are not intended to and would not be reasonably determined to trigger public disclosure obligations for any Party.&#160; In addition, the covenants set forth in this Section 3.1 shall not be deemed to prevent the voting of any voting securities of the Fund held by a Saba RIC in the same proportion as the vote of all other holders of such security ("<b>Mirror Voting</b>") in accordance with the proxy voting policy of such Saba RIC or prevent the Saba RICs from taking or failing to take any other action during the Effective Period; provided, however, Saba agrees that to the extent not inconsistent with its legal and regulatory obligations in respect of the Saba RICs under the 1940 Act (including its obligations set forth in its Investment Advisory Agreements with such Saba RICs) and the Investment Advisers Act of 1940, as amended, it and its Affiliates will not advise any of the Saba RICs to take or omit to take any action which Saba or any of its Affiliates is prohibited to take or is required to take, as the case may be, under this Agreement.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_6"></a>
+    <p style="text-indent: 72pt; text-align: justify;">Notwithstanding anything to the contrary in this Agreement, nothing in this Agreement will restrict or prohibit Saba and its Related Parties (as defined below) from taking any actions with respect to any fund (except for the Fund) advised by the Advisor, any member of the Board in their capacities as directors/trustees of any fund (except in their capacities as trustees of the Fund) advised by the Advisor or the Advisor in connection with its management of another fund.</p>
+    <p style="text-indent: 72pt; text-align: justify;">3.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Saba further covenants and agrees that during the Effective Period, it will, and will cause each of its Affiliates to:</p>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>appear by proxy or otherwise at all annual and special meetings of shareholders of the Fund and to cause all Common Shares and any other voting securities of the Fund it beneficially owns as of the record date for any such meeting to be counted as present thereat for purposes of a quorum; and</p>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>vote or cause to be voted at all annual and special meetings of shareholders of the Fund all Common Shares and any other voting securities of the Fund it and its Affiliates beneficially own as of the record date and is legally entitled to vote for such meeting (i) in favor of election of the Board's trustee nominees, (ii) against any proposal made in opposition to, or in competition or inconsistent with, the recommendation of the Board regarding the election of the Board's trustee nominees or a shareholder proposal submitted to the Fund pursuant to Rule 14a-8 under the Exchange Act or otherwise, and (iii) in accordance with the Board's recommendations on any other matter submitted to the Fund's shareholders.</p>
+    <p style="text-indent: 72pt; text-align: justify;">For the avoidance of doubt, if Saba or any of its Affiliates lends any Common Shares of the Fund to any third party (in compliance with the restrictions in Section 3.1), Saba or its Affiliates, as applicable, shall recall any such stock loan in advance of the record date for any vote of or consent by the shareholders of the Fund so that Saba shall have full voting rights with respect to all such loaned Common Shares (except for the Saba RICs), provided that the Fund informs Saba in writing of such record date at least ten (10) business days in advance of such record date.&#160; In no event shall Saba or any Affiliate enter into any agreement with the intent of disposing, or resulting in the disposition of, its rights to vote any of the Common Shares of the Fund in circumvention of the requirements of this Section 3.2; <i>provided, however</i>, that a final sale of Common Shares of the Fund (not coupled with any repurchase agreement or similar reacquisition agreement) shall not be considered a prohibited sale of voting rights in contravention of this Section 3.2.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_7"></a>
+    <p style="text-indent: 72pt; text-align: justify;">Notwithstanding the foregoing, (A) Saba shall have no obligations under Section 3.2(a) or 3.2(b) hereof in connection with any solicitation of votes, consents or approvals of shareholders of the Fund with respect to a transaction, proposal or arrangement that would violate the Fund's agreements and undertakings in this Agreement and (B) for the avoidance of doubt, if any Saba RIC has purchased or otherwise acquired voting securities of the Fund, such Saba RIC will Mirror Vote such securities or, to the extent permitted by applicable law and the proxy voting policy of such Saba RIC, abstain from voting such voting securities.</p>
+    <p style="text-indent: 72pt; text-align: justify;">3.3<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Upon the written request of the Fund, which shall be made no more frequently than once each fiscal year of the Fund, Saba will notify the Fund in writing of the number of Common Shares or any other voting securities of the Fund beneficially owned by it and its Affiliates.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 4. Representation and Warranties</b>.</p>
+    <p style="text-indent: 72pt; text-align: justify;">4.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Saba represents and warrants as follows:</p>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>It is duly organized and validly existing under the laws of the jurisdiction of its organization or incorporation and, if relevant under such laws, in good standing.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>It has the power and authority to execute, deliver and perform and carry out the terms and provisions of this Agreement and to consummate the transactions contemplated hereby.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(c)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>This Agreement has been duly and validly authorized, executed and delivered by it and is enforceable against it in accordance with its terms.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(d)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>The execution and delivery of this Agreement and the consummation of the transactions contemplated hereby will not contravene any agreement, organizational document or provision of law applicable to it.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(f)<font style="width: 24.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>As of the date hereof, it beneficially owns, directly or indirectly, and has the power to vote, all the Common Shares as described in the recitals to this Agreement (except for any Common Shares legally owned by any Saba RIC), and its and its Affiliates ownership of Common Shares has at all times complied with applicable provisions of the 1940 Act and the Exchange Act, and the rules under such acts.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(g)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>As of the date hereof, neither Saba nor any of its Affiliates is a party to any derivative transactions, including without limitation any swap or hedging transactions or other derivative agreement, or any securities lending or short sale arrangements, of any nature with respect to the Common Shares.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_8"></a>
+    <p style="text-indent: 72pt; text-align: justify;">4.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Each of the Fund and the Advisor represents and warrants as follows:</p>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>It is duly organized and validly existing under the laws of the jurisdiction of its organization or incorporation and, if relevant under such laws, in good standing.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>It has the power and authority to execute, deliver and perform and carry out the terms and provisions of this Agreement and to consummate the transactions contemplated hereby.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(c)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>This Agreement has been duly and validly authorized, executed and delivered by it and is enforceable against it in accordance with its terms.</p>
+    <p style="text-indent: 72pt; text-align: justify;">(d)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>The execution and delivery of this Agreement and the consummation of the transactions contemplated hereby will not contravene any agreement, organizational document or provision of law applicable to it.</p>
+    <p style="text-indent: 72pt; text-align: justify;">4.3<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>The Fund further represents and warrants that the Board, including a majority of the trustees who are not "interested persons" (within the meaning of Section 2(a)(19) of the 1940 Act) of the Fund, has approved the execution, delivery and performance of this Agreement by and on behalf of the Fund.</p>
+    <p style="text-indent: 72pt; text-align: justify;">4.4<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>The Fund and Advisor will use their reasonable best efforts to consummate the Tender Offer contemplated by this Agreement and to cause the conditions to the Tender Offer set forth in <u>Section 2.1 </u>to be satisfied.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 5. Publicity</b>.</p>
+    <p style="text-indent: 72pt; text-align: justify;">5.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>No earlier than 8:00 a.m., Eastern Time, on January 21, 2025 and no later than one business day following the date of this Agreement, (a) the Fund shall issue a press release in the form attached as <u>Exhibit A</u> (the "<b>Fund Press Release</b>") and (b) Saba shall issue a press release in the form attached as <u>Exhibit B</u> (the "<b>Saba Press Release</b>" and, together with the Fund Press Release, the "<b>Press Releases</b>"), and no Party shall make any public statement inconsistent with the Press Releases during the Effective Period in connection with the announcement of this Agreement.&#160; No Party shall engage with press, media, social media, analysts or other persons, including publicly, off the record or under embargo, before both Press Releases are issued.&#160; No Party shall issue additional press releases in connection with this Agreement or the actions contemplated hereby, excluding any Fund press release disclosing information regarding the Tender Offer (e.g., commencement and expiration dates) issued by the Fund in close approximation to the commencement of the Tender Offer (so long as such press release is consistent with the terms of this Agreement), without the prior written consent of the other Parties (such consent not to be unreasonably withheld, conditioned or delayed); provided, however, that nothing in this Agreement shall prevent (a) any Party from taking any action required by any governmental or regulatory authority (except to the extent such requirement arose by discretionary acts by such Party), including without limitation any statements, filings, notices or announcements made in the context of an issuer tender offer conducted under Section 13(e)(1) of, or pursuant to Schedule TO under, the Exchange Act, (b) any Party from making any factual statement that is required in any compelled testimony or production of information, either by legal process, by subpoena or as part of a response to a request for information from any governmental or regulatory authority with jurisdiction over such Party or as otherwise legally required and (c) any Party from communicating privately with its respective investors, prospective investors and governance boards regarding the terms of this Agreement.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_9"></a>
+    <p style="text-indent: 72pt; text-align: justify;">5.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Saba shall promptly prepare and file with the U.S. Securities and Exchange Commission ("<b>SEC</b>") an amendment to its Schedule 13D in respect of the Fund reporting the entry into this Agreement (which amendment will not contain any statement inconsistent with the Press Releases and the Item 4 disclosure set forth therein will be in a form materially consistent with a draft to be provided to the Fund). Saba shall also file a copy of this Agreement or a summary thereof as an exhibit to the Schedule 13D amendments.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 6. Termination</b>.</p>
+    <p style="text-indent: 72pt; text-align: justify;">6.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Notwithstanding anything herein to the contrary if the Fund fails to complete its Tender Offer and distribute the proceeds in cash to the participating shareholders before the Tender Offer Payment Date, this Agreement shall immediately terminate.</p>
+    <p style="text-indent: 72pt; text-align: justify;">6.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>This Agreement shall terminate at the earliest of:</p>
+    <p style="text-indent: 72pt; text-align: justify;">(a)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>the last day of the Effective Period;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(b)<font style="width: 22.01pt; text-indent: 0pt; display: inline-block;">&#160;</font>such other date as may be established by mutual written agreement of the Fund, the Advisor and Saba;</p>
+    <p style="text-indent: 72pt; text-align: justify;">(c)<font style="width: 22.68pt; text-indent: 0pt; display: inline-block;">&#160;</font>the tenth (10<sup>th</sup>) business day after written notice by Saba to the Fund advising of a material breach of this Agreement by the Fund, if such breach has not been cured or remedied on or prior to such day; provided, however, that Saba is not in material breach of this Agreement at the time such notice is given; and</p>
+    <p style="text-indent: 72pt; text-align: justify;">(d) the tenth (10<sup>th</sup>) business day after written notice by the Fund to Saba advising of a material breach of this Agreement by Saba, if such breach has not been cured or remedied on or prior to such day; provided, however, that the Fund is not in material breach of this Agreement at the time such notice is given.</p>
+    <p style="text-indent: 72pt; text-align: justify;">6.3<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font>Section 9 hereof will survive the termination of this Agreement.&#160; No termination pursuant to Section 6.1 or Section 6.2 hereof shall relieve any Party from liability for any breach of this Agreement prior to such termination.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 7. No Disparagement</b>.&#160; During the Effective Period (except in connection with any ongoing or future litigation between Saba and its Affiliates, on the one hand, and (a) BlackRock ESG Capital Allocation Term Trust ("<b>ECAT</b>") and ECAT's trustees in their capacities as trustees of ECAT, on the other hand (such ongoing or future litigation, "<b>ECAT Litigation</b>") and (b) ECAT and BlackRock Municipal Income Fund, Inc. ("<b>MUI</b>") and their respective trustees/directors in their capacities as trustees/directors of ECAT and MUI, if one or both funds elect to participate in the proceedings captioned <i>FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd., et al</i>, No. 24-345 (U.S. Supreme Court) (any such ongoing or future litigation, "<b>ECAT/MUI Litigation</b>"), as specified in the next paragraph), the Fund, the Advisor and Saba shall each refrain from making, and shall cause their respective affiliates (as defined in Rule 12b-2 of the Exchange Act) and its and their respective principals, directors, trustees, members, general partners, officers, agents, advisors and employees ("<b>Related Parties</b>") not to make or cause to be made, any public statement or announcement, including in any document or report filed with or furnished to the SEC or through the press, media, social media, analysts or other persons, that constitutes an <i>ad hominem</i> attack on, or otherwise, whether true or false, disparages, defames, slanders, impugns or is reasonably likely to damage the reputation, character, honesty, integrity, morality, business acumen or abilities of (a) in the case of statements or announcements by Saba or its Related Parties: the Fund, the Advisor or any of their respective affiliates, or any of their respective current or former principals, directors, trustees, members, general partners, officers or employees and (b) in the case of statements or announcements by the Fund, the Advisor or any of their respective Related Parties: Saba, its Affiliates or any of their respective current or former principals, directors, trustees, members, general partners, officers or employees.&#160; Notwithstanding anything herein to the contrary, this Section 7 shall not apply to listed companies in the United Kingdom advised by the Advisor or its affiliates that have not entered into their own standstill agreements with Saba (collectively, "<b>UK Listed Funds</b>") or the directors of such UK Listed Funds.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_10"></a>
+    <p style="text-indent: 72pt; text-align: justify;">Notwithstanding anything herein to the contrary, and for the avoidance of doubt, each of the Parties' counsel may make any statement in connection with the ECAT Litigation or the ECAT/MUI Litigation that they, in their good faith professional judgment, determine is reasonably appropriate to advance the ECAT Litigation or the ECAT/MUI Litigation so long as such statement does not constitute an <i>ad hominem</i> attack on any current or former trustee, director, officer or employee of ECAT, MUI, the Advisor, Saba or their respective affiliates.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 8. Good Standing.&#160; </b>Each of the Parties agrees that they will and will cause their respective affiliates (as defined in Rule 12b-2 of the Exchange Act), parents and subsidiaries to use reasonable best efforts to treat the other Parties and their respective affiliates (as defined in Rule 12b-2 of the Exchange Act) and their respective private and public funds and separately managed accounts in good standing and to act in good faith in commercial contexts.</p>
+    <p style="text-indent: 72pt; text-align: justify;"><b>Section 9. Miscellaneous</b>.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.1<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Specific Performance</u>.&#160; Each Party hereby acknowledges and agrees that irreparable harm will occur in the event any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached.&#160; It is accordingly agreed that the Parties will be entitled to seek specific performance hereunder, including, without limitation, an injunction or injunctions to prevent and enjoin breaches of the provisions of this Agreement and to enforce specifically the terms and provisions hereof, in any state or federal court situated in New York County, New York, in addition to any other remedy to which they may be entitled at law or in equity.&#160; Any requirements for the securing or posting of any bond with respect to any such remedy are hereby waived.&#160; All rights and remedies under this Agreement are cumulative, not exclusive and will be in addition to all rights and remedies available to any Party at law or in equity.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.2<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>No Litigation</u>.&#160; During the Effective Period, each Party and their affiliates (as such term is used in this Section 9.2, shall be as defined in Rule 12b-2 of the Exchange Act) hereby covenants and agrees that it shall not, institute, solicit, assist in or join any litigation, arbitration or other proceeding against or involving any of the other Parties or their affiliates; provided, however, that for the avoidance of doubt the foregoing shall not prevent the Parties and their affiliates from (i) instituting litigation to enforce the provisions of this Agreement, (ii) making counterclaims with respect to any proceeding initiated by, or on behalf of, any of the other Parties, (iii) participating in (A) the ECAT Litigation and (B) the proceedings captioned <i>FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd., et al</i>, No. 24-345 (U.S. Supreme Court) or (iv) responding to or complying with a validly issued legal process; provided, however, that if at any point during the Effective Period either Party believes that potential claims under the 1940 Act have accrued, (a) such Party will notify the other Party of the accrual of such 1940 Act claims within 14 days of becoming aware of such claims, (b) the Parties will enter into an agreement tolling the limitations period as to any such 1940 Act claims for the remainder of the Effective Period as long as the tolling period for such 1940 Act claims have not expired on the date of such notification, and (c) nothing in this paragraph or any such tolling agreement will constitute an admission that any such claims have merit or that there exists a private right of action under the 1940 Act.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_11"></a>
+    <p style="text-indent: 72pt; text-align: justify;">9.3<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Jurisdiction; Venue; Waiver of Jury Trial</u>.&#160; The Parties hereby irrevocably and unconditionally consent to and submit to the exclusive jurisdiction of the state or federal courts situated in New York County, New York (and the appellate courts thereof) for any actions, suits or proceedings arising out of or relating to this Agreement or the transactions contemplated hereby.&#160; The Parties irrevocably and unconditionally waive any objection to the laying of venue of any action, suit or proceeding arising out of this Agreement, or the transactions contemplated hereby, in the state or federal courts situated in New York County, New York, and hereby further irrevocably and unconditionally waive and agree not to plead or claim in any such court that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum.&#160; <b>Each of the Parties waives all right to trial by jury in any action, suit, proceeding or counterclaim (whether based upon contract, tort or otherwise) in any way arising out of or relating to this Agreement.</b></p>
+    <p style="text-indent: 72pt; text-align: justify;">9.4<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Entire Agreement</u>.&#160; This Agreement contains the entire understanding of the Parties with respect to the subject matter hereof and may be amended only by an agreement in writing executed by the Parties hereto.&#160; This Agreement supersedes all previous negotiations, representations and discussions by the Parties concerning the subject matter hereof, and integrates the whole of all of their agreements and understandings concerning the same.&#160; No prior oral representations or undertakings concerning the subject matter hereof will operate to amend, supersede or replace any of the terms or conditions set forth in this Agreement, nor will they be relied upon.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.5<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Section Headings</u>.&#160; Descriptive headings of sections of this Agreement are for convenience only and will not control or affect the meaning or construction of any provision of this Agreement.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.6<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Notices</u>.&#160; All notices, consents, requests, instructions, approvals and other communications provided for herein and all legal process in regard hereto will be validly given, made or served if in writing and sent by email, with a copy by personal delivery, certified mail, return receipt requested, or overnight courier service to:</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_12"></a>
+    <p style="margin-left: 72pt; text-align: justify;">If to the Fund and/or the Advisor, to:</p>
+    <p style="margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">BlackRock Health Sciences Term Trust</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">BlackRock Advisors, LLC</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">50 Hudson Yards</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">New York, New York 10001</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">Attention: Janey Ahn, Secretary</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; text-align: justify;">Email: [&#61599;]</p>
+    <p style="margin-left: 72pt; text-align: justify;">With a copy to (which copy shall not constitute notice):</p>
+    <p style="margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">Willkie Farr &amp; Gallagher LLP</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">787 Seventh Avenue</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">New York, New York 10019</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">Attention: Elliot J. Gluck</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; text-align: justify;">Email: [&#61599;]</p>
+    <p style="margin-left: 72pt; text-align: justify;">If to Saba, to:</p>
+    <p style="margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">Saba Capital Management, L.P.</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">405 Lexington Avenue, 58th Floor</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">New York, NY 10174</p>
+    <p style="margin-top: 0pt; margin-left: 99pt; margin-bottom: 0pt; text-align: justify;">Attention: Michael D'Angelo</p>
+    <p style="margin-top: 0pt; margin-left: 130.5pt; text-indent: -31.3pt; text-align: justify;">Email: [&#61599;]</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.7<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Severability</u>.&#160; Any provision of this Agreement that is invalid or unenforceable in any jurisdiction will, as to such jurisdiction, be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining provisions of this Agreement or affecting the validity or enforceability of any provisions of this Agreement in any other jurisdiction.&#160; In addition, the Parties agree to use their reasonable commercial efforts to agree upon and substitute a valid and enforceable term, provision, covenant or restriction for any such term, provision, covenant or restriction that is held invalid, void or unenforceable by a court of competent jurisdiction.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.8<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Prevention of Prohibited Conduct</u>: The Parties shall take commercially reasonable efforts to prevent their present and future general partners, members, directors, officers and affiliates (as defined in Rule 12b-2 of the Exchange Act) from engaging in conduct otherwise prohibited by this Agreement.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.9<font style="width: 21pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Good Faith Renegotiation</u>.&#160; Subject to Section 4.4, if any regulatory authority asserts that this Agreement, or any provision hereof, violates applicable law, the Parties agree to, as soon as practicable, consider in good faith the advisability of renegotiating the terms hereof, and if determined by the Parties to be advisable, renegotiate the terms hereof in good faith and reflect such renegotiated terms in an amendment to this Agreement or in an amended and restated agreement.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_13"></a>
+    <p style="text-indent: 72pt; text-align: justify;">9.10<font style="width: 15pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Expenses</u>.&#160; All attorneys' fees, costs and expenses incurred in connection with this Agreement and all matters related hereto will be paid by the Party incurring such fees, costs or expenses.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.11<font style="width: 15pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Governing Law</u>. This Agreement will be governed by and construed and enforced in accordance with the laws of the State of New York, without regard to the conflict of law principles thereof.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.12<font style="width: 15pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Binding Effect; No Assignment</u>.&#160; This Agreement will be binding upon and inure to the benefit of and be enforceable by the successors and assigns of the Parties.&#160; Nothing in this Agreement, expressed or implied, is intended to confer on any person other than the Parties and those categories of persons specifically enumerated herein, or their respective successors and assigns, any rights, remedies, obligations or liabilities under or by reason of this Agreement.&#160; No Party to this Agreement may, directly or indirectly, assign its rights or delegate its obligations hereunder (whether voluntarily, involuntarily or by operation of law) without the prior written consent of the other Parties.&#160; Any such attempted assignment or delegation will be null and void.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.13<font style="width: 15pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Amendments; Waivers</u>.&#160; No provision of this Agreement may be amended other than by an instrument in writing signed by the Parties, and no provision hereof may be waived other than by an instrument in writing signed by the Party against whom enforcement is sought.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.14<font style="width: 15pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Receipt of Adequate Information; No Reliance; Representation by Counsel</u>.&#160; Each Party acknowledges that it has received adequate information to enter into this Agreement, that is has not relied on any promise, representation or warranty, express or implied, not contained in this Agreement and that it has been represented by counsel in connection with this Agreement.&#160; Accordingly, any rule of law or any legal decision that would provide any Party with a defense to the enforcement of the terms of this Agreement against such Party by reason of the foregoing shall have no application and is expressly waived.&#160; The provisions of this Agreement shall be interpreted in a reasonable manner to effect the intent of the Parties.</p>
+    <p style="text-indent: 72pt; text-align: justify;">9.15<font style="width: 15pt; text-indent: 0pt; display: inline-block;">&#160;</font><u>Counterparts; Electronic Execution</u>.&#160; This Agreement may be executed in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.&#160; Delivery of an executed signature page of this Agreement by email or other electronic means shall be effective as delivery of a manually executed counterpart hereof.</p>
+    <p style="text-align: center;">[Signature Pages Follow]</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_14"></a>
+    <p style="text-indent: 36pt; text-align: justify;"><b>IN WITNESS WHEREOF</b>, the Parties hereto have executed this Agreement as of the date first above written.</p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p><b>BlackRock Health Sciences Term Trust</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p><b>&#160;</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>/s/ John Perlowski</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="width: 50%; vertical-align: top; border-top: 0.75pt solid #000000;">
+                <p style="margin-bottom: 0pt; margin-top: 0pt;">Name:&#160; John Perlowski</p>
+                <p style="margin-top: 0pt; margin-bottom: 0pt;">Title:&#160; &#160; President and Chief Executive Officer</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-bottom: 0pt; width: 50%;">
+                <p><b>BlackRock Advisors, LLC</b></p>
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>/s/ John Perlowski</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>Name:&#160; John Perlowski</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-bottom: 0pt; width: 50%;">
+                <p>Title:&#160; &#160; Managing Director</p>
+                <p>&#160;</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-bottom: 0pt; width: 50%;">
+                <p><b>Saba Capital Management, L.P. </b></p>
+                <p><b><br>/</b>s/ Michael D'Angelo</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>Name:&#160; Michael D'Angelo</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>&#160;</p>
+            </td>
+            <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">
+                <p>Title:&#160; &#160; General Counsel</p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_15"></a>
+    <div id="header_page_15">
+        <p style="text-align: right;"><b>Exhibit A</b></p>
+    </div>
+    <p style="text-align: center;"><u><b>Fund Press Release</b></u></p>
+    <p style="text-align: right;"><u><b><img src="exhibit6xu001.jpg"></b></u></p>
+    <p style="margin-bottom: 0pt; text-align: justify;"><b>Contact:</b></p>
+    <p style="margin-top: 0pt; text-align: justify;"><b>1-800-882-0052</b></p>
+    <p style="text-align: center;"><b>BlackRock Announces Board Approval of New Tender Offers for BlackRock Innovation and <br>Growth Term Trust (BIGZ) and BlackRock Health Sciences Term Trust (BMEZ)</b></p>
+    <p style="text-align: justify; background-color: #fefefe;"><b>New York, January 21, 2025 - </b>BlackRock Advisors, LLC ("BlackRock") announced today that the Board of Trustees of BlackRock Innovation and Growth Term Trust (NYSE: BIGZ) has approved a tender offer to repurchase 50% of BIGZ's outstanding shares, and that the Board of Trustees of BlackRock Health Sciences Term Trust (NYSE: BMEZ) has approved a tender offer to repurchase 40% of BMEZ's outstanding shares, in each case at a price per share equal to 99.5% of the applicable Fund's net asset value per common share determined following the expiration of the tender offer (each, a "Tender Offer," and each of BIGZ and BMEZ, a "Fund" and together, the "Funds").</p>
+    <p style="text-align: justify; background-color: #fefefe;">Each Tender Offer is being proposed pursuant to an agreement (the "Agreement") among the applicable Fund, BlackRock and Saba Capital Management, L.P. ("Saba") (each, an "Agreement") that will expire after each Fund's 2027 proxy season. During the three-year effective period of each Agreement, Saba has agreed to (1) be bound by the terms of the Agreement, including certain customary standstill covenants, (2) withdraw the shareholder proposal previously submitted for consideration at the Fund's 2025 annual meeting of shareholders, and (3) vote the Fund shares held by Saba on proposals submitted to shareholders in accordance with the recommendation of the Fund's Board.</p>
+    <p style="text-align: justify; background-color: #fefefe;">In connection with the approval of the applicable Tender Offer, each Board has approved (i) the cancellation of the applicable Fund's tender offer for the quarterly measurement period ended December 31, 2024, which was announced on January 2, 2025, and (ii) the termination of the applicable Fund's previously announced discount management program, effective immediately.</p>
+    <p style="text-align: justify;"><b>IMPORTANT NOTICE </b></p>
+    <p style="text-align: justify;">This press release is for informational purposes only and shall not constitute an offer or a solicitation to buy any common shares. Any offer to purchase Fund common shares will be made pursuant to an offer on Schedule TO. COMMON SHAREHOLDERS ARE URGED TO READ THE TENDER OFFER MATERIALS, INCLUDING THE OFFER TO PURCHASE AND ANY SOLICITATION/RECOMMENDATION STATEMENT REGARDING THE TENDER OFFER, AS THEY MAY BE AMENDED OR SUPPLEMENTED FROM TIME TO TIME, WHEN THEY ARE FILED AND BECOME AVAILABLE, BECAUSE THEY CONTAIN IMPORTANT INFORMATION THAT HOLDERS OF COMMON SHARES SHOULD CONSIDER BEFORE MAKING ANY DECISION REGARDING TENDERING THEIR SHARES. Common shareholders may obtain a free copy of any of these statements and other documents filed with the U.S. Securities and Exchange Commission ("SEC") at the website maintained by the SEC at www.sec.gov or by directing such requests to the applicable Fund.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_16"></a>
+    <div id="header_page_16">
+        <p style="text-align: right;"><b>Exhibit A</b></p>
+    </div>
+    <p style="text-align: justify;"><b>About BlackRock </b></p>
+    <p style="text-align: justify;">BlackRock's purpose is to help more and more people experience financial well-being. As a fiduciary to investors and a leading provider of financial technology, we help millions of people build savings that serve them throughout their lives by making investing easier and more affordable. For additional information on BlackRock, please visit <font style="color: #ff4713;"><u>www.blackrock.com/corporate</u></font></p>
+    <p style="text-align: justify;"><b>Availability of Fund Updates</b></p>
+    <p style="text-align: justify;">BlackRock will update performance and certain other data for the Funds on a monthly basis on its website in the "Closed-end Funds" section of <font style="color: #005eb8;"><u>www.blackrock.com</u></font> as well as certain other material information as necessary from time to time. Investors and others are advised to check the website for updated performance information and the release of other material information about the Funds. This reference to BlackRock's website is intended to allow investors public access to information regarding the Funds and does not, and is not intended to, incorporate BlackRock's website in this release.</p>
+    <p style="text-align: justify;"><b>Forward-Looking Statements</b></p>
+    <p style="text-align: justify;">This press release, and other statements that BlackRock or the Funds may make, may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act, with respect to the Funds or BlackRock's future financial or business performance, strategies or expectations. Forward-looking statements are typically identified by words or phrases such as "trend," "potential," "opportunity," "pipeline," "believe," "comfortable," "expect," "anticipate," "current," "intention," "estimate," "position," "assume," "outlook," "continue," "remain," "maintain," "sustain," "seek," "achieve," and similar expressions, or future or conditional verbs such as "will," "would," "should," "could," "may" or similar expressions.</p>
+    <p style="text-align: justify;">BlackRock cautions that forward-looking statements are subject to numerous assumptions, risks and uncertainties, which change over time.&#160; Forward-looking statements speak only as of the date they are made, and BlackRock assumes no duty to and does not undertake to update forward-looking statements.&#160; Actual results could differ materially from those anticipated in forward-looking statements and future results could differ materially from historical performance.</p>
+    <p style="text-align: justify;">With respect to the Funds, the following factors, among others, could cause actual events to differ materially from forward-looking statements or historical performance: (1) changes and volatility in political, economic or industry conditions, the interest rate environment, foreign exchange rates or financial and capital markets, which could result in changes in demand for the Funds or a Fund's net asset value; (2) the relative and absolute investment performance of the Funds and its investments; (3) the impact of increased competition; (4) the unfavorable resolution of any legal proceedings; (5) the extent and timing of any distributions or share repurchases; (6) the impact, extent and timing of technological changes; (7) the impact of legislative and regulatory actions and reforms, and regulatory, supervisory or enforcement actions of government agencies relating to the Funds or BlackRock, as applicable; (8) terrorist activities, international hostilities, health epidemics and/or pandemics and natural disasters, which may adversely affect the general economy, domestic and local financial and capital markets, specific industries or BlackRock; (9) BlackRock's ability to attract and retain highly talented professionals; (10) the impact of BlackRock electing to provide support to its products from time to time; and (11) the impact of problems at other financial institutions or the failure or negative performance of products at other financial institutions.</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_17"></a>
+    <div id="header_page_17">
+        <p style="text-align: right;"><b>Exhibit A</b></p>
+    </div>
+    <p style="text-align: justify;">Annual and Semi-Annual Reports and other regulatory filings of the Funds with the SEC are accessible on the SEC's website at <b>www.sec.gov </b>and on BlackRock's website at <b>www.blackrock.com</b>, and may discuss these or other factors that affect the Funds. The information contained on BlackRock's website is not a part of this press release.</p>
+    <p style="text-align: center;">##</p>
+    <hr style="page-break-after: always; text-align: center;" width="100%" size="5" color="black" noshade="noshade"><a name="page_18"></a>
+    <div id="header_page_18">
+        <p style="text-align: right;"><b>Exhibit B</b></p>
+    </div>
+    <p style="text-align: center;"><u><b>Saba Press Release</b></u></p>
+    <p style="text-align: center;"><font style="font-size: 14pt;"><font style="color: #0070c0;">&#160;</font>Saba Capital Reaches Agreements with Two BlackRock Closed-End Funds</font></p>
+    <p style="text-align: center;"><i>BlackRock Innovation and Growth Term Trust and BlackRock Health Sciences Term Trust Will Conduct Cash <br>Tender Offers for 50% of Shares and 40% of Shares, Respectively, at 99.5% of NAV</i></p>
+    <p style="text-align: justify;">NEW YORK--(BUSINESS WIRE)--Saba Capital Management, L.P. (together with certain of its affiliates, "Saba") today announced that it has entered into standstill agreements (the "Agreements") with BlackRock Advisors, LLC, which is the investment advisor of the BlackRock Innovation and Growth Term Trust (NYSE: BIGZ) and the BlackRock Health Sciences Term Trust (NYSE: BMEZ) (the "Funds"), following constructive negotiations. Under the terms of the Agreements, BIGZ will conduct a tender offer to purchase for cash 50% of its outstanding common shares and BMEZ will conduct a tender offer to purchase for cash 40% of its outstanding common shares (the "Tender Offers"). The Tender Offers will provide all shareholders the opportunity to tender some or all of their common shares at a price equal to 99.5% of the Fund's net asset value per share ("NAV") as determined as of the close of the regular trading session of the New York Stock Exchange (the "NYSE") on the trading day after the expiration or closing date of the Tender Offers.</p>
+    <p style="text-align: justify;">The Tender Offers are expected to commence on March 21, 2025, in the case of BMEZ, and on June 9, 2025, in the case of BIGZ, and will expire or close on the 20<sup>th</sup> business day after their commencement and the Funds will pay for any Common Shares tendered no later than the seventh business day after the expiration or closing of the Tender Offers.</p>
+    <p style="text-align: justify;">The terms of the Agreements also provide for Saba to tender all of its Common Shares of the Funds and withdraw the shareholder proposals it submitted to the Funds, in addition to complying with certain standstill covenants for a period of three years, encompassing the 2027 proxy season.</p>
+    <p style="text-align: justify;">The full Agreements will be filed with the Securities and Exchange Commission.</p>
+    <p style="margin-bottom: 0pt; text-align: justify;"><b>About Saba Capital</b></p>
+    <p style="margin-top: 0pt; text-align: justify;">Saba Capital Management, L.P. is a global alternative asset management firm that seeks to deliver superior risk-adjusted returns for a diverse group of clients. Founded in 2009 by Boaz Weinstein, Saba is a pioneer of credit relative value strategies and capital structure arbitrage. Saba has offices in New York City and London. Learn more at <font style="color: #0563c1;"><u>www.sabacapital.com</u></font>.</p>
+    <p style="margin-bottom: 0pt; text-align: justify;"><b>Contacts</b></p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify;">Longacre Square Partners</p>
+    <p style="margin-top: 0pt; margin-bottom: 0pt; text-align: justify;">Charlotte Kiaie / Kate Sylvester, 646-386-0091</p>
+    <p style="margin-top: 0pt; text-align: justify;"><font style="color: #0563c1;"><u>ckiaie@longacresquare.com</u></font><font style="color: #0563c2;">&#160;</font>/ <font style="color: #0563c1;"><u>ksylvester@longacresquare.com</u></font><font style="color: #0070c0;">&#160;</font></p>
+    <hr width="100%" size="5" color="black" noshade="noshade">
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>exhibit6xu001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 exhibit6xu001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #__@ [0U)%051/4CH@9V0M:G!E9R!V,2XP
+M("AU<VEN9R!)2D<@2E!%1R!V.# I+"!Q=6%L:71Y(#T@.3 *_]L 0P # @(#
+M @(# P,#! ,#! 4(!04$! 4*!P<&" P*# P+"@L+#0X2$ T.$0X+"Q 6$!$3
+M%!45%0P/%Q@6%!@2%!44_]L 0P$#! 0%! 4)!04)% T+#104%!04%!04%!04
+M%!04%!04%!04%!04%!04%!04%!04%!04%!04%!04%!04%!04%!04_\  $0@
+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
+MBV]%\OY^G]WFO+O^"ES;?VV_B.>N)[4_^2L-?7<7_!;G2[+1H[:V^%=VUS#
+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
+M50BX  (! 'I69\+_ ($_#_X*C41X&\*:=X8&H;#=_8(RGG;-VS=SVW-^=%%
+M&=\2/V9_A9\7]=CUKQGX&T?Q%JL<(MUO+V#=((P20N01D D_G6[I'PB\':#H
+D&D:)I_A^TM=)TE&CL;1 =ENA.2J\]"2>.E%% '7XHHHH __9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

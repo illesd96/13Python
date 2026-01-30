@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0000790354-25-000005.txt : 20250121
+<SEC-HEADER>0000790354-25-000005.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121120856
+ACCESSION NUMBER:		0000790354-25-000005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHEMUNG FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000763563
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				161237038
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-37095
+		FILM NUMBER:		25541358
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CHEMUNG CANAL PLZ
+		STREET 2:		P O BOX 1522
+		CITY:			ELMIRA
+		STATE:			NY
+		ZIP:			14902
+		BUSINESS PHONE:		6077373711
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CHEMUNG CANAL PLZ
+		STREET 2:		P O BOX 1522
+		CITY:			ELMIRA
+		STATE:			NY
+		ZIP:			14902
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHEMUNG CANAL TRUST CO
+		CENTRAL INDEX KEY:			0000790354
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				160380815
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CHEMUNG CANAL PLAZA
+		STREET 2:		P O BOX 1522
+		CITY:			ELMIRA
+		STATE:			NY
+		ZIP:			14902-1522
+		BUSINESS PHONE:		6077373711
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 1522
+		CITY:			ELMIRA
+		STATE:			NY
+		ZIP:			14902-1522
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000790354-24-000011</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000790354</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>31</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000763563</issuerCik>
+        <issuerName>CHEMUNG FINANCIAL CORP</issuerName>
+        <issuerCusip>164024101</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>ONE CHEMUNG CANAL PLZ</com:street1>
+          <com:street2>ONE CHEMUNG CANAL PLZ</com:street2>
+          <com:city>ELMIRA</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>14902</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>CHEMUNG CANAL TRUST CO</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2000.00</soleVotingPower>
+        <sharedVotingPower>350227.00</sharedVotingPower>
+        <soleDispositivePower>2000.00</soleDispositivePower>
+        <sharedDispositivePower>282046.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>352227.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.4</classPercent>
+      <typeOfReportingPerson>BK</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>CHEMUNG FINANCIAL CORP</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>ONE CHEMUNG CANAL PLZ, ONE CHEMUNG CANAL PLZ, ELMIRA, NEW YORK, 14902.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Chemung Canal Trust Company</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>One Chemung Canal Plaza
+Elmira, New York 14901</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>State of New York, U.S.A.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>BK</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>352,227</amountBeneficiallyOwned>
+        <classPercent>7.41% based on 4,754,195 shares outstanding as of December 31, 2024, as reported by the issuer.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>2,000</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>350,227</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>2,000</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>282,046</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The reporting person is a trust company that holds shares of the issuer's common stock in a variety of trust, estate, investment management, and custodial accounts.  Co-executors and co-trustees of relevant estates and trusts and account beneficiaries had varying rights to receive and/or power to direct the receipt of dividends from or the proceeds of sale of shares.
+
+Of the shares reported as beneficially owned by the reporting person, 112,124 shares (2.36% of the total outstanding) were held in trust under a tax-qualified retirement plan sponsored by the reporting person for the benefit of its employees.
+</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>CHEMUNG CANAL TRUST CO</reportingPersonName>
+      <signatureDetails>
+        <signature>Thomas W. Wirth</signature>
+        <title>Executive Vice President</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

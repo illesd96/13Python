@@ -1,0 +1,196 @@
+<SEC-DOCUMENT>0001839882-25-004139.txt : 20250128
+<SEC-HEADER>0001839882-25-004139.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128112100
+ACCESSION NUMBER:		0001839882-25-004139
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Voya Global Advantage & Premium Opportunity Fund
+		CENTRAL INDEX KEY:			0001332943
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-82521
+		FILM NUMBER:		25561959
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7337 EAST DOUBLETREE RANCH ROAD
+		STREET 2:		STE 100
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258
+		BUSINESS PHONE:		480-477-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		7337 EAST DOUBLETREE RANCH ROAD
+		STREET 2:		STE 100
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85258
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ING Global Advantage & Premium Opportunity Fund
+		DATE OF NAME CHANGE:	20050713
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Advisors Asset Management, Inc.
+		CENTRAL INDEX KEY:			0001297376
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18925 BASE CAMP ROAD
+		CITY:			MONUMENT
+		STATE:			CO
+		ZIP:			80132
+		BUSINESS PHONE:		719-488-8251
+
+	MAIL ADDRESS:	
+		STREET 1:		18925 BASE CAMP ROAD
+		CITY:			MONUMENT
+		STATE:			CO
+		ZIP:			80132
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fixed Income Securities, Inc.
+		DATE OF NAME CHANGE:	20080207
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Fixed Income Securities LP
+		DATE OF NAME CHANGE:	20040715
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001839882-23-020986</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Advisors Asset Management, Inc. -->
+          <cik>0001297376</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001332943</issuerCik>
+        <issuerName>Voya Global Advantage and Premium Opportunity Fund</issuerName>
+        <issuerCusip>92912R104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>7337 E. Doubletree Ranch Road</com:street1>
+          <com:city>Scottsdale</com:city>
+          <com:stateOrCountry>AZ</com:stateOrCountry>
+          <com:zipCode>85258-2034</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Advisors Asset Management, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1224550.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1224550.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1224550.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.982</classPercent>
+      <typeOfReportingPerson>BD</typeOfReportingPerson>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Voya Global Advantage and Premium Opportunity Fund</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>337 E. Doubletree Ranch Road Scottsdale, AZ 85258-2034</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Advisors Asset Management, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>18925 Base Camp Road, Monument, Colorado 80132</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware, U.S.A.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>BD</typeOfPersonFiling>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,224,550</amountBeneficiallyOwned>
+        <classPercent>7.982%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1,224,550</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1,224,550</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Advisors Asset Management, Inc. is sponsor of several unit investment trusts which hold shares of common stock of the issuer.  No unit investment trust sponsored by Advisors Asset Management, Inc. holds 5% or more of the issuer's common stock.  Advisors Asset Management, Inc. disclaims beneficial ownership of such shares of the issuer identified in this filing.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>See Item 6</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Advisors Asset Management, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Scott Colyer</signature>
+        <title>Scott Colyer/Chief Executive Officer</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

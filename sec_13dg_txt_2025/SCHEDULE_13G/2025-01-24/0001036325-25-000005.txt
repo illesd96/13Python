@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001036325-25-000005.txt : 20250124
+<SEC-HEADER>0001036325-25-000005.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124151145
+ACCESSION NUMBER:		0001036325-25-000005
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MGM Resorts International
+		CENTRAL INDEX KEY:			0000789570
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				880215232
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-40054
+		FILM NUMBER:		25553763
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3600 LAS VEGAS BLVD S
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89109
+		BUSINESS PHONE:		702-693-7120
+
+	MAIL ADDRESS:	
+		STREET 1:		3600 LAS VEGAS BLVD S.
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MGM MIRAGE
+		DATE OF NAME CHANGE:	20000823
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MGM GRAND INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GRAND NAME CO
+		DATE OF NAME CHANGE:	19870713
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DAVIS SELECTED ADVISERS
+		CENTRAL INDEX KEY:			0001036325
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				850360310
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2949 E. ELVIRA ROAD
+		STREET 2:		SUITE 101
+		CITY:			TUCSON
+		STATE:			AZ
+		ZIP:			85756
+		BUSINESS PHONE:		(520)806-7600
+
+	MAIL ADDRESS:	
+		STREET 1:		2949 E. ELVIRA ROAD
+		STREET 2:		SUITE 101
+		CITY:			TUCSON
+		STATE:			AZ
+		ZIP:			85756
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001036325</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000789570</issuerCik>
+        <issuerName>MGM Resorts International</issuerName>
+        <issuerCusip>552953101</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>3600 LAS VEGAS BLVD S</com:street1>
+          <com:city>LAS VEGAS</com:city>
+          <com:stateOrCountry>NV</com:stateOrCountry>
+          <com:zipCode>89109</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>DAVIS SELECTED ADVISERS</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>CO</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>19442748.00</soleVotingPower>
+        <sharedVotingPower>477965.00</sharedVotingPower>
+        <soleDispositivePower>19920713.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>19920713.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.1</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>MGM Resorts International</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3600 LAS VEGAS BLVD S, LAS VEGAS, NEVADA, 89109.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Davis Selected Advisers</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>2949 East Elvira Road, Suite 101 Tucson, Arizona 85756</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>See Item 4 of Cover Page</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>19920713</amountBeneficiallyOwned>
+        <classPercent>7.1</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>19442748</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>477965</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>19920713</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>DAVIS SELECTED ADVISERS</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Michaela McLoughry</signature>
+        <title>Vice President, Chief Compliance Officer</title>
+        <date>01/22/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

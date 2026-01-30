@@ -1,0 +1,478 @@
+<SEC-DOCUMENT>0000919574-25-000431.txt : 20250121
+<SEC-HEADER>0000919574-25-000431.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121213110
+ACCESSION NUMBER:		0000919574-25-000431
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dave Inc./DE
+		CENTRAL INDEX KEY:			0001841408
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92609
+		FILM NUMBER:		25543719
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1265 SOUTH COCHRAN AVENUE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90019
+		BUSINESS PHONE:		8448573283
+
+	MAIL ADDRESS:	
+		STREET 1:		1265 SOUTH COCHRAN AVENUE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VPC Impact Acquisition Holdings III, Inc.
+		DATE OF NAME CHANGE:	20210120
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Divisadero Street Capital Management, LP
+		CENTRAL INDEX KEY:			0001901865
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				872846246
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3480 MAIN HIGHWAY
+		STREET 2:		SUITE 204
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33133
+		BUSINESS PHONE:		415-378-0636
+
+	MAIL ADDRESS:	
+		STREET 1:		3480 MAIN HIGHWAY
+		STREET 2:		SUITE 204
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33133
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Divisadero Street Capital Management, LP -->
+          <cik>0001901865</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A common stock, par value $0.0001</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/10/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001841408</issuerCik>
+        <issuerName>Dave Inc./DE</issuerName>
+        <issuerCusip>23834J201</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1265 South Cochran Avenue</com:street1>
+          <com:city>Los Angeles</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90019</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Divisadero Street Capital Management, LP</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>865346.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>865346.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>865346.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.7</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>William Zolezzi</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>865346.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>865346.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>865346.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.7</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Divisadero Street Partners, L.P.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>641878.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>641878.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>641878.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.7</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Divisadero Street Partners GP, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>641878.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>641878.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>641878.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.7</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Divisadero Street Capital, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>865346.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>865346.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>865346.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.7</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Dave Inc./DE</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1265 South Cochran Ave, Los Angeles, California 90019</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Divisadero Street Capital Management, LP
+William Zolezzi
+Divisadero Street Partners, L.P.
+Divisadero Street Partners GP, LLC
+Divisadero Street Capital, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Divisadero Street Capital Management, LP
+3480 Main Highway, Suite 204
+Miami, FL 33133
+
+William Zolezzi
+c/o Divisadero Street Capital Management, LP
+3480 Main Highway, Suite 204
+Miami, FL 33133
+
+Divisadero Street Partners, L.P.
+3480 Main Highway, Suite 204
+Miami, FL 33133
+
+Divisadero Street Partners GP, LLC
+3480 Main Highway, Suite 204
+Miami, FL 33133
+
+Divisadero Street Capital, LLC
+3480 Main Highway, Suite 204
+Miami, FL 33133</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Divisadero Street Capital Management, LP - Delaware
+William Zolezzi - United States
+Divisadero Street Partners, L.P. - Delaware
+Divisadero Street Partners GP, LLC - Delaware
+Divisadero Street Capital, LLC - Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Divisadero Street Capital Management, LP - 865,346
+William Zolezzi - 865,346
+Divisadero Street Partners, L.P. - 641,878
+Divisadero Street Partners GP, LLC - 641,878
+Divisadero Street Capital, LLC - 865,346</amountBeneficiallyOwned>
+        <classPercent>Divisadero Street Capital Management, LP - 7.7%
+William Zolezzi - 7.7%
+Divisadero Street Partners, L.P. - 5.7%
+Divisadero Street Partners GP, LLC - 5.7%
+Divisadero Street Capital, LLC - 7.7%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Divisadero Street Capital Management, LP - 0
+William Zolezzi - 0
+Divisadero Street Partners, L.P. - 0
+Divisadero Street Partners GP, LLC - 0
+Divisadero Street Capital, LLC - 0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Divisadero Street Capital Management, LP - 865,346
+William Zolezzi - 865,346
+Divisadero Street Partners, L.P. - 641,878
+Divisadero Street Partners GP, LLC - 641,878
+Divisadero Street Capital, LLC - 865,346</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Divisadero Street Capital Management, LP - 0
+William Zolezzi - 0
+Divisadero Street Partners, L.P. - 0
+Divisadero Street Partners GP, LLC - 0
+Divisadero Street Capital, LLC - 0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Divisadero Street Capital Management, LP - 865,346
+William Zolezzi - 865,346
+Divisadero Street Partners, L.P. - 641,878
+Divisadero Street Partners GP, LLC - 641,878
+Divisadero Street Capital, LLC - 865,346</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the securities reported in this Schedule 13G are directly owned by advisory clients of Divisadero Street Capital Management, LP. None of those advisory clients, other than Divisadero Street Partners, L.P., may be deemed to beneficially own more than 5% of the Class A common stock, par value $0.0001 of the Issuer.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Please see Exhibit B attached hereto.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit A - Joint Filing Agreement
+
+Exhibit B - Control Person Identification</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Divisadero Street Capital Management, LP</reportingPersonName>
+      <signatureDetails>
+        <signature>By: Divisadero Street Capital, LLC, its general partner, By: /s/ William Zolezzi</signature>
+        <title>William Zolezzi, Manager</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>William Zolezzi</reportingPersonName>
+      <signatureDetails>
+        <signature>By: /s/ William Zolezzi</signature>
+        <title>William Zolezzi</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Divisadero Street Partners, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>By: Divisadero Street Partners GP, LLC, its general partner, By: /s/ William Zolezzi</signature>
+        <title>William Zolezzi, Manager</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Divisadero Street Partners GP, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>By: /s/ William Zolezzi</signature>
+        <title>William Zolezzi, Manager</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Divisadero Street Capital, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>By: /s/ William Zolezzi</signature>
+        <title>William Zolezzi, Manager</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11590385_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><U>Exhibit A</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>JOINT FILING AGREEMENT</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned agree that
+this Schedule 13G dated January 21, 2025 relating to the Class A common stock, par value $0.0001, of Dave Inc. shall be filed on behalf
+of the undersigned.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DIVISADERO STREET CAPITAL MANAGEMENT, LP</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: Divisadero Street Capital, LLC, its general partner</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ William Zolezzi</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: William Zolezzi</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title: Manager</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DIVISADERO STREET CAPITAL, LLC</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ William Zolezzi</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: William Zolezzi</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title: Manager</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">WILLIAM ZOLEZZI</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ William Zolezzi</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DIVISADERO STREET PARTNERS, L.P.</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: Divisadero Street Partners GP, LLC, its general partner</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ William Zolezzi</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: William Zolezzi</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title: Manager</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DIVISADERO STREET PARTNERS GP, LLC</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ William Zolezzi</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: William Zolezzi</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;Manager</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>d11590385_ex99-b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><U>Exhibit B</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>CONTROL PERSON IDENTIFICATION</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt">Divisadero Street Capital Management, LP is the relevant entity
+for which each of William Zolezzi and Divisadero Street Capital, LLC may be considered a control person.</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

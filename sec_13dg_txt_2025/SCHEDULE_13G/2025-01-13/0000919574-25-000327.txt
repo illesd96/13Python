@@ -1,0 +1,476 @@
+<SEC-DOCUMENT>0000919574-25-000327.txt : 20250113
+<SEC-HEADER>0000919574-25-000327.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113204048
+ACCESSION NUMBER:		0000919574-25-000327
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EchoStar CORP
+		CENTRAL INDEX KEY:			0001415404
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				261232727
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-83490
+		FILM NUMBER:		25527482
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9601 SOUTH MERIDIAN BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+		BUSINESS PHONE:		303-723-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		9601 SOUTH MERIDIAN BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EchoStar Holding CORP
+		DATE OF NAME CHANGE:	20071017
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Darsana Capital Partners LP
+		CENTRAL INDEX KEY:			0001609098
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				320432384
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 WEST 57TH STREET
+		STREET 2:		22ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-589-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		40 WEST 57TH STREET
+		STREET 2:		22ND FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Darsana Capital Partners LP -->
+          <cik>0001609098</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Common Stock, $0.001 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/07/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001415404</issuerCik>
+        <issuerName>EchoStar CORP</issuerName>
+        <issuerCusip>278768106</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>9601 South Meridian Boulevard</com:street1>
+          <com:city>Englewood</com:city>
+          <com:stateOrCountry>CO</com:stateOrCountry>
+          <com:zipCode>80112</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Darsana Capital Partners LP</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>7452052.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>7452052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>7452052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Darsana Capital Partners GP LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>7452052.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>7452052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>7452052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Darsana Master Fund LP</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>7452052.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>7452052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>7452052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Darsana Capital GP LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>7452052.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>7452052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>7452052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Anand Desai</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>7452052.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>7452052.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>7452052.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>EchoStar CORP</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>9601 South Meridian Boulevard, Englewood, CO, 80112</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Darsana Capital Partners LP
+Darsana Capital Partners GP LLC
+Darsana Master Fund LP
+Darsana Capital GP LLC
+Anand Desai</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Darsana Capital Partners LP
+40 WEST 57TH STREET, 22ND FLOOR, NEW YORK, NY, 10019
+
+Darsana Capital Partners GP LLC
+40 WEST 57TH STREET, 22ND FLOOR, NEW YORK, NY, 10019
+
+Darsana Master Fund LP
+40 WEST 57TH STREET, 22ND FLOOR, NEW YORK, NY, 10019
+
+Darsana Capital GP LLC
+40 WEST 57TH STREET, 22ND FLOOR, NEW YORK, NY, 10019
+
+Anand Desai
+40 WEST 57TH STREET, 22ND FLOOR, NEW YORK, NY, 10019</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Darsana Capital Partners LP - Delaware Darsana Capital Partners GP LLC - Delaware Darsana Master Fund LP - Cayman Islands Darsana Capital GP LLC - Delaware Anand Desai - United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Darsana Capital Partners LP - 7,452,052
+Darsana Capital Partners GP LLC - 7,452,052
+Darsana Master Fund LP - 7,452,052
+Darsana Capital GP LLC - 7,452,052
+Anand Desai - 7,452,052</amountBeneficiallyOwned>
+        <classPercent>Darsana Capital Partners LP - 5.3%
+Darsana Capital Partners GP LLC - 5.3%
+Darsana Master Fund LP - 5.3%
+Darsana Capital GP LLC - 5.3%
+Anand Desai - 5.3%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Darsana Capital Partners LP - 0
+Darsana Capital Partners GP LLC - 0
+Darsana Master Fund LP - 0
+Darsana Capital GP LLC - 0
+Anand Desai - 0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Darsana Capital Partners LP - 7,452,052
+Darsana Capital Partners GP LLC - 7,452,052
+Darsana Master Fund LP - 7,452,052
+Darsana Capital GP LLC - 7,452,052
+Anand Desai - 7,452,052</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Darsana Capital Partners LP - 0
+Darsana Capital Partners GP LLC - 0
+Darsana Master Fund LP - 0
+Darsana Capital GP LLC - 0
+Anand Desai - 0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Darsana Capital Partners LP - 7,452,052
+Darsana Capital Partners GP LLC - 7,452,052
+Darsana Master Fund LP - 7,452,052
+Darsana Capital GP LLC - 7,452,052
+Anand Desai - 7,452,052</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the securities reported in this Schedule 13G are directly owned by advisory clients of Darsana Capital Partners LP. None of those advisory clients, other than Darsana Master Fund LP, may be deemed to beneficially own more than 5% of the Class A Common Stock, $0.001 par value.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Please see Exhibit B attached hereto.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit A - Joint Filing Agreement
+
+Exhibit B - Control Person Identification</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Darsana Capital Partners LP</reportingPersonName>
+      <signatureDetails>
+        <signature>By: Darsana Capital Partners GP LLC, Its General Partner, /s/ Anand Desai</signature>
+        <title>Anand Desai, Chief Executive Officer</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Darsana Capital Partners GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Anand Desai</signature>
+        <title>Anand Desai, Chief Executive Officer</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Darsana Master Fund LP</reportingPersonName>
+      <signatureDetails>
+        <signature>By: Darsana Capital GP LLC, Its General Partner, /s/ Anand Desai</signature>
+        <title>Anand Desai, Chief Executive Officer</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Darsana Capital GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Anand Desai</signature>
+        <title>Anand Desai, Chief Executive Officer</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Anand Desai</reportingPersonName>
+      <signatureDetails>
+        <signature>Anand Desai</signature>
+        <title>/s/ Anand Desai</title>
+        <date>01/13/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>* Each Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his, her or its pecuniary interest therein, and this report shall not be deemed an admission that such Reporting Person is the beneficial owner of the securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.
+
+To the extent that "ownership of 5 percent or less of a class" was indicated in Item 5, such response only applies to the Reporting Person(s) that indicated elsewhere herein that it beneficially owns five percent (5%) or less of the class.</signatureComments>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11564820_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><U>Exhibit A</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>JOINT FILING AGREEMENT</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned agree that
+this Schedule 13G dated January 13, 2025 relating to the Class A Common Stock, $0.001 par value per share, of EchoStar CORP shall be filed
+on behalf of the undersigned.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DARSANA CAPITAL PARTNERS LP</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: Darsana Capital Partners GP LLC, Its General Partner</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Anand Desai</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: Anand Desai</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;Chief Executive Officer </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DARSANA CAPITAL PARTNERS GP LLC</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Anand Desai</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: Anand Desai</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;Chief Executive Officer </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DARSANA MASTER FUND LP</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: Darsana Capital GP LLC,</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Its General Partner</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Anand Desai</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: Anand Desai</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;Chief Executive Officer </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DARSANA CAPITAL GP LLC</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Anand Desai</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: Anand Desai</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;Chief Executive Officer </FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">ANAND DESAI</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Anand Desai</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>d11564820_ex99-b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><U>Exhibit B</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>CONTROL PERSON IDENTIFICATION</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Darsana Capital Partners LP is the relevant entity for which each of Darsana
+Capital Partners GP LLC and Anand Desai may be considered a control person.</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

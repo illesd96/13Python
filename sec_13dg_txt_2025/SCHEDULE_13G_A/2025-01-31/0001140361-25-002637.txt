@@ -1,0 +1,293 @@
+<SEC-DOCUMENT>0001140361-25-002637.txt : 20250131
+<SEC-HEADER>0001140361-25-002637.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131091505
+ACCESSION NUMBER:		0001140361-25-002637
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alchemy Investments Acquisition Corp 1
+		CENTRAL INDEX KEY:			0001901336
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94069
+		FILM NUMBER:		25576161
+
+	BUSINESS ADDRESS:	
+		STREET 1:		850 LIBRARY AVENUE, SUITE 204-F
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19711
+		BUSINESS PHONE:		(212) 877-1588
+
+	MAIL ADDRESS:	
+		STREET 1:		850 LIBRARY AVENUE, SUITE 204-F
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19711
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VAM Acquisition Corp.
+		DATE OF NAME CHANGE:	20211223
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WOLVERINE ASSET MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001279891
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				020611276
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 W. JACKSON
+		STREET 2:		SUITE 340
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60064
+		BUSINESS PHONE:		3128844400
+
+	MAIL ADDRESS:	
+		STREET 1:		175 WEST JACKSON
+		STREET 2:		SUITE 340
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60604
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13G/A</submissionType>
+<previousAccessionNumber>0001140361-24-043489</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001279891</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>1</amendmentNo>
+<securitiesClassTitle>Class A Ordinary Shares, $0.0001 par value per share</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0001901336</issuerCik>
+<issuerName>Alchemy Investments Acquisition Corp 1</issuerName>
+<issuerCusip>G0232F109</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<com:street1>850 Library Avenue, Suite 204-F</com:street1>
+<com:city>Newark</com:city>
+<com:stateOrCountry>DE</com:stateOrCountry>
+<com:zipCode>19711</com:zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>WOLVERINE ASSET MANAGEMENT LLC</reportingPersonName>
+<citizenshipOrOrganization>IL</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>88071</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>88071</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>88071</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>1.94</classPercent>
+<typeOfReportingPerson>IA</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Wolverine Trading Partners, Inc.</reportingPersonName>
+<citizenshipOrOrganization>IL</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>88071</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>88071</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>88071</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>1.94</classPercent>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Wolverine Holdings, L.P.</reportingPersonName>
+<citizenshipOrOrganization>IL</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>88071</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>88071</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>88071</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>1.94</classPercent>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Christopher L. Gust</reportingPersonName>
+<citizenshipOrOrganization>IL</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>88071</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>88071</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>88071</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>1.94</classPercent>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Robert R. Bellick</reportingPersonName>
+<citizenshipOrOrganization>IL</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>88071</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>88071</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>88071</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>1.94</classPercent>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+<typeOfReportingPerson>HC</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>Alchemy Investments Acquisition Corp 1</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>850 Library Avenue, Suite 204-F, Newark, Delaware, 19711</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>Wolverine Asset Management, LLC
+Wolverine Holdings, L.P.
+Wolverine Trading Partners, Inc.
+Christopher L. Gust
+Robert R. Bellick</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>c/o Wolverine Asset Management, LLC
+175 West Jackson Boulevard, Suite 340
+Chicago, IL 60604</principalBusinessOfficeOrResidenceAddress>
+<citizenship>Wolverine Asset Management, LLC - Illinois
+Wolverine Holdings, L.P. - Illinois
+Wolverine Trading Partners, Inc. - Illinois
+Christopher L. Gust - U.S. Citizen
+Robert R. Bellick - U.S. Citizen</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>N</notApplicableFlag>
+<typeOfPersonFiling>IA</typeOfPersonFiling>
+<typeOfPersonFiling>HC</typeOfPersonFiling>
+</item3>
+<item4>
+<amountBeneficiallyOwned>Wolverine Asset Management, LLC ("WAM") is an investment adviser and has voting and disposition power over 88,071 of the Issuer's Class A Ordinary Shares. The sole member and manager of WAM is Wolverine Holdings, L.P. ("Wolverine Holdings"). Robert R. Bellick and Christopher L. Gust may be deemed to control Wolverine Trading Partners, Inc. ("WTP"), the general partner of Wolverine Holdings.</amountBeneficiallyOwned>
+<classPercent>WAM may be deemed the beneficial owner of 1.94% of the Issuer's outstanding Class A Ordinary Shares and each of Wolverine Holdings, WTP, Mr. Bellick, and Mr. Gust may be deemed the beneficial owner of 1.94% of the Issuer's outstanding Class A Ordinary Shares. Percentages were calculated by dividing the number of shares beneficially owned by each reporting person by 4,532,462 (the number of Class A Ordinary Shares as of November 13, 2024 as reported in the Issuer's Form 10-Q for September 30, 2024).</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>WAM has shared power to vote, or direct the vote of, 88,071 of the Issuer's Class A Ordinary Shares, and each of Wolverine Holdings, WTP, Mr. Bellick, and Mr. Gust has shared power to vote or direct the vote of 88,071 of the Issuer's Class A Ordinary Shares, in each case as set forth in Item 4(a) above.</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>WAM has shared power to dispose, or direct the disposition of, 88,071 of the Issuer's Class A Ordinary Shares, and each of Wolverine Holdings, WTP, Mr. Bellick, and Mr. Gust has shared power to dispose, or direct the disposition, of 88,071 of the Issuer's Class A Ordinary Shares, in each case as set forth in Item 4(a) above.</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>N</notApplicableFlag>
+<classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+</item5>
+<item6>
+<notApplicableFlag>N</notApplicableFlag>
+<ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Wolverine Flagship Fund Trading Limited is known to have the right to receive the receipt of dividends from, or the proceeds from the sale of, the shares of common stock covered by this statement which may be deemed to beneficially be owned by WAM.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+</item6>
+<item7>
+<notApplicableFlag>N</notApplicableFlag>
+<subsidiaryIdentificationAndClassification>See Item 4(a) above.</subsidiaryIdentificationAndClassification>
+</item7>
+<item8>
+<notApplicableFlag>Y</notApplicableFlag>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>WOLVERINE ASSET MANAGEMENT LLC</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Kenneth L. Nadel</signature>
+<title>Kenneth L. Nadel, Chief Operating Officer</title>
+<date>01/28/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Wolverine Trading Partners, Inc.</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Christopher L. Gust</signature>
+<title>Christopher L. Gust, Authorized Signatory</title>
+<date>01/28/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Wolverine Holdings, L.P.</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Christopher L. Gust</signature>
+<title>Christopher L. Gust, Managing Director</title>
+<date>01/28/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Christopher L. Gust</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Christopher L. Gust</signature>
+<title>Christopher L. Gust</title>
+<date>01/28/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Robert R. Bellick</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Robert R. Bellick</signature>
+<title>Robert R. Bellick</title>
+<date>01/28/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

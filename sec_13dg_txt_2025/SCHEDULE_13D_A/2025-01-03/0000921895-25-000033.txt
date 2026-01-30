@@ -1,0 +1,353 @@
+<SEC-DOCUMENT>0000921895-25-000033.txt : 20250103
+<SEC-HEADER>0000921895-25-000033.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103173526
+ACCESSION NUMBER:		0000921895-25-000033
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+DATE AS OF CHANGE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEDALLION FINANCIAL CORP
+		CENTRAL INDEX KEY:			0001000209
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				043291176
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-48473
+		FILM NUMBER:		25508114
+
+	BUSINESS ADDRESS:	
+		STREET 1:		437 MADISON AVE 38 TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2123282153
+
+	MAIL ADDRESS:	
+		STREET 1:		437 MADISON AVENUE
+		STREET 2:		38TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KORR Value L.P.
+		CENTRAL INDEX KEY:			0001676266
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				812695000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 CROSSWAYS PARK DRIVE NORTH
+		STREET 2:		SUITE 150
+		CITY:			WOODBURY
+		STATE:			NY
+		ZIP:			11797
+		BUSINESS PHONE:		516-628-6119
+
+	MAIL ADDRESS:	
+		STREET 1:		20 CROSSWAYS PARK DRIVE NORTH
+		STREET 2:		SUITE 150
+		CITY:			WOODBURY
+		STATE:			NY
+		ZIP:			11797
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001011438-21-000137</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: KORR Value L.P. -->
+          <cik>0001676266</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>6</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value per share</securitiesClassTitle>
+      <dateOfEvent>12/31/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001000209</issuerCIK>
+        <issuerCUSIP>583928106</issuerCUSIP>
+        <issuerName>MEDALLION FINANCIAL CORP</issuerName>
+        <address>
+          <com:street1>437 MADISON AVE 38 TH FLOOR</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Kenneth Orr</personName>
+          <personPhoneNum>855-567-7858</personPhoneNum>
+          <personAddress>
+            <com:street1>KORR Acquisitions Group, Inc.</com:street1>
+            <com:street2>1400 Old Country Road, Suite 305</com:street2>
+            <com:city>Westbury</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>11590</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Andrew M. Freedman, Esq.</personName>
+          <personPhoneNum>212-451-2250</personPhoneNum>
+          <personAddress>
+            <com:street1>Olshan Frome Wolosky LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001676266</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>KORR Value L.P.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>1150000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1150000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>1150000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.0</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001854209</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>KORR Acquisitions Group, Inc.</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>1150000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1150000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>1150000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.0</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Orr Ken</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>1150000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1150000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>1150000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>5.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>David Orr</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Jonathan Orr</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>0.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>0.0</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.01 par value per share</securityTitle>
+        <issuerName>MEDALLION FINANCIAL CORP</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>437 MADISON AVE 38 TH FLOOR</com:street1>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 of Schedule 13D is hereby amended and restated to read as follows:
+
+The aggregate purchase price of the 1,150,000 shares of Common Stock directly held by KORR Value reported herein was approximately $5,592,796. Such shares of Common Stock directly held by KORR Value were purchased with the working capital of KORR Value.
+
+Unless otherwise indicated herein, all shares of Common Stock reported herein were purchased in open market transactions through brokers.</fundsSource>
+      </item3>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) of Schedule 13D is hereby amended and restated to read as follows:
+
+The aggregate percentage of shares of Common Stock of the Issuer reported owned by each Reporting Person named herein is based on 23,067,748 shares of Common Stock of the Issuer outstanding as of November 6, 2024, as reported in the Issuer's Quarterly Report on Form 10-Q filed with the SEC on November 6, 2024.
+
+As of the date hereof, KORR Value directly beneficially owned 1,150,000 shares of Common Stock of the Issuer, constituting approximately 4.99% of the shares of Common Stock of the Issuer outstanding. KORR Acquisitions, as the general partner of KORR Value, may be deemed to beneficially own the 1,150,000 shares of Common Stock of the Issuer owned by KORR Value, constituting approximately 4.99% of the shares of Common Stock of the Issuer outstanding. Kenneth Orr, as the Chief Executive Officer and Chief Investment Officer of KORR Acquisitions, may be deemed to beneficially own the 1,150,000 shares of Common Stock of the Issuer owned by KORR Value, constituting approximately 4.99% of the shares of Common Stock of the Issuer outstanding.
+
+As of the date hereof, David Orr directly beneficially owned 0 shares of Common Stock, constituting 0% of the shares of Common Stock of the Issuer outstanding.
+
+As of the date hereof, Jonathan Orr directly beneficially owned 0 shares of Common Stock, constituting 0% of the shares of Common Stock of the Issuer outstanding.</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) of Schedule 13D is hereby amended and restated to read as follows:
+
+As the general partner of KORR Value, KORR Acquisitions may be deemed to exercise voting and investment power over the 1,150,000 shares of Common Stock of the Issuer held directly by KORR Value. In addition, as the Chief Executive Officer and Chief Investment Officer of KORR Acquisitions, Kenneth Orr may be deemed to exercise voting and investment power over 1,150,000 of the Issuer held directly by KORR Value.</numberOfShares>
+        <transactionDesc>Item 5(c) of Schedule 13D is hereby amended and restated to read as follows:
+
+Transactions by the Reporting Persons effected during the past 60 days are set forth in Exhibit 1 and are incorporated herein by reference.</transactionDesc>
+        <date5PercentOwnership>Item 5(e) of Schedule 13D is hereby amended and restated to read as follows:
+
+As of December 31, 2024, the Reporting Persons ceased to beneficially own more than 5% of the outstanding shares of Common Stock.</date5PercentOwnership>
+      </item5>
+      <item7>
+        <filedExhibits>Item 7 of Schedule 13D is amended to add the following:
+
+1 - Transactions in Securities.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>KORR Value L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kenneth Orr</signature>
+          <title>Kenneth Orr, Chief Executive Officer of KORR Acquisitions Group, Inc., its general partner</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>KORR Acquisitions Group, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kenneth Orr</signature>
+          <title>Kenneth Orr, Chief Executive Officer</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Orr Ken</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kenneth Orr</signature>
+          <title>Kenneth Orr</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>David Orr</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ David Orr</signature>
+          <title>David Orr</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Jonathan Orr</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jonathan Orr</signature>
+          <title>Jonathan Orr</title>
+          <date>01/03/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da613291002_010325.htm
+<DESCRIPTION>TRANSACTIONS IN SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>Transactions</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt">The following table sets forth all transactions by the Reporting
+Persons with respect to shares of Common Stock effected during the past 60 days, inclusive of any transactions effected through 4:00&nbsp;p.m.,
+New York City time, on January 3, 2025.</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">KORR Value, L.P.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B><U>Date</U></B></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B><U>Instrument Type</U></B></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Quantity </B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>Purchased/(Sold)</U></B></P></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><B><U>Price ($)</U></B></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">12/31/2024</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">Common Stock</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(40,000)<FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1</SUP></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">9.1500</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<HR ALIGN="LEFT" SIZE="1" STYLE="width: 33%">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 6pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><SUP>1</SUP></FONT>
+Represents a private transaction with an unaffiliated third-party.</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

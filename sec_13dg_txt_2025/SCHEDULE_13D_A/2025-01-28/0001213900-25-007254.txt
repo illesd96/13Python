@@ -1,0 +1,493 @@
+<SEC-DOCUMENT>0001213900-25-007254.txt : 20250128
+<SEC-HEADER>0001213900-25-007254.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128084532
+ACCESSION NUMBER:		0001213900-25-007254
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250128
+DATE AS OF CHANGE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARNWELL INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000010048
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				720496921
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-20279
+		FILM NUMBER:		25561100
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 500
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		808-531-8400
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 ALAKEA ST.
+		STREET 2:		SUITE 500
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BMA CORP/TN
+		DATE OF NAME CHANGE:	19770324
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BARNWELL OFFSHORE INC
+		DATE OF NAME CHANGE:	19671101
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SHERWOOD NED L
+		CENTRAL INDEX KEY:			0000902749
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	MAIL ADDRESS:	
+		STREET 1:		54 MORRIS LN
+		CITY:			SCARSDALE
+		STATE:			NY
+		ZIP:			10583
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001193125-13-254173</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SHERWOOD NED L -->
+          <cik>0000902749</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>35</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.50 per share</securitiesClassTitle>
+      <dateOfEvent>01/28/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000010048</issuerCIK>
+        <issuerCUSIP>068221100</issuerCUSIP>
+        <issuerName>BARNWELL INDUSTRIES INC</issuerName>
+        <address>
+          <com:street1>1100 ALAKEA ST.</com:street1>
+          <com:street2>SUITE 500</com:street2>
+          <com:city>HONOLULU</com:city>
+          <com:stateOrCountry>HI</com:stateOrCountry>
+          <com:zipCode>96813</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Ned L. Sherwood</personName>
+          <personPhoneNum>(772) 257-6658</personPhoneNum>
+          <personAddress>
+            <com:street1>151 Terrapin Point</com:street1>
+            <com:city>Vero Beach</com:city>
+            <com:stateOrCountry>FL</com:stateOrCountry>
+            <com:zipCode>32963</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0000902749</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Ned L. Sherwood</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3006033.13</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3006033.13</sharedDispositivePower>
+        <aggregateAmountOwned>3006033.13</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>29.90</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>* Includes (i) 2,767,995.138 shares of Common Stock held by MRMP-Managers LLC, of which Ned L. Sherwood is the Chief Investment Officer, and (ii) 238,038 shares of Common Stock held by the Ned L. Sherwood Revocable Trust, of which Ned L. Sherwood is the sole trustee and beneficiary. Ned L. Sherwood disclaims beneficial ownership of such Common Stock except to the extent of his pecuniary interest therein.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001492137</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>MRMP-Managers LLC</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2767995.13</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2767995.13</sharedDispositivePower>
+        <aggregateAmountOwned>2767995.13</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>27.53</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001797839</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Ned L. Sherwood Revocable Trust</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>238038.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>238038.00</sharedDispositivePower>
+        <aggregateAmountOwned>238038.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>2.37</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.50 per share</securityTitle>
+        <issuerName>BARNWELL INDUSTRIES INC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1100 ALAKEA ST.</com:street1>
+          <com:street2>SUITE 500</com:street2>
+          <com:city>HONOLULU</com:city>
+          <com:stateOrCountry>HI</com:stateOrCountry>
+          <com:zipCode>96813</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 35 to Statement of Beneficial Ownership on Schedule 13D (this "Amendment No. 35") amends the Statement of Beneficial Ownership on Schedule 13D filed by Ned L. Sherwood on June 11, 2013 (as amended by the Reporting Persons, the "Schedule 13D" or this "Statement"). Except as amended and supplemented by this Amendment No. 35, the Schedule 13D remains unchanged.</commentText>
+      </item1>
+      <item4>
+        <transactionPurpose>Item 4 is amended and supplemented as follows:
+
+On January 21, 2023, MRMP-Managers LLC, the Ned L. Sherwood Revocable Trust and Ned L. Sherwood (also referred to as the "Reporting Persons") entered into a cooperation and support agreement (the "Agreement") with Alex Kinzler ("Kinzler") and Barnwell Industries, Inc. (the "Company"). The standstill provisions in the Agreement are set to expire in early February 2025, ten days prior to the due date for shareholder nominations. The prohibitions in the Agreement regarding the ability of the Reporting Persons to purchase additional shares of Common Stock expired as of January 21, 2025.
+
+As previously reported in Amendment No. 34, the Reporting Persons proposed certain amendments to the Agreement to the Board of Directors (the "Board") of the Company in order to avoid a costly proxy fight, including proposals regarding directors to be nominated to the Board. The "Special Committee" that the Reporting Persons previously explained in Amendment No. 34 was a material breach of the Agreement rejected all proposals by the Reporting Persons.
+
+On January 27, 2025, BRN announced a shareholder rights plan. The adoption of the shareholder rights plan which was, according to BRN's own press release, "designed to prevent "creeping" control by 30% Shareholder" clearly was aimed at materially adversely affecting the Reporting Persons. In fact, the Reporting Persons are the only ones impacted by the plan. BRN did all of this despite disclosure by the Reporting Persons in Amendment No. 34 that the Reporting Persons have no current intent to engage in a control transaction. The only intention of the Reporting Persons is to put a functioning board in place in an effort to grow shareholder value for BRN shareholders. The Reporting Persons are not interested in allowing the path of self-enrichment to the benefit of Messrs. Kinzler and Grossman to continue as outlined in the open letter to shareholders issued by the Reporting Persons on January 21, 2025 and again in today's open letter. A copy of this letter is filed hereto as Exhibit 99.1.
+
+The Reporting Persons hereby affirm that they have no current intent to engage in a control transaction.
+
+To the extent the Company continues to refuse nomination of directors proposed by the Reporting Persons, Ned L. Sherwood, MRMP-Managers LLC and Ned L. Sherwood Revocable Trust intend to make a filing with the SEC of a proxy statement and accompanying proxy card to solicit votes for the election of director nominees at the next annual meeting of shareholders of Barnwell Industries, Inc.
+
+Ned L. Sherwood Revocable Trust, of which Ned L. Sherwood is the beneficiary and the trustee, holds 238,038 shares of common stock of Barnwell, and MRMP-Managers LLC, of which Mr. Sherwood is the Chief Investment Officer, holds 2,767,995.138 shares of common stock of Barnwell. Mr. Sherwood is deemed to beneficially own all of these shares. Ned L. Sherwood, NLS Advisory Group, Inc., MRMP-Managers LLC and their nominees to the Barnwell board will be the participants in this proxy solicitation. Information regarding the participants and their interests in the solicitation will be included in their proxy statement and other materials filed with the SEC.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Mr. Sherwood beneficially owns in the aggregate 3,006,033.138 shares of Common Stock, which represents approximately 29.90% of the Company's outstanding shares of Common Stock. Each percentage ownership of Common Stock set forth in this Statement is based on the 10,053,534 shares of Common Stock reported by the Company as outstanding as of December 13, 2024 in the Company's Annual Report on Form 10-K filed with the Securities and Exchange Commission on December 17, 2024.</percentageOfClassSecurities>
+        <transactionDesc>No transactions in the Common Stock have been effected by the Reporting Persons since the filing of Amendment No. 32 on May 31, 2024.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Information set forth in Item 4 above is hereby incorporated herein by reference. Pursuant to Rule 13d-1(k) promulgated under the Securities Exchange Act of 1934, as amended, the Reporting Persons have entered into an agreement with respect to the joint filing of this Statement, which agreement is set forth on the signature page to this Statement.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1 Open Letter to Shareholders, dated as of January 28, 2025</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Ned L. Sherwood</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ned L. Sherwood</signature>
+          <title>NED L. SHERWOOD</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>MRMP-Managers LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ned L. Sherwood</signature>
+          <title>Ned L. Sherwood/Chief Investment Officer</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Ned L. Sherwood Revocable Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ned L. Sherwood</signature>
+          <title>Ned L. Sherwood/Trustee</title>
+          <date>01/28/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ea022888302ex99-1_barnwell.htm
+<DESCRIPTION>OPEN LETTER TO SHAREHOLDERS, DATED AS OF JANUARY 28, 2025
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0"><B>Exhibit 99.1</B></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>MRMP-Managers LLC</B><BR>
+151 Terrapin Point<BR>
+Vero Beach, Florida 32963</P>
+
+<P STYLE="border-bottom: Black 1.5pt solid; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(772) 448-3877</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">January 28, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Dear Barnwell Industries Shareholders:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In a remarkable development, yesterday, BRN announced
+a shareholder rights plan. Make no mistake, while they tell you the purpose is to protect you, the shareholders, from me &mdash; primarily
+to stop me from buying more shares &mdash;&nbsp;its only purpose is to entrench the current, ineffective management team. The Directors
+that voted in favor of this measure must believe that they must protect the shareholders from actions that I might take given poison pills
+are generally implemented when management fears that new ownership may harm shareholder value, or might curb excess compensation to themselves
+as incumbent management. Over my forty year private equity career, I generated a positive 40% annual net return for my investors. As my
+prior filing shows, Barnwell management has only generated returns for themselves, not for minority equity holders. The stock is down
+over 40% since my initial stake in 2012. This is just the latest attempt by the Kinzler/Grossman family to keep the &ldquo;gravy train&rdquo;
+of company cash flow heading into their pockets. They want to stop me from buying more shares, yet they even use the company&rsquo;s pension
+plan to buy shares (413,000 shares as of September 30, 2024) to attempt to bolster their position and to further entrench and enrich themselves.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Notwithstanding the Kinzler/Grossman (and I believe
+Horowitz) actions, many of the other shareholders (like me) are not happy. As of this morning, other BRN shareholders totaling approximately
+10% have emailed their support of my efforts to dumpkinzler@gmail.com or otherwise contacted me with their support. If necessary, I am
+willing to engage an independent third-party to corroborate the support. Therefore, as of now, I have support of at least 40% of BRN&rsquo;s
+shares. The other shareholders are not part of a group with me and they could sell or change their views, but given the wanton disregard
+for shareholder interests in company funds by the current board, in my opinion, I believe support for my efforts will grow even further.
+In fact, given that a substantial portion of BRN shareholders often have not voted at past annual meetings, I believe my position, with
+support of at least 40% of the vote, would likely be enough to elect slate I propose.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In order to enact this shareholder rights plan,
+Messrs. Kinzler, Grossman and Horowitz have engaged Ken&rsquo;s brother&rsquo;s legal firm, Skadden Arps, to &ldquo;protect&rdquo; the
+shareholders. BRN currently has a total market capitalization of approximately $18 million. Skadden Arps is reputed to be one of the most
+expensive law firms in the nation. As a 30% shareholder, I certainly don&rsquo;t approve of spending Company funds with a firm of this
+caliber and expense and I don&rsquo;t believe many of the non-Kinzler/Grossman shareholders do as well. Although I can&rsquo;t be certain,
+I also don&rsquo;t believe all five of BRN Directors have approved the use of Skadden Arps. The use of Skadden is just one example of
+Kinzler&rsquo;s, Grossman&rsquo;s and Horowitz&rsquo;s blatant disregard for the well-being of other shareholders.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In my last letter, I documented the egregious
+aggregate compensation, which totaled more than $10.3 million, taken by Kinzler and Grossman (not counting legal fees paid to Ken Grossman&rsquo;s
+brother&rsquo;s firm) and contrasted these cash flows versus the 40% plus decline in BRN&rsquo;s stock price over the same time period.
+In addition, Ken Grossman in 2023 received annual compensation of $183,374 as a Director versus the compensation of Craig Hopkins, BRN&rsquo;s
+CEO, of $198,776.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection; Value: 84 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Something seems very wrong about the board governance
+at BRN. As a 30% shareholder (and BRN&rsquo;s largest single shareholder), all this imprudent value-destroying spending impacts me more
+than anyone else, and I am not happy about it. It is my opinion that, if the Kinzler/Grossman family shareholders want to oppose me, they
+should do it with their personal funds &mdash; not company money (30% of which I view as mine). I am initially using my personal money
+to try to effect change &mdash; why don&rsquo;t they? In fact, I propose that both sides use personal money to fight and the winner get
+reimbursed while the loser pays personally.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Directors are bound by fiduciary duties, like
+their &ldquo;Duty of Care&rdquo; and &ldquo;Duty of Loyalty,&rdquo; to act on behalf of the company and all shareholders. Hiring one of
+the most expensive law firms in the world to draft and enact an entrenching and enriching &ldquo;poison pill&rdquo; shareholder rights
+plan does not demonstrate these fiduciaries acting as appropriate stewards of Company funds (funds which I consider the property of myself
+and the other shareholders). They must be held to account for this conduct, whether at the ballot box or otherwise.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Please keep emailing your support for my position
+to dumpkinzler@gmail.com. Obviously given the BRN board action, my shareholdings will remain fixed at 30% but getting support of more
+than 50% will assure a victory!</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 40%">Sincerely,</TD>
+    <TD STYLE="width: 60%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: Black 1.5pt solid">/s/ Ned L. Sherwood</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD>Ned L. Sherwood</TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Additional Information and Where to Find It;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Notice to Investors</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">SECURITY HOLDERS ARE ADVISED TO READ THE PROXY
+STATEMENT AND OTHER DOCUMENTS RELATED TO THE SOLICITATION OF PROXIES, BY NED L. SHERWOOD AND HIS AFFILIATES, FROM THE STOCKHOLDERS OF
+BARNWELL INDUSTRIES, INC. (&ldquo;BRN&rdquo;) FOR USE AT ITS 2025 ANNUAL MEETING OF STOCKHOLDERS WHEN SUCH DOCUMENTS BECOME AVAILABLE
+BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION, INCLUDING INFORMATION RELATING TO THE PARTICIPANTS IN SUCH PROXY SOLICITATION. WHEN COMPLETED,
+A DEFINITIVE PROXY STATEMENT AND A FORM OF PROXY WILL BE MAILED TO STOCKHOLDERS OF BRN AND WILL ALSO BE AVAILABLE AT NO CHARGE AT THE
+SECURITIES AND EXCHANGE COMMISSION&rsquo;S WEBSITE AT HTTP://WWW.SEC.GOV. INFORMATION RELATING TO THE PARTICIPANTS IN SUCH PROXY SOLICITATION
+IS CONTAINED IN THE SCHEDULE 13D, ORIGINALLY FILED ON JUNE 11, 2013, AS AMENDED, INCLUDING BY THE AMENDMENT THERETO FILED ON JANUARY 28,
+2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>Other Important Disclosure Information</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">SPECIAL NOTE REGARDING THIS COMMUNICATION:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">THIS COMMUNICATION IS FOR INFORMATIONAL PURPOSES
+ONLY AND IS NOT A RECOMMENDATION, AN OFFER TO PURCHASE OR A SOLICITATION OF AN OFFER TO SELL SHARES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">THIS COMMUNICATION CONTAINS OUR CURRENT VIEWS
+ON CERTAIN ACTIONS THAT BRN&rsquo;S BOARD MAY TAKE, INCLUDING ACTIONS IT MAY TAKE TO ENHANCE THE VALUE OF BRN&rsquo;S SECURITIES. OUR
+VIEWS ARE BASED ON OUR OWN ANALYSIS OF PUBLICLY AVAILABLE INFORMATION AND ASSUMPTIONS WE BELIEVE TO BE REASONABLE. THERE CAN BE NO ASSURANCE
+THAT THE INFORMATION WE CONSIDERED AND ANALYZED IS ACCURATE OR COMPLETE. SIMILARLY, THERE CAN BE NO ASSURANCE THAT OUR ASSUMPTIONS ARE
+CORRECT. THE PERFORMANCE, RESULTS AND OTHER EFFECTS ON BRN MAY DIFFER MATERIALLY FROM OUR ASSUMPTIONS AND ANALYSIS.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">THIS COMMUNICATION ALSO CONTAINS STATEMENTS WITH
+REGARD TO THE OWNERSHIP OF OTHER STOCKHOLDERS WHO HAVE EXPRESSED THEIR SUPPORT FOR ME AND MY EFFORTS WITH RESPECT TO THE COMPANY. WHILE
+I BELIEVE THEIR STATEMENTS OF SUPPORT ARE GENUINE AND THEIR STATEMENTS WITH RESPECT TO THEIR HOLDINGS OF COMPANY SECURITIES ARE TRUE,
+WE HAVE NOT IDENTIFIED THESE STOCKHOLDERS NOR HAVE WE VERIFIED THEIR HOLDINGS OF COMPANY SECURITIES. NO ASSURANCE CAN BE GIVEN WITH RESPECT
+TO EITHER MATTER. MOREOVER, THESE STOCKHOLDERS ARE UNDER NO OBLIGATION TO RETAIN THEIR COMPANY SECURITIES THROUGH THE RECORD DATE, TO
+BE ESTABLISHED BY THE COMPANY, FOR ITS 2025 ANNUAL MEETING OF STOCKHOLDERS OR, IF SO RETAINED, TO VOTE THEIR SHARES IN THE MANNER THEY
+INDICATED IN THEIR COMMUNICATIONS TO ME, OR AT ALL. WE CANNOT PREDICT THE MANNER IN WHICH THEY MAY VOTE THEIR SHARES NOR THE OUTCOME OF
+THE VOTE HELD AT THE MEETING.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">WE HAVE NOT SOUGHT, NOR HAVE WE RECEIVED, PERMISSION
+FROM ANY THIRD-PARTY TO INCLUDE THEIR INFORMATION IN THIS COMMUNICATION. ANY SUCH INFORMATION SHOULD NOT BE VIEWED AS INDICATING THE SUPPORT
+OF SUCH THIRD PARTY FOR THE VIEWS EXPRESSED HEREIN.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">OUR VIEWS AND OUR HOLDINGS COULD CHANGE AT ANY
+TIME. WE MAY SELL ANY OR ALL OF OUR HOLDINGS OR INCREASE OUR HOLDINGS BY PURCHASING ADDITIONAL SECURITIES. WE MAY TAKE ANY OF THESE OR
+OTHER ACTIONS REGARDING BRN WITHOUT UPDATING THIS COMMUNICATION OR PROVIDING ANY NOTICE WHATSOEVER OF ANY SUCH CHANGES (EXCEPT AS OTHERWISE
+REQUIRED BY LAW).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt"></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">FORWARD-LOOKING STATEMENTS:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Certain statements contained in this communication
+are forward-looking statements including, but not limited to, statements that are predications of or indicate future events, trends, plans
+or objectives. Undue reliance should not be placed on such statements because, by their nature, they are subject to known and unknown
+risks and uncertainties. Forward-looking statements are not guarantees of future performance, events or activities and are subject to
+many risks and uncertainties. Due to such risks and uncertainties, actual events or results or actual performance may differ materially
+from those reflected or contemplated in such forward-looking statements. Forward-looking statements can be identified by the use of the
+future tense or other forward-looking words such as &ldquo;believe,&rdquo; &ldquo;expect,&rdquo; &ldquo;anticipate,&rdquo; &ldquo;intend,&rdquo;
+&ldquo;plan,&rdquo; &ldquo;estimate,&rdquo; &ldquo;should,&rdquo; &ldquo;may,&rdquo; &ldquo;will,&rdquo; &ldquo;objective,&rdquo; &ldquo;projection,&rdquo;
+&ldquo;forecast,&rdquo; &ldquo;management believes,&rdquo; &ldquo;continue,&rdquo; &ldquo;strategy,&rdquo; &ldquo;position&rdquo; or the
+negative of those terms or other variations of them or by comparable terminology.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Important factors that could cause actual results
+to differ materially from the expectations set forth in this communication include, among other things, the factors identified in BRN&rsquo;s
+public filings. Such forward-looking statements should therefore be construed in light of such factors, and we are under no obligation,
+and expressly disclaim any intention or obligation, to update or revise any forward-looking statements, whether as a result of new information,
+future events or otherwise, except as required by law.</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

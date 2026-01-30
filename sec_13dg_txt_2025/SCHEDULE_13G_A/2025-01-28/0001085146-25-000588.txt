@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0001085146-25-000588.txt : 20250128
+<SEC-HEADER>0001085146-25-000588.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128183406
+ACCESSION NUMBER:		0001085146-25-000588
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INVESCO EXCHANGE-TRADED FUND TRUST
+		CENTRAL INDEX KEY:			0001209466
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-81469
+		FILM NUMBER:		25566092
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+		BUSINESS PHONE:		800-983-0903
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	POWERSHARES EXCHANGE TRADED FUND TRUST
+		DATE OF NAME CHANGE:	20021210
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Empirical Financial Services, LLC d.b.a. Empirical Wealth Management
+		CENTRAL INDEX KEY:			0001510434
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				272114998
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1420 5TH AVE SUITE 3150
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+		BUSINESS PHONE:		2069233474
+
+	MAIL ADDRESS:	
+		STREET 1:		1420 5TH AVE SUITE 3150
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Empirical Financial Services, LLC
+		DATE OF NAME CHANGE:	20110114
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:ns1="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001085146-24-000910</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001510434</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Invesco S&amp;P 500 BuyWrite ETF</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>11/04/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001209466</issuerCik>
+        <issuerName>INVESCO EXCHANGE-TRADED FUND TRUST</issuerName>
+        <issuerCusip>46137V399</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <ns1:street1>3500 LACEY ROAD</ns1:street1>
+          <ns1:street2>SUITE 700</ns1:street2>
+          <ns1:city>DOWNERS GROVE</ns1:city>
+          <ns1:stateOrCountry>IL</ns1:stateOrCountry>
+          <ns1:zipCode>60515</ns1:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Empirical Financial Services, LLC d.b.a. Empirical Wealth Management</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>WA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>111607</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>120803</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>120803</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.57</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>INVESCO EXCHANGE-TRADED FUND TRUST</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3500 LACEY ROAD
+SUITE 700
+DOWNERS GROVE, ILLINOIS
+60515</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Empirical Financial Services, LLC d.b.a. Empirical Wealth Management</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1420 5th Ave
+Suite 3150
+Seattle, Washington 98101</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>WASHINGTON</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>120803</amountBeneficiallyOwned>
+        <classPercent>2.57</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>111607</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>120803</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Empirical Financial Services, LLC d.b.a. Empirical Wealth Management</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Justin Buller</signature>
+        <title>Chief Compliance Officer</title>
+        <date>01/28/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,289 @@
+<SEC-DOCUMENT>0000950170-25-000209.txt : 20250102
+<SEC-HEADER>0000950170-25-000209.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102125533
+ACCESSION NUMBER:		0000950170-25-000209
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+DATE AS OF CHANGE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGL Private Credit Income Fund
+		CENTRAL INDEX KEY:			0002011498
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94664
+		FILM NUMBER:		25501221
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AGL 535 MADISON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-973-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AGL 535 MADISON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGL Private Credit Income Fund LP
+		DATE OF NAME CHANGE:	20240209
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Abu Dhabi Investment Authority
+		CENTRAL INDEX KEY:			0001362558
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		211 CORNICHE STREET
+		STREET 2:		PO BOX 3600
+		CITY:			ABU DHABI
+		STATE:			C0
+		ZIP:			0000
+		BUSINESS PHONE:		971 2 4154242
+
+	MAIL ADDRESS:	
+		STREET 1:		211 CORNICHE STREET
+		STREET 2:		PO BOX 3600
+		CITY:			ABU DHABI
+		STATE:			C0
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<headerData>
+<submissionType>SCHEDULE 13D/A</submissionType>
+<previousAccessionNumber>0001011438-24-000504</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001362558</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>3</amendmentNo>
+<securitiesClassTitle>Common Shares of Beneficial Interest, par value $0.001 per share</securitiesClassTitle>
+<dateOfEvent>12/30/2024</dateOfEvent>
+<previouslyFiledFlag>false</previouslyFiledFlag>
+<issuerInfo>
+<issuerCIK>0002011498</issuerCIK>
+<issuerCUSIP>000000000</issuerCUSIP>
+<issuerName>AGL Private Credit Income Fund</issuerName>
+<address>
+<street1 xmlns="http://www.sec.gov/edgar/common">535 Madison Avenue</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">24th Floor</street2>
+<city xmlns="http://www.sec.gov/edgar/common">New York</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">10022</zipCode>
+</address>
+</issuerInfo>
+<authorizedPersons>
+<notificationInfo>
+<personName>Turner Herbert</personName>
+<personPhoneNum>971 2 4150000</personPhoneNum>
+<personAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">211 Corniche</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">PO Box 3600</street2>
+<city xmlns="http://www.sec.gov/edgar/common">Abu Dhabi</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">C0</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">00000</zipCode>
+</personAddress>
+</notificationInfo>
+</authorizedPersons>
+</coverPageHeader>
+<reportingPersons>
+<reportingPersonInfo>
+<reportingPersonCIK>0001362558</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Abu Dhabi Investment Authority</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>C0</citizenshipOrOrganization>
+<soleVotingPower>429166.27</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>8727114.18</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>8727114.18</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>99.6</percentOfClass>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+<commentContent>Abu Dhabi Investment Authority (ADIA) is a public institution established in 1976 by the Government of the Emirate of Abu Dhabi (the Government) as an independent investment institution. ADIA is wholly owned and subject to constitutional supervision by the Government. ADIA has an independent legal identity with full capacity to act in fulfilling its statutory mandate and objectives.</commentContent>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001790748</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Platinum International Investment Holdings RSC Limited</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>C0</citizenshipOrOrganization>
+<soleVotingPower>429166.27</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>8727114.18</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>8727114.18</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>99.6</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0001790749</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Platinum Falcon B 2018 RSC Limited</reportingPersonName>
+<fundType>OO</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>C0</citizenshipOrOrganization>
+<soleVotingPower>429166.27</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>8727114.18</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>8727114.18</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>99.6</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</reportingPersonInfo>
+<reportingPersonInfo>
+<reportingPersonCIK>0002042774</reportingPersonCIK>
+<reportingPersonNoCIK>N</reportingPersonNoCIK>
+<reportingPersonName>Platinum Bird C 2024 RSC Limited</reportingPersonName>
+<fundType>WC</fundType>
+<legalProceedings>N</legalProceedings>
+<citizenshipOrOrganization>C0</citizenshipOrOrganization>
+<soleVotingPower>429166.27</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>8727114.18</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+<aggregateAmountOwned>8727114.18</aggregateAmountOwned>
+<isAggregateExcludeShares>N</isAggregateExcludeShares>
+<percentOfClass>99.6</percentOfClass>
+<typeOfReportingPerson>CO</typeOfReportingPerson>
+</reportingPersonInfo>
+</reportingPersons>
+<items1To7>
+<item1>
+<securityTitle>Common Shares of Beneficial Interest, par value $0.001 per share</securityTitle>
+<issuerName>AGL Private Credit Income Fund</issuerName>
+<issuerPrincipalAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">535 Madison Avenue</street1>
+<street2 xmlns="http://www.sec.gov/edgar/common">24th Floor</street2>
+<city xmlns="http://www.sec.gov/edgar/common">New York </city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">10022</zipCode>
+</issuerPrincipalAddress>
+<commentText>The following constitutes Amendment No. 3 ("Amendment No. 3") to the Schedule 13D filed with the Securities and Exchange Commission ("SEC") by Abu Dhabi Investment Authority ("ADIA"), Platinum International Investment Holdings RSC Limited ("Platinum Holdings"), Platinum Falcon B 2018 RSC Limited ("Platinum Falcon") and Platinum Bird C 2024 RSC Limited ("Platinum Bird", and together with Platinum Falcon, Platinum Holdings and ADIA, the "Reporting Persons") on October 28, 2024, as amended by Amendment No. 1 filed on November 26, 2024, and Amendment No. 2 filed on December 17, 2024. This Amendment No. 3 amends and supplements the Schedule 13D as specifically set forth herein.
+
+All capitalized terms contained herein but not otherwise defined shall have the meanings ascribed to such terms in the Schedule 13D, as amended. Information given in response to each item shall be deemed incorporated by reference in all other items, as applicable.</commentText>
+</item1>
+<item3>
+<fundsSource>Item 3 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:
+
+The information in Item 4 is incorporated herein by reference. The Common Shares of the Issuer were purchased by Platinum Bird with the working capital of Platinum Bird.</fundsSource>
+</item3>
+<item4>
+<transactionPurpose>Item 4 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:
+
+On December 13, 2024, the Issuer delivered a Drawdown Notice to Platinum Bird to purchase Common Shares in an aggregate amount equal to $66,762,992 (the "Fourth Purchase Amount").  Platinum Bird paid the Fourth Purchase Amount to the Issuer to purchase 2,650,176.92 Common Shares at a per share purchase price of $25.1919, with such number of shares and purchase price being determined by the Issuer on December 30, 2024.  </transactionPurpose>
+</item4>
+<item5>
+<percentageOfClassSecurities>Each of ADIA, Platinum Holdings, Platinum Falcon and Platinum Bird may be deemed to beneficially own 8,727,114.18 Common Shares of the Issuer, which represents approximately 99.6% of the Common Shares outstanding, based on 8,758,495.24 Common Shares outstanding as of December 30, 2024, based on information received from the Issuer.  The Common Shares reported herein are directly held and beneficially owned by Platinum Bird. Platinum Falcon, the sole owner of Platinum Bird, may be deemed to beneficially own the Common Shares directly held by Platinum Bird.  Platinum Holdings, the sole owner of Platinum Falcon, may be deemed to beneficially own the Common Shares directly held by Platinum Bird.  ADIA, the sole owner of Platinum Holdings, may be deemed the beneficial owner of the Common Shares directly held by Platinum Bird.</percentageOfClassSecurities>
+<numberOfShares>Items 7 through 10 of each of the cover pages of this Schedule 13D are incorporated herein by reference.  Each of the Reporting Persons may be deemed to have sole voting power over 429,166.26676 Common Shares and sole dispositive power over 8,727,114.18 Common Shares.  The information in Item 4 regarding voting power over the Common Shares reported herein under the Voting Trust Agreement and the termination provisions of the Voting Trust Agreement are incorporated herein by reference.</numberOfShares>
+<transactionDesc>The information in Items 3 and 4 is incorporated herein by reference. Except as disclosed in this Schedule 13D, as amended, there have been no transactions by the Reporting Persons or the Scheduled Persons in the securities of the Issuer during the past sixty days.</transactionDesc>
+<listOfShareholders>The disclosure regarding the relationship between the Reporting Persons in Item 2(c) of this Schedule 13D is incorporated herein by reference.</listOfShareholders>
+<date5PercentOwnership>Not applicable.</date5PercentOwnership>
+</item5>
+<item6>
+<contractDescription>Item 6 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:
+
+The information in Item 4 is incorporated herein by reference.</contractDescription>
+</item6>
+</items1To7>
+<signatureInfo>
+<signaturePerson>
+<signatureReportingPerson>Abu Dhabi Investment Authority</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Hamad Shahwan AlDhaheri</signature>
+<title>Hamad Shahwan AlDhaheri/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Saif Surour AlMashghouni</signature>
+<title>Saif Surour AlMashghouni/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Platinum International Investment Holdings RSC Limited</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Ahmed Salem Abdulla AlNeyadi</signature>
+<title>Ahmed Salem Abdulla AlNeyadi/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Mubarak Awad Qanazel AlAmeri</signature>
+<title>Mubarak Awad Qanazel AlAmeri/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Platinum Falcon B 2018 RSC Limited</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Ahmed Salem Abdulla AlNeyadi</signature>
+<title>Ahmed Salem Abdulla AlNeyadi/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Mubarak Awad Qanazel AlAmeri</signature>
+<title>Mubarak Awad Qanazel AlAmeri/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+<signaturePerson>
+<signatureReportingPerson>Platinum Bird C 2024 RSC Limited</signatureReportingPerson>
+<signatureDetails>
+<signature>/s/ Ahmed Salem Abdulla AlNeyadi</signature>
+<title>Ahmed Salem Abdulla AlNeyadi/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+<signatureDetails>
+<signature>/s/ Mubarak Awad Qanazel AlAmeri</signature>
+<title>Mubarak Awad Qanazel AlAmeri/Authorized Signatory</title>
+<date>01/02/2025</date>
+</signatureDetails>
+</signaturePerson>
+</signatureInfo>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

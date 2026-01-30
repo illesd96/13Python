@@ -1,0 +1,291 @@
+<SEC-DOCUMENT>0000897101-25-000029.txt : 20250103
+<SEC-HEADER>0000897101-25-000029.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103150158
+ACCESSION NUMBER:		0000897101-25-000029
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MFS INTERMEDIATE HIGH INCOME FUND
+		CENTRAL INDEX KEY:			0000833021
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				046593681
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80797
+		FILM NUMBER:		25505438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+		BUSINESS PHONE:		6179545000
+
+	MAIL ADDRESS:	
+		STREET 1:		111 HUNTINGTON AVENUE
+		STREET 2:		24TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02199
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COLONIAL INTERMEDIATE HIGH INCOME FUND
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SIT INVESTMENT ASSOCIATES INC
+		CENTRAL INDEX KEY:			0000769317
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				411404829
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3300 IDS CENTER
+		STREET 2:		80 SOUTH EIGHTH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+		BUSINESS PHONE:		6123323223
+
+	MAIL ADDRESS:	
+		STREET 1:		3300 IDS CENTER
+		STREET 2:		80 SOUTH EIGHTH STREET
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55402
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SIT INVESTMENT ASSOCIATES INC -->
+          <cik>0000769317</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000833021</issuerCik>
+        <issuerName>MFS Intermediate High Income Fund</issuerName>
+        <issuerCusip>59318T109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>111 Huntington Avenue</com:street1>
+          <com:city>Boston</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02199</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Sit Investment Associates, Inc.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>MN</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1082086.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1082086.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1082086.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Sit Fixed Income Advisors II, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>MN</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1082086.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1082086.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1082086.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>MFS Intermediate High Income Fund</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>111 Huntington Avenue, Boston, Massachusetts 02199</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Sit Investment Associates, Inc.
+Sit Fixed Income Advisors II, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>c/o Sit Investment Associates, Inc.
+80 South Eighth Street, Suite 3300
+Minneapolis, MN  55402</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Sit Investment Associates, Inc.   Minnesota Corporation
+Sit Fixed Income Advisors II, LLC    Delaware LLC</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The ownership percentages reported are based on 18,080,354 shares of common stock outstanding as of May 31, 2024, as reported in the Issuer's Report on Form N-CSRS filed with the Securities Exchange Commission.
+
+Sit Investment Associates, Inc. ("SIA") is an investment adviser registered under section 203 of the Investment Advisers Act of 1940.  Sit Fixed Income Advisors II, LLC ("SFI") is an investment adviser registered under section 203 of the Investment Advisers Act of 1940 and a subsidiary of SIA.  SIA and SFI provide investment management services to client accounts ("Accounts").  In their roles as investment advisers SIA and SFI possess shared voting and investment power over securities of the Issuer described in this schedule 13G owned by the Accounts and may be deemed to be the beneficial owner of such shares of the Issuer owned by the Accounts.  All securities reported in this schedule 13G are owned by the Accounts.  Pursuant to Rule 13d-4 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), SIA and SFI disclaim beneficial ownership of such securities.</amountBeneficiallyOwned>
+        <classPercent>6.0</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>1,082,086</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1,082,086</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The Accounts are known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities.
+
+Except as may be indicated if this is a joint filing with a registered investment company managed by SIA or SFI, not more than 5% of the class of such securities is owned by any one Account subject to the investment advice of SIA or SFI.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>EXHIBIT A Joint Filing Agreement</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Sit Investment Associates, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Paul E. Rasmussen</signature>
+        <title>Paul Rasmussen / Vice President</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Sit Fixed Income Advisors II, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Paul E. Rasmussen</signature>
+        <title>Paul Rasmussen / Vice President</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>sit241338_ex-a.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0; text-indent: 0; font: 10pt Times New Roman, Times, Serif"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">EXHIBIT A</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Joint Filing Agreement</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">The undersigned agree that the statement on this Schedule 13G with respect to the common stock of MFS Intermediate High Income Fund is, and any amendments thereto (including amendments on Schedule 13D) signed by each of the undersigned shall be, filed on behalf of each of them pursuant to and in accordance with the provisions of Rule 13d-1(k)(1) under the Securities Exchange Act of 1934, as amended.
+
+</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">IN WITNESS WHEREOF, this Agreement has been duly executed by the parties hereto as of the date first written above.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">By: Sit Investment Associates, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">/s/ Roger J. Sit</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">-----------------------------------</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Name/Title: Roger J. Sit, Chairman &amp; CEO</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">By: Sit Fixed Income Advisors II, LLC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">/s/ Roger J. Sit</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">-----------------------------------</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Name/Title: Roger J. Sit, Chairman &amp; CEO</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Gray 3pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: normal 10pt Arial, Helvetica, Sans-Serif"></P></DIV>
+    <!-- Field: /Page -->
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

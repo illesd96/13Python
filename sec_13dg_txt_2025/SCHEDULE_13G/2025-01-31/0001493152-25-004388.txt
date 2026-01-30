@@ -1,0 +1,190 @@
+<SEC-DOCUMENT>0001493152-25-004388.txt : 20250131
+<SEC-HEADER>0001493152-25-004388.hdr.sgml : 20250131
+<ACCEPTANCE-DATETIME>20250131141254
+ACCESSION NUMBER:		0001493152-25-004388
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250131
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SuperCom Ltd
+		CENTRAL INDEX KEY:			0001291855
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-80599
+		FILM NUMBER:		25577681
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ARIE SHENKAR STREET
+		CITY:			HERTZLIYA
+		STATE:			L3
+		ZIP:			4672501
+		BUSINESS PHONE:		972-9-889-0800
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ARIE SHENKAR STREET
+		CITY:			HERTZLIYA
+		STATE:			L3
+		ZIP:			4672501
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vuance Ltd
+		DATE OF NAME CHANGE:	20101019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vuance
+		DATE OF NAME CHANGE:	20070508
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SuperCom Ltd.
+		DATE OF NAME CHANGE:	20040526
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Orca Capital AG
+		CENTRAL INDEX KEY:			0002052389
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			2M
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SPERLRING 2
+		CITY:			PFAFFENHOFEN
+		STATE:			2M
+		ZIP:			85276
+		BUSINESS PHONE:		498441 78644 14
+
+	MAIL ADDRESS:	
+		STREET 1:		SPERLRING 2
+		CITY:			PFAFFENHOFEN
+		STATE:			2M
+		ZIP:			85276
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Orca Capital AG -->
+          <cik>0002052389</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Ordinary Shares, par value NIS 50</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/30/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001291855</issuerCik>
+        <issuerName>SuperCom Ltd.</issuerName>
+        <issuerCusip>M87095309</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>3 Rothschild Street</com:street1>
+          <com:city>Tel Aviv</com:city>
+          <com:stateOrCountry>L3</com:stateOrCountry>
+          <com:zipCode>6688106</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Orca Capital AG</reportingPersonName>
+      <citizenshipOrOrganization>2M</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>272727.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>272727.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>272727.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>7.8</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>SuperCom Ltd.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3 Rothschild Street, Tel Aviv, Israel</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Orca Capital AG</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Sperlring 2 85276 Hettenshausen Deutschland</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Germany</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>272,727</amountBeneficiallyOwned>
+        <classPercent>7.8</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>272,727</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>272,727</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Orca Capital AG</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Thomas Konig</signature>
+        <title>Thomas Konig/Director</title>
+        <date>01/31/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

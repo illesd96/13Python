@@ -1,0 +1,186 @@
+<SEC-DOCUMENT>0002010081-25-000001.txt : 20250121
+<SEC-HEADER>0002010081-25-000001.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121160738
+ACCESSION NUMBER:		0002010081-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blue Owl Capital Corp III
+		CENTRAL INDEX KEY:			0001807427
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				844493477
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91621
+		FILM NUMBER:		25542563
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 419-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Owl Rock Capital Corp III
+		DATE OF NAME CHANGE:	20200323
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MAINE PUBLIC EMPLOYEES RETIREMENT SYSTEM
+		CENTRAL INDEX KEY:			0002010081
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				010462393
+		STATE OF INCORPORATION:			ME
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CITY CENTER
+		STREET 2:		8TH FLOOR
+		CITY:			PORTLAND
+		STATE:			ME
+		ZIP:			04101
+		BUSINESS PHONE:		(207) 512-3339
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CITY CENTER
+		STREET 2:		8TH FLOOR
+		CITY:			PORTLAND
+		STATE:			ME
+		ZIP:			04101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002010081</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $0.01</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001807427</issuerCik>
+        <issuerName>Blue Owl Capital Corp III</issuerName>
+        <issuerCusip>69122G102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>399 PARK AVENUE</com:street1>
+          <com:street2>38th Floor </com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>MAINE PUBLIC EMPLOYEES RETIREMENT SYSTEM</reportingPersonName>
+      <citizenshipOrOrganization>ME</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>7600922.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>7600922.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>7600922.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>6.2</classPercent>
+      <typeOfReportingPerson>EP</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Blue Owl Capital Corp III</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>399 PARK AVENUE, 38th Floor , NEW YORK, NEW YORK, 10022</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Maine Public Employees Retirement System </filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>139 Capitol Street, Augusta, ME 04330</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>U.S.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>EP</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>7,600,922</amountBeneficiallyOwned>
+        <classPercent>6.16</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>7,600,922</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>7,600,922</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>MAINE PUBLIC EMPLOYEES RETIREMENT SYSTEM</reportingPersonName>
+      <signatureDetails>
+        <signature>James A. Bennett</signature>
+        <title>Chief Investment Officer </title>
+        <date>01/09/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

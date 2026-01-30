@@ -1,0 +1,376 @@
+<SEC-DOCUMENT>0001172661-25-000161.txt : 20250110
+<SEC-HEADER>0001172661-25-000161.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110160258
+ACCESSION NUMBER:		0001172661-25-000161
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Barings Private Credit Corp
+		CENTRAL INDEX KEY:			0001859919
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				863780522
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92837
+		FILM NUMBER:		25522834
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 SOUTH TRYON STREET
+		STREET 2:		SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+		BUSINESS PHONE:		704-805-7200
+
+	MAIL ADDRESS:	
+		STREET 1:		300 SOUTH TRYON STREET
+		STREET 2:		SUITE 2500
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Barings Private Credit LLC
+		DATE OF NAME CHANGE:	20210430
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CPCF SPV, LLC
+		CENTRAL INDEX KEY:			0002027566
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				921006423
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		444 W. LAKE STREET
+		STREET 2:		47TH FLOOR
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		312.622.8140
+
+	MAIL ADDRESS:	
+		STREET 1:		444 W. LAKE STREET
+		STREET 2:		47TH FLOOR
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001193125-24-177620</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: CPCF SPV, LLC -->
+          <cik>0002027566</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.001 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001859919</issuerCik>
+        <issuerName>Barings Private Credit Corporation</issuerName>
+        <issuerCusip>06763A101</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>300 South Tryon Street</com:street1>
+          <com:street2>Suite 2500</com:street2>
+          <com:city>Charlotte</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>28202</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>CPCF SPV, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>IV</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Cresset Partners Private Credit Fund, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>IV</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Cresset Partners Private Credit Fund MM, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Cresset Partners Private Credit Fund Manager, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Cresset Partners Private Funds Group, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Cresset Partners, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Cresset Control Corporation</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Cresset Capital Management, LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>4559392.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>4559392.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4559392.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.79</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Barings Private Credit Corporation</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>300 South Tryon Street, Suite 2500, Charlotte, North Carolina 28202</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13G is filed by the following entities (collectively, the "Reporting Persons"):
+
+(1) CPCF SPV, LLC, a Delaware limited liability company ("CPCF SPV");
+
+(2) Cresset Partners Private Credit Fund, LLC, a Delaware limited liability company ("CPCF"), the sole member of CPCF SPV;
+
+(3) Cresset Partners Private Credit Fund MM, LLC, a Delaware limited liability company, the managing member of CPCF;
+
+(4) Cresset Partners Private Credit Fund Manager, LLC, a Delaware limited liability company, the management company of CPCF;
+
+(5) Cresset Partners Private Funds Group, LLC, a Delaware limited liability company, the sole member of Cresset Partners Private Credit Fund MM, LLC;
+
+(6) Cresset Partners, LLC, a Delaware limited liability company, the sole member of Cresset Partners Private Funds Group, LLC and sub-advisor to Cresset Partners Private Credit Fund Manager, LLC; and
+
+(7) Cresset Control Corporation, a Delaware corporation, the sole member of Cresset Partners, LLC; and
+
+(8) Cresset Capital Management, LLC, a Delaware limited liability company, the sole member of Cresset Control Corporation;
+
+and for each Reporting Person, with respect to shares of Common Stock of the Issuer directly held by CPCF SPV as reported in this statement.
+
+CPCF, Cresset Partners Private Credit Fund MM, LLC, Cresset Partners Private Credit Fund Manager, LLC, Cresset Partners Private Funds Group, LLC, Cresset Partners, LLC, Cresset Control Corporation and Cresset Capital Management, LLC exercise shared voting and investment control over the Issuer's securities directly held by CPCF SPV and may be deemed to beneficially own the securities held of record by CPCF SPV. Each Reporting Person, other than CPCF SPV, disclaims beneficial ownership of all securities of the Issuer held by CPCF SPV, except to the extent of its pecuniary interest therein and this report shall not be an admission that such Reporting Person is the beneficial owner of such securities for purposes of Section 13 of the Act or for any other purpose.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>444 W Lake Street #4700
+
+Chicago, Illinois 60606</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Each of CPCF SPV, CPCF, Cresset Partners Private Credit Fund MM, LLC, Cresset Partners Private Credit Fund Manager, LLC, Cresset Partners Private Funds Group, LLC, Cresset Partners, LLC and Cresset Capital Management, LLC is a Delaware limited liability company. Cresset Control Corporation is a Delaware corporation.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by Items 4(a) - (c) is set forth in Rows (5) - (11) of the cover page for each Reporting Person in this Schedule 13G and is incorporated herein by reference for each Reporting Person.</amountBeneficiallyOwned>
+        <classPercent>4.79</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>4559392.00</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>4559392.00</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>CPCF SPV, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Partners Private Credit Fund, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Partners Private Credit Fund MM, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Partners Private Credit Fund Manager, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Partners Private Funds Group, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Partners, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Control Corporation</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Cresset Capital Management, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>William A. Rudnick</signature>
+        <title>William A. Rudnick, Executive Managing Director</title>
+        <date>01/10/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

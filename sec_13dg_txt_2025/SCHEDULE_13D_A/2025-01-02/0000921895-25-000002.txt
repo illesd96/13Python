@@ -1,0 +1,358 @@
+<SEC-DOCUMENT>0000921895-25-000002.txt : 20250102
+<SEC-HEADER>0000921895-25-000002.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102084532
+ACCESSION NUMBER:		0000921895-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250102
+DATE AS OF CHANGE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vera Bradley, Inc.
+		CENTRAL INDEX KEY:			0001495320
+		STANDARD INDUSTRIAL CLASSIFICATION:	LEATHER & LEATHER PRODUCTS [3100]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				272935063
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-86060
+		FILM NUMBER:		25500386
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12420 STONEBRIDGE ROAD
+		CITY:			ROANOKE
+		STATE:			IN
+		ZIP:			46783
+		BUSINESS PHONE:		260-482-4673
+
+	MAIL ADDRESS:	
+		STREET 1:		12420 STONEBRIDGE ROAD
+		CITY:			ROANOKE
+		STATE:			IN
+		ZIP:			46783
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fund 1 Investments, LLC
+		CENTRAL INDEX KEY:			0001959730
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CARR 115
+		STREET 2:		UNIT 1900
+		CITY:			RINCON
+		STATE:			PR
+		ZIP:			00677
+		BUSINESS PHONE:		804-363-4458
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CARR 115
+		STREET 2:		UNIT 1900
+		CITY:			RINCON
+		STATE:			PR
+		ZIP:			00677
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000921895-24-001467</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Fund 1 Investments, LLC -->
+          <cik>0001959730</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>6</amendmentNo>
+      <securitiesClassTitle>Common Stock, without par value</securitiesClassTitle>
+      <dateOfEvent>12/30/2024</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001495320</issuerCIK>
+        <issuerCUSIP>92335C106</issuerCUSIP>
+        <issuerName>Vera Bradley, Inc.</issuerName>
+        <address>
+          <com:street1>12420 STONEBRIDGE ROAD</com:street1>
+          <com:city>ROANOKE</com:city>
+          <com:stateOrCountry>IN</com:stateOrCountry>
+          <com:zipCode>46783</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Kenneth Mantel, Esq.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>Olshan Frome Wolosky LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001959730</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Fund 1 Investments, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>2783155.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2783155.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>2783155.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>10.0</percentOfClass>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, without par value</securityTitle>
+        <issuerName>Vera Bradley, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>12420 STONEBRIDGE ROAD</com:street1>
+          <com:city>ROANOKE</com:city>
+          <com:stateOrCountry>IN</com:stateOrCountry>
+          <com:zipCode>46783</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and restated to read as follows:
+
+The Shares beneficially owned by the Reporting Person were purchased with working capital of the Funds (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases. The aggregate purchase price of the 2,783,155 Shares beneficially owned by the Reporting Person is approximately $18,594,582, including brokerage commissions.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is hereby amended to add the following:
+
+On December 30, 2024, the Reporting Person delivered a letter (the "Letter") to the Issuer's board of directors (the "Board"), and issued a press release including a full copy of the Letter. In the Letter, the Reporting Person stated that the best option for the Issuer and its shareholders is to commence a strategic alternatives process and pursue opportunities to fix the Issuer under the umbrella of a larger organization or in the private markets.  The Reporting Person noted, if a financial buyer provides the best opportunity, the Issuer should consider transaction structures that would enable existing stakeholders to participate in a transaction and maintain or increase their interests in the Issuer, which the Reporting Person would be willing to do. The Reporting Person thanked the Board for its engagement with the Reporting Person, expressed its appreciation that the Board believes everything is on the table to maximize shareholder value, and reiterated its wish to continue constructive engagement with the Board.
+
+A copy of the Letter is attached hereto as Exhibit 99.1 and incorporated herein by reference.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) is hereby amended and restated to read as follows:
+
+The aggregate percentage of Shares reported beneficially owned by the Reporting Person is based upon 27,726,461 Shares outstanding as of December 4, 2024, which is the total number of Shares outstanding as reported in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on December 11, 2024.
+
+As of the date hereof, Fund 1 Investments beneficially owned 2,783,155 Shares.
+
+Percentage: Approximately 10.0%</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) is hereby amended and restated to read as follows:
+
+1. Sole power to vote or direct vote: 2,783,155
+
+2. Shared power to vote or direct vote: 0
+
+3. Sole power to dispose or direct the disposition: 2,783,155
+
+4. Shared power to dispose or direct the disposition: 0</numberOfShares>
+        <transactionDesc>Item 5(c) is hereby amended and restated to read as follows:
+
+Fund 1 Investments has not entered into any transactions in the Shares during the past sixty days.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended and restated to read as follows:
+
+The Reporting Person has entered into certain cash-settled swap agreements with an unaffiliated third-party financial institution (the "Cash-Settled Swaps"). Collectively, the Cash-Settled Swaps held by the Reporting Person represent economic exposure to an aggregate of 2,762,892 notional Shares, representing approximately 10.0% of the outstanding Shares. The Cash-Settled Swaps provide the Reporting Person with economic results that are comparable to the economic results of ownership, but do not provide it with the power to vote or direct the voting, or dispose of or direct the disposition, of the Shares that are subject to the Cash-Settled Swaps.
+
+Other than as described herein, there are no contracts, arrangements, understandings or relationships between the Reporting Person and any other person, with respect to the securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 is hereby amended to add the following exhibit:
+
+Exhibit 99.1 - Letter, dated December 30, 2024</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Fund 1 Investments, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Benjamin C. Cable</signature>
+          <title>Benjamin C. Cable, Chief Operating Officer</title>
+          <date>01/02/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex991to13da613866010_121824.htm
+<DESCRIPTION>LETTER, DATED DECEMBER 30, 2024
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="text-align: right; margin: 0">Exhibit 99.1</P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-variant: small-caps"><B>Fund
+1 Investments LLC</B>&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>100 Carr 115 Unit 1900</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&#8239;Rincon, Puerto Rico 00677&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: 364.5pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: 364.5pt">December 30, 2024&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Vera Bradley, Inc.&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">12420 Stonebridge Road&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Roanoke, Indiana 46783&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Attention: Robert Hall&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">cc: Board of Directors&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Bob,&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Fund 1 Investments LLC (together with its affiliates,
+&ldquo;Fund 1&rdquo;, or &ldquo;we&rdquo;) beneficially owns approximately 10.0% of the outstanding shares of common stock of Vera Bradley,
+Inc. (&quot;Vera Bradley&quot; or the &quot;Company&quot;), and has economic exposure of 20.0% of the outstanding shares, making us the
+Company's largest shareholder.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As we described to you over the phone, Fund 1
+is a global long/short equity firm that makes both public and private investments primarily focused on the consumer, telecom, media, and
+technology sectors. We possess significant retail expertise and have a long history of constructively engaging with management teams and
+boards to offer value-enhancing ideas, introductions to relevant executives, and capital for strategic initiatives to our portfolio companies.
+We encourage you to speak with executives from other companies that we have invested in to understand the valuable insight we endeavor
+to bring and how we strive to approach each situation with humility and level-headedness.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">We thank you and appreciate the time you spent
+with us the other week as we have the utmost respect for you and the beloved brand your family has built over the past 40 years. As we
+have conducted substantial research on the Company over the past few years, we can&rsquo;t help but admire Barb&rsquo;s vision and tenacity
+- to build a business from scratch that, at its peak, generated ~$550 million of annual revenue is inspiring and representative of the
+American Dream. Barb&rsquo;s designs were iconic globally and the Vera Bradley name has been synonymous with innovation and disruption
+for decades. The Company and its products have a truly remarkable legacy.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">We, as your largest shareholder, simply want Vera
+Bradley to return to its winning ways. In its first year of being public, Vera Bradley generated $366 million of revenue and nearly $50
+million of free cash flow, translating into a $1.5 billion enterprise value company. Today, analysts expect $380 million of revenue &ndash;
+essentially the same topline as when the Company IPO&rsquo;d. Except, that same $360+ million of revenue is expected to burn cash and
+that $1.5 billion enterprise value implies negative value today, adjusted for the acquisition of Pura Vida<FONT STYLE="font-size: 10pt; line-height: 107%"><SUP>1</SUP></FONT>.</P>
+
+<HR ALIGN="LEFT" SIZE="1" STYLE="width: 5pc; margin-top: 12pt">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><FONT STYLE="font-size: 10pt; line-height: 107%"><SUP>1</SUP></FONT> Current Enterprise Value of $84 million less $85 million in cash paid for Pura Vida over two transactions.</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Company is now experiencing a perfect storm
+&ndash; i) a history of value destruction and questionable capital allocation, ii) poor recent operational performance, iii) a failed
+brand turnaround, iv) extremely negative macro sentiment for fashion brands, and v) a less than $60 million of public float. As you well
+know, thriving as a microcap company in today&rsquo;s public markets is near impossible. <B>It is clear to us that the best option for
+Vera Bradley and its shareholders is to commence a strategic alternatives process and pursue opportunities to fix the Company under the
+umbrella of a larger organization or in the private markets. We were pleased to hear the Board of Directors believes everything is on
+the table to maximize shareholder value and we are highly supportive of this.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>We believe Vera Bradley can be a much more
+valuable company and has a timely opportunity to return to its winning ways.</B> If the Company were out of the public spotlight, there
+are many advantages for Vera Bradley: i) ability to focus on the brand revival without quarterly earnings, ii) cost savings opportunities
+unavailable in the public markets, and iii) more time for management to focus on the business as opposed to frequent meetings with shareholders.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>We believe that a strategic or financial buyer
+would be able to complete a transaction at an attractive premium for shareholders. If a financial buyer provides the best opportunity,
+the Company should consider transaction structures that would enable existing stakeholders to participate in a transaction and maintain
+or increase their interests in the Company, which we would be willing to do. </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As we discussed the other week, we wish to continue
+to have a constructive engagement with you and are available to discuss the contents of this letter at your convenience.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">We look forward to supporting a successful outcome
+for the shareholders, employees and customers of Vera Bradley.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Best Regards,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Fund 1 Investments LLC</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

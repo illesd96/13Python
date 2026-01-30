@@ -1,0 +1,208 @@
+<SEC-DOCUMENT>0001019432-25-000002.txt : 20250108
+<SEC-HEADER>0001019432-25-000002.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108100930
+ACCESSION NUMBER:		0001019432-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Maris Tech Ltd.
+		CENTRAL INDEX KEY:			0001872964
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93655
+		FILM NUMBER:		25516941
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 YITZHAK MODAI STREET
+		CITY:			REHOVOT
+		STATE:			L3
+		ZIP:			7608804
+		BUSINESS PHONE:		0097236093609
+
+	MAIL ADDRESS:	
+		STREET 1:		2 YITZHAK MODAI STREET
+		CITY:			REHOVOT
+		STATE:			L3
+		ZIP:			7608804
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Leviticus Partners LP
+		CENTRAL INDEX KEY:			0001019432
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				133896587
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32 OLD MILL ROAD
+		CITY:			GREAT NECK
+		STATE:			NY
+		ZIP:			11023
+		BUSINESS PHONE:		2128715700
+
+	MAIL ADDRESS:	
+		STREET 1:		32 OLD MILL ROAD
+		CITY:			GREAT NECK
+		STATE:			NY
+		ZIP:			11023
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMH Equity LLC
+		DATE OF NAME CHANGE:	20200504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEVITICUS PARTNERS L P
+		DATE OF NAME CHANGE:	19990630
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001019432-24-000017</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001019432</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/03/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001872964</issuerCik>
+        <issuerName>Maris Tech Ltd.</issuerName>
+        <issuerCusip>M68057104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2 YITZHAK MODAI STREET</com:street1>
+          <com:street2>2 YITZHAK MODAI STREET</com:street2>
+          <com:city>REHOVOT</com:city>
+          <com:stateOrCountry>NJ</com:stateOrCountry>
+          <com:zipCode>7608804</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Leviticus Partners LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>591682.00</soleVotingPower>
+        <soleDispositivePower>591682.00</soleDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>610484.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.8</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>AMH Equity Ltd</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>18802.00</soleVotingPower>
+        <soleDispositivePower>18802.00</soleDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>610484.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>7.8</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Maris Tech Ltd.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2 YITZHAK MODAI STREET, 2 YITZHAK MODAI STREET, REHOVOT, NEW JERSEY, 7608804</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Adam M Hutt</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>32 Old Mill Road
+Great Neck, NY 11023</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>610,484</amountBeneficiallyOwned>
+        <classPercent>7.75</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>610,484</solePowerOrDirectToVote>
+          <solePowerOrDirectToDispose>610,484</solePowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+By signing below I certify that, to the best of my knowledge and belief, the foreign regulatory scheme applicable to Maris Tech is substantially comparable to the regulatory scheme applicable to the functionally equivalent U.S. institution(s). I also undertake to furnish to the Commission staff, upon request, information that would otherwise be disclosed in a Schedule 13D.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Leviticus Partners LP</reportingPersonName>
+      <signatureDetails>
+        <signature>Adam M Hutt</signature>
+        <title>Managung Member</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>AMH Equity Ltd</reportingPersonName>
+      <signatureDetails>
+        <signature>Adam M Hutt</signature>
+        <title>President</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

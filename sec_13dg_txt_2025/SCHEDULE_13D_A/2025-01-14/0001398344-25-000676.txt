@@ -1,0 +1,393 @@
+<SEC-DOCUMENT>0001398344-25-000676.txt : 20250114
+<SEC-HEADER>0001398344-25-000676.hdr.sgml : 20250114
+<ACCEPTANCE-DATETIME>20250114195514
+ACCESSION NUMBER:		0001398344-25-000676
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250114
+DATE AS OF CHANGE:		20250114
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOSTON OMAHA Corp
+		CENTRAL INDEX KEY:			0001494582
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS [6510]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				270788438
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89765
+		FILM NUMBER:		25530638
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+		BUSINESS PHONE:		857-256-0079
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 DODGE STREET
+		STREET 2:		SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REO PLUS, INC.
+		DATE OF NAME CHANGE:	20100618
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MAGNOLIA CAPITAL FUND, LP
+		CENTRAL INDEX KEY:			0001618333
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				464969706
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 DODGE STREET, SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+		BUSINESS PHONE:		402-509-8456
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 DODGE STREET, SUITE 3300
+		CITY:			OMAHA
+		STATE:			NE
+		ZIP:			68102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001398344-17-007738</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: MAGNOLIA CAPITAL FUND, LP -->
+          <cik>0001618333</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>11</amendmentNo>
+      <securitiesClassTitle>Class A common stock, par value $0.001 per share</securitiesClassTitle>
+      <dateOfEvent>01/10/2025</dateOfEvent>
+      <previouslyFiledFlag>true</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001494582</issuerCIK>
+        <issuerCUSIP>101044105</issuerCUSIP>
+        <issuerName>Boston Omaha Corporation</issuerName>
+        <address>
+          <com:street1>1601 Dodge Street</com:street1>
+          <com:street2>Suite 3300</com:street2>
+          <com:city>Omaha</com:city>
+          <com:stateOrCountry>NE</com:stateOrCountry>
+          <com:zipCode>68102</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Adam K. Peterson</personName>
+          <personPhoneNum>402-509-8456</personPhoneNum>
+          <personAddress>
+            <com:street1>1601 Dodge Street</com:street1>
+            <com:street2>Suite 3300</com:street2>
+            <com:city>Omaha</com:city>
+            <com:stateOrCountry>NE</com:stateOrCountry>
+            <com:zipCode>68102</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001618333</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Magnolia Capital Fund, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>580558.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>580558.00</sharedDispositivePower>
+        <aggregateAmountOwned>580558.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>1.8</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001732690</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Magnolia BOC I, LP</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5589253.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5589253.00</sharedDispositivePower>
+        <aggregateAmountOwned>5589253.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>17.8</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001618376</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>The Magnolia Group, LLC</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6169811.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6169811.00</sharedDispositivePower>
+        <aggregateAmountOwned>6169811.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>19.6</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001667769</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Adam K. Peterson</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6756842.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6756842.00</sharedDispositivePower>
+        <aggregateAmountOwned>6756842.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.5</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A common stock, par value $0.001 per share</securityTitle>
+        <issuerName>Boston Omaha Corporation</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>1601 Dodge Street</com:street1>
+          <com:street2>Suite 3300</com:street2>
+          <com:city>Omaha</com:city>
+          <com:stateOrCountry>NE</com:stateOrCountry>
+          <com:zipCode>68102</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being jointly filed by Magnolia Capital Fund, LP ("MCF"), Magnolia BOC I, LP ("BOC I"), The Magnolia Group, LLC ("TMG"), a registered investment adviser, and Adam K. Peterson (each a "Reporting Person" and, collectively, the "Reporting Persons") with respect to shares of common stock, par value $0.001 per share of the Issuer (the, "Common Stock") owned directly by MCF, BOC I, TMG, and Adam K. Peterson.</filingPersonName>
+        <principalBusinessAddress>The principal business address of each of the Reporting Persons is 1601 Dodge Street, Suite 3300, Omaha, Nebraska 68102.</principalBusinessAddress>
+        <principalJob>TMG is the general partner of MCF and BOC I.  Mr. Peterson is the managing member of TMG.  TMG and Mr. Peterson may each exercise voting and dispositive power over the Comon Stock held by MCF and BOC I and, as a result, may be deemed to be indirect beneficial owners of shares of Common Stock held by MCF and BOC I.  TMG and Mr. Peterson disclaim beneficial ownership of the Common Stock held by MCF and BOC I.  Mr. Peterson may exercise voting and dispositive power over the Common Stock he holds directly for his own account and that are held in the account of TMG.</principalJob>
+        <hasBeenConvicted>During the past five years, none of the Reporting Persons have been convicted in any criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the past five years, none of the Reporting Persons have been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and, as a result of such proceeding, was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>MCF and BOC I are Delaware limited partnerships.  TMG is a Nebraska limited liability company and registered investment adviser.  Mr. Peterson is a U.S. citizen.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>(1)  In exercising Class B warrants, MCF purchased 1,262 shares at a cost basis of $10,096.00 and 51,516 shares at a cost basis of $525,256.00.  (2) Adam K. Peterson directly holds 586,155 shares of Common Stock.  Mr. Peterson indirectly purchased 876 shares for his minor children's accounts at a cost basis of $15,017.33 on September 11, 2023.  87,962 of the shares held directly by Mr. Peterson were originally purchased by MCF and distributed in-kind to Mr. Peterson effective as of June 30, 2018 at a cost basis of $1,011,033.67.  Consideration for these shares, when originally purchased, came from the working capital of MCF.  Effective as of May 28, 2020, 9,375 additional shares of Common Stock were purchased by Mr. Peterson at a cost basis of $150,000.  The shares were purchased by Mr. Peterson.  137,927 of the shares held directly by Mr. Peterson were originally held by BOC II and distributed in-kind to Mr. Peterson on June 23, 2021 at a cost basis of $2,621,819.20.  193,791 of the shares held directly by Mr. Peterson were originally held by BOC and distributed in-kind to Mr. Peterson on July 26, 2021 at a cost basis of $4,398,865.30.  93,176 of the shares held directly by Mr. Peterson were originally held by TMG and distributed in-kind to Mr. Peterson at a cost basis of $1,070,961.18 on November 22, 2022.  (3) BOC I directly holds 5,589,253 shares of Common Stock.  1,888,412 shares of the Common Stock were purchased by TMG for the benefit of BOC I at an aggregated price of approximately $44,000,000, and consideration for these shares of Common Stock came from working capital of BOC I.  Effective as of June 30, 2018, 2,894,120 additional shares of Common Stock were contributed in-kind to BOC I, at an original cost basis at the time of purchase of $33,264,874.98, and consideration for these shares of Common Stock, when originally purchased, came from the working capital of MCF.  Effective as of February 1, 2019, 2,896,989 additional shares of Common Stock were contributed in-kind to BOC I by one of its limited partners, at an original cost basis at the time of purchase of approximately $67,499,844, and consideration for these shares of Common Stock, when originally purchased, came from the working capital of the limited partners, at an original cost basis at the time of purchase of approximately $2,448,252, and consideration for these shares of Common Stock, when originally purchased, came from the working capital of the limited partner that contributed the shares.  Effective as of July 26, 2021, BOC I distributed to its limited partners 970,842 shares of the Common Stock at an aggregated cost basis of approximately $11,292,085.76.  Effective May 25, 2022, 1,400,000 additional shares of Common Stock being reported in this Schedule 13D were distributed in-kind to its limited partners at an aggregate cost basis of approximately $15,330,808.22</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The purpose of the acquisition of the Common Stock is for investment, and the acquisitions of the Common Stock were made in the ordinary course of business.  All purchases of the Common Stock were based on the belief that such securities, when purchased, were undervalued and represented an attractive investment opportunity.  Given the Reporting Persons' ownership percentage of, and Mr. Peterson's role with, the Issuer, the Reporting Persons holding of the Common Stock may have the purpose or effect of controlling the Issuer.  Although Reporting Persons have no specific plan or proposal to acquire additonal Common Stock or dispose of Common Stock, Reporting Persons at any time and from time to time may acquire additional Common Stock or dispose of any or all of its Common Stock depending upon an ongoing evaluation of the investment in the Common Stock, prevailing market conditions, other investment opportunities, liquidity requirements of the Reporting Person and/or other investment considerations.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Currently, the Reporting Persons beneficially own 6,176,284 shares of Class A common stock and 580,558 shares of Class B common stock.  The Class B common stock is convertible at any time, at the holder's election and for no additional consideration, into shares of Class A common stock on a one-on-one basis.  The conversion right has no expiration date.  Based on the foregoing:  Mr. Peterson may be deemed the beneficial owner of 6,756,842 shares of Common Stock held for himself and the accounts of MCF and BOC I.  TMG may be deemed the beneficial owner of 6,169,811 shares of Common Stock held for itself and the accounts of MCF and BOC I.  MCF may be deemed the beneficial owner of 580,558 shares of Common Stock that it holds.  BOC I may be deemed the beneficial owner of 5,589,253 shares of Common Stock that it holds.  The Issuer's 10-Q, filed on November 12, 2024, listed 30,846,087 shares of the Issuer's Class A common stock outstanding, and 527,780 shares of Class B common stock outstanding.  The shares beneficially owned, in total, represent approximately 21.5% of the shares issued and outstanding.  For purposes of determining the number of shares outstanding, for those Reporting Persons that report beneficial ownership of the Warrants, the Common Stock underlying the Warrants has been added to the Issuer's reported outstanding share count.</percentageOfClassSecurities>
+        <numberOfShares>The information set forth in Rows 5 through 11 of the cover page for each Reporting Person is hereby incorporated by reference into this Item 5(b) for each such Reporting Person.</numberOfShares>
+        <listOfShareholders>Except as disclosed herein, no other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the shares Common Stock beneficially owned by each of the Reporting Persons.</listOfShareholders>
+        <date5PercentOwnership>This item is not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>The powers of disposition and voting of the shares held for MCF are held pursuant to a limited partnership agreement entered into between MCF and TMG.  The powers of disposition and voting of the shares held for BOC I are held pursuant to a limited partnership agreement entered into by and between BOC I and TMG.  As described above in Item 2, Mr. Peterson is the managing member of TMG.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit A - Joint Filing Agreement</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Magnolia Capital Fund, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Adam K. Peterson</signature>
+          <title>Adam K. Peterson, Manager</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Magnolia BOC I, LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Adam K. Peterson</signature>
+          <title>Adam K. Peterson, Manager</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>The Magnolia Group, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Adam K. Peterson</signature>
+          <title>Adam K. Peterson, Manager</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Adam K. Peterson</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Adam K. Peterson</signature>
+          <title>Adam K. Peterson, Manager</title>
+          <date>01/14/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.A
+<SEQUENCE>2
+<FILENAME>fp0091862-1_ex99a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0 0 0in"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 0in; text-align: right"></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: right">Exhibit A</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">JOINT FILING AGREEMENT</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; padding: 0; text-align: justify">Pursuant to Rule 13d-1(k)(1)
+under the Securities Exchange act of 1934, the undersigned agree, as of <FONT STYLE="font-size: 11pt">January 14, 2025</FONT>, that only one statement containing the
+information required by Schedule 13D, and each amendment thereto, need to be filed with respect to the ownership by each of the
+undersigned of shares of Common Stock of Boston Omaha Corporation, and such statement to which this Joint Filing Agreement is attached
+as Exhibit 1 is filed on behalf of each of the undersigned.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Dated: January 14, 2025</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Magnolia Capital Fund, LP</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify; width: 5%"><FONT STYLE="font-size: 11pt">By:</FONT></TD>
+    <TD STYLE="text-align: justify; width: 35%"><FONT STYLE="font-size: 11pt">The Magnolia Group, LLC, General Partner</FONT></TD>
+    <TD STYLE="text-align: justify; width: 60%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 11pt">/s/ Adam K. Peterson</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-left: 0.25in; text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">Adam K. Peterson, Manager</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">Magnolia BOC I, LP</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">By:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">The Magnolia Group, LLC, General Partner</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 11pt"> /s/ Adam K. Peterson</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-left: 0.25in; text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">Adam K. Peterson, Manager</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">The Magnolia Group, LLC</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 11pt"> /s/ Adam K. Peterson</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-left: 0.25in; text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">Adam K. Peterson, Manager</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: justify"><FONT STYLE="font-size: 11pt"> /s/ Adam K. Peterson</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-left: 0.25in; text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-size: 11pt">Adam K. Peterson</FONT></TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

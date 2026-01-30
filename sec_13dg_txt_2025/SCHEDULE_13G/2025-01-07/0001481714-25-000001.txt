@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001481714-25-000001.txt : 20250107
+<SEC-HEADER>0001481714-25-000001.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107145150
+ACCESSION NUMBER:		0001481714-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN CENTURY ETF TRUST
+		CENTRAL INDEX KEY:			0001710607
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93835
+		FILM NUMBER:		25514521
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 MAIN STREET
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+		BUSINESS PHONE:		(816) 531-5575
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 MAIN STREET
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Century ETF Trust
+		DATE OF NAME CHANGE:	20170628
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Verus Financial Partners, Inc.
+		CENTRAL INDEX KEY:			0001481714
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				541631632
+		STATE OF INCORPORATION:			VA
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9030 STONY POINT PARKWAY SUITE 160
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23235
+		BUSINESS PHONE:		804-592-3465
+
+	MAIL ADDRESS:	
+		STREET 1:		9030 STONY POINT PARKWAY SUITE 160
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23235
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Kuehl Shepherd Kozlowski & Associates,Inc.
+		DATE OF NAME CHANGE:	20100121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001481714</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Exchange Traded Fund</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>03/07/2023</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001710607</issuerCik>
+        <issuerName>AMERICAN CENTURY ETF TRUST</issuerName>
+        <issuerCusip>025072240</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>4500 MAIN STREET</com:street1>
+          <com:city>KANSAS CITY</com:city>
+          <com:stateOrCountry>MO</com:stateOrCountry>
+          <com:zipCode>64111</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Verus Financial Partners, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>VA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>4447.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>4447.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>4447.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.6</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>AMERICAN CENTURY ETF TRUST</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>4500 MAIN STREET, KANSAS CITY, MISSOURI, 64111</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Julie Waitman</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>9030 Stony Point Parkway, STE 160, Richmond, Virginia 23235</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>4447</amountBeneficiallyOwned>
+        <classPercent>5.6%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>4447</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>4447</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Verus Financial Partners, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>Julie Waitman</signature>
+        <title>Senior Vice President</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>Julie Waitman</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

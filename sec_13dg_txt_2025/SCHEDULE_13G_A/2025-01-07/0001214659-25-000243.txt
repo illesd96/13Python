@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001214659-25-000243.txt : 20250107
+<SEC-HEADER>0001214659-25-000243.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107060048
+ACCESSION NUMBER:		0001214659-25-000243
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Smith Douglas Homes Corp.
+		CENTRAL INDEX KEY:			0001982518
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATIVE BUILDERS [1531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94335
+		FILM NUMBER:		25513361
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 VILLAGE TRAIL, SUITE 215
+		CITY:			WOODSTOCK
+		STATE:			GA
+		ZIP:			30188
+		BUSINESS PHONE:		(770) 213-8067
+
+	MAIL ADDRESS:	
+		STREET 1:		110 VILLAGE TRAIL, SUITE 215
+		CITY:			WOODSTOCK
+		STATE:			GA
+		ZIP:			30188
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hood River Capital Management LLC
+		CENTRAL INDEX KEY:			0001578177
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				461294859
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2373 PGA BOULEVARD, SUITE 200
+		CITY:			PALM BEACH GARDENS
+		STATE:			FL
+		ZIP:			33410
+		BUSINESS PHONE:		561-484-5699
+
+	MAIL ADDRESS:	
+		STREET 1:		2373 PGA BOULEVARD, SUITE 200
+		CITY:			PALM BEACH GARDENS
+		STATE:			FL
+		ZIP:			33410
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001214659-24-017089</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Hood River Capital Management LLC -->
+          <cik>0001578177</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001982518</issuerCik>
+        <issuerName>Smith Douglas Homes Corp.</issuerName>
+        <issuerCusip>83207R107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>110 Village Trail, Suite 215</com:street1>
+          <com:city>Woodstock</com:city>
+          <com:stateOrCountry>GA</com:stateOrCountry>
+          <com:zipCode>30188</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Hood River Capital Management LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>162622.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>166622.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.84</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Smith Douglas Homes Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>110 Village Trail, Suite 215, Woodstock, GEORGIA, 30188</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Hood River Capital Management LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>2373 PGA Blvd., Suite 200, Palm Beach Gardens, FL  33410</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>162622</amountBeneficiallyOwned>
+        <classPercent>1.84</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToDispose>162622</solePowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Hood River Capital Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Robert Schmaltz</signature>
+        <title>CCO, COO</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001062993-25-000501.txt : 20250107
+<SEC-HEADER>0001062993-25-000501.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107163914
+ACCESSION NUMBER:		0001062993-25-000501
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ORION ENERGY SYSTEMS, INC.
+		CENTRAL INDEX KEY:			0001409375
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC LIGHTING & WIRING EQUIPMENT [3640]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				391847269
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-83486
+		FILM NUMBER:		25515349
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2210 WOODLAND DRIVE
+		CITY:			MANITOWOC
+		STATE:			WI
+		ZIP:			54220
+		BUSINESS PHONE:		800-660-9340
+
+	MAIL ADDRESS:	
+		STREET 1:		2210 WOODLAND DRIVE
+		CITY:			MANITOWOC
+		STATE:			WI
+		ZIP:			54220
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			North Star Investment Management Corp.
+		CENTRAL INDEX KEY:			0001342857
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				364467498
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 N. WACKER DRIVE
+		STREET 2:		SUITE # 1416
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		312-580-0900
+
+	MAIL ADDRESS:	
+		STREET 1:		20 N. WACKER DRIVE
+		STREET 2:		SUITE # 1416
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+	<headerData>
+		<submissionType>SCHEDULE 13G/A</submissionType>
+		<previousAccessionNumber>0001062993-16-007145</previousAccessionNumber>
+		<filerInfo>
+			<filer>
+				<filerCredentials>
+					<cik>0001342857</cik>
+					<ccc>XXXXXXXX</ccc>
+				</filerCredentials>
+			</filer>
+			<liveTestFlag>LIVE</liveTestFlag>
+
+
+		</filerInfo>
+	</headerData>
+	<formData>
+		<coverPageHeader>
+			<amendmentNo>9</amendmentNo>
+			<securitiesClassTitle>Common Stock, no par value</securitiesClassTitle>
+			<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+			<issuerInfo>
+				<issuerCik>0001409375</issuerCik>
+				<issuerName>Orion Energy Systems, Inc.</issuerName>
+				<issuerCusip>686275108</issuerCusip>
+				<issuerPrincipalExecutiveOfficeAddress>
+					<com:street1>2210 Woodland Drive</com:street1>
+					<com:city>Manitowoc</com:city>
+					<com:stateOrCountry>WI</com:stateOrCountry>
+					<com:zipCode>54220</com:zipCode>
+				</issuerPrincipalExecutiveOfficeAddress>
+			</issuerInfo>
+			<designateRulesPursuantThisScheduleFiled>
+				<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+			</designateRulesPursuantThisScheduleFiled>
+		</coverPageHeader>
+		<coverPageHeaderReportingPersonDetails>
+
+			<reportingPersonName>North Star Investment Management Corporation</reportingPersonName>
+			<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+			<reportingPersonBeneficiallyOwnedNumberOfShares>
+				<soleVotingPower>1980000</soleVotingPower>
+				<sharedVotingPower>1731053</sharedVotingPower>
+				<soleDispositivePower>1980000</soleDispositivePower>
+				<sharedDispositivePower>1731053</sharedDispositivePower>
+			</reportingPersonBeneficiallyOwnedNumberOfShares>
+			<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3711053</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+			<classPercent>11.28</classPercent>
+			<typeOfReportingPerson>IA</typeOfReportingPerson>
+		</coverPageHeaderReportingPersonDetails>
+		<items>
+			<item1>
+				<issuerName>Orion Energy Systems, Inc.</issuerName>
+				<issuerPrincipalExecutiveOfficeAddress>2210 Woodland Drive, , Manitowoc, WISCONSIN 54220</issuerPrincipalExecutiveOfficeAddress>
+			</item1>
+			<item2>
+				<filingPersonName>North Star Investment Management Corporation</filingPersonName>
+				<principalBusinessOfficeOrResidenceAddress>20 N. Wacker Drive, Suite 1416
+Chicago, IL 600606</principalBusinessOfficeOrResidenceAddress>
+				<citizenship>USA</citizenship>
+			</item2>
+			<item3>
+				<notApplicableFlag>N</notApplicableFlag>
+				<typeOfPersonFiling>IA</typeOfPersonFiling>
+			</item3>
+			<item4>
+				<amountBeneficiallyOwned>3,711,053</amountBeneficiallyOwned>
+				<classPercent>11.28</classPercent>
+				<numberOfSharesPersonHas>
+					<solePowerOrDirectToVote>1,980,000</solePowerOrDirectToVote>
+					<sharedPowerOrDirectToVote>1,731,053</sharedPowerOrDirectToVote>
+					<solePowerOrDirectToDispose>1,980,000</solePowerOrDirectToDispose>
+					<sharedPowerOrDirectToDispose>1,731,053</sharedPowerOrDirectToDispose>
+				</numberOfSharesPersonHas>
+			</item4>
+			<item5>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item5>
+			<item6>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item6>
+			<item7>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item7>
+			<item8>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item8>
+			<item9>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item9>
+			<item10>
+				<notApplicableFlag>N</notApplicableFlag>
+				<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+			</item10>
+		</items>
+		<signatureInformation>
+			<reportingPersonName>North Star Investment Management Corporation</reportingPersonName>
+			<signatureDetails>
+				<signature>/s/ Andrew Eisenberg</signature>
+				<title>Chief Compliance Officer</title>
+				<date>01/07/2025</date>
+			</signatureDetails>
+		</signatureInformation>
+	</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

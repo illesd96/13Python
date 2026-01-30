@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001104659-25-002269.txt : 20250110
+<SEC-HEADER>0001104659-25-002269.hdr.sgml : 20250110
+<ACCEPTANCE-DATETIME>20250110064721
+ACCESSION NUMBER:		0001104659-25-002269
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250110
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TriSalus Operating Life Sciences, Inc.
+		CENTRAL INDEX KEY:			0001518906
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				270629393
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94792
+		FILM NUMBER:		25520300
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6272 WEST 91ST AVENUE
+		CITY:			WESTMINSTER
+		STATE:			CO
+		ZIP:			80031
+		BUSINESS PHONE:		(888) 321-5212
+
+	MAIL ADDRESS:	
+		STREET 1:		6272 WEST 91ST AVENUE
+		CITY:			WESTMINSTER
+		STATE:			CO
+		ZIP:			80031
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TriSalus Life Sciences, Inc.
+		DATE OF NAME CHANGE:	20211001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Surefire Medical, Inc.
+		DATE OF NAME CHANGE:	20110425
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Utmost Group Plc
+		CENTRAL INDEX KEY:			0002046077
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				616132186
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SADDLERS' HOUSE 5TH FLOOR,
+		STREET 2:		44 GUTTER LANE,
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC2V 6BR
+		BUSINESS PHONE:		02038614361
+
+	MAIL ADDRESS:	
+		STREET 1:		SADDLERS' HOUSE 5TH FLOOR,
+		STREET 2:		44 GUTTER LANE,
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC2V 6BR
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Utmost Group Plc -->
+          <cik>0002046077</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/30/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001518906</issuerCik>
+        <issuerName>TriSalus Life Sciences Inc.</issuerName>
+        <issuerCusip>89680M101</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>6272 W. 91st Ave.</com:street1>
+          <com:city>Westminster</com:city>
+          <com:stateOrCountry>CO</com:stateOrCountry>
+          <com:zipCode>80031</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Utmost Group PLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X0</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>2000588.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>2000588.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2000588.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.56</classPercent>
+      <typeOfReportingPerson>FI</typeOfReportingPerson>
+      <comments>Lombard International Assurance S.A. was acquired by Utmost Group PLC on 30/12/2024. Shareholdings of Lombard International Assurance S.A. were disclosed on 21/10/2024, accession number 0001104659-24-110077</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>TriSalus Life Sciences Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>6272 W. 91st Ave. Westminster, CO, 80031</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Utmost Group PLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Saddlers' House 5th Floor , 44 Gutter Lane, London, United Kingdom, EC2V 6BR</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United Kingdom</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>2,000,588 shares</amountBeneficiallyOwned>
+        <classPercent>6.56</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>2,000,588</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>None</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>2,000,588</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>None</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Lombard International Assurance SA (acquired by Utmost Group on 30/12/2024)
+4, rue Lou Hemmer L1748 Luxembourg</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the foreign regulatory scheme applicable to (J) A non-U.S. institution that is the functional equivalent of any of the institutions listed in SS240.13d-1 (b)(1)(ii)(A) through (I), so long as the non-U.S. institution is subject to a regulatory scheme that is substantially comparable to the regulatory scheme applicable to the equivalent U.S. institution is substantially comparable to the regulatory scheme applicable to the functionally equivalent U.S. institution(s). I also undertake to furnish to the Commission staff, upon request, information that would otherwise be disclosed in a Schedule 13D.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Utmost Group PLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Ian Maidens</signature>
+        <title>Ian Maidens - Group CFO</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,356 @@
+<SEC-DOCUMENT>0001213900-25-008087.txt : 20250130
+<SEC-HEADER>0001213900-25-008087.hdr.sgml : 20250130
+<ACCEPTANCE-DATETIME>20250130080320
+ACCESSION NUMBER:		0001213900-25-008087
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250130
+DATE AS OF CHANGE:		20250130
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Triller Group Inc.
+		CENTRAL INDEX KEY:			0001769624
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91014
+		FILM NUMBER:		25571225
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7119 WEST SUNSET BOULEVARD
+		STREET 2:		SUITE 782
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90046
+		BUSINESS PHONE:		310-893-5090
+
+	MAIL ADDRESS:	
+		STREET 1:		7119 WEST SUNSET BOULEVARD
+		STREET 2:		SUITE 782
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90046
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGBA Group Holding Ltd.
+		DATE OF NAME CHANGE:	20221115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AGBA Acquisition Ltd
+		DATE OF NAME CHANGE:	20190304
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KCP Holdings Ltd
+		CENTRAL INDEX KEY:			0002053925
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O METABASE58 CAYMAN LIMITED
+		STREET 2:		3RD FLOOR, PO BOX 10035, 71 FORT STREET
+		CITY:			GEORGE TOWN
+		STATE:			E9
+		ZIP:			KY1-1111
+		BUSINESS PHONE:		1 345 925 1515
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O METABASE58 CAYMAN LIMITED
+		STREET 2:		3RD FLOOR, PO BOX 10035, 71 FORT STREET
+		CITY:			GEORGE TOWN
+		STATE:			E9
+		ZIP:			KY1-1111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: KCP Holdings Ltd -->
+          <cik>0002053925</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <dateOfEvent>01/24/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001769624</issuerCIK>
+        <issuerCUSIP>895970101</issuerCUSIP>
+        <issuerName>TRILLER GROUP INC.</issuerName>
+        <address>
+          <com:street1>7119 West Sunset Boulevard</com:street1>
+          <com:street2>Suite 782</com:street2>
+          <com:city>Los Angeles</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90046</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>KCP Holdings Limited</personName>
+          <personPhoneNum>345-769-1629</personPhoneNum>
+          <personAddress>
+            <com:street1>7119 West Sunset Boulevard</com:street1>
+            <com:street2>Suite 782</com:street2>
+            <com:city>Los Angeles</com:city>
+            <com:stateOrCountry>CA</com:stateOrCountry>
+            <com:zipCode>90046</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>Ari B. Blaut &amp; Lee C. Parnes</personName>
+          <personPhoneNum>212-558-4000</personPhoneNum>
+          <personAddress>
+            <com:street1>7119 West Sunset Boulevard</com:street1>
+            <com:street2>Suite 782</com:street2>
+            <com:city>Los Angeles</com:city>
+            <com:stateOrCountry>CA</com:stateOrCountry>
+            <com:zipCode>90046</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002053925</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>KCP Holdings Limited</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>12727272.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>12727272.00</sharedDispositivePower>
+        <aggregateAmountOwned>12727272.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.25</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>For rows 8, 10 and 11, represents 6,363,636 shares of Common Stock held by KCP plus the Warrant held by KCP exercisable into 6,363,636 shares of Common Stock. For row 13, calculation based on 175,567,952 shares of Common Stock, which is equal to 162,840,680 shares of Common Stock outstanding as of January 24, 2025 as disclosed by the Issuer in the Securities Purchase Agreement, plus 6,363,636 shares of Common Stock issued by the Issuer to KCP pursuant to the Securities Purchase Agreement and 6,363,636 shares of Common Stock into which the Warrant issued by the Issuer to KCP is exercisable. The Warrant will not become exercisable until six months after its issuance, but the underlying shares it is exercisable into have been included in the calculation of the percentage set forth in row 13, notwithstanding that the Warrant is not exercisable until six months after its issuance.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>Roger C. Kennedy</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>12727272.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>12727272.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>12727272.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.25</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>For rows 7, 9 and 11, represents 6,363,636 shares of Common Stock held by KCP plus the Warrant held by KCP exercisable into 6,363,636 shares of Common Stock. For row 13, calculation based on 175,567,952 shares of Common Stock, which is equal to 162,840,680 shares of Common Stock outstanding as of January 24, 2025 as disclosed by the Issuer in the Securities Purchase Agreement, plus 6,363,636 shares of Common Stock issued by the Issuer to KCP pursuant to the Securities Purchase Agreement and 6,363,636 shares of Common Stock into which the Warrant issued by the Issuer to KCP is exercisable. The Warrant will not become exercisable until six months after its issuance, but the underlying shares it is exercisable into have been included in the calculation of the percentage set forth in row 13, notwithstanding that the Warrant is not exercisable until six months after its issuance.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.001 per share</securityTitle>
+        <issuerName>TRILLER GROUP INC.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>7119 West Sunset Boulevard</com:street1>
+          <com:street2>Suite 782</com:street2>
+          <com:city>Los Angeles</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>90046</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13D is being filed by:
+(i) KCP Holdings Limited ("KCP"); and
+(ii) Roger C. Kennedy (together with KCP, the "Reporting Persons")</filingPersonName>
+        <principalBusinessAddress>The principal business address of each of the Reporting Persons is Apollo House East 4th Floor, 87 Mary Street, George Town, Grand Cayman KY1-1107, Cayman Islands.</principalBusinessAddress>
+        <principalJob>The principal business of KCP is investment management.
+The principal occupation of Roger C. Kennedy is to serve as a director of KCP.</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons have, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons have, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>(i) KCP is a Cayman Islands exempt company; and (ii) Roger C. Kennedy is a citizen of the United States of America</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The information set forth in Item 6 of this Schedule 13D is hereby incorporated by reference into this Item 3.
+
+On January 24, 2025, the Issuer entered into the Securities Purchase Agreement with KCP (the "Securities Purchase Agreement"). Pursuant to the Securities Purchase Agreement, on January 24, 2025 (the "Closing Date"), KCP purchased from the Issuer 6,363,636 shares of Common Stock and one warrant to purchase 6,363,636 shares of Common Stock (the "Warrant") for an aggregate purchase price of $14 million. The source of funds for the purchase of the shares of Common Stock and Warrant were derived from KCP's investment capital.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The information set forth in Items 3 and 6 of this Schedule 13D is hereby incorporated by reference into this Item 4.
+
+The Reporting Persons acquired the securities reported herein for investment purposes. The Reporting Persons intend to review their investment in the Issuer on a continuing basis and, subject to the terms and conditions of the Securities Purchase Agreement and the Registration Rights Agreement (defined in Item 6 below), may, from time to time, and at any time in the future, formulate plans or proposals depending on various factors, including the Issuer's financial position and strategic direction, corporate transactions, actions taken by the Issuer's Board of Directors (the "Board"), price levels of the Issuer's securities, other investment opportunities available to the Reporting Persons, conditions in the securities market and general economic and industry conditions, and take such actions with respect to the investment in the Issuer as they deem appropriate, including changing their current intentions, with respect to any or all matters required to be disclosed in this Schedule 13D.
+
+Without limiting the foregoing and the subject to the transfer restrictions set forth in the Securities Purchase Agreement, the Reporting Persons may, from time to time, (i) acquire additional shares of Common Stock, other equity, debt, notes, other securities, or derivative, other instruments that are based upon or relate to the value of securities of the Issuer or any combination of the foregoing (collectively, the "Securities") in the open market, private transactions or otherwise; (ii) dispose of any or all of their Securities in the open market, private transactions or otherwise, including pursuant to registered transactions as provided in the Registration Rights Agreement; (iii) engage in any hedging, derivative or similar transactions, including with respect to the Securities or otherwise; (iv) discuss with the Issuer's management, including the Board, the governance and strategic direction of the Issuer; or (v) propose or consider one or more of the actions described in subsections (a) through (j) of Item 4 of Schedule 13D.
+
+The Reporting Persons undertake no obligation to make additional disclosures except to the extent required by law.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The information set forth in the cover pages and Item 2 of this Schedule 13D is hereby incorporated by reference into this Item 5.
+
+The Reporting Persons beneficially own 6,363,636 shares of Common Stock and one Warrant to purchase 6,363,636 shares of Common Stock, as of the close of business on January 24, 2025, constituting approximately 7.25% of the outstanding Common Stock. This percentage is based on 175,567,952 shares of Common Stock, which is equal to 162,840,680 shares of Common Stock outstanding as of January 24, 2025 as disclosed by the Issuer in the Securities Purchase Agreement, plus 6,363,636 shares of Common Stock issued by the Issuer to KCP pursuant to the Securities Purchase Agreement and 6,363,636 shares of Common Stock into which the Warrant issued by the Issuer to KCP is exercisable.
+
+The Reporting Persons do not beneficially own any shares of Common Stock except as described herein.</percentageOfClassSecurities>
+        <numberOfShares>KCP is the direct beneficial owner, and has shared power to vote and direct the disposition, of 6,363,636 shares of Common Stock and one Warrant to purchase 6,363,636 shares of Common Stock, as of the close of business on January 24, 2025.  Roger C. Kennedy is the indirect beneficial owner of such shares of Common Stock and such Warrant.  As such, Roger C. Kennedy has sole  power to vote and direct the disposition of such shares of Common Stock and such Warrant.</numberOfShares>
+        <transactionDesc>The Reporting Persons have not engaged in any transaction in any shares of Common Stock during the past 60 days.</transactionDesc>
+        <listOfShareholders>To the best knowledge of the Reporting Persons, no one other than the Reporting Persons, or the partners, members, affiliates or shareholders of the Reporting Persons, have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities of the Issuer reported as beneficially owned by the Reporting Persons herein.</listOfShareholders>
+        <date5PercentOwnership>Not Applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>The information set forth in Items 3, 4 and 5 of this Schedule 13D is hereby incorporated by reference into this Item 6.
+
+Securities Purchase Agreement
+
+On January 24, 2025, the Issuer entered into the Securities Purchase Agreement, relating to the issuance and sale to KCP of 6,363,636 shares of Common Stock and one Warrant to purchase 6,363,636 shares of Common Stock for an aggregate purchase price of $14 million. Pursuant to the Securities Purchase Agreement, the Issuer increased the size of the Board as of the Closing Date in order to appoint an individual designated by KCP (the "Designee"). Roger C. Kennedy is the Designee and was appointed to the Board effective as of the Closing Date. At any annual or special meeting of the Issuer's stockholders at which the term of the Designee will expire, KCP will have the right to nominate a candidate for election to the Board at such meeting or action by written consent, and the Issuer must include such candidate in the Issuer's slate of nominees and support such candidate in a manner no less rigorous and favorable than the manner in which the Issuer supports its other nominees. Pursuant to the Securities Purchase Agreement, the Reporting Persons have agreed that they may not transfer or sell the shares of Common Stock or Warrant for six months immediately following closing of the transaction contemplated thereunder.
+
+Warrant
+
+On January 24, 2025, the Issuer issued the Warrant to KCP. Under the Warrant, the Issuer granted KCP a Warrant exercisable into 6,363,636 shares of Common Stock. The Warrant is exercisable six months after issuance at an exercise price of $5.00 per share and will remain exercisable for five years following issuance.
+
+Registration Rights Agreement
+
+On the Closing Date, the Issuer entered into a Registration Rights Agreement (the "Registration Rights Agreement") with KCP pursuant to which KCP and its affiliates will have certain customary registration rights with respect to shares of Common Stock held by KCP and its affiliates and permitted transferees, including any Common Stock issued upon any future exercise of the Warrants, pursuant to the terms of a Registration Rights Agreement.
+
+The foregoing description of the terms of the Securities Purchase Agreement, Warrant and Registration Rights Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of such documents, copies of which are filed as Exhibits 99.1, 99.2 and 99.3, respectively, to this Schedule 13D and are incorporated herein by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1: Securities Purchase Agreement, dated as of January 24, 2025 (incorporated by reference from Exhibit 10.1 to the Issuer's Form 8-K filed with the Securities and Exchange Commission on January 29, 2025)
+
+Exhibit 99.2: Warrant (incorporated by reference from Exhibit 4.1 to the Issuer's Form 8-K filed with the Securities and Exchange Commission on January 29, 2025)
+
+Exhibit 99.3: Registration Rights Agreement, dated as of January 24, 2025 (incorporated by reference from Exhibit 10.2 to the Issuer's Form 8-K filed with the Securities and Exchange Commission on January 29, 2025)
+
+Exhibit 99.4: Joint Filing Agreement, dated as of January 29, 2025, between KCP and Roger C. Kennedy.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>KCP Holdings Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roger C. Kennedy</signature>
+          <title>Director</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Roger C. Kennedy</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Roger C. Kennedy</signature>
+          <title>Roger C. Kennedy</title>
+          <date>01/30/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>2
+<FILENAME>ea022903301ex99-4_triller.htm
+<DESCRIPTION>JOINT FILING AGREEMENT, DATED AS OF JANUARY [ ], 2025, BETWEEN KCP AND ROGER C. KENNEDY
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 99.4</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In accordance with Rule 13d-1(k)(1) under the
+Securities Exchange Act of 1934, as amended, each of the undersigned Reporting Persons hereby agrees to the joint filing on behalf of each of them of a statement on Schedule 13D (including amendments thereto) with respect to
+the Common Stock of the Issuer, and that this Agreement be included as an Exhibit to such joint filing. This Agreement may be executed
+in any number of counterparts, all of which taken together shall constitute one and the same instrument.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">IN WITNESS WHEREOF, each of the undersigned hereby
+executes this Agreement as of January 29, 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 3in"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>KCP Holdings Limited</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 60%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 36%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">/s/ Roger C. Kennedy</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Roger C. Kennedy, as Director</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Roger C. Kennedy</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt 0; font: 10pt Times New Roman, Times, Serif">/s/ Roger C. Kennedy</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Roger C. Kennedy, individually</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,366 @@
+<SEC-DOCUMENT>0000919574-25-000110.txt : 20250106
+<SEC-HEADER>0000919574-25-000110.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106165011
+ACCESSION NUMBER:		0000919574-25-000110
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Fulcrum Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001680581
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				474839948
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91080
+		FILM NUMBER:		25511961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		26 LANDSDOWNE STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+		BUSINESS PHONE:		617-651-8851
+
+	MAIL ADDRESS:	
+		STREET 1:		26 LANDSDOWNE STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUVRETTA CAPITAL MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001569064
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				453704500
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		540 MADISON AVENUE
+		STREET 2:		7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2127025204
+
+	MAIL ADDRESS:	
+		STREET 1:		540 MADISON AVENUE
+		STREET 2:		7TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: SUVRETTA CAPITAL MANAGEMENT, LLC -->
+          <cik>0001569064</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/27/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001680581</issuerCik>
+        <issuerName>Fulcrum Therapeutics, Inc.</issuerName>
+        <issuerCusip>359616109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>26 Landsdowne Street</com:street1>
+          <com:city>Cambridge</com:city>
+          <com:stateOrCountry>MA</com:stateOrCountry>
+          <com:zipCode>02139</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>SUVRETTA CAPITAL MANAGEMENT, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3404612.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3404612.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3404612.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.3</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Averill Master Fund, Ltd.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3151741.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3151741.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3151741.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.8</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Aaron Cowen</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>3404612.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>3404612.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3404612.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.3</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Fulcrum Therapeutics, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>26 Landsdowne Street, Cambridge, MA 02139</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Suvretta Capital Management, LLC
+Averill Master Fund, Ltd.
+Aaron Cowen</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Suvretta Capital Management, LLC
+540 Madison Avenue, 7th Floor
+New York, New York 10022
+United States of America
+
+Averill Master Fund, Ltd.
+c/o Maples Corporate Services Limited
+P.O. Box 309
+Ugland House
+Grand Cayman KY1-1104
+Cayman Islands
+
+Aaron Cowen
+c/o Suvretta Capital Management, LLC
+540 Madison Avenue, 7th Floor
+New York, New York 10022</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Suvretta Capital Management, LLC - Delaware
+Averill Master Fund, Ltd. - Cayman Islands
+Aaron Cowen - United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Suvretta Capital Management, LLC - 3,404,612
+Averill Master Fund, Ltd. - 3,151,741
+Aaron Cowen - 3,404,612</amountBeneficiallyOwned>
+        <classPercent>Suvretta Capital Management, LLC - 6.3%
+Averill Master Fund, Ltd. - 5.8%
+Aaron Cowen - 6.3%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Suvretta Capital Management, LLC - 0
+Averill Master Fund, Ltd. - 0
+Aaron Cowen - 0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Suvretta Capital Management, LLC - 3,404,612
+Averill Master Fund, Ltd. - 3,151,741
+Aaron Cowen - 3,404,612</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Suvretta Capital Management, LLC - 0
+Averill Master Fund, Ltd. - 0
+Aaron Cowen - 0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Suvretta Capital Management, LLC - 3,404,612
+Averill Master Fund, Ltd. - 3,151,741
+Aaron Cowen - 3,404,612</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the securities reported in this Schedule 13G are directly owned by advisory clients of Suvretta Capital Management, LLC. None of those advisory clients, other than Averill Master Fund, Ltd., may be deemed to beneficially own more than 5% of the Common Stock, $0.001 par value per share.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Please see Exhibit B attached hereto.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>[Exhibit A - Joint Filing Agreement]
+[Exhibit B - Control Person Identification]</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>SUVRETTA CAPITAL MANAGEMENT, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Aaron Cowen</signature>
+        <title>Aaron Cowen/Authorized Signatory</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Averill Master Fund, Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Aaron Cowen</signature>
+        <title>Aaron Cowen/Director</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Aaron Cowen</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Aaron Cowen</signature>
+        <title>Aaron Cowen</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>* Each Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his, her or its pecuniary interest therein, and this report shall not be deemed an admission that such Reporting Person is the beneficial owner of the securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose.
+
+To the extent that "ownership of 5 percent or less of a class" was indicated in Item 5, such response only applies to the Reporting Person(s) that indicated elsewhere herein that it beneficially owns five percent (5%) or less of the class.</signatureComments>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>d11556937_ex99-a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><U>Exhibit A</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>JOINT FILING AGREEMENT</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned agree that
+this Schedule 13G dated January 6, 2025 relating to the Common Stock, par value $0.001 per share, of Fulcrum Therapeutics, Inc. shall
+be filed on behalf of the undersigned.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">SUVRETTA CAPITAL MANAGEMENT, LLC</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Aaron Cowen</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: Aaron Cowen</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;&nbsp;&nbsp;Authorized Signatory</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">AVERILL MASTER FUND, LTD.</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Aaron Cowen</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Name: Aaron Cowen</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 24pt; font: 12pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 11pt">Title:&nbsp;&nbsp;&nbsp;Director</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; font: 12pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="width: 50%; border-bottom: black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">AARON COWEN</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+    <P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">By: /s/ Aaron Cowen</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>d11556937_ex99-b.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><U>Exhibit B</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center"><U>CONTROL PERSON IDENTIFICATION</U></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt">Suvretta Capital Management, LLC is the relevant entity for which
+Aaron Cowen is the control person.</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

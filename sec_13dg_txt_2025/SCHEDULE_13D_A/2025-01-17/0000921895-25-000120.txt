@@ -1,0 +1,412 @@
+<SEC-DOCUMENT>0000921895-25-000120.txt : 20250117
+<SEC-HEADER>0000921895-25-000120.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117184213
+ACCESSION NUMBER:		0000921895-25-000120
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250117
+DATE AS OF CHANGE:		20250117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASBURY AUTOMOTIVE GROUP INC
+		CENTRAL INDEX KEY:			0001144980
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				010609375
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78864
+		FILM NUMBER:		25539978
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2905 PREMIERE PARKWAY NW
+		STREET 2:		SUITE 300
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30097
+		BUSINESS PHONE:		770-418-8200
+
+	MAIL ADDRESS:	
+		STREET 1:		2905 PREMIERE PARKWAY NW
+		STREET 2:		SUITE 300
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30097
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Impactive Capital LP
+		CENTRAL INDEX KEY:			0001786767
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		450 WEST 14 STREET
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK CITY
+		STATE:			NY
+		ZIP:			10014
+		BUSINESS PHONE:		(212) 218-8810
+
+	MAIL ADDRESS:	
+		STREET 1:		450 WEST 14 STREET
+		STREET 2:		12TH FLOOR
+		CITY:			NEW YORK CITY
+		STATE:			NY
+		ZIP:			10014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0000902664-21-003442</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Impactive Capital LP -->
+          <cik>0001786767</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value per share</securitiesClassTitle>
+      <dateOfEvent>01/15/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001144980</issuerCIK>
+        <issuerCUSIP>043436104</issuerCUSIP>
+        <issuerName>ASBURY AUTOMOTIVE GROUP INC</issuerName>
+        <address>
+          <com:street1>2905 PREMIERE PARKWAY NW</com:street1>
+          <com:street2>SUITE 300</com:street2>
+          <com:city>DULUTH</com:city>
+          <com:stateOrCountry>GA</com:stateOrCountry>
+          <com:zipCode>30097</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>CHRISTIAN ASMAR</personName>
+          <personPhoneNum>212-218-8810</personPhoneNum>
+          <personAddress>
+            <com:street1>IMPACTIVE CAPITAL LP</com:street1>
+            <com:street2>450 West 14th Street, 12th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10014</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>LAUREN TAYLOR WOLFE</personName>
+          <personPhoneNum>212-218-8810</personPhoneNum>
+          <personAddress>
+            <com:street1>IMPACTIVE CAPITAL LP</com:street1>
+            <com:street2>450 West 14th Street, 12th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10014</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>ANDREW FREEDMAN, ESQ.</personName>
+          <personPhoneNum>212-451-2300</personPhoneNum>
+          <personAddress>
+            <com:street1>OLSHAN FROME WOLOSKY LLP</com:street1>
+            <com:street2>1325 Avenue of the Americas</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10019</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001786767</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Impactive Capital LP</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1492232.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1492232.00</sharedDispositivePower>
+        <aggregateAmountOwned>1492232.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.6</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001786731</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Impactive Capital LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1492232.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1492232.00</sharedDispositivePower>
+        <aggregateAmountOwned>1492232.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001699118</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Wolfe Lauren Taylor</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1492232.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1492232.00</sharedDispositivePower>
+        <aggregateAmountOwned>1492232.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.6</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001787532</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Asmar Christian</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1492232.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1492232.00</sharedDispositivePower>
+        <aggregateAmountOwned>1492232.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.6</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, $0.01 par value per share</securityTitle>
+        <issuerName>ASBURY AUTOMOTIVE GROUP INC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>2905 PREMIERE PARKWAY NW</com:street1>
+          <com:street2>SUITE 300</com:street2>
+          <com:city>DULUTH</com:city>
+          <com:stateOrCountry>GA</com:stateOrCountry>
+          <com:zipCode>30097</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <principalBusinessAddress>Item 2(b) is hereby amended and restated as follows:
+
+The principal business address of each of the Reporting Persons is 450 West 14th Street, 12th Floor, New York, New York 10014.</principalBusinessAddress>
+      </item2>
+      <item3>
+        <fundsSource>Item 3 is hereby amended and restated as follows:
+
+The 1,492,232 Shares beneficially owned by the Impactive Funds were purchased with working capital (which may, at any given time, include margin loans made by brokerage firms in the ordinary course of business) in open market purchases. The aggregate purchase price of the 1,492,232 Shares beneficially owned by the Impactive Funds is approximately $200,616,645, including brokerage commissions.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 is hereby amended to add the following:
+
+The sales of the securities reported herein were undertaken for the purposes of effectuating a portfolio rebalancing and are not an indication of the Reporting Persons' view on the future prospects of the Issuer.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5(a) is hereby amended and restated as follows:
+
+The aggregate percentage of Shares reported owned by each person named herein is based upon 19,587,459 Shares outstanding as of October 28, 2024, which is the total number of Shares outstanding as reported in the Issuer's Quarterly Report on Form 10-Q filed with the SEC on October 30, 2024.
+
+A. Impactive Capital
+As of the date hereof, Impactive Capital beneficially owned 1,492,232 Shares held by the Impactive Funds.
+
+Percentage: Approximately 7.6%
+
+B. Impactive Capital GP
+As the general partner of Impactive Capital, Impactive Capital GP may be deemed to beneficially own the 1,492,232 Shares held by the Impactive Funds.
+
+Percentage: Approximately 7.6%
+
+C. Ms. Taylor Wolfe and Mr. Asmar
+Each of Ms. Taylor Wolfe and Mr. Asmar, as Managing Members of Impactive Capital GP, may be deemed to beneficially own the 1,492,232 Shares held by the Impactive Funds.
+
+Percentage: Approximately 7.6%</percentageOfClassSecurities>
+        <numberOfShares>Item 5(b) is hereby amended and restated as follows:
+
+A. Impactive Capital
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 1,492,232
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 1,492,232
+
+B. Impactive Capital GP
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 1,492,232
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 1,492,232
+
+C. Ms. Taylor Wolfe and Mr. Asmar
+1. Sole power to vote or direct vote: 0
+2. Shared power to vote or direct vote: 1,492,232
+3. Sole power to dispose or direct the disposition: 0
+4. Shared power to dispose or direct the disposition: 1,492,232</numberOfShares>
+        <transactionDesc>Item 5(c) is hereby amended and restated as follows:
+
+A. Impactive Capital
+The transactions in the Shares by Impactive Capital through the Impactive Funds during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+B. Impactive Capital GP
+Impactive Capital GP has not entered into any transactions in the Shares during the past sixty days. The transactions in the Shares by Impactive Capital through the Impactive Funds during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference.
+
+C. Ms. Taylor Wolfe and Mr. Asmar
+Each of Ms. Taylor Wolfe and Mr. Asmar have not entered into any transactions in the Shares during the past sixty days. The transactions in the Shares by Impactive Capital through the Impactive Funds during the past sixty days are set forth in Exhibit 1 and are incorporated herein by reference.</transactionDesc>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 is hereby amended to add the following:
+
+As previously disclosed, Impactive Capital entered into certain cash-settled total return swap agreements with Morgan Stanley &amp; Co. LLC as the counterparty (the "Swap Agreements"), which provided Impactive Capital with economic results that were comparable to the economic results of ownership but did not provide it with the power to vote or direct the voting or dispose of or direct the disposition of the Shares that were subject of the Swap Agreements. Impactive Capital has exited its swap position and is no longer a party to the Swap Agreements.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Item 7 is hereby amended to add the following exhibit:
+
+1 - Transactions in Securities</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Impactive Capital LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Lauren Taylor Wolfe</signature>
+          <title>Lauren Taylor Wolfe, Managing Member of Impactive Capital LLC, its General Partner</title>
+          <date>01/17/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Impactive Capital LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Lauren Taylor Wolfe</signature>
+          <title>Lauren Taylor Wolfe, Managing Member</title>
+          <date>01/17/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Wolfe Lauren Taylor</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Lauren Taylor Wolfe</signature>
+          <title>Lauren Taylor Wolfe</title>
+          <date>01/17/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Asmar Christian</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Christian Asmar</signature>
+          <title>Christian Asmar</title>
+          <date>01/17/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>ex1to13da412236008_011725.htm
+<DESCRIPTION>TRANSACTIONS IN SECURITIES
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right">Exhibit 1</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B><U>Transactions in the Shares of the Issuer by the
+Reporting Persons During the Last Sixty (60) Days</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The following tables set forth
+all transactions in the Shares effected in the past sixty days by the Reporting Persons. Except as noted below, all such transactions
+were effected in the open market through brokers and the price per share excludes commissions. Where a price range is provided in the
+column Price Range ($), the price reported in that row's Price Per Share ($) column is a weighted average price. The Shares in this column
+were purchased in multiple transactions at prices between the price ranges indicated in the Price Range ($) column. The Reporting Persons
+undertake to provide to the staff of the SEC, upon request, full information regarding the number of Shares purchased at each separate
+price.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">Impactive Capital</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center; font-weight: bold"><U>Trade
+    Date</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center; font-weight: bold"><U>Shares
+    Purchased (Sold)</U></TD>
+    <TD STYLE="white-space: nowrap; width: 25%; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center; font-weight: bold"><U>Price
+    Per Share ($)</U></TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center; font-weight: bold"><U>Price
+    Range ($)</U></TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/25/2024</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(2,415)</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">274.05</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">11/27/2024</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(32,585)</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">261.78</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/15/2025</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(55,572)</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">250.76</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  <TR STYLE="background-color: White">
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/16/2025</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(143,210)</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">245.61</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">245.09-245.99</TD></TR>
+  <TR STYLE="background-color: rgb(204,238,255)">
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">01/17/2025</TD>
+    <TD STYLE="vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">(65,796)</TD>
+    <TD STYLE="white-space: nowrap; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">245.29</TD>
+    <TD STYLE="vertical-align: bottom; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

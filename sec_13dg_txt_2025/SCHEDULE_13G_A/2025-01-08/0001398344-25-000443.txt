@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0001398344-25-000443.txt : 20250108
+<SEC-HEADER>0001398344-25-000443.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108145222
+ACCESSION NUMBER:		0001398344-25-000443
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Porch Group, Inc.
+		CENTRAL INDEX KEY:			0001784535
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				832587663
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91226
+		FILM NUMBER:		25518162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		411 1ST AVENUE S., SUITE 501
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		(855) 767-2400
+
+	MAIL ADDRESS:	
+		STREET 1:		411 1ST AVENUE S., SUITE 501
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PropTech Acquisition Corp
+		DATE OF NAME CHANGE:	20190805
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Granahan Investment Management, LLC
+		CENTRAL INDEX KEY:			0001026710
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				042856200
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		404 WYMAN STREET
+		STREET 2:		SUITE 460
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+		BUSINESS PHONE:		7818904412
+
+	MAIL ADDRESS:	
+		STREET 1:		404 WYMAN STREET
+		STREET 2:		SUITE 460
+		CITY:			WALTHAM
+		STATE:			MA
+		ZIP:			02451
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GRANAHAN INVESTMENT MANAGEMENT INC/MA
+		DATE OF NAME CHANGE:	19990322
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001398344-22-013139</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Granahan Investment Management, LLC -->
+          <cik>0001026710</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001784535</issuerCik>
+        <issuerName>PORCH GROUP, INC.</issuerName>
+        <issuerCusip>733245104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2200 1st Avenue S</com:street1>
+          <com:city>Seattle</com:city>
+          <com:stateOrCountry>WA</com:stateOrCountry>
+          <com:zipCode>98134</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Granahan Investment Management LLC</reportingPersonName>
+      <citizenshipOrOrganization>MA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>9981568.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>11891581.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>11891581.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>11.75</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>PORCH GROUP, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2200 1st Avenue S, Suite 300, Seattle, WA, 98134</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Granahan Investment Management LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Wyman Street, Suite 460, Waltham, MA 02451</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>State of Massachusetts</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>11891581</amountBeneficiallyOwned>
+        <classPercent>0.1175</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>9981568</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>11891581</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>All of the Shares set forth in Item 4 are owned by various investment advisory clients of Granahan Investment Management LLC, which is deemed to be a beneficial owner of those shares pursuant to Rule 13d-3 under the Securities Exchange Act of 1934, due to its discretionary power to make investment decisions over such shares and/or its ability to vote such shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Not applicable</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>Not applicable</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>N</notApplicableFlag>
+        <groupDissolutionNotice>Not applicable</groupDissolutionNotice>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Granahan Investment Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Brian Granahan</signature>
+        <title>Brian Granahan, Chief Compliance Officer</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

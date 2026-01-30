@@ -1,0 +1,326 @@
+<SEC-DOCUMENT>0000902664-25-000053.txt : 20250106
+<SEC-HEADER>0000902664-25-000053.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106155506
+ACCESSION NUMBER:		0000902664-25-000053
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250106
+DATE AS OF CHANGE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QUANTUM CORP /DE/
+		CENTRAL INDEX KEY:			0000709283
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				942665054
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-35818
+		FILM NUMBER:		25510932
+
+	BUSINESS ADDRESS:	
+		STREET 1:		224 AIRPORT PARKWAY
+		STREET 2:		SUITE 550
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+		BUSINESS PHONE:		408 944 4000
+
+	MAIL ADDRESS:	
+		STREET 1:		224 AIRPORT PARKWAY
+		STREET 2:		SUITE 550
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blue Torch Capital LP
+		CENTRAL INDEX KEY:			0002050998
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		150 EAST 58TH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10155
+		BUSINESS PHONE:		212-503-5853
+
+	MAIL ADDRESS:	
+		STREET 1:		150 EAST 58TH STREET
+		STREET 2:		39TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10155
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Blue Torch Capital LP -->
+          <cik>0002050998</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common stock, $0.01 par value per share</securitiesClassTitle>
+      <dateOfEvent>12/27/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0000709283</issuerCIK>
+        <issuerCUSIP>747906600</issuerCUSIP>
+        <issuerName>QUANTUM CORP /DE/</issuerName>
+        <address>
+          <com:street1>224 AIRPORT PARKWAY, SUITE 550</com:street1>
+          <com:city>SAN JOSE</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>95110</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Derek Leo</personName>
+          <personPhoneNum>212-503-5850</personPhoneNum>
+          <personAddress>
+            <com:street1>Blue Torch Capital LP</com:street1>
+            <com:street2>150 E. 58th Street, 39th Floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10155</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+        <notificationInfo>
+          <personName>David A. Curtiss, Esq.</personName>
+          <personPhoneNum>212-756-2000</personPhoneNum>
+          <personAddress>
+            <com:street1>Schulte Roth &amp; Zabel LLP</com:street1>
+            <com:street2>919 Third Avenue</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10022</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002050998</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Blue Torch Capital LP</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>405978.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>405978.00</sharedDispositivePower>
+        <aggregateAmountOwned>405978.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.7</percentOfClass>
+        <typeOfReportingPerson>IA</typeOfReportingPerson>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001179468</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Kevin Genda</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>405978.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>405978.00</sharedDispositivePower>
+        <aggregateAmountOwned>405978.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.7</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <typeOfReportingPerson>HC</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common stock, $0.01 par value per share</securityTitle>
+        <issuerName>QUANTUM CORP /DE/</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>224 AIRPORT PARKWAY, SUITE 550</com:street1>
+          <com:city>SAN JOSE</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>95110</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by: (i) Blue Torch Capital LP, a Delaware limited partnership ("Blue Torch"), which serves as the investment manager to certain funds (the "Blue Torch Funds") with respect to the shares of common stock, par value $0.01 per share ("Common Stock") of Quantum Corporation (the "Issuer") directly held by the Blue Torch Funds; and (ii) Kevin Genda, the Managing Member of KPG BTC Management LLC, the Sole Member of Blue Torch Capital GP LLC, the general partner of Blue Torch ("Mr. Genda," together with Blue Torch, KPG BTC Management LLC and Blue Torch Capital GP LLC, the "Blue Torch Parties"), with respect to the shares of Common Stock directly held by the Blue Torch Funds.
+
+Each of Blue Torch and Mr. Genda is referred to as a "Reporting Person" and collectively as the "Reporting Persons."</filingPersonName>
+        <principalBusinessAddress>The principal business address of each of the Blue Torch Parties is 150 East 58th Street, 39th Floor, New York, NY 10155.</principalBusinessAddress>
+        <principalJob>The principal business of each of the Blue Torch Parties is investment management.</principalJob>
+        <hasBeenConvicted>None of the Blue Torch Parties has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Blue Torch Parties has, during the last five years, been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>Blue Torch is a Delaware limited partnership.  Mr. Genda is a citizen of the United States of America. KPG BTC Management LLC is a Delaware limited liability company. Blue Torch Capital GP LLC is a Delaware limited liability company.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Item 4 of this Schedule 13D is incorporated herein by reference.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>On December 27, 2018, the Issuer entered into a certain Term Loan Credit and Security Agreement, dated as of December 27, 2018 (as the same may be amended, modified, supplemented, renewed, restated or replaced from time to time, the "Term Loan Credit Agreement"), with Quantum LTO Holdings, LLC, a wholly-owned subsidiary of the Issuer ("Quantum LTO"), certain Blue Torch Funds, other borrowers and guarantors from time to time party thereto, the lenders from time to time party thereto (collectively, the "Term Loan Parties"), and U.S. Bank National Association, as disbursing agent and collateral agent for such Term Loan Parties. In connection with the December Term Loan Credit Agreement, on December 27, 2018, the Issuer issued to certain Blue Torch Funds warrants (the "December 2018 Term Loan Warrants") to purchase an aggregate of 2,859,608 shares of the Common Stock at an exercise price of $1.33 per share. The Warrants are exercisable until December 27, 2028. Upon exercise, the aggregate exercise price may be paid, at each warrant holder's election, in cash or on a net issuance basis, based upon the fair market value of the Common Stock at the time of exercise.
+
+On June 16, 2020, the Issuer entered into an amendment (the "June Term Loan Amendment") to the Term Loan Credit Agreement with the Term Loan Parties and U.S. Bank National Association, as disbursing agent and collateral agent for such Term Loan Parties. In connection with the June Term Loan Amendment, on June 16, 2020, the Issuer  issued to certain Blue Torch Funds warrants (the "June 2020 Term Loan Warrants") to purchase an aggregate of 1,484,007 shares of the Common Stock, at a purchase price of $3.00 per share.
+
+On May 24, 2024, the Issuer entered into an amendment and waiver (the "May Term Loan Amendment") to the Term Loan Credit and Security Agreement with the Term Loan Parties and Blue Torch Finance LLC, as disbursing agent and collateral agent for such Term Loan Parties. In connection with the May Term Loan Amendment, on May 24, 2024, the Issuer  issued to certain Blue Torch Funds warrants (the "May 2024 Term Loan Warrants") to purchase an aggregate of 1,251,196 shares of the Common Stock, at a purchase price of $0.46 per share.
+
+On July 11, 2024, the Issuer entered into an amendment (the "July Term Loan Amendment") to the Term Loan Credit Agreement with the Term Loan Parties and Blue Torch Finance LLC, as disbursing agent and collateral agent for such Term Loan Parties. In connection with the July Term Loan Amendment, on July 11, 2024, the Issuer issued to certain Blue Torch Funds warrants (the "July 2024 Term Loan Warrants") to purchase an aggregate of 625,000 shares of Common Stock, at an agreed purchase price.
+
+On August 13, 2024, the Issuer entered into an amendment (the "August Term Loan Amendment") to the Term Loan Credit Agreement with the Term Loan Parties. In connection with the August Term Loan Amendment, on August 13, 2024, the Issuer issued to certain Blue Torch Funds warrants to purchase an aggregate of 3,125,000 shares of Common Stock, at an exercise price of $0.31 per share, the closing price of the Common Stock on the date immediately preceding the signing of the warrant agreement (the "August 2024 Term Loan Warrants" and together with the December 2018 Term Loan Warrants, June 2020 Term Loan Warrants, May 2024 Term Loan Warrants and the July 2024 Term Loan Warrants, the "Warrants"). In addition, pursuant to the August Term Loan Amendment, the Issuer agreed to lower the exercise price of the December 2018 Term Loan Warrants, June 2020 Term Loan Warrants, May 2024 Term Loan Warrants and the July 2024 Term Loan Warrants held by the Blue Torch Funds to $0.31 per share.
+
+Upon exercise, the aggregate exercise price may be paid, at each Warrant holder's election, in cash or on a net issuance basis, based upon the fair market value of the Common Stock at the time of exercise.
+
+Each Blue Torch Fund's ability to convert the Warrants was subject to a blocker provision (the "Blocker") that would prohibit any Blue Torch Fund from beneficially owning more than 4.99% of the outstanding Common Stock at any time, determined in accordance with rules promulgated under the Securities Exchange Act of 1934, as amended. Pursuant to the terms of the Warrants, the Blocker could not be changed without written consent of the Issuer.
+
+On August 26, 2024, the Issuer effected a 1-for-20 reverse stock split (the "Reverse Stock Split") in which every 20 issued shares of Common Stock was automatically reclassified into one issued share of Common Stock. No fractional shares were issued as a result of the Reverse Stock Split. Consequently, the Reporting Persons beneficially owned a total of 467,248 shares of Common Stock issuable upon exercise of Warrants, subject to the Blocker. Pursuant to the Reverse Stock Split, the exercise price of the Warrants was increased to $6.20 per share.
+
+On December 27, 2024, the Blue Torch Funds and the Issuer agreed to increase the Blocker to 9.99%. As a result, the Reporting Persons beneficially owned 467,248 shares of Common Stock issuable upon exercise of Warrants, representing 8.8% of the shares of Common Stock outstanding at such time, assuming the exercise of the Warrants. Subsequently, on December 27, 2024, the Blue Torch Funds exercised the Warrants in a cashless exercise and were issued an aggregate of 405,978 shares of Common Stock, representing 7.7% of the shares of Common Stock outstanding at such time. As a result, the Reporting Persons no longer beneficially own any Warrants of the Issuer.
+
+Pursuant to the terms of the Warrants held by the Blue Torch Funds, the Issuer granted certain Blue Torch Funds, the right, for as long as they or their affiliates hold any Common Stock issuable upon exercise of warrants, to have one observer attend and participate in meetings of the board of directors (the "Board") in a non-voting capacity.
+
+Although the Reporting Persons do not currently have any specific plans or proposals with respect to the Issuer, the Reporting Persons may communicate with the Issuer's management and Board about the Issuer's operations, management, Board composition, capital structure and/or corporate structure, dividend and/or buyback policies, and strategy, in addition to past and/or potential transactions involving the Issuer and/or certain of the Issuer's businesses or assets, and may communicate with other shareholders and/or third parties regarding the Issuer and the foregoing.  The Reporting Persons may explore, develop and/or make plans and/or proposals (whether preliminary or final) with respect to the foregoing, including prior to forming an intention to engage in such plans and/or make such proposals.
+
+The Reporting Persons intend to review their investment in the Issuer on a continuing basis and depending upon various factors, including, without limitation, the Issuer's financial position and strategic direction, the outcome of any discussions or matters referenced above, overall market conditions, other investment opportunities available to the Reporting Persons, and the availability of securities of the Issuer at prices that would make the purchase or sale of such securities desirable, the Reporting Persons may endeavor (i) to increase or decrease their position in the Issuer through, among other things, the purchase or sale of securities of the Issuer, including through transactions involving the Common Stock and/or other equity, debt, notes, other securities, or derivative or other instruments that are based upon or relate to the value of securities of the Issuer in the open market or in private transactions, including through a trading plan created under Rule 10b5-1(c) or otherwise, on such terms and at such times as the Reporting Persons may deem advisable and/or (ii) to enter into transactions that increase or hedge their economic exposure to the Common Stock without affecting their beneficial ownership of the Common Stock.  In addition, the Reporting Persons may, at any time and from time to time, (i) review or reconsider their position and/or change their purpose and/or formulate plans or proposals with respect thereto and (ii) consider or propose one or more of the actions described in subparagraphs (a) - (j) of Item 4 of Schedule 13D.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>See rows (11) and (13) of the cover page to this Schedule 13D for the aggregate number of shares of Common Stock and percentage of Common Stock beneficially owned by each Reporting Person. The aggregate percentage of Common Stock reported beneficially owned by each Reporting Person is based upon 5,254,460 shares of Common Stock outstanding, which is the sum of (i) 4,848,482 shares of Common Stock outstanding as of November 10, 2024, as disclosed in the Issuer's Form 10-Q for the quarterly period ended September 30, 2024, filed by the Issuer with the Securities and Exchange Commission on November 14, 2024 and (ii) 405,978 shares of Common Stock issued to the Blue Torch Funds upon exercise of Warrants.</percentageOfClassSecurities>
+        <numberOfShares>See rows (7) through (10) of the cover page to this Schedule 13D for the shares of Common Stock as to which each Reporting Person has the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition.</numberOfShares>
+        <transactionDesc>Except as described in Item 4 of this 13D, no transactions in shares of Common Stock have been effected by the Reporting Persons during the past sixty (60) days.</transactionDesc>
+        <listOfShareholders>Other than the Reporting Persons and the Blue Torch Funds, no persons have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the shares of Common Stock reported herein.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 4 of this Schedule 13D is incorporated herein by reference.
+
+Except as set forth herein, the Reporting Persons have no contracts, arrangements, understandings or relationships (legal or otherwise) with respect to any securities of the Issuer, including any class of the Issuer's securities used as a reference security, in connection with any of the following: call options, put options, security-based swaps or any other derivative securities, transfer or voting of any of the securities, finder's fees, joint ventures, loan or option arrangements, guarantees of profits, division of profits or loss, or the giving or withholding of proxies.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 99.1: Joint Filing Agreement</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Blue Torch Capital LP</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kevin Genda</signature>
+          <title>Kevin Genda, CHIEF EXECUTIVE OFFICER</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Kevin Genda</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kevin Genda</signature>
+          <title>Kevin Genda, Individually</title>
+          <date>01/06/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>p25-0022exhibit99_1.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">EXHIBIT 99.1</P>
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">JOINT ACQUISITION STATEMENT<BR>
+PURSUANT TO RULE 13d-1(k)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 1in">The undersigned acknowledge
+and agree that the foregoing statement on Schedule 13D is filed on behalf of each of the undersigned and that all subsequent amendments
+to such statement on Schedule 13D may be filed on behalf of each of the undersigned without the necessity of filing additional joint filing
+agreements. The undersigned acknowledge that each shall be responsible for the timely filing of such amendments, and for the completeness
+and accuracy of the information concerning him or it contained herein and therein, but shall not be responsible for the completeness and
+accuracy of the information concerning the other except to the extent that he or it knows that such information is inaccurate.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">DATED: January 6, 2025</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%"><FONT STYLE="text-transform: uppercase"><B>Blue Torch Capital LP</B></FONT></TD>
+    <TD STYLE="width: 50%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid">&nbsp;/s/ Kevin Genda</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Name:&#9;Kevin Genda</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Title:&#9;Chief Executive Officer</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid">/s/ Kevin Genda</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="text-transform: uppercase"><B>Kevin Genda</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

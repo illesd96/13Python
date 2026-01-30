@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001085146-25-000237.txt : 20250116
+<SEC-HEADER>0001085146-25-000237.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116102042
+ACCESSION NUMBER:		0001085146-25-000237
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Blue Owl Capital Corp
+		CENTRAL INDEX KEY:			0001655888
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89539
+		FILM NUMBER:		25534584
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 419-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Owl Rock Capital Corp
+		DATE OF NAME CHANGE:	20151016
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			State of New Jersey Common Pension Fund E
+		CENTRAL INDEX KEY:			0001483260
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				030565041
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		50 WEST STATE STREET 9TH FLOOR
+		STREET 2:		PO BOX 290
+		CITY:			TRENTON
+		STATE:			NJ
+		ZIP:			08625
+		BUSINESS PHONE:		609 292 5106
+
+	MAIL ADDRESS:	
+		STREET 1:		50 WEST STATE STREET 9TH FLOOR
+		STREET 2:		PO BOX 290
+		CITY:			TRENTON
+		STATE:			NJ
+		ZIP:			08625
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:ns1="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001483260-17-000005</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001483260</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>9</amendmentNo>
+      <securitiesClassTitle>Common Stock, $0.01 par value</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/13/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001655888</issuerCik>
+        <issuerName>Blue Owl Capital Corporation</issuerName>
+        <issuerCusip>69121K104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <ns1:street1>399 Park Avenue</ns1:street1>
+          <ns1:city>New York</ns1:city>
+          <ns1:stateOrCountry>NY</ns1:stateOrCountry>
+          <ns1:zipCode>10022</ns1:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>State of New Jersey Common Pension Fund E</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>22751338</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>22751338</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>22751338</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>4.45</classPercent>
+      <typeOfReportingPerson>EP</typeOfReportingPerson>
+      <comments>EP This Schedule 13G is filed by the State of New Jersey Common Pension Fund E (the "Fund").The Fund is one of several common trust funds established pursuant to New Jersey State law for the purpose of investing the assets of all or a portion of the seven State pension funds. The fund is managed by the Division of Investment, Department of the Treasury, State of New Jersey under the supervision of the State Investment Council ("Council'). Investment authority for the fund is vested in the Director of the Division of Investment, who is appointed by the State Treasurer of the State of New Jersey from candidates nominated by the Council.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Blue Owl Capital Corporation</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>399 Park Avenue
+New York, NEW YORK
+10022</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>State of New Jersey Common Pension Fund E</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>50 West State Street 9th Floor
+PO Box 290
+Trenton, New Jersey
+08625</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>State of New Jersey Common Pension Fund E - UNITED STATES</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>EP</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>22751338</amountBeneficiallyOwned>
+        <classPercent>4.45</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>State of New Jersey Common Pension Fund E - 22751338</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>State of New Jersey Common Pension Fund E - 0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>State of New Jersey Common Pension Fund E - 22751338</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>State of New Jersey Common Pension Fund E - 0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>State of New Jersey Common Pension Fund E</reportingPersonName>
+      <signatureDetails>
+        <signature>/S/Shoaib Khan</signature>
+        <title>Director</title>
+        <date>01/16/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

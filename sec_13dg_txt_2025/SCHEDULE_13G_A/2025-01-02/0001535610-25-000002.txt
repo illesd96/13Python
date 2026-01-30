@@ -1,0 +1,258 @@
+<SEC-DOCUMENT>0001535610-25-000002.txt : 20250102
+<SEC-HEADER>0001535610-25-000002.hdr.sgml : 20250102
+<ACCEPTANCE-DATETIME>20250102191347
+ACCESSION NUMBER:		0001535610-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250102
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TuanChe Ltd
+		CENTRAL INDEX KEY:			0001743340
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90786
+		FILM NUMBER:		25503429
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9F, RUIHAI BUILDING
+		STREET 2:		NO. 21 YANGFANGDIAN ROAD
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100038
+		BUSINESS PHONE:		00861063998902
+
+	MAIL ADDRESS:	
+		STREET 1:		9F, RUIHAI BUILDING
+		STREET 2:		NO. 21 YANGFANGDIAN ROAD
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100038
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SABBY MANAGEMENT, LLC
+		CENTRAL INDEX KEY:			0001535610
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7012 FISHER ISLAND DR
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33109
+		BUSINESS PHONE:		646-307-4500
+
+	MAIL ADDRESS:	
+		STREET 1:		7012 FISHER ISLAND DR
+		CITY:			MIAMI BEACH
+		STATE:			FL
+		ZIP:			33109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001535610-23-000012</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001535610</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>ADSs</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001743340</issuerCik>
+        <issuerName>TuanChe Ltd</issuerName>
+        <issuerCusip>89856T104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>9F, RUIHAI BUILDING</com:street1>
+          <com:street2>No. 21 Yangfangdian Road</com:street2>
+          <com:city>BEIJING</com:city>
+          <com:stateOrCountry>F4</com:stateOrCountry>
+          <com:zipCode>100038</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>SABBY MANAGEMENT, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>146754.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>146754.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>146754.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.0</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>SABBY VOLATILITY WARRANT MASTER FUND LTD</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>146754.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>146754.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>146754.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.0</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>HAL MINTZ</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>FL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>146754.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>146754.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>146754.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.0</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>TuanChe Ltd</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>9F, RUIHAI BUILDING, No. 21 Yangfangdian Road, BEIJING, CHINA, 100038</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Sabby Volatility Warrant Master Fund, Ltd.
+Sabby Management, LLC
+Hal Mintz</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Sabby Volatility Warrant Master Fund, Ltd.
+c/o Captiva (Cayman) Ltd
+Governors Square, Bldg 4, 2nd Floor
+23 Lime Tree Bay Avenue
+P.O. Box 32315
+Grand Cayman KY1-1209
+Cayman Islands
+
+
+Sabby Management, LLC
+7012 Fisher Island Dr.
+Miami Beach, FL 33109
+
+Hal Mintz
+c/o Sabby Management, LLC
+7012 Fisher Island Dr.
+Miami Beach, FL 33109</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Sabby Volatility Warrant Master Fund, Ltd. - Cayman Islands
+Sabby Management, LLC - Delaware, USA
+Hal Mintz - USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Sabby Volatility Warrant Master Fund, Ltd. -  146,754
+
+Sabby Management, LLC -  146,754
+
+Hal Mintz - 146,754</amountBeneficiallyOwned>
+        <classPercent>Sabby Volatility Warrant Master Fund, Ltd. - 4.99%
+
+Sabby Management, LLC - 4.99%
+
+Hal Mintz - 4.99% </classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>146,754</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>146,754</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>SABBY MANAGEMENT, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Robert Grundstein</signature>
+        <title>COO</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>SABBY VOLATILITY WARRANT MASTER FUND LTD</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Robert Grundstein</signature>
+        <title>COO of Investment Manager</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>HAL MINTZ</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Hal Mintz</signature>
+        <title>Hal Mintz</title>
+        <date>01/02/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

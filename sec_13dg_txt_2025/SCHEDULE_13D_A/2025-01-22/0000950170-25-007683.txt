@@ -1,0 +1,261 @@
+<SEC-DOCUMENT>0000950170-25-007683.txt : 20250122
+<SEC-HEADER>0000950170-25-007683.hdr.sgml : 20250122
+<ACCEPTANCE-DATETIME>20250122141932
+ACCESSION NUMBER:		0000950170-25-007683
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250122
+DATE AS OF CHANGE:		20250122
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jefferies Credit Partners BDC Inc.
+		CENTRAL INDEX KEY:			0001959604
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94255
+		FILM NUMBER:		25545229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		520 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 708-2612
+
+	MAIL ADDRESS:	
+		STREET 1:		520 MADISON AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Abu Dhabi Investment Authority
+		CENTRAL INDEX KEY:			0001362558
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		211 CORNICHE STREET
+		STREET 2:		PO BOX 3600
+		CITY:			ABU DHABI
+		STATE:			C0
+		ZIP:			0000
+		BUSINESS PHONE:		971 2 4154242
+
+	MAIL ADDRESS:	
+		STREET 1:		211 CORNICHE STREET
+		STREET 2:		PO BOX 3600
+		CITY:			ABU DHABI
+		STATE:			C0
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001011438-23-000658</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001362558</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>7</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <dateOfEvent>01/21/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001959604</issuerCIK>
+        <issuerCUSIP>000000000</issuerCUSIP>
+        <issuerName>Jefferies Credit Partners BDC Inc.</issuerName>
+        <address>
+          <street1 xmlns="http://www.sec.gov/edgar/common">520 Madison Avenue</street1>
+          <street2 xmlns="http://www.sec.gov/edgar/common">12th Floor</street2>
+          <city xmlns="http://www.sec.gov/edgar/common">New York</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">10022</zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Turner Herbert</personName>
+          <personPhoneNum>971 2 4150000</personPhoneNum>
+          <personAddress>
+            <street1 xmlns="http://www.sec.gov/edgar/common">211 Corniche</street1>
+            <street2 xmlns="http://www.sec.gov/edgar/common">PO Box 3600</street2>
+            <city xmlns="http://www.sec.gov/edgar/common">Abu Dhabi</city>
+            <stateOrCountry xmlns="http://www.sec.gov/edgar/common">C0</stateOrCountry>
+            <zipCode xmlns="http://www.sec.gov/edgar/common">00000</zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001362558</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Abu Dhabi Investment Authority</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>C0</citizenshipOrOrganization>
+        <soleVotingPower>1220033.34</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>17435119.1</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+        <aggregateAmountOwned>17435119.1</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>70</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>Abu Dhabi Investment Authority (ADIA) is a public institution established in 1976 by the Government of the Emirate of Abu Dhabi (the Government) as an independent investment institution. ADIA is wholly owned and subject to constitutional supervision by the Government. ADIA has an independent legal identity with full capacity to act in fulfilling its statutory mandate and objectives.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001790748</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Platinum International Investment Holdings RSC Limited</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>C0</citizenshipOrOrganization>
+        <soleVotingPower>1220033.34</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>17435119.1</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+        <aggregateAmountOwned>17435119.1</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>70</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001790749</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Platinum Falcon B 2018 RSC Limited</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>C0</citizenshipOrOrganization>
+        <soleVotingPower>1220033.34</soleVotingPower>
+        <sharedVotingPower>0</sharedVotingPower>
+        <soleDispositivePower>17435119.1</soleDispositivePower>
+        <sharedDispositivePower>0</sharedDispositivePower>
+        <aggregateAmountOwned>17435119.1</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>70</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.001 per share</securityTitle>
+        <issuerName>Jefferies Credit Partners BDC Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <street1 xmlns="http://www.sec.gov/edgar/common">520 Madison Avenue</street1>
+          <street2 xmlns="http://www.sec.gov/edgar/common">12th Floor</street2>
+          <city xmlns="http://www.sec.gov/edgar/common">New York</city>
+          <stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+          <zipCode xmlns="http://www.sec.gov/edgar/common">10022</zipCode>
+        </issuerPrincipalAddress>
+        <commentText>The following constitutes Amendment No. 7 ("Amendment No. 7") to the Schedule 13D filed with the Securities and Exchange Commission ("SEC") by Abu Dhabi Investment Authority ("ADIA"), Platinum International Investment Holdings RSC Limited ("Platinum Holdings") and Platinum Falcon B 2018 RSC Limited ("Platinum Falcon", and together with Platinum Holdings and ADIA, the "Reporting Persons") on December 13, 2023, as amended by Amendment No. 1 filed on January 25, 2024, Amendment No. 2 filed on February 6, 2024, Amendment No. 3 filed on August 28, 2024, Amendment No. 4 filed on September 24, 2024, Amendment No. 5 filed on October 22, 2024, and Amendment No. 6 filed on December 27, 2024. This Amendment No. 7 amends and supplements the Schedule 13D as specifically set forth herein.
+
+All capitalized terms contained herein but not otherwise defined shall have the meanings ascribed to such terms in the Schedule 13D, as amended. Information given in response to each item shall be deemed incorporated by reference in all other items, as applicable.
+</commentText>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:
+
+The information in Item 4 is incorporated herein by reference. The shares of Common Stock of the Issuer were purchased by Platinum Falcon with the working capital of Platinum Falcon.
+</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:
+
+On December 13, 2024, the Issuer delivered a Notice to Platinum Falcon to purchase shares in an aggregate amount equal to $25,000,000 (the "Seventh Purchase Amount").  Platinum Falcon paid the Seventh Purchase Amount to the Issuer to purchase 1,713,597.533 shares of Common Stock at a per share purchase price of $14.58919, with such number of shares and purchase price being determined by the Issuer on January 21, 2025.
+</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Each of ADIA, Platinum Holdings and Platinum Falcon may be deemed to beneficially own 17,435,119.10 shares of Common Stock of the Issuer, which represents approximately 70.0% of the shares of Common Stock outstanding, based on 24,898,639.522 shares of Common Stock outstanding as of January 21, 2025, based on information received from the Issuer.  The shares of Common Stock reported herein are directly held and beneficially owned by Platinum Falcon.  Platinum Holdings, the sole owner of Platinum Falcon, may be deemed to beneficially own the shares of Common Stock directly held by Platinum Falcon.  ADIA, the sole owner of Platinum Holdings, may be deemed the beneficial owner of the shares of Common Stock directly held by Platinum Falcon.</percentageOfClassSecurities>
+        <numberOfShares>Items 7 through 10 of each of the cover pages of this Schedule 13D are incorporated herein by reference.  Each of the Reporting Persons may be deemed to have sole voting power over 1,220,033.336578 shares of Common Stock and sole dispositive power over 17,435,119.10 shares of Common Stock.  The information in Item 4 regarding voting power over the shares of Common Stock reported herein under the Voting Trust Agreement and the termination provisions of the Voting Trust Agreement are incorporated herein by reference.</numberOfShares>
+        <transactionDesc>The information in Items 3 and 4 is incorporated herein by reference. Except as disclosed in this Schedule 13D, as amended, there have been no transactions by the Reporting Persons or the Scheduled Persons in the securities of the Issuer during the past sixty days.  </transactionDesc>
+        <listOfShareholders>The disclosure regarding the relationship between the Reporting Persons in Item 2(c) of this Schedule 13D is incorporated herein by reference.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 of this Schedule 13D is supplemented and superseded, as the case may be, as follows:
+
+The information in Item 4 is incorporated herein by reference.
+</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Abu Dhabi Investment Authority</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Hamad Shahwan AlDhaheri</signature>
+          <title>Hamad Shahwan AlDhaheri/Authorized Signatory</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Saif Surour AlMashghouni</signature>
+          <title>Saif Surour AlMashghouni/Authorized Signatory</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Platinum International Investment Holdings RSC Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ahmed Salem Abdulla AlNeyadi</signature>
+          <title>Ahmed Salem Abdulla AlNeyadi/Authorized Signatory</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Mubarak Awad Qanazel AlAmeri</signature>
+          <title>Mubarak Awad Qanazel AlAmeri/Authorized Signatory</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Platinum Falcon B 2018 RSC Limited</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Ahmed Salem Abdulla AlNeyadi</signature>
+          <title>Ahmed Salem Abdulla AlNeyadi/Authorized Signatory</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Mubarak Awad Qanazel AlAmeri</signature>
+          <title>Mubarak Awad Qanazel AlAmeri/Authorized Signatory</title>
+          <date>01/22/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

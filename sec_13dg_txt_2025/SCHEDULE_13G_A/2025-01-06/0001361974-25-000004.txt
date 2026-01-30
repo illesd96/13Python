@@ -1,0 +1,191 @@
+<SEC-DOCUMENT>0001361974-25-000004.txt : 20250106
+<SEC-HEADER>0001361974-25-000004.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106180054
+ACCESSION NUMBER:		0001361974-25-000004
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRP Inc.
+		CENTRAL INDEX KEY:			0001748797
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS TRANSPORTATION EQUIPMENT [3790]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A8
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90665
+		FILM NUMBER:		25512693
+
+	BUSINESS ADDRESS:	
+		STREET 1:		726 SAINT-JOSEPH STREET
+		CITY:			VALCOURT
+		STATE:			A8
+		ZIP:			J0E 2L0
+		BUSINESS PHONE:		450-532-2211
+
+	MAIL ADDRESS:	
+		STREET 1:		726 SAINT-JOSEPH STREET
+		CITY:			VALCOURT
+		STATE:			A8
+		ZIP:			J0E 2L0
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beutel, Goodman & Co Ltd.
+		CENTRAL INDEX KEY:			0001361974
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 EGLINTON AVENUE WEST
+		STREET 2:		SUITE 2000
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M4R 1K8
+		BUSINESS PHONE:		416-485-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		20 EGLINTON AVENUE WEST
+		STREET 2:		SUITE 2000
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M4R 1K8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Beutel, Goodman & CO Ltd.
+		DATE OF NAME CHANGE:	20060505
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001361974-23-000002</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001361974</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001748797</issuerCik>
+        <issuerName>BRP Inc.</issuerName>
+        <issuerCusip>05577W200</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>726 SAINT-JOSEPH STREET</com:street1>
+          <com:street2>726 SAINT-JOSEPH STREET</com:street2>
+          <com:city>VALCOURT</com:city>
+          <com:stateOrCountry>A8</com:stateOrCountry>
+          <com:zipCode>J0E 2L0</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Beutel, Goodman &amp; Co Ltd.</reportingPersonName>
+      <citizenshipOrOrganization>A6</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>3141647.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>3253642.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>3253642.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>9.4</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>BRP Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>726 SAINT-JOSEPH STREET, 726 SAINT-JOSEPH STREET, VALCOURT, QUEBEC, CANADA, J0E 2L0.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Beutel, Goodman &amp; Company Ltd.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>20 Eglinton Ave. W., Suite 2000
+Toronto, Ontario, M4R 1K8, Canada</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Canadian incorporated company</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>3,253,642</amountBeneficiallyOwned>
+        <classPercent>9.4336</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>3,141,647</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>3,253,642</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Beutel, Goodman &amp; Co Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>Michal Pomotov</signature>
+        <title>General Counsel &amp; CCO</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

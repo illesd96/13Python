@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0001062993-25-000858.txt : 20250117
+<SEC-HEADER>0001062993-25-000858.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117093819
+ACCESSION NUMBER:		0001062993-25-000858
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Destra Multi-Alternative Fund
+		CENTRAL INDEX KEY:			0001523289
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93777
+		FILM NUMBER:		25537209
+
+	BUSINESS ADDRESS:	
+		STREET 1:		443 N. WILLSON AVE.
+		CITY:			BOZEMAN
+		STATE:			MT
+		ZIP:			59715
+		BUSINESS PHONE:		877-855-3434
+
+	MAIL ADDRESS:	
+		STREET 1:		443 N. WILLSON AVE.
+		CITY:			BOZEMAN
+		STATE:			MT
+		ZIP:			59715
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Multi-Strategy Growth & Income Fund
+		DATE OF NAME CHANGE:	20110614
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABSOLUTE INVESTMENT ADVISERS, LLC
+		CENTRAL INDEX KEY:			0001316187
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				201269668
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		82 SOUTH BARRETT SQUARE
+		STREET 2:		SUITE 2G
+		CITY:			ROSEMARY BEACH
+		STATE:			FL
+		ZIP:			32461
+		BUSINESS PHONE:		781-740-1904
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 611132
+		CITY:			ROSEMARY BEACH
+		STATE:			FL
+		ZIP:			32461
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ABSOLUTE INVESTMENT ADVISERS LLC
+		DATE OF NAME CHANGE:	20050201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+	<headerData>
+		<submissionType>SCHEDULE 13G</submissionType>
+		<filerInfo>
+			<filer>
+				<filerCredentials>
+					<cik>0001316187</cik>
+					<ccc>XXXXXXXX</ccc>
+				</filerCredentials>
+			</filer>
+			<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+		</filerInfo>
+	</headerData>
+	<formData>
+		<coverPageHeader>
+			<securitiesClassTitle>Common Stock</securitiesClassTitle>
+			<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+			<issuerInfo>
+				<issuerCik>0001523289</issuerCik>
+				<issuerName>Destra Multi-Alternative Fund</issuerName>
+				<issuerCusip>25065A502</issuerCusip>
+				<issuerPrincipalExecutiveOfficeAddress>
+					<com:street1>443 N. Wilson Avenue</com:street1>
+					<com:city>Bozeman</com:city>
+					<com:stateOrCountry>MT</com:stateOrCountry>
+					<com:zipCode>59715</com:zipCode>
+				</issuerPrincipalExecutiveOfficeAddress>
+			</issuerInfo>
+			<designateRulesPursuantThisScheduleFiled>
+				<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+			</designateRulesPursuantThisScheduleFiled>
+		</coverPageHeader>
+		<coverPageHeaderReportingPersonDetails>
+
+			<reportingPersonName>ABSOLUTE INVESTMENT ADVISERS, LLC</reportingPersonName>
+			<memberGroup>b</memberGroup>
+			<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+			<reportingPersonBeneficiallyOwnedNumberOfShares>
+				<soleVotingPower>713800</soleVotingPower>
+				<sharedVotingPower>0</sharedVotingPower>
+				<soleDispositivePower>713800</soleDispositivePower>
+				<sharedDispositivePower>0</sharedDispositivePower>
+			</reportingPersonBeneficiallyOwnedNumberOfShares>
+			<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>713800</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+			<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+			<classPercent>7.96</classPercent>
+			<typeOfReportingPerson>IA</typeOfReportingPerson>
+		</coverPageHeaderReportingPersonDetails>
+		<items>
+			<item1>
+				<issuerName>Destra Multi-Alternative Fund</issuerName>
+				<issuerPrincipalExecutiveOfficeAddress>443 N. Wilson Avenue, , Bozeman, MONTANA 59715</issuerPrincipalExecutiveOfficeAddress>
+			</item1>
+			<item2>
+				<filingPersonName>Absolute Investment Advisers, LLC</filingPersonName>
+				<principalBusinessOfficeOrResidenceAddress>82 S. Barrett Square, Suite 2G
+PO Box 611132
+Rosemay Beach FL 32461</principalBusinessOfficeOrResidenceAddress>
+				<citizenship>United States</citizenship>
+			</item2>
+			<item3>
+				<notApplicableFlag>N</notApplicableFlag>
+				<typeOfPersonFiling>IA</typeOfPersonFiling>
+			</item3>
+			<item4>
+				<amountBeneficiallyOwned>713800</amountBeneficiallyOwned>
+				<classPercent>7.96</classPercent>
+				<numberOfSharesPersonHas>
+					<solePowerOrDirectToVote>713800</solePowerOrDirectToVote>
+					<sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+					<solePowerOrDirectToDispose>713800</solePowerOrDirectToDispose>
+					<sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+				</numberOfSharesPersonHas>
+			</item4>
+			<item5>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item5>
+			<item6>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item6>
+			<item7>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item7>
+			<item8>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item8>
+			<item9>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item9>
+			<item10>
+				<notApplicableFlag>N</notApplicableFlag>
+				<certifications>By signing below I certify that, to the best of my knowledge and belief, the foreign regulatory scheme applicable to An investment adviser registered under Section 203 of the Investment Advisers Act of 1940 or under the laws of any state is substantially comparable to the regulatory scheme applicable to the functionally equivalent U.S. institution(s). I also undertake to furnish to the Commission staff, upon request, information that would otherwise be disclosed in a Schedule 13D.</certifications>
+			</item10>
+		</items>
+		<signatureInformation>
+			<reportingPersonName>ABSOLUTE INVESTMENT ADVISERS, LLC</reportingPersonName>
+			<signatureDetails>
+				<signature>David Faherty</signature>
+				<title>Chief Compliance Officer</title>
+				<date>01/14/2025</date>
+			</signatureDetails>
+		</signatureInformation>
+	</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

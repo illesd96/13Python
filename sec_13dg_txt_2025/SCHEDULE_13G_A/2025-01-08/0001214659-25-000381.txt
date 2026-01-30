@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0001214659-25-000381.txt : 20250108
+<SEC-HEADER>0001214659-25-000381.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108183319
+ACCESSION NUMBER:		0001214659-25-000381
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Two Roads Shared Trust
+		CENTRAL INDEX KEY:			0001552947
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93875
+		FILM NUMBER:		25519597
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 PICTORIA DRIVE
+		STREET 2:		SUITE 450
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45246
+		BUSINESS PHONE:		402-895-1600
+
+	MAIL ADDRESS:	
+		STREET 1:		225 PICTORIA DRIVE
+		STREET 2:		SUITE 450
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45246
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FOUNDATIONS INVESTMENT ADVISORS, LLC
+		CENTRAL INDEX KEY:			0001743404
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				473274207
+		STATE OF INCORPORATION:			AZ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4050 E. COTTON CENTER BLVD.
+		STREET 2:		SUITE 40
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85040
+		BUSINESS PHONE:		480-626-2970
+
+	MAIL ADDRESS:	
+		STREET 1:		4050 E. COTTON CENTER BLVD.
+		STREET 2:		SUITE 40
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85040
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Foundations Investment Advisors, LLC
+		DATE OF NAME CHANGE:	20180611
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001085146-24-006033</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FOUNDATIONS INVESTMENT ADVISORS, LLC -->
+          <cik>0001743404</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Exchange Traded Product</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001552947</issuerCik>
+        <issuerName>Two Roads Shared Trust</issuerName>
+        <issuerCusip>90214Q527</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>225 Pictoria Drive, Suite 450</com:street1>
+          <com:city>Cincinnati</com:city>
+          <com:stateOrCountry>OH</com:stateOrCountry>
+          <com:zipCode>45246</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Foundations Investment Advisors, LLC</reportingPersonName>
+      <citizenshipOrOrganization>AZ</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>266834.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>266834.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>44.47</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Two Roads Shared Trust</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>225 Pictoria Drive, Suite 450, Cincinnati, OHIO, 45246</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Foundations Investment Advisors, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>4050 East Cotton Center Blvd., Suite 40,
+Phoenix, AZ 85040</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Arizona, USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>Please reference Cover Page tables above.</amountBeneficiallyOwned>
+        <classPercent>Please reference Cover Page tables above.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Please reference Cover Page tables above.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>Please reference Cover Page tables above.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Please reference Cover Page tables above.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>Please reference Cover Page tables above.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Foundations Investment Advisors, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Marc Pugsley</signature>
+        <title>CCO</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

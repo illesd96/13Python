@@ -1,0 +1,203 @@
+<SEC-DOCUMENT>0000092230-25-000011.txt : 20250123
+<SEC-HEADER>0000092230-25-000011.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123162913
+ACCESSION NUMBER:		0000092230-25-000011
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Invesco Exchange-Traded Fund Trust II
+		CENTRAL INDEX KEY:			0001378872
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-83054
+		FILM NUMBER:		25550509
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+		BUSINESS PHONE:		800-983-0903
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 LACEY ROAD
+		STREET 2:		SUITE 700
+		CITY:			DOWNERS GROVE
+		STATE:			IL
+		ZIP:			60515
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PowerShares Exchange-Traded Fund Trust II
+		DATE OF NAME CHANGE:	20070919
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PowerShares Global Exchange-Traded Fund Trust
+		DATE OF NAME CHANGE:	20061023
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRUIST FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000092230
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				560939887
+		STATE OF INCORPORATION:			NC
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		214 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+		BUSINESS PHONE:		8444878478
+
+	MAIL ADDRESS:	
+		STREET 1:		214 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BB&T CORP
+		DATE OF NAME CHANGE:	19970527
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUTHERN NATIONAL CORP /NC/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000092230</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Exchange Traded Fund</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001378872</issuerCik>
+        <issuerName>Invesco Exchange-Traded Fund Trust II</issuerName>
+        <issuerCusip>46138E693</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>3500 LACEY ROAD</com:street1>
+          <com:street2>SUITE 700</com:street2>
+          <com:city>DOWNERS GROVE</com:city>
+          <com:stateOrCountry>IL</com:stateOrCountry>
+          <com:zipCode>60515</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>TRUIST FINANCIAL CORP</reportingPersonName>
+      <citizenshipOrOrganization>NC</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>126762.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>126762.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>126762.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>5.3</classPercent>
+      <typeOfReportingPerson>BK</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Invesco Exchange-Traded Fund Trust II</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>3500 LACEY ROAD, SUITE 700, DOWNERS GROVE, ILLINOIS, 60515.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Truist Financial Corporation as Parent Holding Company for Truist Bank in various fiduciary capacities
+</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>214 North Tryon Street
+Charlotte, NC 28202</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Truist Financial Corporation is a North Carolina Corporation;
+Truist Bank is North Carolina Commercial Banking Association</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>BK</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>126762</amountBeneficiallyOwned>
+        <classPercent>5.3</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>126762</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>126762</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>TRUIST FINANCIAL CORP</reportingPersonName>
+      <signatureDetails>
+        <signature>Rick Trowbridge</signature>
+        <title>Sr. Vice President</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

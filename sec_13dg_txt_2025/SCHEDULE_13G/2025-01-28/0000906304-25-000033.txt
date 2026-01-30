@@ -1,0 +1,198 @@
+<SEC-DOCUMENT>0000906304-25-000033.txt : 20250128
+<SEC-HEADER>0000906304-25-000033.hdr.sgml : 20250128
+<ACCEPTANCE-DATETIME>20250128120106
+ACCESSION NUMBER:		0000906304-25-000033
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250128
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MILLER INDUSTRIES INC /TN/
+		CENTRAL INDEX KEY:			0000924822
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCK & BUS BODIES [3713]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				621566286
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-31103
+		FILM NUMBER:		25562172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8503 HILLTOP DR
+		STREET 2:		STE 100
+		CITY:			OOLTEWAH
+		STATE:			TN
+		ZIP:			37363
+		BUSINESS PHONE:		4232384171
+
+	MAIL ADDRESS:	
+		STREET 1:		8503 HILLTOP DR
+		STREET 2:		STE 100
+		CITY:			OOLTEWAH
+		STATE:			TN
+		ZIP:			37363
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ROYCE & ASSOCIATES LP
+		CENTRAL INDEX KEY:			0000906304
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				522343049
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		745 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10151
+		BUSINESS PHONE:		212-508-4500
+
+	MAIL ADDRESS:	
+		STREET 1:		745 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10151
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROYCE & ASSOCIATES LLC
+		DATE OF NAME CHANGE:	20020507
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ROYCE & ASSOCIATES INC /NY
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	QUEST ADVISORY CORP/NY
+		DATE OF NAME CHANGE:	19970805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+	<headerData>
+		<submissionType>SCHEDULE 13G</submissionType>
+		<filerInfo>
+			<filer>
+				<filerCredentials>
+					<cik>0000906304</cik>
+					<ccc>XXXXXXXX</ccc>
+				</filerCredentials>
+			</filer>
+			<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+		</filerInfo>
+	</headerData>
+	<formData>
+		<coverPageHeader>
+			<securitiesClassTitle>Common Stock</securitiesClassTitle>
+			<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+			<issuerInfo>
+				<issuerCik>0000924822</issuerCik>
+				<issuerName>Miller Industries, Inc.</issuerName>
+				<issuerCusip>600551204</issuerCusip>
+				<issuerPrincipalExecutiveOfficeAddress>
+					<com:street1>Chief Financial Officer</com:street1>
+					<com:street2>8503 Hilltop Drive</com:street2>
+					<com:city>Ooltewah</com:city>
+					<com:stateOrCountry>TN</com:stateOrCountry>
+					<com:zipCode>37363</com:zipCode>
+				</issuerPrincipalExecutiveOfficeAddress>
+			</issuerInfo>
+			<designateRulesPursuantThisScheduleFiled>
+				<designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+			</designateRulesPursuantThisScheduleFiled>
+		</coverPageHeader>
+		<coverPageHeaderReportingPersonDetails>
+
+			<reportingPersonName>ROYCE &amp; ASSOCIATES LP</reportingPersonName>
+			<citizenshipOrOrganization>NY</citizenshipOrOrganization>
+			<reportingPersonBeneficiallyOwnedNumberOfShares>
+				<soleVotingPower>644607.00</soleVotingPower>
+				<sharedVotingPower>0.00</sharedVotingPower>
+				<soleDispositivePower>644607.00</soleDispositivePower>
+				<sharedDispositivePower>0.00</sharedDispositivePower>
+			</reportingPersonBeneficiallyOwnedNumberOfShares>
+			<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>644607.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+			<classPercent>5.64</classPercent>
+			<typeOfReportingPerson>IA</typeOfReportingPerson>
+		</coverPageHeaderReportingPersonDetails>
+		<items>
+			<item1>
+				<issuerName>Miller Industries, Inc.</issuerName>
+				<issuerPrincipalExecutiveOfficeAddress>Chief Financial Officer 8503 Hilltop Drive, Ooltewah, TN, 37363</issuerPrincipalExecutiveOfficeAddress>
+			</item1>
+			<item2>
+				<filingPersonName>ROYCE &amp; ASSOCIATES LP</filingPersonName>
+				<principalBusinessOfficeOrResidenceAddress>One Madison Avenue, New York, NY  10010</principalBusinessOfficeOrResidenceAddress>
+				<citizenship>New York Corporation</citizenship>
+			</item2>
+			<item3>
+				<notApplicableFlag>N</notApplicableFlag>
+				<typeOfPersonFiling>IA</typeOfPersonFiling>
+			</item3>
+			<item4>
+				<amountBeneficiallyOwned>644607.00</amountBeneficiallyOwned>
+				<classPercent>5.64</classPercent>
+				<numberOfSharesPersonHas>
+					<solePowerOrDirectToVote>644607.00</solePowerOrDirectToVote>
+					<sharedPowerOrDirectToVote>0.00</sharedPowerOrDirectToVote>
+					<solePowerOrDirectToDispose>644607.00</solePowerOrDirectToDispose>
+					<sharedPowerOrDirectToDispose>0.00</sharedPowerOrDirectToDispose>
+				</numberOfSharesPersonHas>
+			</item4>
+			<item5>
+				<notApplicableFlag>Y</notApplicableFlag>
+				<classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+			</item5>
+			<item6>
+				<notApplicableFlag>N</notApplicableFlag>
+				<ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Not Applicable</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+			</item6>
+			<item7>
+				<notApplicableFlag>N</notApplicableFlag>
+				<subsidiaryIdentificationAndClassification>Not Applicable</subsidiaryIdentificationAndClassification>
+			</item7>
+			<item8>
+				<notApplicableFlag>N</notApplicableFlag>
+				<identificationAndClassificationOfGroupMembers>Not Applicable</identificationAndClassificationOfGroupMembers>
+			</item8>
+			<item9>
+				<notApplicableFlag>N</notApplicableFlag>
+				<groupDissolutionNotice>Not Applicable</groupDissolutionNotice>
+			</item9>
+			<item10>
+				<notApplicableFlag>N</notApplicableFlag>
+				<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired  and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.</certifications>
+			</item10>
+		</items>
+		<exhibitInfo>The securities reported herein are beneficially owned by one or more registered investment companies or other managed accounts that are investment management clients of Royce &amp; Associates, LP ("RALP"), an indirect majority owned subsidiary of Franklin Resources, Inc.("FRI"). When an investment management contract (including a sub advisory agreement) delegates to RALP investment discretion or voting power over the securities held in the investment advisory accounts that are subject to that agreement, FRI treats RALP as having sole investment discretion or voting authority, as the case may be, unless the agreement specifies otherwise. Accordingly, RALP reports on Schedule 13G that it has sole investment discretion and voting authority over the securities covered by any such investment managementagreement, unless otherwise noted in this Item 4. As a result, for purposes of Rule 13d 3 under the Act, RALP may be deemed to be the beneficial owner of the securities reported in this Schedule 13G. Beneficial ownership by investment management subsidiaries and other affiliates of FRI is being reported in conformity with the guidelines articulated by the SEC staff in Release No. 3439538 (January 12, 1998) relating to organizations, such as FRI, where related entities exercise voting and investment powers over the securities being reported independently from eachother. The voting and investment powers held by RALP are exercised independently from FRI(RALP's parent holding company) and from all other investment management subsidiaries of FRI (FRI, its affiliates and investment management subsidiaries other than RALP are, collectively, "FRI affiliates"). Furthermore, internal policies and procedures of RALP and FRI affiliates establish informational barriers that prevent the flow between RALP and the FRI affiliates of information that relates to the voting and investment powers over the securities owned by their respective investment management clients. Consequently, RALP and the FRI affiliates report the securities over which they hold investment and voting power separately from each other for purposes of Section 13 of the Act. Charles B. Johnson and Rupert H. Johnson, Jr. (the "Principal Shareholders") may each own in excess of 10% of the outstanding common stock of FRI and are the principal stockholders of FRI (see FRI's Proxy Statement-Stock Ownership of Certain Beneficial Owners). However, because RALP exercises voting and investment powers on behalf of its investment management clients independently of FRI affiliates, beneficial ownership of the securities reported by RALP is not attributed to the Principal Shareholders. RALP disclaims any pecuniary interest in any of the securities reported in this Schedule 13G. In addition, the filing of this Schedule 13G on behalf of RALP should not be construed as an admission that it is, and it disclaims that it is, the beneficial owner, as defined in Rule 13d 3, of any of such securities. Furthermore, RALP believes that it is not a "group" with FRI affiliates, the Principal Shareholders, or their respective affiliates within the meaning of Rule 13d 5 under the Act and that none of them is otherwise required to attribute to any other the beneficial ownership of the securities held by such person or by any persons or entities for whom or for which RALP or the FRI affiliates provide investment management services.</exhibitInfo>
+		<signatureInformation>
+			<reportingPersonName>ROYCE &amp; ASSOCIATES LP</reportingPersonName>
+			<signatureDetails>
+				<signature>Daniel A. O'Byrne</signature>
+				<title>Vice President</title>
+				<date>01/28/2025</date>
+			</signatureDetails>
+		</signatureInformation>
+	</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

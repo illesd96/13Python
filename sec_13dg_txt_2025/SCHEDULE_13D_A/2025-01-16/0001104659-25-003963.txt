@@ -1,0 +1,384 @@
+<SEC-DOCUMENT>0001104659-25-003963.txt : 20250116
+<SEC-HEADER>0001104659-25-003963.hdr.sgml : 20250116
+<ACCEPTANCE-DATETIME>20250116091159
+ACCESSION NUMBER:		0001104659-25-003963
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250116
+DATE AS OF CHANGE:		20250116
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Danaos Corp
+		CENTRAL INDEX KEY:			0001369241
+		STANDARD INDUSTRIAL CLASSIFICATION:	DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT [4412]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			1T
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-82502
+		FILM NUMBER:		25534434
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14 AKTI KONDYLI
+		STREET 2:		185 45 PIRAEUS
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			00000
+		BUSINESS PHONE:		011302104496480
+
+	MAIL ADDRESS:	
+		STREET 1:		14 AKTI KONDYLI
+		STREET 2:		185 45 PIRAEUS
+		CITY:			ATHENS
+		STATE:			J3
+		ZIP:			00000
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Danaos Investments LTD as Trustee of the 883 Trust
+		CENTRAL INDEX KEY:			0001389182
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O 14 AKTI KONDYLI
+		CITY:			185 45 PIRAEUS
+		STATE:			J3
+		ZIP:			00000
+		BUSINESS PHONE:		30 210 419 6480
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O 14 AKTI KONDYLI
+		CITY:			185 45 PIRAEUS
+		STATE:			J3
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001104659-10-044668</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Danaos Investments LTD as Trustee of the 883 Trust -->
+          <cik>0001389182</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>7</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.01 per share</securitiesClassTitle>
+      <dateOfEvent>01/14/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001369241</issuerCIK>
+        <issuerCUSIP>Y1968P121</issuerCUSIP>
+        <issuerName>Danaos Corporation</issuerName>
+        <address>
+          <com:street1>c/o Danaos Shipping Co. Ltd.</com:street1>
+          <com:street2>14 Akti Kondyli</com:street2>
+          <com:city>Piraeus</com:city>
+          <com:stateOrCountry>J3</com:stateOrCountry>
+          <com:zipCode>185 45</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Finnbarr D. Murphy</personName>
+          <personPhoneNum>(212) 459-7257</personPhoneNum>
+          <personAddress>
+            <com:street1>Goodwin Procter LLP</com:street1>
+            <com:street2>620 Eighth Avenue</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10012</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001389182</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Danaos Investment Limited as Trustee of the 883 Trust</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>Q2</citizenshipOrOrganization>
+        <soleVotingPower>9338502.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>9338502.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>9338502.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>49.4</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonNoCIK>Y</reportingPersonNoCIK>
+        <reportingPersonName>John Coustas</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>J3</citizenshipOrOrganization>
+        <soleVotingPower>9338502.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>9338502.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>9338502.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>49.4</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>These shares of Common Stock are held by Danaos Investment Limited as Trustee of the 883 Trust ("DIL"), which has sole voting and dispositive control over these shares of Common Stock. The beneficiaries of the 883 Trust are Dr. Coustas and members of his immediate family. The board of directors of DIL consists of four members, none of whom is a beneficiary of the 883 Trust or member of the Coustas family, and has voting and dispositive control over the shares held by the 883 Trust.  Dr. Coustas has certain powers to remove and replace DIL as Trustee of the 883 Trust and, accordingly, he may be deemed to beneficially own these 9,338,502 shares of Common Stock.  This does not necessarily imply economic ownership of the securities.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.01 per share</securityTitle>
+        <issuerName>Danaos Corporation</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>c/o Danaos Shipping Co. Ltd.</com:street1>
+          <com:street2>14 Akti Kondyli</com:street2>
+          <com:city>Piraeus</com:city>
+          <com:stateOrCountry>J3</com:stateOrCountry>
+          <com:zipCode>185 45</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Amendment No. 7 to the Statement on Schedule 13D originally filed on August 16, 2010, as amended by Amendment No. 1 on August 14, 2018, Amendment No. 2 on December 2, 2019, Amendment No. 3 on September 14, 2021, Amendment No. 4 on April 15, 2022, Amendment No. 5 on November 15, 2023 and Amendment No. 6 on November 13, 2024 (the "Statement"), ) relates to the common stock, par value $0.01 per share ("Common Stock"), of Danaos Corporation, a Marshall Islands corporation (the "Company"), and is being filed by (i) Danaos Investment Limited, a company organized under the laws of New Zealand, as Trustee of the 883 Trust, a trust established under the laws of England and Wales ("DIL"), and (ii) Dr. John Coustas ("Dr. Coustas" and, together with DIL as Trustee of the 883 Trust, the "Reporting Persons").
+
+Information given in response to each item below shall be deemed incorporated by reference in all other items below. Unless indicated otherwise, all items left blank remain unchanged, and any items which are amended below are deemed to amend and update the existing items in the Schedule 13D.</commentText>
+      </item1>
+      <item3>
+        <fundsSource>Item 3 of the Statement is hereby amended by adding the following paragraph prior to the last paragraph of Item 3:
+
+See the responses to Items 4, 5 and 6, which are incorporated by reference herein.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Item 4 of the Statement is hereby amended by adding the following paragraphs to the end of Item 4:
+
+This Amendment No. 7 is being filed to update the percentage of outstanding Common Stock of the Company beneficially owned by the Reporting Persons to reflect repurchases by the Company under the Company's common stock repurchase program.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>Item 5 of the Statement is hereby amended and restated to read as follows:
+
+DIL, as Trustee of the 883 Trust, is the owner of 9,338,502 shares of Common Stock, which represents 49.4% of the outstanding shares of Common Stock. DIL, as Trustee of the 883 Trust, has sole voting and dispositive control over these shares of Common Stock. The beneficiaries of the 883 Trust are Dr. Coustas and members of his immediate family. The board of directors of DIL consists of four members, none of whom is a beneficiary of the 883 Trust or member of the Coustas family, or has voting and dispositive control over the shares held by the 883 Trust. Dr. Coustas has certain powers to remove and replace DIL as Trustee of the 883 Trust and, accordingly, he may be deemed to beneficially own these 9,338,502 shares of Common Stock. This does not necessarily imply economic ownership of the securities.
+
+Iraklis Prokopakis beneficially owns 200,270 shares of Common Stock, or approximately 1.1% of the outstanding shares of Common Stock. He has sole voting and dispositive power with respect to such shares.
+
+Evangelos Chatzis beneficially owns 73,000 shares of Common Stock, or less than 1.0% of the outstanding shares of Common Stock. He has sole voting and dispositive power with respect to such shares.
+
+(a)       See Items 11 and 13 on the cover pages to this Schedule 13D/A for the aggregate number and percentage of the class of securities identified pursuant to Item 1 owned by each Reporting Person.</percentageOfClassSecurities>
+        <numberOfShares>Number of shares as to which each Reporting Person has:
+
+i.  Sole power to vote or to direct the vote: See Item 7 on cover pages to this Amendment.
+
+ii.  Shared power to vote or to direct the vote: See Item 8 on cover pages to this Amendment.
+
+iii. Sole power to dispose or direct the disposition: See Item 9 on cover pages to this Amendment.
+
+iv. Shared power to dispose or direct the disposition: See Item 10 on cover pages to this Amendment.</numberOfShares>
+        <transactionDesc>No transactions in the Company's Common Stock by the Reporting Persons and the Shareholder Directors were effected in the past 60 days.</transactionDesc>
+        <listOfShareholders>The beneficiaries of the 883 Trust, which include Dr. Coustas and members of his family, have the right to receive any dividends from, or the proceeds from any sale of, shares of Common Stock owned of record by Danaos Investment Limited, as Trustee of the 883 Trust. Each of the Shareholder Directors has the right to receive any dividends from, or the proceeds from any sale of, shares of Common Stock that he owns.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Item 6 of the Statement is hereby amended by adding the following paragraph.
+
+See the responses to Item 3, Item 4 and Item 5, which are incorporated by reference.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Exhibit 1 Joint Filing Agreement, dated as of January 16, 2025, between Dr. John Coustas and Danaos Investment Limited as the Trustee of the 883 Trust</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Danaos Investment Limited as Trustee of the 883 Trust</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Iraklis Prokopakis</signature>
+          <title>IRAKLIS PROKOPAKIS / Director</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+        <signatureDetails>
+          <signature>/s/ Evangelos Chatzis</signature>
+          <title>EVANGELOS CHATZIS / Director</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>John Coustas</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ John Coustas</signature>
+          <title>JOHN COUSTAS</title>
+          <date>01/16/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>tm253322d1_ex-1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">JOINT FILING AGREEMENT</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Dated:&nbsp;January 16, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The undersigned hereby agree that Amendment No.&nbsp;7
+dated January 16, 2025 (the &ldquo;<U>Amendment No.&nbsp;7</U>&rdquo;) to the Statement on Schedule 13D with respect to the Common Stock,
+$0.01 par value, of Danaos Corporation dated August&nbsp;16, 2010 (the &ldquo;<U>Statement on Schedule 13D</U>&rdquo;) is, and any further
+amendments to the Statement on Schedule 13D executed by each of us shall be, filed on behalf of each of us pursuant to and in accordance
+with the provisions of Rule&nbsp;13d-1(k)(1)&nbsp;under the Securities and Exchange Act of 1934, as amended, and that this Joint Filing
+Agreement shall be included as an Exhibit&nbsp;to the Amendment No.&nbsp;7.&nbsp; This Joint Filing Agreement may be executed in any number
+of counterparts, all of which taken together shall constitute one and the same instrument.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>[Signature Page&nbsp;Follows]</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 13.5pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 6pt; text-indent: 1in">IN WITNESS WHEREOF, the undersigned have
+executed this Joint Filing Agreement as of the date first above written.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">DANAOS INVESTMENT LIMITED AS TRUSTEE OF THE 883 TRUST</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Iraklis Prokopakis</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 4%">&nbsp;</TD>
+    <TD STYLE="width: 6%"><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="width: 40%"><FONT STYLE="font-size: 10pt">Iraklis Prokopakis</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Director</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Evangelos Chatzis</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Evangelos Chatzis</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Director</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-size: 10pt">JOHN COUSTAS</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ John Coustas</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">[Signature Page&nbsp;to Joint Filing Agreement]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001446114-25-000003.txt : 20250107
+<SEC-HEADER>0001446114-25-000003.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107165009
+ACCESSION NUMBER:		0001446114-25-000003
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Magnera Corp
+		CENTRAL INDEX KEY:			0000041719
+		STANDARD INDUSTRIAL CLASSIFICATION:	PAPER MILLS [2621]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				230628360
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-14245
+		FILM NUMBER:		25515482
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9335 HARRIS CORNERS PKWY
+		STREET 2:		SUITE 300
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28269
+		BUSINESS PHONE:		866-744-7380
+
+	MAIL ADDRESS:	
+		STREET 1:		9335 HARRIS CORNERS PKWY
+		STREET 2:		SUITE 300
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28269
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Glatfelter Corp
+		DATE OF NAME CHANGE:	20200930
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLATFELTER P H CO
+		DATE OF NAME CHANGE:	19920703
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ancora Advisors LLC
+		CENTRAL INDEX KEY:			0001446114
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				331033773
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6060 PARKLAND BOULEVARD, SUITE 200
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+		BUSINESS PHONE:		2168254000
+
+	MAIL ADDRESS:	
+		STREET 1:		6060 PARKLAND BOULEVARD, SUITE 200
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44124
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Ancora Advisors, LLC
+		DATE OF NAME CHANGE:	20080924
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Ancora Advisors LLC -->
+          <cik>0001446114</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, $0.01 par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000041719</issuerCik>
+        <issuerName>Magnera Corporation</issuerName>
+        <issuerCusip>55939A107</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>9335 Harris Corners Pkwy, Suite 300</com:street1>
+          <com:city>Charlotte</com:city>
+          <com:stateOrCountry>NC</com:stateOrCountry>
+          <com:zipCode>28269</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Ancora Advisors, LLC</reportingPersonName>
+      <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>1653680.00</soleVotingPower>
+        <sharedVotingPower>229696.00</sharedVotingPower>
+        <soleDispositivePower>1653680.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1883376.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.33</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Magnera Corporation</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>9335 Harris Corners Pkwy, Suite 300</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Ancora Advisors, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>6060 Parkland Blvd. Suite 200
+Cleveland, OH 44124</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Each of the Reporting Persons is a United States company or United States Citizen</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1883376</amountBeneficiallyOwned>
+        <classPercent>5.33</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1653680</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>229696</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1653680</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>Ancora Holdings Group, LLC is the parent company of four investment advisors registered with the SEC under the Investment Advisors Act, as amended: Ancora Advisors LLC, Ancora Alternatives LLC, Ancora Family Wealth Advisors, &amp; Ancora Retirement Plan Advisors (collectively, the "Ancora RIAs"). This statement is filed by Ancora Advisors, LLC and includes, if applicable, Shares that may be deemed to be beneficially owned by the other Ancora RIAs. Ancora Advisors, LLC is the investment advisor to the Ancora Trust, which includes the Ancora Income Fund, Ancora/Thelen Small-Mid Cap Fund, Ancora Dividend Value Equity Fund and Ancora MicroCap Fund (Ancora Family of Mutual Funds), which are registered with the SEC as investment companies under the Investment Company Act, as amended. The address of the principal office of Ancora Advisors, LLC is 6060 Parkland Boulevard, Suite 200, Cleveland, Ohio 44124.
+
+Ancora has the power to dispose of the shares owned by the investment clients for which it acts as advisor, including Ancora's Private Funds, Merlin Partners, Ancora Catalyst LP, Ancora Impact Fund, Ancora Belator and their related SPV, series and managed accounts, as well as the Ancora Family of Mutual Funds. Ancora disclaims beneficial ownership of such shares, except to the extent of its pecuniary interest therein.
+
+Other than as disclosed immediately below, during the last five years the Reporting Person has not been convicted in a criminal proceeding, nor been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction, as a result of which he was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws. On December 18, 2018, Ancora Advisors LLC entered into a settlement with the SEC regarding the violation of Section 206(4) under the Investment Advisers Act of 1940 ("Advisers Act") and Rule 206(4)-5 thereunder, due to the contributing of more than the allowable $350 contribution to certain political campaigns. Ancora consented to the Order and paid a penalty in the amount of $100,000.</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Ancora Advisors, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Frederick DiSanto</signature>
+        <title>Chairman and Chief Executive Officer</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,321 @@
+<SEC-DOCUMENT>0001104659-25-005712.txt : 20250123
+<SEC-HEADER>0001104659-25-005712.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123190022
+ACCESSION NUMBER:		0001104659-25-005712
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Broad Capital Acquisition Ltd
+		CENTRAL INDEX KEY:			0001970371
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			C3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94806
+		FILM NUMBER:		25551290
+
+	BUSINESS ADDRESS:	
+		STREET 1:		LEVEL 28, 1 MARKET STREET
+		CITY:			SYDNEY
+		STATE:			C3
+		ZIP:			2000
+		BUSINESS PHONE:		61 2 9265 3000
+
+	MAIL ADDRESS:	
+		STREET 1:		LEVEL 28, 1 MARKET STREET
+		CITY:			SYDNEY
+		STATE:			C3
+		ZIP:			2000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Broad Capital Acquisition Pty Ltd
+		DATE OF NAME CHANGE:	20230321
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Yakira Capital Management, Inc.
+		CENTRAL INDEX KEY:			0001584639
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1555 POST ROAD EAST
+		STREET 2:		SUITE 202
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		(203) 341-0606
+
+	MAIL ADDRESS:	
+		STREET 1:		1555 POST ROAD EAST
+		STREET 2:		SUITE 202
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BK Management I, Inc.
+		DATE OF NAME CHANGE:	20130819
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001584639-23-000007</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Yakira Capital Management, Inc. -->
+          <cik>0001584639</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.000001</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/21/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001970371</issuerCik>
+        <issuerName>Broad Capital Acquisition Corp</issuerName>
+        <issuerCusip>11125B102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1555 POST ROAD EAST</com:street1>
+          <com:street2>SUITE 202</com:street2>
+          <com:city>WESTPORT</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06880</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Yakira Capital Management, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Yakira Partners, L.P.</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Yakira Enhanced Offshore Fund Ltd.</reportingPersonName>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>FI</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>MAP 136 Segregated Portfolio</reportingPersonName>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>FI</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>YP Management, L.L.C.</reportingPersonName>
+      <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Bruce M. Kallins</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Broad Capital Acquisition Corp</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1555 POST ROAD EAST, SUITE 202, WESTPORT, CT 06880</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>i) Yakira Capital Management, Inc. (the "Investment Manager")
+
+ii) Yakira Partners, L.P. (the "Domestic Fund")
+
+iii) Yakira Enhanced Offshore Fund Ltd. (the "Offshore Fund")
+
+iv) MAP 136 Segregated Portfolio ("MAP 136" and, collectively with the Domestic Fund and the Offshore Fund, the "Funds")
+
+v) YP Management, L.L.C. (the "General Partner")
+
+vi) Bruce M. Kallins</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1555 Post Road East, Suite 202, Westport, CT 06880</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Yakira Capital Management, Inc. and Yakira Partners L.P. are Delaware entities.
+
+Yakira Enhanced Offshore Fund Ltd. and MAP 136 Segregated Portfolio are Cayman Island entities.
+
+YP Management, L.L.C. is a New York entity
+
+Bruce M. Kallins is a U.S. Citizen</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>0</amountBeneficiallyOwned>
+        <classPercent>0</classPercent>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Yakira Capital Management, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Bruce M. Kallins</signature>
+        <title>Bruce M. Kallins / controlling shareholder of the Investment Manager (for itself and each of the Funds) and as the managing member of the GP</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Yakira Partners, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Bruce M. Kallins</signature>
+        <title>Bruce M. Kallins / controlling shareholder of the Investment Manager (for itself and each of the Funds) and as the managing member of the GP</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Yakira Enhanced Offshore Fund Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Bruce M. Kallins</signature>
+        <title>Bruce M. Kallins / controlling shareholder of the Investment Manager (for itself and each of the Funds) and as the managing member of the GP</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>MAP 136 Segregated Portfolio</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Bruce M. Kallins</signature>
+        <title>Bruce M. Kallins / controlling shareholder of the Investment Manager (for itself and each of the Funds) and as the managing member of the GP</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>YP Management, L.L.C.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Bruce M. Kallins</signature>
+        <title>Bruce M. Kallins / controlling shareholder of the Investment Manager (for itself and each of the Funds) and as the managing member of the GP</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Bruce M. Kallins</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Bruce M. Kallins</signature>
+        <title>Bruce M. Kallins</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

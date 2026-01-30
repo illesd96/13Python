@@ -1,0 +1,187 @@
+<SEC-DOCUMENT>0002033053-25-000002.txt : 20250107
+<SEC-HEADER>0002033053-25-000002.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107211039
+ACCESSION NUMBER:		0002033053-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPROTT FUNDS TRUST
+		CENTRAL INDEX KEY:			0001728683
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				824034050
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94584
+		FILM NUMBER:		25516365
+
+	BUSINESS ADDRESS:	
+		STREET 1:		320 POST ROAD, SUITE 230
+		STREET 2:		SUITE 200
+		CITY:			DARIEN
+		STATE:			CT
+		ZIP:			06820
+		BUSINESS PHONE:		(203) 656-2400
+
+	MAIL ADDRESS:	
+		STREET 1:		320 POST ROAD, SUITE 230
+		STREET 2:		SUITE 200
+		CITY:			DARIEN
+		STATE:			CT
+		ZIP:			06820
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sprott ETF Trust
+		DATE OF NAME CHANGE:	20180119
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Paul R. Ried Financial Group, LLC
+		CENTRAL INDEX KEY:			0002033053
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				331062677
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10801 MAIN STREET
+		STREET 2:		SUITE 201
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+		BUSINESS PHONE:		425-646-6777
+
+	MAIL ADDRESS:	
+		STREET 1:		10801 MAIN STREET
+		STREET 2:		SUITE 201
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0002033053-24-000001</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002033053</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>4</amendmentNo>
+      <securitiesClassTitle>Exchange Traded Fund (ETF) Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001728683</issuerCik>
+        <issuerName>SPROTT FUNDS TRUST</issuerName>
+        <issuerCusip>85208P402</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>320 POST ROAD, SUITE 230</com:street1>
+          <com:street2>SUITE 200</com:street2>
+          <com:city>DARIEN</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06820</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Paul R. Ried Financial Group, LLC</reportingPersonName>
+      <citizenshipOrOrganization>WA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>1038012.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1038012.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>50.9</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>SPROTT FUNDS TRUST</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>320 POST ROAD, SUITE 230, SUITE 200, DARIEN, CONNECTICUT, 06820</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Paul R. Ried Financial Group, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>10801 Main Street, Suite 201
+Bellevue, WA 98004</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>USA</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1,038,012</amountBeneficiallyOwned>
+        <classPercent>50.9</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToDispose>1,038,012</solePowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Paul R. Ried Financial Group, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Adam Jordan</signature>
+        <title>Director of Investments</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

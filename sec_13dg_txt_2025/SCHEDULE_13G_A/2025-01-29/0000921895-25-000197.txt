@@ -1,0 +1,520 @@
+<SEC-DOCUMENT>0000921895-25-000197.txt : 20250129
+<SEC-HEADER>0000921895-25-000197.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129171206
+ACCESSION NUMBER:		0000921895-25-000197
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			enGene Holdings Inc.
+		CENTRAL INDEX KEY:			0001980845
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94211
+		FILM NUMBER:		25570294
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4868 RUE LEVY, SUITE 220
+		CITY:			SAINT-LAURENT
+		STATE:			A8
+		ZIP:			H4R 2P1
+		BUSINESS PHONE:		(514) 332-4888
+
+	MAIL ADDRESS:	
+		STREET 1:		4868 RUE LEVY, SUITE 220
+		CITY:			SAINT-LAURENT
+		STATE:			A8
+		ZIP:			H4R 2P1
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIOTECHNOLOGY VALUE FUND L P
+		CENTRAL INDEX KEY:			0000918923
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				363924731
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		44 MONTGOMERY STREET
+		STREET 2:		40TH FL
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		3125066500
+
+	MAIL ADDRESS:	
+		STREET 1:		44 MONTGOMERY STREET
+		STREET 2:		40TH FL
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0000921895-23-002574</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: BIOTECHNOLOGY VALUE FUND L P -->
+          <cik>0000918923</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>3</amendmentNo>
+      <securitiesClassTitle>Common Shares, no par value per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/27/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001980845</issuerCik>
+        <issuerName>enGene Holdings Inc.</issuerName>
+        <issuerCusip>29286M105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>4868 RUE LEVY, SUITE 220</com:street1>
+          <com:city>SAINT-LAURENT, QUEBEC</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>H4R 2P1</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND L P</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>505835.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>505835.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>505835.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF I GP LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>505835.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>505835.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>505835.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND II LP</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>383352.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>383352.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>383352.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.7</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF II GP LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>383352.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>383352.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>383352.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.7</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Biotechnology Value Trading Fund OS LP</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>43786.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>43786.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>43786.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.1</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF Partners OS Ltd.</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>E9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>43786.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>43786.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>43786.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.1</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF GP HOLDINGS LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>889187.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>889187.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>889187.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.7</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF PARTNERS L P/IL</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>945402.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>945402.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>945402.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.8</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>BVF INC/IL</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>945402.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>945402.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>945402.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.8</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>LAMPERT MARK N</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>945402.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>945402.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>945402.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.8</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>enGene Holdings Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>4868 Rue Levy, Suite 220, Saint-Laurent, QC, Canada H4R 2P1</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Biotechnology Value Fund, L.P. ("BVF")
+
+BVF I GP LLC ("BVF GP")
+
+Biotechnology Value Fund II, L.P. ("BVF2")
+
+BVF II GP LLC ("BVF2 GP")
+
+Biotechnology Value Trading Fund OS LP ("Trading Fund OS")
+
+BVF Partners OS Ltd. ("Partners OS")
+
+BVF GP Holdings LLC ("BVF GPH")
+
+BVF Partners L.P. ("Partners")
+
+BVF Inc.
+
+Mark N. Lampert ("Mr. Lampert")
+
+Each of the foregoing is referred to as a "Reporting Person" and collectively as the "Reporting Persons."</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Biotechnology Value Fund, L.P.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF I GP LLC
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+Biotechnology Value Fund II, L.P.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF II GP LLC
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+Biotechnology Value Trading Fund OS LP
+PO Box 309 Ugland House
+Grand Cayman, KY1-1104
+Cayman Islands
+
+BVF Partners OS Ltd.
+PO Box 309 Ugland House
+Grand Cayman, KY1-1104
+Cayman Islands
+
+BVF GP Holdings LLC
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF Partners L.P.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+BVF Inc.
+44 Montgomery St., 40th Floor
+San Francisco, California 94104
+
+Mark N. Lampert
+44 Montgomery St., 40th Floor
+San Francisco, California 94104</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Biotechnology Value Fund, L.P.
+Delaware
+
+BVF I GP LLC
+Delaware
+
+Biotechnology Value Fund II, L.P.
+Delaware
+
+BVF II GP LLC
+Delaware
+
+Biotechnology Value Trading Fund OS LP
+Cayman Islands
+
+BVF Partners OS Ltd.
+Cayman Islands
+
+BVF GP Holdings LLC
+Delaware
+
+BVF Partners L.P.
+Delaware
+
+BVF Inc.
+Delaware
+
+Mark N. Lampert
+United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>As of the close of business on January 29, 2025, the Reporting Persons and a certain Partners managed account (the "Partners Managed Account") held exchange-traded warrants of the Issuer (the "Warrants") exercisable for an aggregate of 945,402 Shares. The Warrants are exercisable at a price of $11.50 per Share and first became exercisable 30 days after the consummation of the combination between the Issuer and Forbion European Acquisition Corp., which occurred on October 31, 2023, subject to certain conditions. The Warrants expire on October 31, 2028.
+
+As of the close of business on January 29, 2025, (i) BVF beneficially owned 505,835 Shares, consisting of the 505,835 Shares underlying the Warrants held by it, (ii) BVF2 beneficially owned 383,352 Shares, consisting of the 383,352 Shares underlying the Warrants held by it, and (iii) Trading Fund OS beneficially owned 43,786 Shares, consisting of the 43,786 Shares underlying the Warrants held by it.
+
+BVF GP, as the general partner of BVF, may be deemed to beneficially own the 505,835 Shares beneficially owned by BVF.
+
+BVF2 GP, as the general partner of BVF2, may be deemed to beneficially own the 383,352 Shares beneficially owned by BVF2.
+
+Partners OS, as the general partner of Trading Fund OS, may be deemed to beneficially own the 43,786 Shares beneficially owned by Trading Fund OS.
+
+BVF GPH, as the sole member of each of BVF GP and BVF2 GP, may be deemed to beneficially own the 889,187 Shares beneficially owned in the aggregate by BVF and BVF2.
+
+Partners, as the investment manager of BVF, BVF2 and Trading Fund OS, and the sole member of Partners OS, may be deemed to beneficially own the 945,402 Shares beneficially owned in the aggregate by BVF, BVF2 and Trading Fund OS and held in the Partners Managed Account, including the 12,429 Shares underlying the Warrants held in the Partners Managed Account.
+
+BVF Inc., as the general partner of Partners, may be deemed to beneficially own the 945,402 Shares beneficially owned by Partners.
+
+Mr. Lampert, as a director and officer of BVF Inc., may be deemed to beneficially own the 945,402 Shares beneficially owned by BVF Inc.
+
+The foregoing should not be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of any Shares owned by another Reporting Person. BVF GP disclaims beneficial ownership of the Shares beneficially owned by BVF. BVF2 GP disclaims beneficial ownership of the Shares beneficially owned by BVF2. Partners OS disclaims beneficial ownership of the Shares beneficially owned by Trading Fund OS. BVF GPH disclaims beneficial ownership of the Shares beneficially owned by BVF and BVF2. Each of Partners, BVF Inc. and Mr. Lampert disclaims beneficial ownership of the Shares beneficially owned by BVF, BVF2 and Trading Fund OS and held in the Partners Managed Account, and the filing of this statement shall not be construed as an admission that any such person or entity is the beneficial owner of any such securities.</amountBeneficiallyOwned>
+        <classPercent>The following percentages are based upon 51,922,078 Shares outstanding, which is the sum of: (i) 50,976,676 Shares outstanding as of December 16, 2024, which is the total number of Shares outstanding as disclosed in the Issuer's Annual Report on Form 10-K filed with the Securities and Exchange Commission on December 19, 2024, and (ii) certain or all of the 945,402 Shares underlying the Warrants held by the Reporting Persons and the Partners Managed Account, as applicable.
+
+As of the close of business on January 29, 2025, (i) BVF beneficially owned less than 1% of the outstanding Shares, (ii) BVF2 beneficially owned less than 1% of the outstanding Shares, (iii) Trading Fund OS beneficially owned less than 1% of the outstanding Shares, (iv) BVF GP may be deemed to beneficially own less than 1% of the outstanding Shares, (v) BVF2 GP may be deemed to beneficially own less than 1% of the outstanding Shares, (vi) Partners OS may be deemed to beneficially own less than 1% of the outstanding Shares, (vii) BVF GPH may be deemed to beneficially own approximately 1.7% of the outstanding Shares and (viii) each of Partners, BVF Inc. and Mr. Lampert may be deemed to beneficially own approximately 1.8% of the outstanding Shares (less than 1% of the outstanding Shares are held in the Partners Managed Account).</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>See Cover Pages Items 5-9.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>See Cover Pages Items 5-9.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>See Cover Pages Items 5-9.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>See Cover Pages Items 5-9.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>See Exhibit 99.1 to the Schedule 13G filed with the Securities and Exchange Commission on November 13, 2023.</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND L P</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF I GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BIOTECHNOLOGY VALUE FUND II LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF II GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Biotechnology Value Trading Fund OS LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF Partners OS Ltd.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF GP HOLDINGS LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF PARTNERS L P/IL</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>BVF INC/IL</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert, Authorized Signatory</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>LAMPERT MARK N</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Mark N. Lampert</signature>
+        <title>Mark N. Lampert</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

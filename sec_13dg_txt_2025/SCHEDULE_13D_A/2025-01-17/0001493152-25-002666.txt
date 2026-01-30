@@ -1,0 +1,249 @@
+<SEC-DOCUMENT>0001493152-25-002666.txt : 20250117
+<SEC-HEADER>0001493152-25-002666.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117073541
+ACCESSION NUMBER:		0001493152-25-002666
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250117
+DATE AS OF CHANGE:		20250117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SONIM TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001178697
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				943336783
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-91008
+		FILM NUMBER:		25537017
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4445 EASTGATE MALL
+		STREET 2:		SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		650-378-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		4445 EASTGATE MALL
+		STREET 2:		SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AJP Holding Company, LLC
+		CENTRAL INDEX KEY:			0001932469
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				881673601
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2140 S. DUPONT HIGHWAY
+		CITY:			CAMDEN
+		STATE:			DE
+		ZIP:			19934
+		BUSINESS PHONE:		408-507-9307
+
+	MAIL ADDRESS:	
+		STREET 1:		2140 S. DUPONT HIGHWAY
+		CITY:			CAMDEN
+		STATE:			DE
+		ZIP:			19934
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D/A</submissionType>
+    <previousAccessionNumber>0001493152-22-019850</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: AJP Holding Company, LLC -->
+          <cik>0001932469</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>2</amendmentNo>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <dateOfEvent>01/15/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001178697</issuerCIK>
+        <issuerCUSIP>83548F200</issuerCUSIP>
+        <issuerName>SONIM TECHNOLOGIES INC</issuerName>
+        <address>
+          <com:street1>AJP Holding Company, LLC</com:street1>
+          <com:street2>P.O. Box 2729</com:street2>
+          <com:city>Sunnyvale</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94087</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Arthur Marcus, Esq.</personName>
+          <personPhoneNum>212-930-9700</personPhoneNum>
+          <personAddress>
+            <com:street1>1185 Avenue of the Americas</com:street1>
+            <com:street2>31st floor</com:street2>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10036</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001932469</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>AJP Holding Company, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>19463452.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>19463452.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>19463452.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>48.3</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+        <commentContent>(1) Beneficial ownership of the shares of Common Stock owned by AJP Holding Company, LLC is also attributable to Jeffrey Wang, the sole manager of AJP Holding Company, LLC, and, thus, is reported by more than one Reporting Person pursuant to Rule 13d-3 under the Securities Exchange Act of 1934, as amended.
+
+(2) Based on 40,272,229 shares of Common Stock outstanding as of September 15, 2022, as reported in the Issuer's Definitive Proxy Statement filed with the Securities and Exchange Commission on, September 26, 2022.</commentContent>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001935353</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Jeffrey Wang</reportingPersonName>
+        <fundType>OO</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>19463452.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>19463452.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>19463452.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>48.3</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+        <commentContent>(1) Based on 40,272,229 shares of Common Stock outstanding as of September 15, 2022, as reported in the Issuer's Definitive Proxy Statement filed with the Securities and Exchange Commission on, September 26, 2022.</commentContent>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock, par value $0.001 per share</securityTitle>
+        <issuerName>SONIM TECHNOLOGIES INC</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>AJP Holding Company, LLC</com:street1>
+          <com:street2>P.O. Box 2729</com:street2>
+          <com:city>Sunnyvale</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>94087</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>EXPLANATORY NOTE
+
+This Amendment No. 2 hereby amends and supplements the statement of beneficial ownership on Schedule 13D, initially filed on July 19, 2022 (the "Original Statement," and as amended hereby, the "Statement"), relating to the shares of common stock, par value $0.001 per share, (the "Common Stock") of Sonim Technologies, Inc., a Delaware corporation (the "Issuer").
+
+The Statement is being filed jointly by AJP Holding Company, LLC, a Delaware limited liability company ("AJP"), and Jeffrey Wang, a citizen of the United States of America ("Mr. Wang," together with AJP, the "Reporting Persons"), with respect to the Common Stock directly held by AJP. Mr. Wang is the sole manager of AJP and has voting and dispositive control with respect to the Common Stock owned by AJP, subject to the Purchaser Support Agreement, as defined in this Statement, with respect to the entirety of the shares of Common Stock owned by AJP as described below.
+
+Each Item below amends and supplements the information disclosed under the corresponding Item of the Original Statement. The only changes are in Item 4. Purpose of the Transaction. Unless otherwise indicated herein, capitalized terms used and not defined in this Amendment No. 2 shall have the respective meanings herein as are ascribed to such terms in the Original Statement.</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>This Statement is filed jointly by AJP Holding Company, LLC, a Delaware limited liability company ("AJP"), and Jeffrey Wang, a citizen of the United States of America ("Mr. Wang," together with AJP, the "Reporting Persons"), with respect to the Common Stock directly held by AJP. Mr. Wang is the sole manager of AJP and has voting and dispositive control with respect to the Common Stock owned by AJP, subject to the Purchaser Support Agreement, as defined in this Statement, with respect to the entirety of the shares of Common Stock owned by AJP as described below.</filingPersonName>
+        <principalBusinessAddress>The address of the principal business office for each of the Reporting Persons is P.O. Box 2729 Sunnyvale, CA 94087.</principalBusinessAddress>
+        <principalJob>(1) AJP is a Delaware limited liability company of which Mr. Wang is the sole manager. AJP has been formed to act as a private investment entity for Mr. Wang and his family members. (2) Mr. Wang is a Software Engineer at Plaid Inc., a California-based financial services company, and a member of the Board of Directors of the Issuer, which is a provider of ultra-rugged mobility solutions. The business address of Plaid Inc. is 1098 Harrison St San Francisco, CA 94103. The business address of the Issuer is 6500 River Place Boulevard, Bldg. 7, S#250, Austin, TX, 78730.</principalJob>
+        <hasBeenConvicted>During the last five years, none of the Reporting Persons has been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>During the last five years, none of the Reporting Persons has been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree, or final order enjoining future violations of, or prohibiting or mandating activities subject to, federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>AJP is a Delaware limited liability company. Mr. Wang is a citizen of the United States of America.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The entirety of the shares of Common Stock reported herein is held by AJP and was acquired in two closings for an aggregate purchase price of approximately $16,699,999.64, using the cash reserves of AJP pursuant to a certain subscription agreement by and between the Issuer and AJP dated April 14, 2022 (the "Subscription Agreement"). The first closing contemplated by the Subscription Agreement entailed the purchase of 13,928,571 shares of Common Stock for the purchase price of approximately $11,699,999.64 and was consummated on July 13, 2022, following the approval of the Subscription Agreement by the Issuer's securityholders. The second closing contemplated by the Subscription Agreement entailed the purchase of 5,952,381 shares of Common Stock for the aggregate purchase price of $5,000,000 (provided, however, that 208,750 shares of Common Stock were issued to two non-affiliated assignees of AJP) and was consummated on August 8, 2022. The entirety of the aggregate purchase price paid by AJP was comprised of the funds remitted by or for the benefit of the members of AJP and was transferred to AJP in the form of capital contribution.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>The Reporting Persons acquired the Common Stock owned by them for investment purposes. The Reporting Persons believed the securities of the Issuer represented an attractive investment opportunity and have invested in the securities based on their review of the business of the Issuer and belief in the long term value of the Issuer and its securities.
+
+The Subscription Agreement entails two closings and the acquisition of 20,833,333 shares of Common Stock for the aggregate purchase price of $17,500,000 (provided that 952,381 shares of Common Stock were paid for and issued to the person designated by the Reporting Persons). The Reporting Persons intend to proceed with the second closing pursuant to the terms of the Subscription Agreement.
+
+The Subscription Agreement further provided for the change in control of the Issuer, appointment of a new Chief Executive Officer of the Issuer, Peter Liu, and appointment of three new independent directors of the Issuer and resignation of two existing directors of the Issuer.
+
+The Reporting Persons have communicated and intend to continue to communicate with the Issuer's management and board of directors (the "Board") about, and may enter into negotiations and agreements with them regarding, among other things, the Issuer's operations, management, Board composition, ownership, capital or corporate structure, sale transactions, dividend and buyback policies, strategy and plans, including any transactions involving the Issuer or certain of the Issuer's businesses or assets, including transactions in which the Reporting Persons may seek to participate and potentially engage in, or oppose, and have communicated with and intend to continue to communicate with third parties, including potential targets, acquirers, service providers and financing sources, regarding the Issuer and the foregoing and a broad range of operational and strategic matters, and the exploration and/or development of plans and/or proposals (whether preliminary or final) with respect to the foregoing. The Reporting Persons additionally anticipates exploring the suggestion of the expansion of the Board of Directors of the Issuer with more directors including independent directors. The Reporting Persons have and may continue to exchange information with any such persons pursuant to appropriate confidentiality or similar agreements. The Reporting Persons may change their intentions with respect to any and all matters referred to in this Item 4. The Reporting Persons may also take steps to explore and prepare for various plans and actions, and propose transactions, before forming an intention to engage in such plans or actions or proceed with such transactions.
+
+The Reporting Persons intend to review their investment in the Issuer on a continuing basis and depending upon various factors, including without limitation, the Issuer's financial position and strategic direction, the outcome of any discussions referenced above, overall market conditions, other investment opportunities available to the Reporting Persons, and the availability of securities of the Issuer at prices that would make the purchase or sale of such securities desirable, the Reporting Persons may endeavor (i) to increase or decrease their position in the Issuer through, among other things, the purchase or sale of securities of the Issuer, including through transactions involving the shares of Common Stock or other securities of the Issuer in the open market or in private transactions, including through a trading plan created under Rule 10b5-1(c) or otherwise, on such terms and at such times as the Reporting Persons may deem advisable and/or (ii) to enter into transactions that increase or decrease their economic exposure to the shares of Common Stock without affecting their beneficial ownership of the shares of Common Stock or adjust their exposure to the shares of Common Stock in ways that would affect their beneficial ownership of the shares of Common Stock. In addition, the Reporting Persons may, at any time and from time to time, (i) review or reconsider their position and/or change their purpose and/or formulate plans or proposals with respect thereto and (ii) consider or propose one or more of the actions described in subparagraphs (a) - (j) of Item 4 of Schedule 13D.
+
+On January 10, 2025, the Reporting Persons entered into a non-binding Preliminary Summary of Terms and Conditions (the "LOI") with Orbic North America LLC ("Orbic") to sell 973,173 shares of its common stock of the Issuer owned by the Reporting Person to Orbic and to grant Orbic an option to purchase an additional 486,586 shares owned by AJP. The LOI is non-binding and there has been no change in the Reporting Persons' beneficial ownership and no changes will occur until a definitive agreement is reached. The Reporting Person's purpose for this filing is a result of the issuance of a press release by Orbic announcing the LOI.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>See rows (11) and (13) of the cover pages to this Schedule 13D for the aggregate number of shares of Common Stock and percentage of the shares of Common Stock beneficially owned by the Reporting Persons.
+
+The aggregate percentage of shares of Common Stock reported beneficially owned by the Reporting Persons is based on the Issuer's disclosure in the Definitive Proxy Statement filed with the Securities and Exchange Commission (the "SEC") on September 26, 2022.</percentageOfClassSecurities>
+        <numberOfShares>See rows (7) through (10) of the cover pages to this Schedule 13D for the number of shares of Common Stock as to which the Reporting Persons have the sole or shared power to vote or direct the vote and sole or shared power to dispose or to direct the disposition.</numberOfShares>
+        <transactionDesc>On July 13, 2022, the Issuer and AJP consummated the first closing pursuant to the terms and conditions of the Subscription Agreement, and the Issuer issued and sold 14,880,952 shares of Common Stock for the aggregate purchase price of twelve million five hundred thousand dollars ($12,500,000) or $0.84 per share. At the first closing, 19,463,452 shares of Common Stock were issued to AJP and 952,381 shares of Common Stock were issued to Peter Liu, Chief Executive Officer of the Company, as designated by AJP pursuant to the Subscription Agreement.
+
+On August 8, 2022, the Issuer and AJP consummated the second closing pursuant to the terms and conditions of the Subscription Agreement, and the Issuer issued and sold 5,952,381 shares of Common Stock for the aggregate purchase price of five million dollars ($5,000,000) or $0.84 per share. The entirety of the purchase price was paid by AJP. Following the Issuer's board's approval of an assignment of the right to receive Common Stock under the Subscription Agreement, the Issuer issued 208,750 shares of Common Stock to each of two non-affiliated assignees of the Purchaser, and 5,534,881 shares of Common Stock to the Purchaser.</transactionDesc>
+        <listOfShareholders>No persons other than the Reporting Persons have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, shares of Common Stock beneficially owned by the Reporting Persons.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Information regarding the Subscription Agreement is set forth in Items 3 and 4 and is incorporated herein by reference.
+
+In accordance with the terms of the Subscription Agreement, on July 13, 2022, the Issuer and AJP entered into a support agreement (the "Purchaser Support Agreement"), whereby AJP agreed, among other things, to vote the shares of Common Stock owned by AJP in favor of the election of the Continuing Directors (as such term defined in the Subscription Agreement), as well as such other matters set forth in the Purchaser Support Agreement. The Purchaser Support Agreement also requires, as a condition to AJP transferring any shares of Common Stock owned by AJP, that the acquirer of such shares of Common Stock agrees to be bound by the terms of the Purchaser Support Agreement. The Purchaser Support Agreement will terminate upon the Director End Time (as such term defined in the Subscription Agreement).
+
+As a non-employee director of the Issuer, Mr. Wang may be entitled to certain equity compensation arrangements generally applicable to the Issuer's non-employee directors as disclosed in the Issuer's Proxy Statements on Schedule 14A filed with the SEC.
+
+Except as described herein, the Reporting Persons have no contracts, arrangements, understandings, or relationships with respect to the securities of the Issuer.</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>Not applicable.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>AJP Holding Company, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey Wang</signature>
+          <title>Jeffrey Wang, Manager</title>
+          <date>01/17/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Jeffrey Wang</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Jeffrey Wang</signature>
+          <title>Jeffrey Wang, Individual</title>
+          <date>01/17/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

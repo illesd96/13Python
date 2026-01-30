@@ -1,0 +1,173 @@
+<SEC-DOCUMENT>0001104659-25-001689.txt : 20250107
+<SEC-HEADER>0001104659-25-001689.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107162452
+ACCESSION NUMBER:		0001104659-25-001689
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+DATE AS OF CHANGE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Medalist Diversified REIT, Inc.
+		CENTRAL INDEX KEY:			0001654595
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90739
+		FILM NUMBER:		25515161
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		804-338-7708
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 8436
+		CITY:			RICHMOND
+		STATE:			VA
+		ZIP:			23226
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kramer Kory J.
+		CENTRAL INDEX KEY:			0002050571
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	MAIL ADDRESS:	
+		STREET 1:		2582 BUNGALOW PLACE
+		CITY:			CORONA DEL MAR
+		STATE:			CA
+		ZIP:			92625
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Kramer Kory J. -->
+          <cik>0002050571</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <dateOfEvent>12/13/2024</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0001654595</issuerCIK>
+        <issuerCUSIP>58403P402</issuerCUSIP>
+        <issuerName>Medalist Diversified REIT, Inc.</issuerName>
+        <address>
+          <com:street1>P. O. Box 8436</com:street1>
+          <com:city>Richmond</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>23226</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Brent Winn</personName>
+          <personPhoneNum>804-338-7708</personPhoneNum>
+          <personAddress>
+            <com:street1>P. O. Box 8436</com:street1>
+            <com:city>Richmond</com:city>
+            <com:stateOrCountry>VA</com:stateOrCountry>
+            <com:zipCode>23226</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002050571</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Kramer Kory J.</reportingPersonName>
+        <fundType>PF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>100000.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>100000.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+        <aggregateAmountOwned>100000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>7.43</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Common Stock</securityTitle>
+        <issuerName>Medalist Diversified REIT, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>P. O. Box 8436</com:street1>
+          <com:city>Richmond</com:city>
+          <com:stateOrCountry>VA</com:stateOrCountry>
+          <com:zipCode>23226</com:zipCode>
+        </issuerPrincipalAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Kory J. Kramer</filingPersonName>
+        <principalBusinessAddress>1400 Newport Center Drive, Suite 230, Newport Beach, CA  92660</principalBusinessAddress>
+        <principalJob>Partner, Eagle Four Partners, 1400 Newport Center Drive, Suite 230, Newport Beach, CA  92660</principalJob>
+        <hasBeenConvicted>No</hasBeenConvicted>
+        <convictionDescription>No</convictionDescription>
+        <citizenship>US</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>Personal funds</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>Personal investment</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>100,000 common shares representing 7.43% of the outstanding common shares</percentageOfClassSecurities>
+        <numberOfShares>100,000</numberOfShares>
+        <transactionDesc>None.</transactionDesc>
+        <listOfShareholders>None.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>None</contractDescription>
+      </item6>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Kramer Kory J.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Kory J. Kramer</signature>
+          <title>Kory J. Kramer</title>
+          <date>01/07/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

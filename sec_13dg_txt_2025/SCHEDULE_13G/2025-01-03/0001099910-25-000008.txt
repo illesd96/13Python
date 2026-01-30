@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001099910-25-000008.txt : 20250103
+<SEC-HEADER>0001099910-25-000008.hdr.sgml : 20250103
+<ACCEPTANCE-DATETIME>20250103142015
+ACCESSION NUMBER:		0001099910-25-000008
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250103
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			i-80 Gold Corp.
+		CENTRAL INDEX KEY:			0001853962
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A1
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93689
+		FILM NUMBER:		25505284
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5190 NEIL ROAD, SUITE 460
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89820
+		BUSINESS PHONE:		1-888-346-1390
+
+	MAIL ADDRESS:	
+		STREET 1:		5190 NEIL ROAD, SUITE 460
+		CITY:			RENO
+		STATE:			NV
+		ZIP:			89820
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kaufman Daniel Louis
+		CENTRAL INDEX KEY:			0002001906
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 495
+		CITY:			PALMER
+		STATE:			PR
+		ZIP:			00721
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Kaufman Daniel Louis -->
+          <cik>0002001906</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Shares</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001853962</issuerCik>
+        <issuerName>i-80 Gold Corp.</issuerName>
+        <issuerCusip>44955L106</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>5190 Neil Road</com:street1>
+          <com:street2>Suite 110</com:street2>
+          <com:city>Reno</com:city>
+          <com:stateOrCountry>NV</com:stateOrCountry>
+          <com:zipCode>89820</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Daniel Kaufman</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>39063734.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>39063734.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>39063734.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>9.65</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>i-80 Gold Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>5190 Neil Road, Suite 110, Reno, NV, 89820, United States of America</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Daniel Kaufman</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>PO Box 495, Palmer, PR 00721</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>United States</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>39,063,734</amountBeneficiallyOwned>
+        <classPercent>9.65</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>39,063,734</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>39,063,734</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>None</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Daniel Kaufman</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Daniel Kaufman</signature>
+        <title>Daniel Kaufman, Individual Investor</title>
+        <date>01/03/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,476 @@
+<SEC-DOCUMENT>0001213900-25-003108.txt : 20250113
+<SEC-HEADER>0001213900-25-003108.hdr.sgml : 20250113
+<ACCEPTANCE-DATETIME>20250113193003
+ACCESSION NUMBER:		0001213900-25-003108
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250113
+DATE AS OF CHANGE:		20250113
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cantor Equity Partners I, Inc.
+		CENTRAL INDEX KEY:			0002027708
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				981576503
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94796
+		FILM NUMBER:		25527438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2129385000
+
+	MAIL ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cantor EP Holdings I, LLC
+		CENTRAL INDEX KEY:			0002029098
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13D
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2129385000
+
+	MAIL ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13D
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13D" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13D</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Cantor EP Holdings I, LLC -->
+          <cik>0002029098</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Class A Ordinary Shares, $0.0001 par value</securitiesClassTitle>
+      <dateOfEvent>01/06/2025</dateOfEvent>
+      <previouslyFiledFlag>false</previouslyFiledFlag>
+      <issuerInfo>
+        <issuerCIK>0002027708</issuerCIK>
+        <issuerCUSIP>G1827K107</issuerCUSIP>
+        <issuerName>Cantor Equity Partners I, Inc.</issuerName>
+        <address>
+          <com:street1>110 East 59th Street</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </address>
+      </issuerInfo>
+      <authorizedPersons>
+        <notificationInfo>
+          <personName>Howard W. Lutnick</personName>
+          <personPhoneNum>(212) 938-5000</personPhoneNum>
+          <personAddress>
+            <com:street1>110 East 59th Street</com:street1>
+            <com:city>New York</com:city>
+            <com:stateOrCountry>NY</com:stateOrCountry>
+            <com:zipCode>10022</com:zipCode>
+          </personAddress>
+        </notificationInfo>
+      </authorizedPersons>
+    </coverPageHeader>
+    <reportingPersons>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0002029098</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Cantor EP Holdings I, LLC</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5500000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5500000.00</sharedDispositivePower>
+        <aggregateAmountOwned>5500000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.6</percentOfClass>
+        <typeOfReportingPerson>OO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001024896</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Cantor Fitzgerald, L.P.</reportingPersonName>
+        <fundType>WC</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5500000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5500000.00</sharedDispositivePower>
+        <aggregateAmountOwned>5500000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.6</percentOfClass>
+        <typeOfReportingPerson>PN</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001251145</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>CF Group Management, Inc.</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>NY</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5500000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5500000.00</sharedDispositivePower>
+        <aggregateAmountOwned>5500000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.6</percentOfClass>
+        <typeOfReportingPerson>CO</typeOfReportingPerson>
+      </reportingPersonInfo>
+      <reportingPersonInfo>
+        <reportingPersonCIK>0001250975</reportingPersonCIK>
+        <reportingPersonNoCIK>N</reportingPersonNoCIK>
+        <reportingPersonName>Howard W. Lutnick</reportingPersonName>
+        <fundType>AF</fundType>
+        <legalProceedings>N</legalProceedings>
+        <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>5500000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>5500000.00</sharedDispositivePower>
+        <aggregateAmountOwned>5500000.00</aggregateAmountOwned>
+        <isAggregateExcludeShares>N</isAggregateExcludeShares>
+        <percentOfClass>21.6</percentOfClass>
+        <typeOfReportingPerson>IN</typeOfReportingPerson>
+      </reportingPersonInfo>
+    </reportingPersons>
+    <items1To7>
+      <item1>
+        <securityTitle>Class A Ordinary Shares, $0.0001 par value</securityTitle>
+        <issuerName>Cantor Equity Partners I, Inc.</issuerName>
+        <issuerPrincipalAddress>
+          <com:street1>110 East 59th Street</com:street1>
+          <com:city>New York</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10022</com:zipCode>
+        </issuerPrincipalAddress>
+        <commentText>This Schedule 13D is filed on behalf of Cantor EP Holdings I, LLC, a Delaware limited liability company (the "Sponsor"), Cantor Fitzgerald, L.P., a Delaware limited partnership ("Cantor"), CF Group Management, Inc., a New York corporation ("CFGM") and Howard W. Lutnick (collectively, the "Reporting Persons").</commentText>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by:
+
+(i) the Sponsor, which is the holder of record of approximately 21.6% of the issued and outstanding ordinary shares of the Issuer (25,500,000) based on the number of Class A ordinary shares, $0.0001 par value, of the Issuer ("Class A Ordinary Shares") (20,500,000) and Class B ordinary shares, $0.0001 par value, of the Issuer ("Class B Ordinary Shares" and together with the Class A Ordinary Shares, the "Ordinary Shares") (5,000,000) outstanding as of January 8, 2025, as reported by the Issuer in Exhibit 99.1 to its Current Report on Form 8-K, filed by the Issuer with the Securities and Exchange Commission (the "SEC") on January 10, 2025;
+
+(ii) Cantor, the sole member of the Sponsor;
+
+(iii) CFGM, the managing general partner of Cantor; and
+
+(iv) Howard W. Lutnick, the Chairman and Chief Executive Officer of CFGM and the trustee of CFGM's sole stockholder.
+
+All disclosures herein with respect to any Reporting Person are made only by such Reporting Person. Any disclosures herein with respect to persons other than the Reporting Persons are made on information and belief after making inquiry to the appropriate party.</filingPersonName>
+        <principalBusinessAddress>The address of the principal business and principal office of each of the Sponsor and Cantor is 110 East 59th Street, New York, New York 10022. The address of the principal business and principal office of each of CFGM and Mr. Lutnick is 499 Park Avenue, New York, New York 10022</principalBusinessAddress>
+        <principalJob>The Sponsor's principal business is to act as the Issuer's sponsor. The principal business of Cantor is providing financial services, including an array of financial products and services in the equity, fixed income and foreign exchange capital markets. The principal business of CFGM is to act as the Managing General Partner of Cantor. The principal occupation of Mr. Lutnick is to serve as Chairman and Chief Executive Officer of Cantor, Chairman and Chief Executive Officer of BGC Group, Inc. ("BGC"), Chairman of Newmark Group, Inc. ("Newmark") and Chairman and Chief Executive Officer of CFGM. In addition, Mr. Lutnick holds offices at various other affiliates of Cantor and provides services to the subsidiaries of Newmark, BGC and CFLP. Mr. Lutnick is also the trustee of CFGM's sole stockholder. However, on November 21, 2024, Mr. Lutnick shared a statement in response to being nominated by U.S. President Donald J. Trump to serve as U.S. Secretary of Commerce in which he stated that upon U.S. Senate confirmation he will step down from his positions at Cantor, BGC and Newmark and he intends to divest his interests from those companies to comply with U.S. government ethics rules.</principalJob>
+        <hasBeenConvicted>None of the Reporting Persons has, during the last five years, been convicted in a criminal proceeding (excluding traffic violations or similar misdemeanors).</hasBeenConvicted>
+        <convictionDescription>None of the Reporting Persons has, during the last five years, been a party to civil proceeding of a judicial administrative body of competent jurisdiction and, as a result of such proceeding, was, or is subject to, a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, Federal or state securities laws or finding any violation with respect to such laws.</convictionDescription>
+        <citizenship>The Sponsor is a Delaware limited liability company. Cantor is a Delaware limited partnership. CFGM is a New York corporation. Mr. Lutnick is a citizen of the United States.</citizenship>
+      </item2>
+      <item3>
+        <fundsSource>The aggregate purchase price for the Ordinary Shares currently beneficially owned by the Reporting Persons was $5,025,000. The source of these funds was the working capital of Cantor.</fundsSource>
+      </item3>
+      <item4>
+        <transactionPurpose>In November 2020, the Sponsor purchased an aggregate of 14,375,000 Class B Ordinary Shares for an aggregate purchase price of $25,000. On May 21, 2024, the Sponsor surrendered, for no consideration, 9,375,000 Class B Ordinary Shares, which the Issuer cancelled, resulting in the Sponsor owning 5,000,000 Class B Ordinary Shares.
+
+On January 8, 2025, simultaneously with the consummation of the Issuer's Initial public offering (the "IPO"), the Sponsor purchased 500,000 Class A Ordinary Shares (the "Placement Shares"), at $10.00 per Placement Share, pursuant to a Private Placement Shares Purchase Agreement, dated January 6, 2025, by and between the Issuer and the Sponsor (the "Purchase Agreement"), as more fully described in Item 6 of this Schedule 13D, which information is incorporated herein by reference.
+
+The Ordinary Shares owned by the Reporting Persons have been acquired for investment purposes. The Reporting Persons may make further acquisitions of the Ordinary Shares from time to time and, subject to certain restrictions, may dispose of any or all of the Ordinary Shares held by the Reporting Persons at any time depending on an ongoing evaluation of the investment in such Ordinary Shares, prevailing market conditions, other investment opportunities and other factors. However, such Ordinary Shares are subject to certain lock-up restrictions as further described in Item 6 below.
+
+In order to finance transaction costs in connection with an intended initial business combination, the Sponsor has committed to provide $1,750,000 to the Issuer to fund the Issuer's expenses relating to investigating and selecting a target business and other working capital requirements prior to the Issuer's initial business combination.
+
+The Issuer also issued to the Sponsor a promissory note in the amount of up to $3,000,000, as more fully described in Item 6 of this Schedule 13D, which information is incorporated herein by reference.
+
+Except for the foregoing, the Reporting Persons have no plans or proposals which relate to, or could result in, any of the matters referred to in paragraphs (a) and (c) through (j) of Item 4 of Schedule 13D.
+
+With respect to paragraph (b) of Item 4, the Issuer is a blank check company incorporated as a Cayman Islands exempted company for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. Under various agreements between the Issuer and the Reporting Persons as further described in Item 6 below, the Sponsor has agreed (A) to vote its shares in favor of any proposed initial business combination (except that any public shares such parties may purchase in compliance with the requirements of Rule 14e-5 under the Securities Exchange Act of 1934 (the "Exchange Act") would not be voted in favor of approving the business combination transaction) and (B) not to redeem any shares in connection with a shareholder vote (or tender offer) to approve (or in connection with) a proposed initial business combination. The Reporting Persons may, at any time and from time to time, review or reconsider their position, change their purpose or formulate plans or proposals with respect to the Issuer.</transactionPurpose>
+      </item4>
+      <item5>
+        <percentageOfClassSecurities>The aggregate number and percentage of Ordinary Shares beneficially owned by the Reporting Persons is on the basis of a total of 25,500,000 Ordinary Shares, including 20,500,000 Class A Ordinary Shares and 5,000,000 Class B Ordinary Shares, outstanding as of January 8, 2025, as reported by the Issuer in Exhibit 99.1 to its Current Report on Form 8-K, filed by the Issuer with the SEC on January 10, 2025). As of the date hereof, the Sponsor directly owns 500,000 Class A Ordinary Shares and 5,000,000 Class B Ordinary Shares, which Class B Ordinary Shares are automatically convertible into Class A Ordinary Shares at the time of the Issuer's initial business combination, or at any time and from time to time at the option of the holder, on a one-for-one basis, subject to adjustment for share sub-divisions, share dividends, reorganizations, recapitalizations and the like, and as more fully described under the heading "Description of Securities--Founder Shares" in the Issuer's registration statement on Form S-1 (File No. 333-282947). None of the other Reporting Persons directly own any Ordinary Shares.</percentageOfClassSecurities>
+        <numberOfShares>As of the date hereof:
+
+(i) the Sponsor directly owns, is the beneficial owner of, and has shared voting and dispositive power with respect to, 5,500,000 Ordinary Shares (consisting of 500,000 Class A Ordinary Shares and 5,000,000 Class B Ordinary Shares, which Class B Ordinary Shares are automatically convertible into Class A Ordinary Shares at the time of the Issuer's initial business combination, or at any time and from time to time at the option of the holder, on a one-for-one basis, subject to adjustment for share sub-divisions, share dividends, reorganizations, recapitalizations and the like, and as more fully described under the heading "Description of Securities--Founder Shares" in the Issuer's registration statement on Form S-1 (File No. 333-282947), which represent 21.6% of the Issuer's issued and outstanding Ordinary Shares.
+
+(ii) Cantor, as the sole member of the Sponsor, controls the Sponsor and may be deemed to beneficially own, and has shared voting and dispositive power with respect to, the 5,500,000 Ordinary Shares directly owned by the Sponsor, which represent 21.6% of the Issuer's issued and outstanding Ordinary Shares. Cantor disclaims any ownership of such Ordinary Shares other than to the extent of any pecuniary interest it may have therein, directly or indirectly.
+
+(iii) CFGM, as the managing general partner of Cantor, controls Cantor and may be deemed to beneficially own, and has shared voting and dispositive power with respect to, the 5,500,000 Ordinary Shares directly owned by the Sponsor, which represent 21.6% of the Issuer's issued and outstanding Ordinary Shares. CFGM disclaims any ownership of such Ordinary Shares other than to the extent of any pecuniary interest it may have therein, directly or indirectly.
+
+(iv) Howard W. Lutnick, as the Chairman and Chief Executive Officer of CFGM and also the trustee of CFGM's sole stockholder, controls CFGM and may be deemed to beneficially own, and has shared voting and dispositive power with respect to, the 5,500,000 Ordinary Shares directly owned by the Sponsor, which represent 21.6% of the Issuer's issued and outstanding Ordinary Shares. Mr. Lutnick disclaims any ownership of such Ordinary Shares other than to the extent of any pecuniary interest he may have therein, directly or indirectly.</numberOfShares>
+        <transactionDesc>None of the Reporting Persons has effected any transactions of the Ordinary Shares during the 60 days preceding the date of this report, except as described in Item 4 and Item 6 of this Schedule 13D, which information is incorporated herein by reference.</transactionDesc>
+        <listOfShareholders>Not applicable.</listOfShareholders>
+        <date5PercentOwnership>Not applicable.</date5PercentOwnership>
+      </item5>
+      <item6>
+        <contractDescription>Private Placement Shares Purchase Agreement between the Issuer and Sponsor
+
+On January 8, 2025, simultaneously with the consummation of the IPO, the Sponsor purchased 500,000 Placement Shares pursuant to the Purchase Agreement. The Placement Shares are subject to a lock up provision in the Purchase Agreement, which provides that such Placement Shares shall not be transferable, saleable or assignable until 30 days after the consummation of the Issuer's initial business combination, subject to certain limited exceptions as described in the Insider Letter (as defined below).
+
+The description of the Purchase Agreement is qualified in its entirety by reference to the full text of such agreement, a copy of which was filed by the Issuer as Exhibit 10.5 to the Current Report on Form 8-K filed by the Issuer with the SEC on January 10, 2025 (and is incorporated by reference herein as Exhibit 99.A).
+
+Insider Letter
+
+On January 6, 2025, in connection with the IPO, the Issuer, the Sponsor and certain other parties thereto entered into a letter agreement (the "Insider Letter"). Pursuant to the Insider Letter, the Sponsor agreed (A) to vote its Ordinary Shares in favor of any proposed initial business combination (except that any Class A Ordinary Shares that were sold in the IPO ("public shares") it may purchase in compliance with the requirements of Rule 14e-5 under the Exchange Act would not be voted in favor of approving the initial business combination), (B) not to propose an amendment to the Issuer's Amended and Restated Memorandum and Articles of Association that would modify the substance or delay the timing of the Issuer's obligation to allow redemption in connection with the Issuer's initial business combination or to redeem 100% of the public shares if the Issuer does not consummate an initial business combination within 24 months from the completion of the IPO (or (i) such earlier period approved by the board of directors of the Issuer or (ii) such later period approved by the Issuer's shareholders) unless the Issuer provides the holders of public shares with the opportunity to redeem such public shares upon approval of any such amendment at a per-share price, payable in cash, equal to the aggregate amount then on deposit in the Issuer's trust account set up in connection with the IPO (the "Trust Account"), (C) not to redeem any Class B Ordinary Shares and Placement Shares into the right to receive cash from the Trust Account in connection with a shareholder vote to approve the Issuer's proposed initial business combination, and (D) that the Class B Ordinary Shares and Placement Shares shall not participate in any liquidating distribution upon winding up if an initial business combination is not consummated. The Sponsor also agreed that in the event of the liquidation of the Trust Account, it will indemnify and hold harmless the Issuer against any and all loss, liability, claims, damage and expense whatsoever which the Issuer may become subject to as a result of any claim by any vendor or other person who is owed money by the Issuer for services rendered or products sold to or contracted for the Issuer, or by any target business with which the Issuer has discussed entering into a transaction agreement, but only to the extent necessary to ensure that such loss, liability, claim, damage or expense does not reduce the amount of funds in the Trust Account; provided that such indemnity shall not apply if such vendor or prospective target business executes an agreement waiving any claims against the Trust Account.
+
+The description of the Insider Letter is qualified in its entirety by reference to the full text of such agreement, a copy of which was filed by the Issuer as Exhibit 10.1 to the Form 8-K filed by the Issuer with the SEC on January 10, 2025 (and is incorporated by reference herein as Exhibit 99.B).
+
+Registration Rights Agreement
+
+On January 6, 2025, in connection with the IPO, the Issuer and the Sponsor entered into a registration rights agreement with the Issuer, pursuant to which the Sponsor was granted certain demand and "piggyback" registration rights, which will be subject to customary conditions and limitations, including the right of the underwriters of an offering to limit the number of shares offered. The summary of such registration rights agreement contained herein is qualified in its entirety by reference to the full text of such agreement, a copy of which was filed by the Issuer as Exhibit 10.3 to the Form 8-K filed by the Issuer with the SEC on January 10, 2025 (and is incorporated by reference herein as Exhibit 99.C).
+
+Expense Advance Agreement and Related Promissory Note
+
+On January 6, 2025, in connection with the IPO, the Issuer and the Sponsor entered into an expense advance agreement, pursuant to which the Sponsor has committed to provide up to $1,750,000 to the Issuer to fund the Issuer's expenses relating to investigating and selecting a target business and other working capital requirements prior to the Issuer's initial business combination. The summary of such expense advance agreement contained herein is qualified in its entirety by reference to the full text of such agreement, a copy of which was filed by the Issuer as Exhibit 10.4 to the Form 8-K filed by the Issuer with the SEC on January 10, 2025 (and is incorporated by reference herein as Exhibit 99.D).
+
+As contemplated by the Expense Advance Agreement, on January 6, 2025, the Issuer issued a promissory note to the Sponsor. The principal amount of the note is $1,750,000 and the note is interest free. The note is payable upon the Issuer's initial business combination; provided that such note will be convertible at the Sponsor's option into Class A Ordinary Shares at a conversion price of $10.00 per share no earlier than 60 days after the date of the IPO. The summary of such promissory note contained herein is qualified in its entirety by reference to the full text of such agreement, a copy of which was filed by the Issuer as Exhibit 10.6 to the Form 8-K filed by the Issuer with the SEC on January 10, 2025 (and is incorporated by reference herein as Exhibit 99.E).
+
+Sponsor Note
+
+On January 6, 2025, in connection with the IPO, the Issuer issued to the Sponsor a promissory note in the amount of up to $3,000,000. The Sponsor agreed to lend to the Issuer up to $3,000,000 under this promissory note, which will be drawn by the Issuer in connection with the consummation of its initial business combination, an extension of time for the Issuer to consummate an initial business combination or its liquidation (each, a "Redemption Event"), such that an amount equal to $0.15 per public share being redeemed in connection with the applicable Redemption Event will be added to the Trust Account and paid to the holders of the applicable redeemed shares on such Redemption Event. Upon consummation of the Issuer's initial business combination, the outstanding amounts under the promissory note will be repaid by the Issuer; provided that such note will be convertible at the Sponsor's option into Class A Ordinary Shares at a conversion price of $10.00 per share no earlier than 60 days after the date of the IPO. If the Issuer is unable to consummate an initial business combination, the outstanding amounts under the promissory note would be repaid only out of funds held outside of the Trust Account. The summary of such promissory note contained herein is qualified in its entirety by reference to the full text of such agreement, a copy of which was filed by the Issuer as Exhibit 10.8 to the Form 8-K filed by the Issuer with the SEC on January 10, 2025 (and is incorporated by reference herein as Exhibit 99.F).</contractDescription>
+      </item6>
+      <item7>
+        <filedExhibits>sExhibit 99.A - Private Placement Shares Purchase Agreement, dated as of January 6, 2025, by and between the Issuer and the Sponsor (incorporated by reference to Exhibit 10.5 to the Current Report on Form 8-K filed by the Issuer with the SEC on January 10, 2025)..
+
+Exhibit 99.B - Insider Letter, dated as of January 6, 2025, by and among the Issuer, the Sponsor and the other parties thereto (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed by the Issuer with the SEC on January 10, 2025).
+
+Exhibit 99.C - Registration Rights Agreement, dated as of January 6, 2025, by and between the Issuer and the Sponsor (incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K filed by the Issuer with the SEC on January 10, 2025).
+
+Exhibit 99.D - Expense Advance Agreement, dated January 6, 2025, by and between the Issuer and the Sponsor (incorporated by reference to Exhibit 10.4 to the Current Report on Form 8-K filed by the Issuer with the SEC on January 10, 2025).
+
+Exhibit 99.E - Promissory Note, dated January 6, 2025, by and between the Issuer and the Sponsor (incorporated by reference to Exhibit 10.6 to the Current Report on Form 8-K filed by the Issuer with the SEC on J January 10, 2025).
+
+Exhibit 99.F - Promissory Note, dated January 6, 2025, by and between the Issuer and the Sponsor (incorporated by reference to Exhibit 10.8 to the Current Report on Form 8-K filed by the Issuer with the SEC on January 10, 2025).
+
+Exhibit 99.G - Joint Filing Agreement, dated January 13, 2025, by and among the Reporting Persons.</filedExhibits>
+      </item7>
+    </items1To7>
+    <signatureInfo>
+      <signaturePerson>
+        <signatureReportingPerson>Cantor EP Holdings I, LLC</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Howard W. Lutnick</signature>
+          <title>Howard W. Lutnick / Chairman</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Cantor Fitzgerald, L.P.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Howard W. Lutnick</signature>
+          <title>Howard W. Lutnick / Chairman and Chief Executive Officer</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>CF Group Management, Inc.</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Howard W. Lutnick</signature>
+          <title>Howard W. Lutnick / Chairman and Chief Executive Officer</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+      <signaturePerson>
+        <signatureReportingPerson>Howard W. Lutnick</signatureReportingPerson>
+        <signatureDetails>
+          <signature>/s/ Howard W. Lutnick</signature>
+          <title>Howard W. Lutnick</title>
+          <date>01/13/2025</date>
+        </signatureDetails>
+      </signaturePerson>
+    </signatureInfo>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ea022751301-ex1_cantor.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">JOINT FILING AGREEMENT dated
+as of January 13, 2025, by and among Cantor EP Holdings I, LLC, Cantor Fitzgerald, L.P., CF Group Management, Inc. and Howard W. Lutnick
+(together, the &ldquo;<U>Parties</U>&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Each Party hereto represents
+to the other Party that it is eligible to use Schedule 13D to report its beneficial ownership of Class A ordinary shares, $0.0001 par
+value, of Cantor Equity Partners I, Inc., as of January 13, 2025, relating to such beneficial ownership, being filed on behalf of each
+of them.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Each of the Parties agrees
+to be responsible for the timely filing of the Schedule 13D and any and all amendments thereto and for the completeness and accuracy of
+the information concerning itself contained in the Schedule 13D, and the other Party to the extent it knows or has reason to believe that
+any information about the other Party is inaccurate.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: January&nbsp;13,
+    2025</FONT></TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">CANTOR EP HOLDINGS
+    I, LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="3"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Howard W. Lutnick</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; width: 60%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; width: 4%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 5%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 31%; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Howard
+    W. Lutnick</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title: </FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chairman</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: January&nbsp;13,
+    2025</FONT></TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">CANTOR FITZGERALD,
+    L.P.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Howard W. Lutnick</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Howard
+    W. Lutnick</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title: </FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chairman and Chief Executive
+    Officer</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: January&nbsp;13,
+    2025</FONT></TD>
+    <TD COLSPAN="3" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">CF GROUP MANAGEMENT,
+    INC.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Howard W. Lutnick</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Howard
+    W. Lutnick</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chairman and Chief Executive
+    Officer</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:
+    January&nbsp;13, 2025</FONT></TD>
+    <TD STYLE="vertical-align: top"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1.5pt solid; vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Howard W. Lutnick</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="vertical-align: top; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2" STYLE="vertical-align: bottom; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Howard
+    W. Lutnick</FONT></TD></TR>
+  </TABLE>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

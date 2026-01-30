@@ -1,0 +1,263 @@
+<SEC-DOCUMENT>0001013594-25-000051.txt : 20250121
+<SEC-HEADER>0001013594-25-000051.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121173325
+ACCESSION NUMBER:		0001013594-25-000051
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Endeavor Group Holdings, Inc.
+		CENTRAL INDEX KEY:			0001766363
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				833340169
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92530
+		FILM NUMBER:		25543439
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9601 WILSHIRE BOULEVARD, 3RD FLOOR
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90210
+		BUSINESS PHONE:		(310) 285-9000
+
+	MAIL ADDRESS:	
+		STREET 1:		9601 WILSHIRE BOULEVARD, 3RD FLOOR
+		CITY:			BEVERLY HILLS
+		STATE:			CA
+		ZIP:			90210
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Troluce Capital Advisors LLC
+		CENTRAL INDEX KEY:			0001910321
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				660965888
+		STATE OF INCORPORATION:			PR
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		VISTA PLAZA, CALLE C, LOTS 81-82
+		CITY:			DORADO
+		STATE:			PR
+		ZIP:			00646
+		BUSINESS PHONE:		617-306-1130
+
+	MAIL ADDRESS:	
+		STREET 1:		VISTA PLAZA, CALLE C, LOTS 81-82
+		CITY:			DORADO
+		STATE:			PR
+		ZIP:			00646
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+<headerData>
+<submissionType>SCHEDULE 13G/A</submissionType>
+<previousAccessionNumber>0001013594-24-000891</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0001910321</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+
+
+
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>1</amendmentNo>
+<securitiesClassTitle>Endeavor Group Holdings, Inc.</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>01/17/2025</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0001766363</issuerCik>
+<issuerName>Endeavor Group Holdings, Inc.</issuerName>
+<issuerCusip>29260Y109</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<com:street1>9601 WILSHIRE BOULEVARD, 3RD FLOOR</com:street1>
+<com:city>BEVERLY HILLS</com:city>
+<com:stateOrCountry>CA</com:stateOrCountry>
+<com:zipCode>90210</com:zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Troluce Capital Advisors LLC</reportingPersonName>
+<citizenshipOrOrganization>PR</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>35550000</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>35550000</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>35550000</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>11.5</classPercent>
+<typeOfReportingPerson>OO</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Troluce Special Opportunities II, LP</reportingPersonName>
+<citizenshipOrOrganization>PR</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>26550000</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>26550000</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>26550000</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>8.6</classPercent>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Troluce Nexus Fund LP</reportingPersonName>
+<citizenshipOrOrganization>E9</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>9000000</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>9000000</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>9000000</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>2.9</classPercent>
+<typeOfReportingPerson>PN</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<coverPageHeaderReportingPersonDetails>
+
+<reportingPersonName>Jared R. Dubin</reportingPersonName>
+<citizenshipOrOrganization>X1</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>0</soleVotingPower>
+<sharedVotingPower>35550000</sharedVotingPower>
+<soleDispositivePower>0</soleDispositivePower>
+<sharedDispositivePower>35550000</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>35550000</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>11.5</classPercent>
+<typeOfReportingPerson>IN</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>Endeavor Group Holdings, Inc.</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>9601 WILSHIRE BOULEVARD, 3RD FLOOR, BEVERLY HILLS, California, 90210</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>Troluce Special Opportunities II, LP, a Delaware limited partnership ("Special Opportunities II"); &#13;
+&#13;
+Troluce Nexus Fund LP, a Cayman Islands exempted limited partnership ("Nexus Fund");&#13;
+&#13;
+Troluce Capital Advisors, LLC, a Puerto Rico limited liability company ("Troluce Capital"); and&#13;
+&#13;
+Jared R. Dubin, a United States citizen ("Mr. Dubin").</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>The principal business address of each of the Reporting Persons is Vista Plaza, Suite 204, Calle C, Lots 81-82, Dorado, PR 00646.</principalBusinessOfficeOrResidenceAddress>
+<citizenship>Special Opportunities II is a Delaware limited partnership. Nexus Fund is a Cayman Islands exempted limited partnership. Troluce Capital is a Puerto Rico limited liability company. Mr. Dubin is a citizen of the United States.</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>Y</notApplicableFlag>
+</item3>
+<item4>
+<amountBeneficiallyOwned>As of January 21, 2025, Special Opportunities II beneficially owned 26,550,000 shares of Common Stock.&#13;
+&#13;
+As of January 21, 2025, Nexus Fund beneficially owned 9,000,000 shares of Common Stock.&#13;
+&#13;
+Troluce Capital, as the investment manager of Special Opportunities II and Nexus Fund, may be deemed to have beneficially owned 35,550,000 shares of Common Stock, comprised of the 26,550,000 shares of Common Stock beneficially owned by Special Opportunities II and the 9,000,000 shares of Common Stock beneficially owned by Nexus Fund.&#13;
+&#13;
+Mr. Dubin, as the managing member of Troluce Capital,  may be deemed to have beneficially owned the 35,550,000 shares of Common Stock beneficially owned by Troluce Capital.</amountBeneficiallyOwned>
+<classPercent>The following percentage is based on 308,175,511 shares of Common Stock outstanding as of October 31, 2024, as disclosed in the Issuer's Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on November 7, 2024.&#13;
+&#13;
+As of January 21, 2025, the Reporting Persons may be deemed to have beneficially owned approximately the following percentage of the outstanding Common Stock: 11.5</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>See Cover Pages Items 5-8.</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>See Cover Pages Items 5-8.</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>See Cover Pages Items 5-8.</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>See Cover Pages Items 5-8.</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>Y</notApplicableFlag>
+</item5>
+<item6>
+<notApplicableFlag>Y</notApplicableFlag>
+</item6>
+<item7>
+<notApplicableFlag>Y</notApplicableFlag>
+</item7>
+<item8>
+<notApplicableFlag>N</notApplicableFlag>
+<identificationAndClassificationOfGroupMembers>See Exhibit A to the Schedule 13G filed by the Reporting Persons on November 1, 2024.</identificationAndClassificationOfGroupMembers>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>Troluce Capital Advisors LLC</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Jared R. Dubin</signature>
+<title>Troluce Capital Advisors LLC</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Troluce Special Opportunities II, LP</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Jared R. Dubin</signature>
+<title>Troluce Special Opportunities II, LP</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Troluce Nexus Fund LP</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Jared R. Dubin</signature>
+<title>Troluce Nexus Fund LP</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signatureInformation>
+<signatureInformation>
+<reportingPersonName>Jared R. Dubin</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Jared R. Dubin</signature>
+<title>Jared R. Dubin</title>
+<date>01/21/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

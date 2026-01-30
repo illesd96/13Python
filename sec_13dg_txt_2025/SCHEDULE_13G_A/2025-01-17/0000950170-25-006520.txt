@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0000950170-25-006520.txt : 20250117
+<SEC-HEADER>0000950170-25-006520.hdr.sgml : 20250117
+<ACCEPTANCE-DATETIME>20250117115251
+ACCESSION NUMBER:		0000950170-25-006520
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CION Ares Diversified Credit Fund
+		CENTRAL INDEX KEY:			0001678124
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-92736
+		FILM NUMBER:		25537699
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 PARK AVENUE
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-418-4700
+
+	MAIL ADDRESS:	
+		STREET 1:		100 PARK AVENUE
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHWESTERN MUTUAL LIFE INSURANCE CO
+		CENTRAL INDEX KEY:			0000073076
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				390509570
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		720 E WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		4142992508
+
+	MAIL ADDRESS:	
+		STREET 1:		720 EAST WISCONSIN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<headerData>
+<submissionType>SCHEDULE 13G/A</submissionType>
+<previousAccessionNumber>0001193125-23-179540</previousAccessionNumber>
+<filerInfo>
+<filer>
+<filerCredentials>
+<cik>0000073076</cik>
+<ccc>XXXXXXXX</ccc>
+</filerCredentials>
+</filer>
+<liveTestFlag>LIVE</liveTestFlag>
+</filerInfo>
+</headerData>
+<formData>
+<coverPageHeader>
+<amendmentNo>2</amendmentNo>
+<securitiesClassTitle>Series K Mandatory Redeemable Preferred Shares (PPN 17260GA*4)</securitiesClassTitle>
+<eventDateRequiresFilingThisStatement>01/15/2025</eventDateRequiresFilingThisStatement>
+<issuerInfo>
+<issuerCik>0001678124</issuerCik>
+<issuerName>CION Ares Diversified Credit Fund</issuerName>
+<issuerCusip>17260GA04</issuerCusip>
+<issuerPrincipalExecutiveOfficeAddress>
+<street1 xmlns="http://www.sec.gov/edgar/common">100 PARK AVENUE, 25TH FLOOR</street1>
+<city xmlns="http://www.sec.gov/edgar/common">NEW YORK</city>
+<stateOrCountry xmlns="http://www.sec.gov/edgar/common">NY</stateOrCountry>
+<zipCode xmlns="http://www.sec.gov/edgar/common">10017</zipCode>
+</issuerPrincipalExecutiveOfficeAddress>
+</issuerInfo>
+<designateRulesPursuantThisScheduleFiled>
+<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+</designateRulesPursuantThisScheduleFiled>
+</coverPageHeader>
+<coverPageHeaderReportingPersonDetails>
+<reportingPersonName>The Northwestern Mutual Life Insurance Company</reportingPersonName>
+<memberGroup>b</memberGroup>
+<citizenshipOrOrganization>WI</citizenshipOrOrganization>
+<reportingPersonBeneficiallyOwnedNumberOfShares>
+<soleVotingPower>6040000</soleVotingPower>
+<sharedVotingPower>0</sharedVotingPower>
+<soleDispositivePower>6040000</soleDispositivePower>
+<sharedDispositivePower>0</sharedDispositivePower>
+</reportingPersonBeneficiallyOwnedNumberOfShares>
+<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>6040000</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+<aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+<classPercent>0</classPercent>
+<typeOfReportingPerson>IC</typeOfReportingPerson>
+</coverPageHeaderReportingPersonDetails>
+<items>
+<item1>
+<issuerName>CION Ares Diversified Credit Fund</issuerName>
+<issuerPrincipalExecutiveOfficeAddress>800 Corporate Pointe, Suite 300, Culver City, CA 90230</issuerPrincipalExecutiveOfficeAddress>
+</item1>
+<item2>
+<filingPersonName>The Northwestern Mutual Life Insurance Company</filingPersonName>
+<principalBusinessOfficeOrResidenceAddress>720 East Wisconsin Avenue, Milwaukee, Wisconsin 53202</principalBusinessOfficeOrResidenceAddress>
+<citizenship>Wisconsin</citizenship>
+</item2>
+<item3>
+<notApplicableFlag>N</notApplicableFlag>
+<typeOfPersonFiling>IC</typeOfPersonFiling>
+</item3>
+<item4>
+<amountBeneficiallyOwned>6,040,000 total shares of Series K (PPN 17260GA*4), which encompasses an aggregate amount of the Series F, Series G, Series H, and Series J shares.  All of these shares were acquired in the ordinary course of business, and not with the purpose or effect of changing or influencing control of the Issuer.  The filing of this statement should not be construed as an admission that Northwestern Mutual is, for the purposes of Sections 13 or 16 of the Securities Exchange Act of 1934, the beneficial owner of these shares.</amountBeneficiallyOwned>
+<classPercent>16.41%</classPercent>
+<numberOfSharesPersonHas>
+<solePowerOrDirectToVote>6,040,000</solePowerOrDirectToVote>
+<sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+<solePowerOrDirectToDispose>6,040,000</solePowerOrDirectToDispose>
+<sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+</numberOfSharesPersonHas>
+</item4>
+<item5>
+<notApplicableFlag>Y</notApplicableFlag>
+</item5>
+<item6>
+<notApplicableFlag>N</notApplicableFlag>
+<ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Northwestern Mutual presently holds 6,040,000 shares of Series K (PPN 17260GA*4)of Issuer's Mandatory Redeemable Preferred Shares for the benefit of its general account.  This holding encompasses an aggregate amount of the Series F, Series G, Series H, and Series J shares. All of these shares were acquired in the ordinary course of business, and not with the purpose or effect of changing or influencing control of the Issuer.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+</item6>
+<item7>
+<notApplicableFlag>Y</notApplicableFlag>
+</item7>
+<item8>
+<notApplicableFlag>Y</notApplicableFlag>
+</item8>
+<item9>
+<notApplicableFlag>Y</notApplicableFlag>
+</item9>
+<item10>
+<notApplicableFlag>N</notApplicableFlag>
+<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+</certifications>
+</item10>
+</items>
+<signatureInformation>
+<reportingPersonName>The Northwestern Mutual Life Insurance Company</reportingPersonName>
+<signatureDetails>
+<signature>/s/ Douglas D. Timmer</signature>
+<title>Douglas D. Timmer</title>
+<date>01/17/2025</date>
+</signatureDetails>
+</signatureInformation>
+</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

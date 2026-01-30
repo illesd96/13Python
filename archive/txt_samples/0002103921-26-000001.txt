@@ -1,0 +1,295 @@
+<SEC-DOCUMENT>0002103921-26-000001.txt : 20260115
+<SEC-HEADER>0002103921-26-000001.hdr.sgml : 20260115
+<ACCEPTANCE-DATETIME>20260115131111
+ACCESSION NUMBER:		0002103921-26-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20260115
+DATE AS OF CHANGE:		20260115
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			1stdibs.com, Inc.
+		CENTRAL INDEX KEY:			0001600641
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		ORGANIZATION NAME:           	07 Trade & Services
+		EIN:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93407
+		FILM NUMBER:		26535531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 PARK AVENUE SOUTH
+		STREET 2:		10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+		BUSINESS PHONE:		212-627-3929
+
+	MAIL ADDRESS:	
+		STREET 1:		300 PARK AVENUE SOUTH
+		STREET 2:		10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10010
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sofina Capital S.A.
+		CENTRAL INDEX KEY:			0002103921
+		ORGANIZATION NAME:           	
+		EIN:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		12, RUE LEON LAVAL
+		CITY:			LUXEMBOURG
+		NON US STATE TERRITORY:  	LEUDELANGE
+		PROVINCE COUNTRY:   	N4
+		ZIP:			L-3372
+		BUSINESS PHONE:		00352456192
+
+	MAIL ADDRESS:	
+		ADDRESS IS A NON US LOCATION: 	YES
+		STREET 1:		12, RUE LEON LAVAL
+		CITY:			LUXEMBOURG
+		NON US STATE TERRITORY:  	LEUDELANGE
+		PROVINCE COUNTRY:   	N4
+		ZIP:			L-3372
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0002103921</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>11/14/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001600641</issuerCik>
+        <issuerName>1stdibs.com, Inc.</issuerName>
+        <issuerCusip>320551104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>300 PARK AVENUE SOUTH</com:street1>
+          <com:street2>10TH FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10010</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(d)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Sofina Capital S.A.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>N4</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Sofina SA</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>C9</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>0.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <comments>Sofina SA owns 100% of the shares and voting power of Sofina Ventures SA. </comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>1stdibs.com, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>300 PARK AVENUE SOUTH, 10TH FLOOR, NEW YORK, NEW YORK, 10010</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Sofina Capital S.A. - Sofina SA</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>Sofina Capital S.A. : 12, Rue Leon Laval, L-3372 Leudelange, Grand Duchy of Luxembourg -
+Sofina SA : Rue de lIndustrie 31, 1040 Brussels, Belgium</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Sofina Capital S.A. : Luxembourg
+
+Sofina SA : Belgium </citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>0
+This Schedule 13G is being filed on a late, corrective basis pursuant to Rule 13d-1(d) to (i) report historical beneficial ownership that first became reportable upon the issuer's initial public offering (the IPO) and registration of the subject class, and (ii) report that the reporting persons no longer beneficially own any shares of the issuer's common stock. Prior to the IPO, Sofina Partners S.A. beneficially owned 7,840,708 shares, representing approximately 8.6% of the issuer's outstanding common stock immediately prior to the IPO. Following an internal reorganization, Sofina Partners S.A. merged with and into Sofina Capital S.A., with Sofina Capital S.A. as successor by merger. Sofina SA may be deemed to beneficially own the securities reported herein by virtue of its 100% ownership of Sofina Capital S.A. As of November 14, 2025, the reporting persons beneficially own 0 shares (0.0%) of the issuer's common stock, following sales completed in October and November 2025.</amountBeneficiallyOwned>
+        <classPercent>0.0%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Sofina Capital S.A.</reportingPersonName>
+      <signatureDetails>
+        <signature>Marie Aumann</signature>
+        <title>Attorney-in-fact</title>
+        <date>01/15/2026</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Sofina SA</reportingPersonName>
+      <signatureDetails>
+        <signature>Marie Aumann</signature>
+        <title>Attorney-in-fact</title>
+        <date>01/15/2026</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>jointfilingagreement.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<html>
+<head>
+<title> Enter title of document </title>
+</head>
+<body>
+<pre>
+
+BETWEEN THE UNDERSIGNED:
+1.	Sofina SA, a limited liability company incorporated and existing under the laws of Belgium, having its registered office at Rue de l'Industrie 31, 1040 Brussels, Belgium, and registered with the register of legal entities under number 0403.219.397 ("Sofina"); and
+2.	Sofina Capital S.A., a limited liability company incorporated and existing under the laws of the Grand Duchy of Luxembourg, having its registered office at 12, Rue Leon Laval, L-3372 Leudelange, Grand Duchy of Luxembourg, and registered with the register of legal entities under number B 1.363 ("Sofina Capital")
+Sofina and Sofina Capital are hereinafter referred to as the "Parties", and each a "Party" to this joint filing agreement (the "Agreement").
+IT HAS BEEN AGREED AS FOLLOWS:
+1.	Pursuant to and in accordance with Rule 13d-1(k) promulgated under the U.S. Securities Exchange Act of 1934, as amended (the "Exchange Act"), the Parties agree that the Schedule 13G (including any amendments thereto) relating to the common stock of 1stDibs.com, Inc., a Delaware corporation listed on NASDAQ under the ticker symbol "DIBS", with its principal executive offices at 300 Park Avenue South, 10th Floor, New York, NY 10010, United States, shall be filed jointly on behalf of both Parties in light of the fact that Sofina Capital is a 100% subsidiary of Sofina.
+2.	Each Party shall be responsible for the timely filing of such Schedule 13G and any amendments thereto and for the completeness and accuracy of the information concerning such Party contained therein. No Party shall be responsible for the completeness or accuracy of the information concerning the other Party, except to the extent such Party knows or has reason to believe that such information is inaccurate.
+3.	The Parties hereby designate Sofina Capital as the lead filer and authorize Sofina Capital, acting through its duly authorized signatories and filing agents, to prepare, file, and submit on behalf of both Parties the Schedule 13G and any and all amendments thereto, and to take any other actions that may be necessary or appropriate in connection therewith, including the execution and submission of such filings electronically via EDGAR. Each Party shall promptly provide to the lead filer such information as may be reasonably necessary to complete and submit the filing in a timely manner.
+4.	This Agreement shall be included as an exhibit to the Schedule 13G and to any amendments thereto, as required by Rule 13d-1(k) under the Exchange Act.
+5.	This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument. Signatures delivered by electronic means (including .pdf or other electronic transmission) shall be deemed original signatures for all purposes.
+6.	This Agreement shall remain in effect with respect to the Schedule 13G identified herein (and amendments thereto) unless and until terminated by either Party upon written notice to the other Party, provided that no such termination shall affect any obligation with respect to any filing or amendment the preparation of which has commenced prior to receipt of such notice.
+
+
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<FILENAME>poasofinasa.htm
+<DESCRIPTION>POA SOFINA SA
+<TEXT>
+<html>
+<head>
+<title> Enter title of document </title>
+</head>
+<body>
+<pre>
+
+The undersigned,
+Mr. Wauthier de Bassompierre and Mr. Koen Bauwens,
+Hereby authenticate and acknowledge that we are authorised (i) to submit the Form ID application on behalf of Sofina SA, a limited liability company incorporated and existing under the laws of Belgium, having its registered office at Rue de lIndustrie 31, 1040 Brussels, Belgium, and registered with the register of legal entities under company number 0403.219.397, and (ii) to obtain EDGAR access codes for use in filings with the U.S. Securities and Exchange Commission.
+We hereby confirm that all information contained in this Form ID is true, correct, and complete.
+We hereby give a power of attorney to Ms. Emilie van de Walle de Ghelcke, Mr. Koen Bauwens, Ms. Melissa Belo and Ms. Marie Aumann, acting individually and with the right of substitution, to: prepare, complete and submit any and all filings, amendments, certifications, and related documents required by the U.S. Securities and Exchange Commission, including but not limited to: form ID; filings (including joint filings); exhibits and supporting documentation; use and apply on behalf of Sofina SA any EDGAR access codes (including CIK, CCC, password and PMAC); take any and all actions necessary or desirable in connection with the preparation, signing, and submission of such filings.
+This power of attorney shall remain valid until revoked in writing on behalf of Sofina SA.
+
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<FILENAME>poasofinasapital.htm
+<DESCRIPTION>POA SOFINA CAPITAL S.A.
+<TEXT>
+<html>
+<head>
+<title> Enter title of document </title>
+</head>
+<body>
+<pre>
+
+The undersigned,
+Mr. Wauthier de Bassompierre and Ms. Melissa Belo,
+Hereby authenticate and acknowledge that we are authorised (i) to submit the Form ID application on behalf of Sofina Capital S.A., a limited liability company incorporated and existing under the laws of the Grand Duchy of Luxembourg, having its registered office at 12, Rue Leon Laval, L-3372 Leudelange, Grand Duchy of Luxembourg, and registered with the register of legal entities under number B 1.363, and (ii) to obtain EDGAR access codes for use in filings with the U.S. Securities and Exchange Commission.
+We hereby confirm that all information contained in this Form ID is true, correct, and complete.
+We hereby give a power of attorney to Ms. Emilie van de Walle de Ghelcke, Mr. Koen Bauwens, Ms. Melissa Belo and Ms. Marie Aumann, acting individually and with the right of substitution, to: prepare, complete and submit any and all filings, amendments, certifications, and related documents required by the U.S. Securities and Exchange Commission, including but not limited to: form ID; filings (including joint filings); exhibits and supporting documentation; use and apply on behalf of Sofina Capital S.A. any EDGAR access codes (including CIK, CCC, password and PMAC);take any and all actions necessary or desirable in connection with the preparation, signing, and submission of such filings.
+This power of attorney shall remain valid until revoked in writing on behalf of Sofina Capital S.A.
+
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

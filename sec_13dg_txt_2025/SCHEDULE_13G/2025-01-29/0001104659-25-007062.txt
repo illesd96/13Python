@@ -1,0 +1,515 @@
+<SEC-DOCUMENT>0001104659-25-007062.txt : 20250129
+<SEC-HEADER>0001104659-25-007062.hdr.sgml : 20250129
+<ACCEPTANCE-DATETIME>20250129094603
+ACCESSION NUMBER:		0001104659-25-007062
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20250129
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GSR III Acquisition Corp.
+		CENTRAL INDEX KEY:			0002029023
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94706
+		FILM NUMBER:		25567048
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5900 BALCONES DRIVE, SUITE 100
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78731
+		BUSINESS PHONE:		(914) 369-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		5900 BALCONES DRIVE, SUITE 100
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78731
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Magnetar Financial LLC
+		CENTRAL INDEX KEY:			0001352851
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				043818748
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1603 ORRINGTON AVE.
+		STREET 2:		13TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+		BUSINESS PHONE:		(847)905-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		1603 ORRINGTON AVE.
+		STREET 2:		13TH FLOOR
+		CITY:			EVANSTON
+		STATE:			IL
+		ZIP:			60201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Magnetar Financial LLC -->
+          <cik>0001352851</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.0001</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0002029023</issuerCik>
+        <issuerName>GSR III Acquisition Corp.</issuerName>
+        <issuerCusip>G4R103123</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>5900 Balcones Drive, Suite 100</com:street1>
+          <com:city>Austin</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>78731</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>MAGNETAR FINANCIAL LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1998000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1998000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1998000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.53</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>MAGNETAR CAPITAL PARTNERS LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1998000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1998000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1998000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.53</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>SUPERNOVA MANAGEMENT LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1998000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1998000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1998000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.53</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>DAVID J. SNYDERMAN</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1998000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1998000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1998000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.53</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>GSR III Acquisition Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>5900 Balcones Drive, Suite 100 Austin, TX 78731</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed on behalf of each of the following person (collectively, the "Reporting Persons"):
+i)    Magnetar Financial LLC ("Magnetar Financial");
+ii)   Magnetar Capital Partners LP (Magnetar Capital Partners");
+iii)  Supernova Management LLC ("Supernova Management"); and
+iv)  David J. Snyderman ("Mr. Snyderman").
+
+This statement relates to the Shares (as defined herein) held for Magnetar Constellation Master Fund, Ltd ("Constellation Master Fund"), Magnetar Xing He Master Fund Ltd ("Xing He Master Fund"), Magnetar SC Fund Ltd ("SC Fund"), Purpose Alternative Credit Fund Ltd ("Purpose Credit Fund"), all Cayman Islands exempted companies; Magnetar Structured Credit Fund, LP ("Structured Credit Fund") a Delaware limited partnership; Magnetar Alpha Star Fund LLC ("Alpha Star Fund"), Magnetar Lake Credit Fund LLC ("Lake Credit Fund"), Purpose Alternative Credit Fund - T LLC ("Purpose Credit Fund - T"), all Delaware limited liability companies; collectively (the "Magnetar Funds"). Magnetar Financial serves as the investment adviser to the Magnetar Funds, and as such, Magnetar Financial exercises voting and investment power over the Shares held for the Magnetar Funds' accounts. Magnetar Capital Partners serves as the sole member and parent holding company of Magnetar Financial. Supernova Management is the general partner of Magnetar Capital Partners. The manager of Supernova Management is Mr. Snyderman.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of the principal business office of each of Magnetar Financial, Magnetar Capital Partners, Supernova Management, and Mr. Snyderman is 1603 Orrington Avenue, 13th Floor, Evanston, Illinois 60201.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Place of Organization.
+i)    Magnetar Financial is a Delaware limited liability company;
+ii)   Magnetar Capital Partners is a Delaware limited partnership;
+iii)  Supernova Management is a Delaware limited liability company; and
+iv)  Mr. Snyderman is a citizen of the United States of America.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>As of December 31, 2024, each of Magnetar Financial, Magnetar Capital Partners, Supernova Management and Mr. Snyderman held 1,998,000 Shares.  The amount consists of (A) 459,540 Shares held for the account of Constellation Master Fund; (B) 359,640 Shares held for the account of Lake Credit Fund; (C) 319,680 Shares held for the account of Structured Credit Fund; (D) 299,700 Shares held for the account of Xing He Master Fund; (E) 199,800 Shares held for the account of Alpha Star Fund; (F) 179,820 Shares held for the account of Purpose Credit Fund; (G) 139,860 Shares held for the account of SC Fund; and (H) 39,960 Shares held for the account of Purpose Credit Fund - T.
+
+The Shares held by the Magnetar Funds represent approximately 8.53% of the total number of Shares outstanding (calculated pursuant to Rule 13d-3(d)(1)(i)) of the outstanding shares of the Issuer).</amountBeneficiallyOwned>
+        <classPercent>As of December 31, 2024, each of Reporting Persons were deemed to be the beneficial owner constituting approximately 8.53% of the total number of shares outstanding (based upon the information provided by the Issuer in its Form 10-Q filed with the SEC December 23, 2024, there were approximately 23,422,500 Shares outstanding as of December 23, 2024).</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>1,998,000</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1,998,000</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>99.1 Joint Filing Agreement, dated as of January 29, 2025, among the Reporting Persons.
+99.2 Power of Attorney, dated as of December 22, 2022 filed by the Reporting Persons on January 29, 2025.</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>MAGNETAR FINANCIAL LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Hayley Stein</signature>
+        <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>MAGNETAR CAPITAL PARTNERS LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Hayley Stein</signature>
+        <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>SUPERNOVA MANAGEMENT LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Hayley Stein</signature>
+        <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>DAVID J. SNYDERMAN</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Hayley Stein</signature>
+        <title>Hayley Stein/Attorney-in-fact for David J. Snyderman, Manager of Supernova Management LLC</title>
+        <date>01/29/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>MAGNETAR FINANCIAL LLC BY: Magnetar Capital Partners LP, its Sole Member BY: Supernova Management LLC, its General Partner
+
+MAGNETAR CAPITAL PARTNERS LP By: Supernova Management LLC, its General Partner</signatureComments>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>tm254005d6_ex99-1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">EXHIBIT&nbsp;99.1</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">JOINT
+FILING AGREEMENT</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+undersigned hereby agree that the statement on Schedule 13G with respect to the Shares of </FONT><FONT STYLE="font-size: 10pt">GSR III
+ACQUISITION CORP.. </FONT>dated as of December 31, 2024 is, and any amendments thereto (including amendments on Schedule 13G) signed
+by each of the undersigned shall be, filed on behalf of each of us pursuant to and in accordance with the previsions of Rule13d-1(k)
+under the Securities Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Arial, Helvetica, Sans-Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:&nbsp;&nbsp;January&nbsp;29, 2025</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">magnetar financial
+    llc</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="width: 45%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: Magnetar Capital Partners LP, its Sole
+    Member</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:&nbsp;&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Attorney-in-fact for David J. Snyderman, Manager of
+    Supernova Management LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:&nbsp;&nbsp;January&nbsp;29, 2025</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">magnetar capital
+    partners LP</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:&nbsp;&nbsp;Supernova Management LLC,
+    its General Partner</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Attorney-in-fact for David J. Snyderman, Manager of
+    Supernova Management LLC</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:&nbsp;&nbsp;January&nbsp;29, 2025</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">supernova management
+    llc</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Attorney-in-fact for David J. Snyderman, Manager</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date:&nbsp;&nbsp;January&nbsp;29, 2025</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">DAVID J. SNYDERMAN</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Hayley Stein</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Attorney-in-fact for David J. Snyderman</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"></FONT></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>tm254005d6_ex99-2.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font-size: 10pt; margin: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">EXHIBIT&nbsp;99.2</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>LIMITED
+POWER OF ATTORNEY</B></FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Know
+all by these present, that I, <U>David J. Snyderman</U>, hereby make, constitute and appoint each of <U>Michael Turro</U>, <U>Karl
+Wachter</U> and <U>Hayley Stein</U>, or any of them acting individually, and with full power of substitution, as my true and lawful
+attorney-in-fact for the purpose of executing in my name, (a)&nbsp;in my personal capacity or (b)&nbsp;in my capacity as <U>Manager</U>
+or in other capacities of <U>Supernova Management LLC</U>, a <U>Delaware limited liability company</U>, and each of its affiliates or
+entities advised or controlled by me or <U>Supernova Management LLC</U>, all documents, certificates, instruments, statements, filings
+and agreements (&ldquo;documents&rdquo;) to be filed with or delivered to the United States Securities and Exchange Commission (the &ldquo;SEC&rdquo;)
+pursuant to the Securities and Exchange Act of 1934, as amended (the &ldquo;Act&rdquo;), and the rules&nbsp;and regulations promulgated
+thereunder, including, without limitation, all documents relating to the beneficial ownership of securities required to be filed with
+the SEC pursuant to Section&nbsp;13(d)&nbsp;or Section&nbsp;16(a)&nbsp;of the Act, including, without limitation: (a)&nbsp;any acquisition
+statements on Schedule 13D or Schedule 13G and any amendments thereto, (b)&nbsp;any joint filing agreements pursuant to Rule&nbsp;13d-1(k)&nbsp;under
+the Act, and (c)&nbsp;any initial statements of, or statements of changes in, beneficial ownership of securities on Form&nbsp;3, Form&nbsp;4
+or Form&nbsp;5.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">All
+past acts of the attorney-in-fact in furtherance of the foregoing are hereby ratified and confirmed.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #1f1f1f">This
+Power of Attorney shall remain in full force and effect until the earlier of it being (a)&nbsp;revoked by the undersigned in a signed
+writing delivered to the foregoing attorney-in-fact or (b)&nbsp;superseded by a new power of attorney regarding the purposes outlined
+herein as of a later date</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-indent: 0.5in; color: #1f1f1f"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #1f1f1f">IN
+WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this __22</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #254886">__
+</FONT><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #1f1f1f">day of December, 2022.</FONT></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-indent: 0.5in; color: #1f1f1f"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font-size: 10pt; border-collapse: collapse; width: 100%">
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt; width: 50%"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 50%"><FONT STYLE="font-size: 10pt">/s/
+    David J. Snyderman</FONT></TD></TR>
+  <TR STYLE="font-size: 10pt; vertical-align: bottom">
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">David J. Snyderman</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font-size: 10pt; margin-top: 0; margin-bottom: 0"><FONT STYLE="font-size: 10pt">&nbsp;</FONT></P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

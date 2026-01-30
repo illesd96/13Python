@@ -1,0 +1,704 @@
+<SEC-DOCUMENT>0001623632-25-000027.txt : 20250108
+<SEC-HEADER>0001623632-25-000027.hdr.sgml : 20250108
+<ACCEPTANCE-DATETIME>20250108134631
+ACCESSION NUMBER:		0001623632-25-000027
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20250108
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCYNEXIS INC
+		CENTRAL INDEX KEY:			0001178253
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				562181648
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88127
+		FILM NUMBER:		25517778
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 EVERTRUST PLAZA
+		STREET 2:		13TH FLOOR
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07302-6548
+		BUSINESS PHONE:		201-884-5485
+
+	MAIL ADDRESS:	
+		STREET 1:		1 EVERTRUST PLAZA
+		STREET 2:		13TH FLOOR
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07302-6548
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FEDERATED HERMES, INC.
+		CENTRAL INDEX KEY:			0001056288
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				251111467
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 LIBERTY AVENUE
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+		BUSINESS PHONE:		4122881900
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 LIBERTY AVENUE
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FEDERATED INVESTORS INC /PA/
+		DATE OF NAME CHANGE:	20200130
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FEDERATED HERMES, INC.
+		DATE OF NAME CHANGE:	20200130
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FEDERATED INVESTORS INC /PA/
+		DATE OF NAME CHANGE:	19980219
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001623632-16-002310</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FEDERATED HERMES, INC. -->
+          <cik>0001056288</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>14</amendmentNo>
+      <securitiesClassTitle>COMMON STOCK</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001178253</issuerCik>
+        <issuerName>SCYNEXIS, INC.</issuerName>
+        <issuerCusip>811292200</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>1 Evertrust Plaza, 13th Floor</com:street1>
+          <com:city>Jersey City</com:city>
+          <com:stateOrCountry>NJ</com:stateOrCountry>
+          <com:zipCode>07302-6548</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Federated Hermes, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>PA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>6428250.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>6428250.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>6428250.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.50</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Voting Shares Irrevocable Trust</reportingPersonName>
+      <citizenshipOrOrganization>PA</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>6428250.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>6428250.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>6428250.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.50</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Thomas R. Donahue</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6428250.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6428250.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>6428250.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.50</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Ann C. Donahue</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6428250.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6428250.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>6428250.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.50</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>J. Christopher Donahue</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>6428250.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>6428250.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>6428250.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>15.50</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>SCYNEXIS, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>1 Evertrust Plaza, 13th Floor Jersey City, NJ 07302-6548</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Federated Hermes, Inc.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>1001 Liberty Avenue, Pittsburgh, PA  15222-3779</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Pennsylvania</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>6,428,250</amountBeneficiallyOwned>
+        <classPercent>15.50</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>6,428,250</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>6,428,250</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>N</notApplicableFlag>
+        <subsidiaryIdentificationAndClassification>See Exhibit "1" Attached</subsidiaryIdentificationAndClassification>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.
+
+By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Federated Hermes, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/J. Christopher Donahue</signature>
+        <title>J. Christopher Donahue, as President of Federated Hermes, Inc.</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Voting Shares Irrevocable Trust</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Thomas R. Donahue</signature>
+        <title>Thomas R. Donahue, as Trustee of Voting Shares Irrevocable Trust</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+      <signatureDetails>
+        <signature>/s/Ann C. Donahue</signature>
+        <title>Ann C. Donahue, as Trustee of Voting Shares Irrevocable Trust</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+      <signatureDetails>
+        <signature>/s/J. Christopher Donahue</signature>
+        <title>J. Christopher Donahue, as Trustee of Voting Shares Irrevocable Trust</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Thomas R. Donahue</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Thomas R. Donahue</signature>
+        <title>Thomas R. Donahue</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Ann C. Donahue</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/Ann C. Donahue</signature>
+        <title>Ann C. Donahue</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>J. Christopher Donahue</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/J. Christopher Donahue</signature>
+        <title>J. Christopher Donahue</title>
+        <date>01/08/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>SEE EXHIBITS 2 AND 3 ATTACHED
+
+Exhibit Information
+EXHIBIT 1 ITEM 3 CLASSIFICATION OF REPORTING PERSONS
+EXHIBIT 2 AGREEMENT FOR JOINT FILING OF SCHEDULE 13G
+EXHIBIT 3 POWER OF ATTORNEY</signatureComments>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>scynexisamend14exhibit1.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">EXHIBIT 1</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">ITEM 3 CLASSIFICATION OF REPORTING PERSONS</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">Identity and Classification of Each Reporting
+Person</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Arial, Helvetica, Sans-Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 233.1pt; border: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">IDENTITY</FONT></TD>
+    <TD STYLE="width: 234.4pt; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">CLASSIFICATION UNDER ITEM 3</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Federated Hermes Adviser Series</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(d) Investment company registered under Section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Federated Global Investment Management Corp.</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(e) Investment Adviser registered under Section 203 of the Investment Advisers Act of 1940</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Federated Investment Counseling</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(e) Investment Adviser registered under Section 203 of the Investment Advisers Act of 1940</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Federated Hermes, Inc.</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(g) parent Holding Company or control person, in accordance with Section 240.13d-1(b)(ii)(G)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">FII Holdings, Inc.</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(g) parent Holding Company or control person, in accordance with Section 240.13d-1(b)(ii)(G)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Voting Shares Irrevocable Trust</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(g) parent Holding Company or control person, in accordance with Section 240.13d-1(b)(ii)(G)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Thomas R. Donahue</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(g) parent Holding Company or control person, in accordance with Section 240.13d-1(b)(ii)(G)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Ann C. Donahue</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(g) parent Holding Company or control person, in accordance with Section 240.13d-1(b)(ii)(G)</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">J. Christopher Donahue</FONT></TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(g) parent Holding Company or control person, in accordance with Section 240.13d-1(b)(ii)(G)</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 12pt 0; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">Federated
+Hermes, Inc. (the &#8220;Parent&#8221;) is filing this schedule 13G because it is the parent holding company of Federated Global Investment
+Management Corp. and Federated Investment Counseling (the &#8220;Investment Advisers&#8221;), which acts as investment adviser to registered
+investment companies and separate accounts that own shares of common stock in SCYNEXIS, INC</FONT>. <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt">(the
+&#8220;Reported Securities&#8221;). The Investment Advisers are wholly owned subsidiaries of FII Holdings, Inc., which is wholly owned
+subsidiary of Federated Hermes, Inc., the Parent. All of the Parent&#8217;s outstanding voting stock is held in the Voting Shares Irrevocable
+Trust (the &#8220;Trust&#8221;) for which Thomas R. Donahue, Ann C. Donahue and J. Christopher Donahue act as trustees (collectively,
+the &#8220;Trustees&#8221;). The Trustees have joined in filing this Schedule 13G because of the collective voting control that they exercise
+over the Parent. In accordance with Rule 13d-4 under the Securities Act of 1934, as amended, the Parent, the Trust, and each of the Trustees
+declare that this statement should not be construed as an admission that they are the beneficial owners of the Reported Securities, and
+the Parent, the Trust, and each of the Trustees expressly disclaim beneficial ownership of the Reported Securities.</FONT></P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>scynexisamend14exhibit2.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: center">EXHIBIT 2</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: center">AGREEMENT FOR JOINT FILING OF</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: center">SCHEDULE 13G</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify; text-indent: 0.5in">The following parties hereby
+agree to file jointly the statement on Schedule 13G to which this Agreement is attached and any amendments thereto which may be deemed
+necessary pursuant to Regulation 13D-G under the Securities Exchange Act of 1934:</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-indent: 0.5in">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federated
+Hermes, Inc. as parent holding company of the investment advisers to registered investment companies that beneficially own the securities.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">Voting Shares Irrevocable Trust, as holder of all the voting shares
+of Federated Hermes, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">Thomas R. Donahue, individually and as Trustee</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">Ann C. Donahue, individually and as Trustee</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">J. Christopher Donahue, individually and as Trustee</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify; text-indent: 0.5in">It is understood and agreed
+that each of the parties hereto is responsible for the timely filing of such statement any amendments thereto, and for the completeness
+and accuracy of the information concerning such party contained therein, but such party is not responsible for the completeness or accuracy
+of information concerning the other parties unless such party knows or has reason to believe that such information is incomplete or inaccurate.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify; text-indent: 0.5in">It is understood and agreed
+that the joint filing of Schedule 13G shall not be construed as an admission that the reporting persons named herein constitute a group
+for purposes of Regulation 13D-G of the Securities Exchange Act of 1934, nor is a joint venture for purposes of the Investment Company
+Act of 1940.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">Date: January 8, 2025</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; margin-left: 5.4pt; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 115.85pt; border: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Reporting Person/Group Name:</TD>
+    <TD STYLE="width: 346.25pt; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Federated Hermes, Inc.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/J. Christopher Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title:</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">J. Christopher Donahue, as President of Federated Hermes, Inc.</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Reporting Person/Group Name:</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Voting Shares Irrevocable Trust</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/Thomas R. Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Thomas R. Donahue, as Trustee of Voting Shares Irrevocable Trust</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/Ann C. Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Ann C. Donahue, as Trustee of Voting Shares Irrevocable Trust</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/J. Christopher Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">J. Christopher Donahue, as Trustee of Voting Shares Irrevocable Trust</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; margin-left: 5.4pt; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 115.85pt; border: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Reporting Person/Group Name:</TD>
+    <TD STYLE="width: 346.25pt; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Thomas R. Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/Thomas R. Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Thomas R. Donahue</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; margin-left: 5.4pt; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 115.85pt; border: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Reporting Person/Group Name:</TD>
+    <TD STYLE="width: 346.25pt; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Ann C. Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/Ann C. Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Ann C. Donahue</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; margin-left: 5.4pt; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 115.85pt; border: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Reporting Person/Group Name:</TD>
+    <TD STYLE="width: 346.25pt; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">J. Christopher Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">By (Signature)</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">/s/J. Christopher Donahue</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">Name/Title</TD>
+    <TD STYLE="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-bottom: 12pt; padding-left: 5.4pt">J. Christopher Donahue</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 12pt 0; text-align: justify">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+number of shares indicated represent shares beneficially owned by registered investment companies and separate accounts advised by subsidiaries
+of Federated Hermes, Inc. that have been delegated the power to direct investment and power to vote the securities by the registered investment
+companies&#8217; board of trustees or directors and by the separate accounts&#8217; principals. All of the voting securities of Federated
+Hermes, Inc. are held in the Voting Shares Irrevocable Trust (&#8220;Trust&#8221;), the trustees of which are Thomas R. Donahue, Ann C.
+Donahue and J. Christopher Donahue (&#8220;Trustees&#8221;). In accordance with Rule 13d-4 under the 1934 Act, the Trust, Trustees, and
+parent holding company declare that the filing of this statement should not be construed as an admission that any of the investment advisers,
+parent holding company, Trust, and Trustees are beneficial owners (for the purposes of Sections 13(d) and/or 13(g) of the Act) of any
+securities covered by this statement, and such advisers, parent holding company, Trust, and Trustees expressly disclaim that they are
+the beneficial owners of such securities.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>scynexisamend14exhibit3trd.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">EXHIBIT &ldquo;3&rdquo;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">POWER OF ATTORNEY</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">Each person whose signature appears below constitutes
+and appoints J. Christopher Donahue their true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution
+for them and in their names, place and stead, in any and all capacities, to sign and any and all Schedule 13Ds and/or Schedule 13Gs, and
+any amendments thereto, to be filed with the Securities and Exchange Commission pursuant to Regulation 13D-G of the Securities Exchange
+Act of 1934, as amended, by means of the Securities and Exchange Commission&rsquo;s electronic disclosure system known as EDGAR; and to
+file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting
+unto said attorney-in-fact and agent, full power and authority to sign and perform each and every act and thing requisite and necessary
+to be done in connection therewith, as fully to all intents and purposes as each of them might or could do in person, hereby ratifying
+and confirming all that said attorney-in-fact and agent, or their or his substitute or substitutes, may lawfully do or cause to be done
+by virtue thereof.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">SIGNATURES</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>/s/ Thomas R. Donahue</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Thomas R. Donahue</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">TITLE OR CAPACITY</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Individually and as Trustee of the Voting Shares Irrevocable Trust</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Sworn to and subscribed before me this <U>31<SUP>st</SUP></U> day of <U>March,</U>
+2017.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>/s/ Melissa Lamparski Bamonte</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Notary Public</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Print Name: <U>Melissa Lamparski Bamonte</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">My Commission Expires: <U>February 4, 2018</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">(Notary Stamp)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Commonwealth of Pennsylvania &ndash; Notarial Seal</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Melissa Lamparski Bamonte, Notary Public</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">City of Pittsburgh, Allegheny County</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">My commission expires February 4, 2018</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Member, Pennsylvania Association of Notaries</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>5
+<FILENAME>scynexisamend14exhibit3acd.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">EXHIBIT &ldquo;3&rdquo;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">POWER OF ATTORNEY</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">Each person whose signature appears below constitutes
+and appoints J. Christopher Donahue their true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution
+for them and in their names, place and stead, in any and all capacities, to sign and any and all Schedule 13Ds and/or Schedule 13Gs, and
+any amendments thereto, to be filed with the Securities and Exchange Commission pursuant to Regulation 13D-G of the Securities Exchange
+Act of 1934, as amended, by means of the Securities and Exchange Commission&rsquo;s electronic disclosure system known as EDGAR; and to
+file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting
+unto said attorney-in-fact and agent, full power and authority to sign and perform each and every act and thing requisite and necessary
+to be done in connection therewith, as fully to all intents and purposes as each of them might or could do in person, hereby ratifying
+and confirming all that said attorney-in-fact and agent, or their or his substitute or substitutes, may lawfully do or cause to be done
+by virtue thereof.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">SIGNATURES</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>/s/ Ann C. Donahue</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Ann C. Donahue</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">TITLE OR CAPACITY</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Individually and as Trustee of the Voting Shares Irrevocable Trust</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Sworn to and subscribed before me this <U>10<SUP>th</SUP></U> day of <U>January,</U>
+2023.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"><U>/s/ Deanna L. Marley</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Notary Public</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Print Name: <U>Deanna L. Marley</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">My Commission Expires: <U>June 14, 2024</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">(Notary Stamp)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Commonwealth of Pennsylvania &ndash; Notary Seal</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Deanna L. Marley, Notary Public</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Allegheny County</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">My commission expires June 14, 2024</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Commission number 1102414</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Member, Pennsylvania Association of Notaries</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

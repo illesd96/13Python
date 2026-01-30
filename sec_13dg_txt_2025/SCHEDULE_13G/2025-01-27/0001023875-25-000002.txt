@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001023875-25-000002.txt : 20250127
+<SEC-HEADER>0001023875-25-000002.hdr.sgml : 20250127
+<ACCEPTANCE-DATETIME>20250127121303
+ACCESSION NUMBER:		0001023875-25-000002
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250127
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cable One, Inc.
+		CENTRAL INDEX KEY:			0001632127
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				133060083
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-88908
+		FILM NUMBER:		25556789
+
+	BUSINESS ADDRESS:	
+		STREET 1:		210 E. EARLL DRIVE
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85012
+		BUSINESS PHONE:		602-364-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		210 E. EARLL DRIVE
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85012
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN MUTUAL ADVISERS LLC
+		CENTRAL INDEX KEY:			0001023875
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				223463202
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 JOHN F KENNEDY PARKWAY
+		CITY:			SHORT HILLS
+		STATE:			NJ
+		ZIP:			07078
+		BUSINESS PHONE:		9739122088
+
+	MAIL ADDRESS:	
+		STREET 1:		101 JOHN F KENNEDY PARKWAY
+		CITY:			SHORT HILLS
+		STATE:			NJ
+		ZIP:			07078
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FRANKLIN MUTUAL ADVISERS INC
+		DATE OF NAME CHANGE:	19960928
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: FRANKLIN MUTUAL ADVISERS LLC -->
+          <cik>0001023875</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.01</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001632127</issuerCik>
+        <issuerName>Cable One, Inc.</issuerName>
+        <issuerCusip>12685J105</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>210 E. Earll Drive</com:street1>
+          <com:city>Phoenix</com:city>
+          <com:stateOrCountry>AZ</com:stateOrCountry>
+          <com:zipCode>85012</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Franklin Mutual Advisers, LLC</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>289734.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>306967.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>306967.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>5.5</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Cable One, Inc.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>210 E. Earll Drive, Phoenix, AZ, 85012</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Franklin Mutual Advisers, LLC</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>101 John F. Kennedy Parkway
+Short Hills, NJ 07078-2789</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Delaware</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>306,967</amountBeneficiallyOwned>
+        <classPercent>5.5</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>Franklin Mutual Advisers, LLC:  289,734</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>Franklin Mutual Advisers, LLC:  306,967</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>The clients of Franklin Mutual Advisers, LLC, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or power to direct the receipt of dividends from, and the proceeds from the sale of, the securities reported herein.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit A: Item 4 Ownership
+
+     The securities reported herein are beneficially owned by one or more open end investment companies or other managed accounts that are investment management clients of Franklin Mutual Advisers, LLC ("FMA"), an indirect wholly owned subsidiary of Franklin Resources, Inc. ("FRI"). When an investment management contract (including a sub advisory agreement) delegates to FMA investment discretion or voting power over the securities held in the investment advisory accounts that are subject to that agreement, FRI treats FMA as having sole investment discretion or voting authority, as the case may be, unless the agreement specifies otherwise. Accordingly, FMA reports on Schedule 13G that it has sole investment discretion and voting authority over the securities covered by any such investment management agreement, unless otherwise noted in this Item 4. As a result for purposes of Rule 13d-3 under the Act, FMA may be deemed to be the beneficial owner of the securities reported in this Schedule 13G.
+     Beneficial ownership by investment management subsidiaries and other affiliates of FRI is being reported in conformity with the guidelines articulated by the SEC staff in Release No. 34-39538 (January 12, 1998) relating to organizations, such as FRI, where related entities exercise voting and investment powers over the securities being reported independently from each other. The voting and investment powers held by FMA are exercised independently from FRI (FMA's parent holding company) and from all other investment management subsidiaries of FRI (FRI, its affiliates and investment management subsidiaries other than FMA are, collectively, "FRI affiliates"). Furthermore, internal policies and procedures of FMA and FRI affiliates establish informational barriers that prevent the flow between FMA and the FRI affiliates of information that relates to the voting and investment powers over the securities owned by their respective investment management clients. Consequently, FMA and the FRI affiliates report the securities over which they hold investment and voting power separately from each other for purposes of Section 13 of the Act.
+     Charles B. Johnson and Rupert H. Johnson, Jr. (the "Principal Shareholders") may each own in excess of 10% of the outstanding common stock of FRI and are the principal stockholders of FRI (see FRI's Proxy Statement-Stock Ownership of Certain Beneficial Owners). However, because FMA exercises voting and investment powers on behalf of its investment management clients independently of FRI affiliates, beneficial ownership of the securities reported by FMA is not attributed to the Principal Shareholders. FMA disclaims any pecuniary interest in any of the securities reported in this Schedule 13G.  In addition, the filing of this Schedule 13G on behalf of FMA should not be construed as an admission that it is, and it disclaims that it is, the beneficial owner, as defined in Rule 13d 3, of any of such securities.
+     Furthermore, FMA believes that it is not a "group" with FRI affiliates, the Principal Shareholders, or their respective affiliates within the meaning of Rule 13d 5 under the Act and that none of them is otherwise required to attribute to any other the beneficial ownership of the securities held by such person or by any persons or entities for whom or for which FMA or the FRI affiliates provide investment management services.</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Franklin Mutual Advisers, LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/THOMAS C. MANDIA</signature>
+        <title>Thomas C. Mandia. Assistant Secretary of Franklin Mutual Advisers, LLC</title>
+        <date>01/24/2024</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

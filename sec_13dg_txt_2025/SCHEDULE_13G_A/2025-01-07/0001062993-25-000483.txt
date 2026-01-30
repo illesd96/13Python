@@ -1,0 +1,185 @@
+<SEC-DOCUMENT>0001062993-25-000483.txt : 20250107
+<SEC-HEADER>0001062993-25-000483.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107155726
+ACCESSION NUMBER:		0001062993-25-000483
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACME UNITED CORP
+		CENTRAL INDEX KEY:			0000002098
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				060236700
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-31378
+		FILM NUMBER:		25514781
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 WATERVIEW DRIVE
+		CITY:			SHELTON
+		STATE:			CT
+		ZIP:			06484
+		BUSINESS PHONE:		203-254-6060
+
+	MAIL ADDRESS:	
+		STREET 1:		1 WATERVIEW DRIVE
+		CITY:			SHELTON
+		STATE:			CT
+		ZIP:			06484
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACME SHEAR CO
+		DATE OF NAME CHANGE:	19710713
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			North Star Investment Management Corp.
+		CENTRAL INDEX KEY:			0001342857
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				364467498
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 N. WACKER DRIVE
+		STREET 2:		SUITE # 1416
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		312-580-0900
+
+	MAIL ADDRESS:	
+		STREET 1:		20 N. WACKER DRIVE
+		STREET 2:		SUITE # 1416
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+	<headerData>
+		<submissionType>SCHEDULE 13G/A</submissionType>
+		<previousAccessionNumber>0001342857-07-000020</previousAccessionNumber>
+		<filerInfo>
+			<filer>
+				<filerCredentials>
+					<cik>0001342857</cik>
+					<ccc>XXXXXXXX</ccc>
+				</filerCredentials>
+			</filer>
+			<liveTestFlag>LIVE</liveTestFlag>
+
+
+		</filerInfo>
+	</headerData>
+	<formData>
+		<coverPageHeader>
+			<amendmentNo>23</amendmentNo>
+			<securitiesClassTitle>Common Stock. $2.50 par value</securitiesClassTitle>
+			<eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+			<issuerInfo>
+				<issuerCik>0000002098</issuerCik>
+				<issuerName>Acme United Corporation</issuerName>
+				<issuerCusip>004816104</issuerCusip>
+				<issuerPrincipalExecutiveOfficeAddress>
+					<com:street1>1 Waterview Drive</com:street1>
+					<com:city>Shelton</com:city>
+					<com:stateOrCountry>CT</com:stateOrCountry>
+					<com:zipCode>6484</com:zipCode>
+				</issuerPrincipalExecutiveOfficeAddress>
+			</issuerInfo>
+			<designateRulesPursuantThisScheduleFiled>
+				<designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+			</designateRulesPursuantThisScheduleFiled>
+		</coverPageHeader>
+		<coverPageHeaderReportingPersonDetails>
+
+			<reportingPersonName>North Star Investment Management Corporation</reportingPersonName>
+			<citizenshipOrOrganization>DE</citizenshipOrOrganization>
+			<reportingPersonBeneficiallyOwnedNumberOfShares>
+				<soleVotingPower>172300</soleVotingPower>
+				<sharedVotingPower>127103</sharedVotingPower>
+				<soleDispositivePower>172300</soleDispositivePower>
+				<sharedDispositivePower>127103</sharedDispositivePower>
+			</reportingPersonBeneficiallyOwnedNumberOfShares>
+			<reportingPersonBeneficiallyOwnedAggregateNumberOfShares>299403</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+			<classPercent>8</classPercent>
+			<typeOfReportingPerson>IA</typeOfReportingPerson>
+		</coverPageHeaderReportingPersonDetails>
+		<items>
+			<item1>
+				<issuerName>Acme United Corporation</issuerName>
+				<issuerPrincipalExecutiveOfficeAddress>1 Waterview Drive, , Shelton, CONNECTICUT 6484</issuerPrincipalExecutiveOfficeAddress>
+			</item1>
+			<item2>
+				<filingPersonName>North Star Investment Management Corporation</filingPersonName>
+				<principalBusinessOfficeOrResidenceAddress>20 N. Wacker Drive, Suite 1416
+Chicago, IL 600606</principalBusinessOfficeOrResidenceAddress>
+				<citizenship>USA</citizenship>
+			</item2>
+			<item3>
+				<notApplicableFlag>N</notApplicableFlag>
+				<typeOfPersonFiling>IA</typeOfPersonFiling>
+			</item3>
+			<item4>
+				<amountBeneficiallyOwned>299,403</amountBeneficiallyOwned>
+				<classPercent>8</classPercent>
+				<numberOfSharesPersonHas>
+					<solePowerOrDirectToVote>172,300</solePowerOrDirectToVote>
+					<sharedPowerOrDirectToVote>127,103</sharedPowerOrDirectToVote>
+					<solePowerOrDirectToDispose>172,300</solePowerOrDirectToDispose>
+					<sharedPowerOrDirectToDispose>127,103</sharedPowerOrDirectToDispose>
+				</numberOfSharesPersonHas>
+			</item4>
+			<item5>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item5>
+			<item6>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item6>
+			<item7>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item7>
+			<item8>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item8>
+			<item9>
+				<notApplicableFlag>Y</notApplicableFlag>
+			</item9>
+			<item10>
+				<notApplicableFlag>N</notApplicableFlag>
+				<certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+			</item10>
+		</items>
+		<signatureInformation>
+			<reportingPersonName>North Star Investment Management Corporation</reportingPersonName>
+			<signatureDetails>
+				<signature>/s/ Andrew Eisenberg</signature>
+				<title>Chief Compliance Officer</title>
+				<date>01/07/2025</date>
+			</signatureDetails>
+		</signatureInformation>
+	</formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

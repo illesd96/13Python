@@ -1,0 +1,232 @@
+<SEC-DOCUMENT>0001009012-25-000006.txt : 20250107
+<SEC-HEADER>0001009012-25-000006.hdr.sgml : 20250107
+<ACCEPTANCE-DATETIME>20250107150013
+ACCESSION NUMBER:		0001009012-25-000006
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250107
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GDL FUND
+		CENTRAL INDEX KEY:			0001378701
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-82419
+		FILM NUMBER:		25514554
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+		BUSINESS PHONE:		914-921-5100
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE CORPORATE CENTER
+		CITY:			RYE
+		STATE:			NY
+		ZIP:			10580
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Gabelli Global Deal Fund
+		DATE OF NAME CHANGE:	20061019
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZAZOVE ASSOCIATES LLC
+		CENTRAL INDEX KEY:			0001009012
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				363984373
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 TAHOE BLVD.
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+		BUSINESS PHONE:		77529897500
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 TAHOE BLVD.
+		CITY:			INCLINE VILLAGE
+		STATE:			NV
+		ZIP:			89451
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G/A</submissionType>
+    <previousAccessionNumber>0001009012-24-000004</previousAccessionNumber>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001009012</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <amendmentNo>1</amendmentNo>
+      <securitiesClassTitle>Common Stock</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001378701</issuerCik>
+        <issuerName>GDL FUND</issuerName>
+        <issuerCusip>361570104</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>ONE CORPORATE CENTER</com:street1>
+          <com:street2>ONE CORPORATE CENTER</com:street2>
+          <com:city>RYE</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10580</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>ZAZOVE ASSOCIATES LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>566124.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>566124.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>566124.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>4.8</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Zazove Associates, Inc.</reportingPersonName>
+      <citizenshipOrOrganization>IL</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>566124.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>566124.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>566124.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>4.8</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Gene T. Pretti</reportingPersonName>
+      <citizenshipOrOrganization>NV</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>566124.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>566124.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>566124.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>4.8</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>GDL FUND</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>ONE CORPORATE CENTER, ONE CORPORATE CENTER, RYE, NEW YORK, 10580.</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13G is being filed by Zazove Associates, LLC, a Delaware limited liability company; Zazove Associates, Inc., an Illinois corporation and Gene T. Pretti (referred to collectively as the "Reporting Persons").</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The principal address of the Reporting Persons is 1001 Tahoe Blvd., Incline Village, NV 89451</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Zazove Associates, LLC is organized under the laws of Delaware. Zazove Associates, Inc. is organized under the laws of Illinois. Gene T. Pretti is a citizen of the United States.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+        <typeOfPersonFiling>HC</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>566,124</amountBeneficiallyOwned>
+        <classPercent>4.8</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>566,124</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>566,124</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>N</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>ZAZOVE ASSOCIATES LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>Sam N. Ginocchio</signature>
+        <title>CCO</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Zazove Associates, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>Robert Ryan Shelby</signature>
+        <title>Managing Partner </title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Gene T. Pretti</reportingPersonName>
+      <signatureDetails>
+        <signature>Gene T. Pretti</signature>
+        <title>Individual</title>
+        <date>01/07/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

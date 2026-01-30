@@ -1,0 +1,347 @@
+<SEC-DOCUMENT>0001753926-25-000137.txt : 20250124
+<SEC-HEADER>0001753926-25-000137.hdr.sgml : 20250124
+<ACCEPTANCE-DATETIME>20250124160537
+ACCESSION NUMBER:		0001753926-25-000137
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOUSTON AMERICAN ENERGY CORP
+		CENTRAL INDEX KEY:			0001156041
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				760675953
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-78625
+		FILM NUMBER:		25554183
+
+	BUSINESS ADDRESS:	
+		STREET 1:		801 TRAVIS STREET, SUITE 1425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		7132226966
+
+	MAIL ADDRESS:	
+		STREET 1:		801 TRAVIS STREET SUITE 1425
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3i, LP
+		CENTRAL INDEX KEY:			0001841619
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				843800874
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		874 WALKER ROAD
+		STREET 2:		SUITE C
+		CITY:			DOVER
+		STATE:			DE
+		ZIP:			19904
+		BUSINESS PHONE:		(646) 845-0040
+
+	MAIL ADDRESS:	
+		STREET 1:		140 BROADWAY
+		STREET 2:		38TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: 3i, LP -->
+          <cik>0001841619</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common Stock, par value $0.001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/23/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001156041</issuerCik>
+        <issuerName>Houston American Energy Corp.</issuerName>
+        <issuerCusip>44183U209</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>801 Travis Street, Suite 1425</com:street1>
+          <com:city>Houston</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>77002</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>3i, LP</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1300000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1300000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1300000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.3</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+      <comments>As more fully described in Item 4 of this statement on Schedule 13G (this ''Schedule 13G''), such shares and percentage are based on 15,686,533 shares of common stock, par value $0.001 per share, of the issuer (the ''Common Stock'') outstanding, as disclosed in the prospectus supplement of the issuer, dated January 22, 2025, to the registration statement on Form S-3, as amended (File No. 333-282778), declared effective by the U.S. Securities and Exchange Commission on November 4, 2024 (the ''Prospectus Supplement'').</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>3i Management LLC</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1300000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1300000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1300000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.3</classPercent>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+      <comments>As more fully described in Item 4 of this Schedule 13G, such shares and percentage are based on 15,686,533 shares of Common Stock outstanding, as disclosed in the Prospectus Supplement.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Maier Joshua Tarlow</reportingPersonName>
+      <memberGroup>a</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>1300000.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>1300000.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>1300000.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>8.3</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+      <comments>As more fully described in Item 4 of this Schedule 13G, such shares and percentage are based on 15,686,533 shares of Common Stock outstanding, as disclosed in the Prospectus Supplement.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Houston American Energy Corp.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>801 Travis Street, Suite 1425, Houston, TX 77002</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>(i) 3i, LP, a Delaware limited partnership ("3i"); (ii) 3i Management LLC, a Delaware limited liability company ("3i Management''); and (iii) Maier Joshua Tarlow ("Mr. Tarlow"). The foregoing persons are hereinafter sometimes collectively referred to as the "Reporting Persons". Any disclosures herein with respect to persons other than the Reporting Persons are made on information and belief after making inquiry to the appropriate party. The Reporting Persons have entered into a Joint Filing Agreement, a copy of which is filed as Exhibit 1 to this Schedule 13G, pursuant to which they have agreed to file this Schedule 13G and all subsequent amendments jointly in accordance with the provisions of Rule 13d-1(k) of the Act. The filing of this Schedule 13G should not be construed in and of itself as an admission by any Reporting Person as to beneficial ownership of the shares of common stock, par value $0.001 per share, of the issuer (the "Common Stock") reported herein.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>2 Wooster Street, 2nd Floor, New York, NY 10013.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>3i is a Delaware limited partnership. 3i Management is a Delaware limited liability company. Mr. Tarlow is a citizen of the United States.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by this item with respect to each Reporting Person is set forth in Rows 5 through 9 and 11 of the cover pages to this Schedule 13G and is incorporated herein by reference for each such Reporting Person. The ownership percentages reported are based on (i) 15,686,533 shares of Common Stock outstanding, as disclosed in the prospectus supplement of the issuer, dated January 22, 2025, to the registration statement on Form S-3 (File No. 333-282778), declared effective by the U.S. Securities and Exchange Commission on November 4, 2024, and (ii) 1,300,000 shares of Common Stock held by 3i (the "Shares").
+
+3i is the beneficial owner of the Shares and has the power to dispose of and the power to vote the Shares beneficially owned by it, which power may be exercised by 3i Management, the manager and general partner of 3i. Mr. Tarlow, as the manager of 3i Management, has shared power to vote and/or dispose of the Shares beneficially owned by each of 3i and 3i Management. Mr. Tarlow does not directly own the Shares. By reason of the provisions of Rule 13d-3 of the Act, Mr. Tarlow may be deemed to beneficially own the Shares beneficially owned by 3i and 3i Management, and 3i Management may be deemed to beneficially own the Shares beneficially owned by 3i.</amountBeneficiallyOwned>
+        <classPercent>8.3</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>3i: 0.00 3i Management: 0.00 Mr. Tarlow: 0.00</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>3i: 1,300,000.00 3i Management: 1,300,000.00 Mr. Tarlow: 1,300,000.00</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>3i: 0.00 3i Management: 0.00 Mr. Tarlow: 0.00</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>3i: 1,300,000.00 3i Management: 1,300,000.00 Mr. Tarlow: 1,300,000.00</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>N</notApplicableFlag>
+        <identificationAndClassificationOfGroupMembers>See Exhibit 1 filed herewith.</identificationAndClassificationOfGroupMembers>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>3i, LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ 3i, LP</signature>
+        <title>Maier Joshua Tarlow, Manager of 3i Management LLC, General Partner of 3i, LP</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>3i Management LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ 3i Management LLC</signature>
+        <title>Maier Joshua Tarlow, Manager</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Maier Joshua Tarlow</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Maier Joshua Tarlow</signature>
+        <title>Maier Joshua Tarlow</title>
+        <date>01/24/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>Exhibit 1</signatureComments>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>g084671_ex1.htm
+<DESCRIPTION>EX-1
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right"><B>EXHIBIT 1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: right; text-indent: 0.25in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>JOINT FILING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>PURSUANT TO RULE 13d-1(k)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The undersigned acknowledge and agree that the foregoing
+statement on Schedule 13G is filed on behalf of each of the undersigned and that all subsequent amendments to this statement on Schedule
+13G shall be filed on behalf of each of the undersigned without the necessity of filing additional joint filing agreements. The undersigned
+acknowledge that each shall be responsible for the timely filing of such amendments, and for the completeness and accuracy of the information
+concerning him or it contained herein and therein, but shall not be responsible for the completeness and accuracy of the information concerning
+the others, except to the extent that he or it knows or has reason to believe that such information is inaccurate. The undersigned hereby
+further agree that this Joint Filing Agreement may be executed in any number of counterparts, each of which when so executed shall be
+deemed to be an original, but all of which counterparts shall together constitute one and the same instrument.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Date: January 24, 2025</FONT></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>3i, LP</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 53%">&nbsp;</TD>
+    <TD STYLE="width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 46%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">By: 3i Management LLC,</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;its General Partner</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Maier Joshua Tarlow</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name: Maier Joshua Tarlow</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title: Manager</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt"><B>3i Management LLC</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Maier Joshua Tarlow</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Name: Maier Joshua Tarlow</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">Title: Manager</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid"><FONT STYLE="font-size: 10pt">/s/ Maier Joshua Tarlow</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+        <P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P></TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Maier Joshua Tarlow</FONT></TD></TR>
+  </TABLE>
+
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="border-bottom: Black 1pt solid; width: 33%">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo --><!-- Field: /Sequence --></TD><TD STYLE="border-bottom: Black 1pt solid; width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

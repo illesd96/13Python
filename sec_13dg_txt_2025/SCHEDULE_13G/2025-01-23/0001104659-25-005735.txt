@@ -1,0 +1,376 @@
+<SEC-DOCUMENT>0001104659-25-005735.txt : 20250123
+<SEC-HEADER>0001104659-25-005735.hdr.sgml : 20250123
+<ACCEPTANCE-DATETIME>20250123212057
+ACCESSION NUMBER:		0001104659-25-005735
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250123
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAPA JOHNS INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000901491
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		ORGANIZATION NAME:           	07 Trade & Services
+		IRS NUMBER:				611203323
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-44487
+		FILM NUMBER:		25551440
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2002 PAPA JOHNS BOULEVARD
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40299-2334
+		BUSINESS PHONE:		5022617272
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 99900
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40269-9990
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Citadel Securities GP LLC
+		CENTRAL INDEX KEY:			0001721695
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				822115505
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SOUTHEAST FINANCIAL CENTER
+		STREET 2:		200 S. BISCAYNE BLVD., SUITE 3300
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+		BUSINESS PHONE:		305-929-6851
+
+	MAIL ADDRESS:	
+		STREET 1:		SOUTHEAST FINANCIAL CENTER
+		STREET 2:		200 S. BISCAYNE BLVD., SUITE 3300
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33131
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Citadel Securities GP LLC -->
+          <cik>0001721695</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Common stock, par value $0.01 per share (the "Shares")</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/15/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0000901491</issuerCik>
+        <issuerName>PAPA JOHN'S INTERNATIONAL, INC.</issuerName>
+        <issuerCusip>698813102</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>2002 Papa John's Boulevard</com:street1>
+          <com:city>Louisville</com:city>
+          <com:stateOrCountry>KY</com:stateOrCountry>
+          <com:zipCode>40299</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Citadel Securities GP LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>885105.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>885105.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>885105.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.7</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+      <comments>The percentages reported in this Schedule 13G are based upon 32,641,623 Shares outstanding as of November 1, 2024 (according to the issuer's Form 10-Q as filed with the Securities and Exchange Commission on November 7, 2024). Except as described in the preceding sentence, all Shares for the holdings of the reporting persons reported in this Schedule 13G are as of the opening of the market on January 23, 2025.</comments>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Citadel Securities LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>598125.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>598125.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>598125.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>1.8</classPercent>
+      <typeOfReportingPerson>BD</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Citadel Securities Group LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>885105.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>885105.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>885105.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.7</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Citadel Advisors LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>48.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>48.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>48.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Citadel Advisors Holdings LP</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>48.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>48.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>48.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Citadel GP LLC</reportingPersonName>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>48.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>48.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>48.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>0.0</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>OO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Kenneth Griffin</reportingPersonName>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>885153.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>885153.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>885153.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>2.7</classPercent>
+      <typeOfReportingPerson>HC</typeOfReportingPerson>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>PAPA JOHN'S INTERNATIONAL, INC.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>2002 Papa John's Boulevard Louisville, KY, 40299</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This Schedule 13G is being jointly filed by Citadel Securities GP LLC ("CSGP"), Citadel Securities LLC ("Citadel Securities"), Citadel Securities Group LP ("CALC4"), Citadel Advisors LLC ("Citadel Advisors"), Citadel Advisors Holdings LP ("CAH"), Citadel GP LLC ("CGP"), and Mr. Kenneth Griffin (collectively with CSGP, Citadel Securities, CALC4, Citadel Advisors, CAH, and CGP, the "Reporting Persons") with respect to the Shares of the above-named issuer owned by Citadel Securities, Citadel Securities Principal Strategies LLC, a Delaware limited liability company ("CSP"), and Citadel Clearing LLC, a Delaware limited liability company ("CCLC").  Such owned Shares may include other instruments exercisable for or convertible into Shares.
+
+CALC4 is the non-member manager of Citadel Securities and CSP. CSGP is the general partner of CALC4.  Citadel Advisors is the portfolio manager for CLP Holdings Six LLC, a Delaware limited liability company ("CLP6").  CAH is the sole member of Citadel Advisors.  CLP6 is the portfolio manager for CCLC.  CGP is the general partner of CAH.    Mr. Griffin is the President and Chief Executive Officer of CGP, and owns a controlling interest in CGP and CSGP.
+
+The filing of this statement shall not be construed as an admission that any of the Reporting Persons is the beneficial owner of any securities covered by the statement other than the securities actually owned by such person (if any).</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of each of the Reporting Persons is Southeast Financial Center, 200 S. Biscayne Blvd., Suite 3300, Miami, Florida 33131.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Each of CSGP, Citadel Securities, Citadel Advisors, and CGP is organized as a limited liability company under the laws of the State of Delaware. Each of CALC4 and CAH is organized as a limited partnership under the laws of the State of Delaware. Mr. Griffin is a U.S. citizen.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>1. Citadel Securities LLC may be deemed to beneficially own 598,125 Shares.
+
+2. Each of Citadel Securities Group LP and Citadel Securities GP LLC may be deemed to beneficially own 885,105 Shares.
+
+3. Each of Citadel Advisors LLC, Citadel Advisors Holdings LP and Citadel GP LLC may be deemed to beneficially own 48 Shares
+
+4. Mr. Griffin may be deemed to beneficially own 885,153 Shares.</amountBeneficiallyOwned>
+        <classPercent>1. The number of Shares that Citadel Securities LLC may be deemed to beneficially own constitutes 1.8% of the Shares outstanding.
+
+2. The number of Shares that each of Citadel Securities Group LP and Citadel Securities GP LLC may be deemed to beneficially own constitutes 2.7% of the Shares outstanding.
+
+3. The number of Shares that each of Citadel Advisors LLC, Citadel Advisors Holdings LP and Citadel GP LLC may be deemed to beneficially own constitutes 0.0% of the Shares outstanding.
+
+4. The number of Shares that Mr. Griffin may be deemed to beneficially own constitutes 2.7% of the Shares outstanding.</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>1. Citadel Securities LLC: 0
+
+2. Each of Citadel Securities Group LP and Citadel Securities GP LLC: 0
+
+3. Each of Citadel Advisors LLC, Citadel Advisors Holdings LP and Citadel GP LLC: 0
+
+4. Mr. Griffin: 0</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>1. Citadel Securities LLC: 598,125
+
+2. Each of Citadel Securities Group LP and Citadel Securities GP LLC: 885,105
+
+3. Each of Citadel Advisors LLC, Citadel Advisors Holdings LP and Citadel GP LLC: 48
+
+4. Mr. Griffin: 885,153</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>1. Citadel Securities LLC: 0
+
+2. Each of Citadel Securities Group LP and Citadel Securities GP LLC: 0
+
+3. Each of Citadel Advisors LLC, Citadel Advisors Holdings LP and Citadel GP LLC: 0
+
+4. Mr. Griffin: 0</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>1. Citadel Securities LLC: 598,125
+
+2. Each of Citadel Securities Group LP and Citadel Securities GP LLC: 885,105
+
+3. Each of Citadel Advisors LLC, Citadel Advisors Holdings LP and Citadel GP LLC: 48
+
+4. Mr. Griffin: 885,153</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>N</notApplicableFlag>
+        <classOwnership5PercentOrLess>Y</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Citadel Securities GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Guy Miller</signature>
+        <title>Guy Miller, Authorized Signatory</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Citadel Securities LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Guy Miller</signature>
+        <title>Guy Miller, Authorized Signatory</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Citadel Securities Group LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Guy Miller</signature>
+        <title>Guy Miller, Authorized Signatory</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Citadel Advisors LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Seth Levy</signature>
+        <title>Seth Levy, Authorized Signatory</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Citadel Advisors Holdings LP</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Seth Levy</signature>
+        <title>Seth Levy, Authorized Signatory</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Citadel GP LLC</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Seth Levy</signature>
+        <title>Seth Levy, Authorized Signatory</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Kenneth Griffin</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Seth Levy</signature>
+        <title>Seth Levy, attorney-in-fact*</title>
+        <date>01/23/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureComments>* Seth Levy is signing on behalf of Kenneth Griffin as attorney-in-fact pursuant to a power of attorney previously filed with the Securities and Exchange Commission, and hereby incorporated by reference herein.  The power of attorney was filed as an attachment to a filing by Citadel Advisors LLC on Schedule 13G for Allakos Inc. on October 13, 2023.</signatureComments>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

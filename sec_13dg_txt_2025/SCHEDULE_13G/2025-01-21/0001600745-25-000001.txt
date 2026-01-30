@@ -1,0 +1,208 @@
+<SEC-DOCUMENT>0001600745-25-000001.txt : 20250121
+<SEC-HEADER>0001600745-25-000001.hdr.sgml : 20250121
+<ACCEPTANCE-DATETIME>20250121175526
+ACCESSION NUMBER:		0001600745-25-000001
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250121
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Beneficient
+		CENTRAL INDEX KEY:			0001775734
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				721573705
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-94091
+		FILM NUMBER:		25543482
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 N. SAINT PAUL STREET
+		STREET 2:		SUITE 4850
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2144454705
+
+	MAIL ADDRESS:	
+		STREET 1:		325 N. SAINT PAUL STREET
+		STREET 2:		SUITE 4850
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Beneficient Co Group, L.P.
+		DATE OF NAME CHANGE:	20190503
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hatteras Investment Partners, LP
+		CENTRAL INDEX KEY:			0001600745
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				463765543
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8510 COLONNADE CENTER DRIVE
+		STREET 2:		SUITE 150
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27615
+		BUSINESS PHONE:		9198462324
+
+	MAIL ADDRESS:	
+		STREET 1:		8510 COLONNADE CENTER DRIVE
+		STREET 2:		SUITE 150
+		CITY:			RALEIGH
+		STATE:			NC
+		ZIP:			27615
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hatteras Funds, LP
+		DATE OF NAME CHANGE:	20161114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hatteras Funds, LLC
+		DATE OF NAME CHANGE:	20140812
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Scotland Acquisition, LLC
+		DATE OF NAME CHANGE:	20140221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001600745</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Beneficient Class A common stock, par value $0.001 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>12/31/2024</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001775734</issuerCik>
+        <issuerName>Beneficient</issuerName>
+        <issuerCusip>08178Q309</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>325 N. SAINT PAUL STREET</com:street1>
+          <com:street2>SUITE 4850</com:street2>
+          <com:city>DALLAS</com:city>
+          <com:stateOrCountry>TX</com:stateOrCountry>
+          <com:zipCode>75201</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(b)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+      <reportingPersonName>Hatteras Investment Partners, LP</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>562749.00</soleVotingPower>
+        <sharedVotingPower>0.00</sharedVotingPower>
+        <soleDispositivePower>562749.00</soleDispositivePower>
+        <sharedDispositivePower>0.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>562749.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <classPercent>6.9</classPercent>
+      <typeOfReportingPerson>IA</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Beneficient</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>325 N. SAINT PAUL STREET, SUITE 4850, DALLAS, TEXAS, 75201</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>Hatteras Investment Partners, LP</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>8510 Colonnade Center Drive, Suite 150
+Raleigh, NC 27615</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Hatteras Investment Partners, LP is a Delaware limited partnership</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>N</notApplicableFlag>
+        <typeOfPersonFiling>IA</typeOfPersonFiling>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>562749</amountBeneficiallyOwned>
+        <classPercent>6.9%</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>562749</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>0</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>562749</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>0
+
+The securities reported herein are beneficially owned by one or more registered investment companies or other discretionary advisory clients of Hatteras Investment Partners, LP. When an investment management contract delegates to Hatteras Investment Partners, LP investment discretion or voting power over the securities held in the investment advisory accounts that are subject to that agreement, Hatteras Investment Partners, LP considers itself to have sole investment or voting authority, as the case may be, unless the agreement specifies otherwise. Accordingly,
+
+Hatteras Investment Partners, LP reports on SCHEDULE 13G/A that it has sole investment discretion and voting authority over the securities covered by any such investment management agreement, unless otherwise noted in this Item 4. As a result, for purposes of Rule 13d-3 under the Act, Hatteras Investment Partners, LP may be deemed to be the beneficial owner of the securities reported in this SCHEDULE 13G/A. Hatteras Investment Partners, LP disclaims beneficial ownership of these securities except to the extent of its pecuniary interest therein, if any.
+</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+        <classOwnership5PercentOrLess>N</classOwnership5PercentOrLess>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Clients of Hatteras Investment Partners, LP, including an investment company registered under the Investment Company Act of 1940 and other discretionary accounts, have the right to receive or power to direct the receipt of distributions from, and the proceeds from the sale of, the securities reported herein. Hatteras Master Fund, LP, an investment company registered under the Investment Company Act of 1940, has an interest in 5.7% of the class of securities reported herein.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under &amp;#167; 240.14a-11.
+
+</certifications>
+      </item10>
+    </items>
+    <signatureInformation>
+      <reportingPersonName>Hatteras Investment Partners, LP</reportingPersonName>
+      <signatureDetails>
+        <signature>David B. Perkins</signature>
+        <title>Chief Executive Officer</title>
+        <date>01/21/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

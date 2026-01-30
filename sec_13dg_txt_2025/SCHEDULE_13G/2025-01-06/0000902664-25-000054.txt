@@ -1,0 +1,353 @@
+<SEC-DOCUMENT>0000902664-25-000054.txt : 20250106
+<SEC-HEADER>0000902664-25-000054.hdr.sgml : 20250106
+<ACCEPTANCE-DATETIME>20250106161014
+ACCESSION NUMBER:		0000902664-25-000054
+CONFORMED SUBMISSION TYPE:	SCHEDULE 13G
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20250106
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Entera Bio Ltd.
+		CENTRAL INDEX KEY:			0001638097
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-90847
+		FILM NUMBER:		25511167
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KIRYAT HADASSAH, MINRAV BUILDING
+		STREET 2:		FIFTH FLOOR
+		CITY:			JERUSALEM
+		STATE:			L3
+		ZIP:			9112002
+		BUSINESS PHONE:		972-2-532-7151
+
+	MAIL ADDRESS:	
+		STREET 1:		KIRYAT HADASSAH, MINRAV BUILDING
+		STREET 2:		FIFTH FLOOR
+		CITY:			JERUSALEM
+		STATE:			L3
+		ZIP:			9112002
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Point72 Asset Management, L.P.
+		CENTRAL INDEX KEY:			0001603466
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				465064661
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SCHEDULE 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		72 CUMMINGS POINT ROAD
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+		BUSINESS PHONE:		203-890-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		72 CUMMINGS POINT ROAD
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06902
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SCHEDULE 13G
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/schedule13g" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>SCHEDULE 13G</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <!-- Field: Pseudo-Tag; ID: Name; Data: Point72 Asset Management, L.P. -->
+          <cik>0001603466</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPageHeader>
+      <securitiesClassTitle>Ordinary shares, par value NIS 0.0000769 per share</securitiesClassTitle>
+      <eventDateRequiresFilingThisStatement>01/03/2025</eventDateRequiresFilingThisStatement>
+      <issuerInfo>
+        <issuerCik>0001638097</issuerCik>
+        <issuerName>Entera Bio Ltd.</issuerName>
+        <issuerCusip>M40527109</issuerCusip>
+        <issuerPrincipalExecutiveOfficeAddress>
+          <com:street1>KIRYAT HADASSAH, MINRAV BUILDING</com:street1>
+          <com:street2>FIFTH FLOOR</com:street2>
+          <com:city>JERUSALEM</com:city>
+          <com:stateOrCountry>L3</com:stateOrCountry>
+          <com:zipCode>9112002</com:zipCode>
+        </issuerPrincipalExecutiveOfficeAddress>
+      </issuerInfo>
+      <designateRulesPursuantThisScheduleFiled>
+        <designateRulePursuantThisScheduleFiled>Rule 13d-1(c)</designateRulePursuantThisScheduleFiled>
+      </designateRulesPursuantThisScheduleFiled>
+    </coverPageHeader>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Point72 Asset Management, L.P.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2701560.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2701560.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2701560.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.8</classPercent>
+      <typeOfReportingPerson>PN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Point72 Capital Advisors, Inc.</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>DE</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2701560.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2701560.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2701560.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.8</classPercent>
+      <typeOfReportingPerson>CO</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <coverPageHeaderReportingPersonDetails>
+
+
+      <reportingPersonName>Steven A. Cohen</reportingPersonName>
+      <memberGroup>b</memberGroup>
+      <citizenshipOrOrganization>X1</citizenshipOrOrganization>
+      <reportingPersonBeneficiallyOwnedNumberOfShares>
+        <soleVotingPower>0.00</soleVotingPower>
+        <sharedVotingPower>2701560.00</sharedVotingPower>
+        <soleDispositivePower>0.00</soleDispositivePower>
+        <sharedDispositivePower>2701560.00</sharedDispositivePower>
+      </reportingPersonBeneficiallyOwnedNumberOfShares>
+      <reportingPersonBeneficiallyOwnedAggregateNumberOfShares>2701560.00</reportingPersonBeneficiallyOwnedAggregateNumberOfShares>
+      <aggregateAmountExcludesCertainSharesFlag>N</aggregateAmountExcludesCertainSharesFlag>
+      <classPercent>6.8</classPercent>
+      <typeOfReportingPerson>IN</typeOfReportingPerson>
+    </coverPageHeaderReportingPersonDetails>
+    <items>
+      <item1>
+        <issuerName>Entera Bio Ltd.</issuerName>
+        <issuerPrincipalExecutiveOfficeAddress>KIRYAT HADASSAH, MINRAV BUILDING FIFTH FLOOR JERUSALEM L3 9112002</issuerPrincipalExecutiveOfficeAddress>
+      </item1>
+      <item2>
+        <filingPersonName>This statement is filed by: (i) Point72 Asset Management, L.P. ("Point72 Asset Management") with respect to the ordinary shares, par value NIS 0.0000769 per share ("Ordinary Shares"), of Entera Bio Ltd. (the "Issuer") held by Point72 Associates, LLC, an investment fund it manages ("Point72 Associates"); (ii) Point72 Capital Advisors, Inc. ("Point72 Capital Advisors Inc.") with respect to Ordinary Shares held by Point72 Associates; and (iii) Steven A. Cohen ("Mr. Cohen") with respect to Ordinary Shares beneficially owned by Point72 Asset Management and Point72 Capital Advisors Inc.
+
+Cubist Systematic Strategies, LLC, an advisor under common control with Point72 Asset Management, acts as a sub-advisor with respect to a portion of the Ordinary Shares reported herein.
+
+Point72 Asset Management, Point72 Capital Advisors Inc., and Mr. Cohen have entered into a Joint Filing Agreement, a copy of which is filed with this Schedule 13G as Exhibit 99.1, pursuant to which they have agreed to file this Schedule 13G jointly in accordance with the provisions of Rule 13d-1(k) of the Act.</filingPersonName>
+        <principalBusinessOfficeOrResidenceAddress>The address of the principal business office of Point72 Asset Management, Point72 Capital Advisors Inc., and Mr. Cohen is 72 Cummings Point Road, Stamford, CT 06902.</principalBusinessOfficeOrResidenceAddress>
+        <citizenship>Point72 Asset Management is a Delaware limited partnership. Point72 Capital Advisors Inc. is a Delaware corporation.  Mr. Cohen is a United States citizen.</citizenship>
+      </item2>
+      <item3>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item3>
+      <item4>
+        <amountBeneficiallyOwned>The information required by Item 4(a) is set forth in Row 9 of the cover page for each of the Reporting Persons and is incorporated herein by reference. Such information is as of the close of business on January 3, 2025.
+
+Point72 Asset Management, Point72 Capital Advisors Inc., and Mr. Cohen own directly no Ordinary Shares. Pursuant to an investment management agreement, Point72 Asset Management maintains investment and voting power with respect to the securities held by Point72 Associates. Point72 Capital Advisors Inc. is the general partner of Point72 Asset Management.  Mr. Cohen controls each of Point72 Asset Management and Point72 Capital Advisors Inc.  The filing of this statement should not be construed as an admission that any of the foregoing persons or any Reporting Person is, for the purposes of Section 13 of the Act, the beneficial owner of the Ordinary Shares reported herein.
+
+The aggregate percentage of the Ordinary Shares reported to be beneficially owned by each Reporting Person is based on 39,532,220 Ordinary Shares outstanding which is the sum of: (i) 36,832,220 Ordinary Shares outstanding as of November 4, 2024, as reported in the Issuer's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024, filed with the Securities and Exchange Commission on November 8, 2024; and (ii) 2,700,000 Ordinary Shares purchased by Point72 Associates in the at the market offering by the Issuer.</amountBeneficiallyOwned>
+        <classPercent>6.8</classPercent>
+        <numberOfSharesPersonHas>
+          <solePowerOrDirectToVote>The information required by Item 4(c)(i) is set forth in Row 5 of the cover page for each of the Reporting Persons and is incorporated herein by reference. Such information is as of the close of business on January 3, 2025.</solePowerOrDirectToVote>
+          <sharedPowerOrDirectToVote>The information required by Item 4(c)(ii) is set forth in Row 6 of the cover page for each of the Reporting Persons and is incorporated herein by reference. Such information is as of the close of business on January 3, 2025.</sharedPowerOrDirectToVote>
+          <solePowerOrDirectToDispose>The information required by Item 4(c)(iii) is set forth in Row 7 of the cover page for each of the Reporting Persons and is incorporated herein by reference. Such information is as of the close of business on January 3, 2025.</solePowerOrDirectToDispose>
+          <sharedPowerOrDirectToDispose>The information required by Item 4(c)(iv) is set forth in Row 8 of the cover page for each of the Reporting Persons and is incorporated herein by reference. Such information is as of the close of business on January 3, 2025.</sharedPowerOrDirectToDispose>
+        </numberOfSharesPersonHas>
+      </item4>
+      <item5>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item5>
+      <item6>
+        <notApplicableFlag>N</notApplicableFlag>
+        <ownershipMoreThan5PercentOnBehalfOfAnotherPerson>Point72 Associates has the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, more than 5 percent of the outstanding Ordinary Shares.</ownershipMoreThan5PercentOnBehalfOfAnotherPerson>
+      </item6>
+      <item7>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item7>
+      <item8>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item8>
+      <item9>
+        <notApplicableFlag>Y</notApplicableFlag>
+      </item9>
+      <item10>
+        <notApplicableFlag>N</notApplicableFlag>
+        <certifications>By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.</certifications>
+      </item10>
+    </items>
+    <exhibitInfo>Exhibit 99.1: Joint Filing Agreement</exhibitInfo>
+    <signatureInformation>
+      <reportingPersonName>Point72 Asset Management, L.P.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Jason M. Colombo</signature>
+        <title>Jason M. Colombo, Authorized Person</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Point72 Capital Advisors, Inc.</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Jason M. Colombo</signature>
+        <title>Jason M. Colombo, Authorized Person</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+    <signatureInformation>
+      <reportingPersonName>Steven A. Cohen</reportingPersonName>
+      <signatureDetails>
+        <signature>/s/ Jason M. Colombo</signature>
+        <title>Jason M. Colombo, Authorized Person</title>
+        <date>01/06/2025</date>
+      </signatureDetails>
+    </signatureInformation>
+  </formData>
+
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>p25-0023exhibit99_1.htm
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">EXHIBIT 99.1</P>
+
+<P STYLE="font: bold 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: center">JOINT ACQUISITION STATEMENT<BR>
+PURSUANT TO RULE 13d-1(k)</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify; text-indent: 0.5in">The undersigned acknowledge
+and agree that the foregoing statement on Schedule 13G is filed on behalf of each of the undersigned and that all subsequent amendments
+to this statement on Schedule 13G shall be filed on behalf of each of the undersigned without the necessity of filing additional joint
+filing agreements. The undersigned acknowledge that each shall be responsible for the timely filing of such amendments, and for the completeness
+and accuracy of the information concerning him or it contained herein and therein, but shall not be responsible for the completeness and
+accuracy of the information concerning the others, except to the extent that he or it knows or has reason to believe that such information
+is inaccurate.</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">Date: January 6, 2025</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%"><B>POINT72 ASSET MANAGEMENT, L.P.</B></TD>
+    <TD STYLE="width: 50%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid">&nbsp;/s/ Jason M. Colombo</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Name:&#9;Jason M. Colombo</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Title:&#9;Authorized Person</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="text-transform: uppercase"><B>POINT72 CAPITAL ADVISORS, INC.</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid">/s/ Jason M. Colombo</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Name:&#9;Jason M. Colombo</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Title:&#9;Authorized Person</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="text-transform: uppercase"><B>STEVEN A. COHEN</B></FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="border-bottom: Black 1pt solid">&nbsp;/s/ Jason M. Colombo</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Name:&#9;Jason M. Colombo</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>Title:&#9;Authorized Person</TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
